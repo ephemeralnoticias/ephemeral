@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-11-11",
+  "numero": 1,
+  "minutos": 5,
+  "titular": "El día, en cinco minutos.",
+  "entradilla": "Siete noticias verificadas y sin opinión. Si alguna te interesa, ábrela: cada una guarda su versión larga.",
+  "dato": {
+    "seccion": "economia",
+    "cifra": "4,9%",
+    "frase": "Tu compra cuesta casi un 5% más que hace un año.",
+    "detalle": "Inflación de octubre en España (dato adelantado), la más alta desde febrero de 2023. Fuente: INE."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "España para 24 horas por la vivienda y los salarios",
+      "resumen": "CCOO, UGT y los sindicatos de inquilinas convocan la primera huelga general desde 2012, a dos días de que arranque la campaña del 29N.",
+      "porque": "medirá la movilización social justo antes de votar.",
+      "mas": "Renfe mantiene el 73% de los trenes de alta velocidad y larga distancia y el 65% de media distancia. El PP la considera una huelga electoral y el PSOE sostiene que va contra la oposición. Las manifestaciones serán por la tarde en las principales ciudades.",
+      "minutosMas": 3,
+      "fuentes": [
+        { "nombre": "Euronews", "url": "https://es.euronews.com/2026/10/07/huelga-general-vivienda-espana-11-noviembre-ccoo-ugt" },
+        { "nombre": "Moncloa.com", "url": "https://www.moncloa.com/2026/11/10/huelga-general-ourense-11n-servicios-minimos-3465091/" },
+        { "nombre": "Infobae", "url": "https://www.infobae.com/espana/2026/11/10/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-huelga-general-y-el-funeral-por-las-victimas-de-urda/" }
+      ]
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El PP presenta su programa para el 29N",
+      "resumen": "Auditoría de todo el gasto público en 100 días, más de 300.000 millones en obras a 15 años y un plan para un millón de viviendas.",
+      "porque": "las encuestas le dan ganador, pero necesitaría a Vox para gobernar.",
+      "mas": "Es el primer gran partido que publica su programa completo. El PSOE abre campaña el viernes en Pamplona y el resto de partidos presentará sus propuestas durante la campaña, que arranca a las 00:00 del viernes 13.",
+      "minutosMas": 3,
+      "fuentes": [
+        { "nombre": "Infobae", "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/" },
+        { "nombre": "El Progreso/EFE", "url": "https://elprogreso.es/articulo/espana/directo-elecciones-generales/202611090915532012782.html" }
+      ]
+    },
+    {
+      "seccion": "economia",
+      "titulo": "La inflación no baja del 4,9%",
+      "resumen": "El IPC de octubre repite el nivel más alto desde 2023. La energía, ligada a la guerra con Irán, es la principal causa.",
+      "porque": "aprieta salarios, pensiones e hipotecas.",
+      "mas": "La inflación subyacente, que excluye energía y alimentos frescos, está en el 3,1%. El Banco Central Europeo mantuvo los tipos en el 2,50% en octubre y decidirá el 17 de diciembre si vuelve a subirlos.",
+      "minutosMas": 2,
+      "fuentes": [
+        { "nombre": "INE", "url": "https://www.ine.es/dyngs/Prensa/adIPC1026.pdf" },
+        { "nombre": "BCE", "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.es.html" }
+      ]
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "El petróleo cae por debajo de 90 dólares",
+      "resumen": "Trump aparca nuevos ataques contra Irán y el Brent marca su precio más bajo desde agosto.",
+      "porque": "si dura, abaratará la luz y los carburantes en las próximas semanas.",
+      "mas": "Acumula una caída de alrededor del 22% desde el máximo de 118 dólares del 30 de octubre. Estados Unidos mantiene el bloqueo naval en Ormuz y los riesgos para el transporte de crudo siguen ahí.",
+      "minutosMas": 2,
+      "fuentes": [
+        { "nombre": "Perfil", "url": "https://www.perfil.com/economia/el-petroleo-baja-a-us90-por-primera-vez-desde-agosto-y-las-bolsas-mundiales-suben-frente-a-un-posible-acuerdo-entre-eeuu-e-iran-abwiR5w4U3dM" },
+        { "nombre": "ADVFN", "url": "https://mx.advfn.com/noticias-de-mercado/article/10109/precios-del-petroleo-continuan-a-la-baja-tras-decision-de-trump-de-posponer-nuevos-ataques-contra-iran" }
+      ]
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Nvidia investiga a su consejero delegado",
+      "resumen": "El consejo del mayor fabricante de chips para IA analiza si Jensen Huang fue objetivo de una operación de inteligencia extranjera.",
+      "porque": "Nvidia mueve las bolsas de todo el mundo.",
+      "mas": "La acción cayó más de un 4% el lunes. La empresa presenta resultados el 17 de noviembre y el caso añade escrutinio a los controles de exportación de chips a China.",
+      "minutosMas": 2,
+      "fuentes": [
+        { "nombre": "Investing.com", "url": "https://es.investing.com/news/stock-market-news/nvidia-esta-ante-la-mayor-crisis-de-su-historia-que-vigilar-y-que-esperar-3920505" },
+        { "nombre": "DF", "url": "https://www.df.cl/primer-click/el-repunte-de-los-mercados-se-desacelera-a-la-espera-de-reporte-de" }
+      ]
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Toledo despide a las 69 víctimas de Urda",
+      "resumen": "Los Reyes asistieron a la misa funeral en la catedral. La investigación sobre el choque de trenes sigue abierta.",
+      "porque": "el accidente ya ha costado el cargo al ministro de Transportes y al presidente de Adif.",
+      "mas": "Se investiga un fallo del sistema de señalización LZB y la orden de reanudar la marcha dada desde el control de Adif. La Fiscalía Europea revisa además fondos de la UE destinados a esa línea.",
+      "minutosMas": 3,
+      "fuentes": [
+        { "nombre": "EFE/Infobae", "url": "https://www.infobae.com/espana/agencias/2026/11/10/los-reyes-asisten-este-martes-a-la-misa-funeral-por-las-victimas-del-accidente-de-urda/" },
+        { "nombre": "Telemadrid", "url": "https://www.telemadrid.es/programas/120-minutos/reyes-asisten-martes-funeral-victimas_1_2804540.html" }
+      ]
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "La selección juega el jueves en Chequia",
+      "resumen": "El partido se emite en La 1 el jueves por la noche, en la víspera del arranque de la campaña electoral.",
+      "porque": "es una de las grandes citas televisivas de la semana.",
+      "mas": "Tras el partido, La 1 emite una entrevista al presidente del Gobierno en El perro andaluz, horas antes de que empiece oficialmente la campaña.",
+      "minutosMas": 1,
+      "fuentes": [
+        { "nombre": "Vibras en Corte", "url": "https://vibrasencorte.es/television/pedro-sanchez-entrevista-manu-sanchez-el-perro-andaluz/" }
+      ]
+    }
+  ],
+  "bulo": {
+    "titulo": "Las encuestas de TikTok que dan ganador al PSOE el 29N no son actuales",
+    "texto": "Circulan sondeos antiguos presentados como nuevos y gráficos generados con IA. Las encuestas publicadas este mes por los institutos sitúan al PP en primer lugar.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/tag/elecciones-generales-29n",
+    "nota": "Desde el 24 de noviembre no se pueden publicar encuestas"
+  }
+}
