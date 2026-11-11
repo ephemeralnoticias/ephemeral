@@ -1,0 +1,706 @@
+{
+  "actualizado": "2026-11-11",
+  "votacion": "2026-11-29T09:00:00+01:00",
+  "porque": {
+    "titulo": "Por qué votamos ahora",
+    "texto": "El 2 de octubre, el Congreso tumbó dos decretos de vivienda del Gobierno con los votos de PP, Vox y Junts. El 5, Sánchez disolvió las Cortes, ocho meses antes de lo previsto. La derrota no le obligaba a convocar: la legislatura llevaba un año sin mayoría estable desde que Junts rompió con el Gobierno, y termina sin Presupuestos propios.",
+    "enlace": "resumen-2026.html#espana",
+    "fuentes": [
+      {
+        "nombre": "Zaragozala",
+        "url": "https://zaragozala.com/actualidad/elecciones-generales-2026-29-noviembre/"
+      },
+      {
+        "nombre": "BBC Mundo",
+        "url": "https://www.teletica.com/bbc-mundo/por-que-pedro-sanchez-decidio-convocar-elecciones-anticipadas-en-espana_418631"
+      }
+    ]
+  },
+  "calendario": [
+    {
+      "fecha": "2026-10-06",
+      "texto": "El BOE publica la convocatoria"
+    },
+    {
+      "fecha": "2026-11-13",
+      "texto": "Empieza la campaña (00:00)"
+    },
+    {
+      "fecha": "2026-11-16",
+      "texto": "Cara a cara Sánchez-Feijóo"
+    },
+    {
+      "fecha": "2026-11-19",
+      "texto": "Último día para pedir el voto por correo"
+    },
+    {
+      "fecha": "2026-11-24",
+      "texto": "Desde hoy no se publican encuestas"
+    },
+    {
+      "fecha": "2026-11-25",
+      "texto": "Último día para enviar el voto por correo"
+    },
+    {
+      "fecha": "2026-11-28",
+      "texto": "Jornada de reflexión"
+    },
+    {
+      "fecha": "2026-11-29",
+      "texto": "Votación, desde las 9:00"
+    },
+    {
+      "fecha": "2026-12-23",
+      "texto": "Se constituyen las nuevas Cortes"
+    }
+  ],
+  "calendarioFuentes": [
+    {
+      "nombre": "La Moncloa (decreto)",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20261005-referencia-convocatoria-elecciones.aspx"
+    },
+    {
+      "nombre": "La Moncloa (voto por correo)",
+      "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx"
+    },
+    {
+      "nombre": "La Moncloa (guía del 29N)",
+      "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/Paginas/guia-dudas-elecciones-generales-29n.aspx"
+    },
+    {
+      "nombre": "Web oficial: 29neleccionesgenerales.es",
+      "url": "https://29neleccionesgenerales.es"
+    }
+  ],
+  "encuestas": {
+    "titulo": "La media de las encuestas",
+    "nota": "Media de 11 institutos calculada por Demócrata a 7 de noviembre. Una encuesta es una estimación con margen de error, no un resultado.",
+    "fuente": {
+      "nombre": "Demócrata",
+      "url": "https://www.democrata.es/elecciones-generales-espana/herramientas/"
+    },
+    "datos": [
+      {
+        "partido": "PP",
+        "valor": 31.0,
+        "color": "#1D84CE"
+      },
+      {
+        "partido": "PSOE",
+        "valor": 26.2,
+        "color": "#E30613"
+      },
+      {
+        "partido": "Vox",
+        "valor": 19.5,
+        "color": "#63BE21"
+      },
+      {
+        "partido": "Frente Amplio",
+        "valor": 6.6,
+        "color": "#E34A2B"
+      },
+      {
+        "partido": "ERC",
+        "valor": 2.4,
+        "color": "#FFB232"
+      },
+      {
+        "partido": "SALF",
+        "valor": 2.2,
+        "color": "#4A4F57"
+      },
+      {
+        "partido": "Podemos",
+        "valor": 2.1,
+        "color": "#6B2C6E"
+      },
+      {
+        "partido": "Junts",
+        "valor": 1.4,
+        "color": "#00C3B2"
+      }
+    ]
+  },
+  "partidos": [
+    {
+      "id": "pp",
+      "nombre": "PP",
+      "candidato": "Alberto Núñez Feijóo",
+      "estado": "Programa completo publicado el 10 de noviembre (249 medidas)",
+      "color": "#1D84CE"
+    },
+    {
+      "id": "psoe",
+      "nombre": "PSOE",
+      "candidato": "Pedro Sánchez",
+      "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
+      "color": "#E30613"
+    },
+    {
+      "id": "vox",
+      "nombre": "Vox",
+      "candidato": "Santiago Abascal",
+      "lema": "Es sentido común",
+      "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
+      "color": "#63BE21"
+    },
+    {
+      "id": "fa",
+      "nombre": "Frente Amplio",
+      "candidato": "Ada Colau",
+      "lema": "Un voto como una casa",
+      "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
+      "color": "#E34A2B"
+    },
+    {
+      "id": "salf",
+      "nombre": "SALF",
+      "candidato": "Luis «Alvise» Pérez",
+      "estado": "Sin programa para el 29N: propuestas presentadas en octubre de 2025",
+      "color": "#4A4F57"
+    },
+    {
+      "id": "podemos",
+      "nombre": "Podemos",
+      "candidato": "Irene Montero",
+      "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
+      "color": "#6B2C6E"
+    }
+  ],
+  "temas": [
+    {
+      "id": "vivienda",
+      "nombre": "Vivienda"
+    },
+    {
+      "id": "economia",
+      "nombre": "Impuestos y economía"
+    },
+    {
+      "id": "trabajo",
+      "nombre": "Pensiones y trabajo"
+    },
+    {
+      "id": "inmigracion",
+      "nombre": "Inmigración"
+    },
+    {
+      "id": "estado",
+      "nombre": "Estado y corrupción"
+    },
+    {
+      "id": "mundo",
+      "nombre": "Europa y defensa"
+    }
+  ],
+  "propuestas": {
+    "pp": {
+      "vivienda": {
+        "texto": "Construir al menos un millón de viviendas. Rebajar del 10% al 4% el IVA y el impuesto de transmisiones de la primera vivienda para jóvenes y bonificarles el IRPF sus primeros años de trabajo. Alquiler en suelo público un 30% por debajo del mercado. Licencias concedidas si la Administración no responde en 90 días. Desalojo de okupas en 48 horas.",
+        "fuentes": [
+          {
+            "nombre": "Brainsre",
+            "url": "https://brainsre.news/?p=316467"
+          },
+          {
+            "nombre": "Contrato con España",
+            "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+          }
+        ]
+      },
+      "economia": {
+        "texto": "Revisar «una a una» las más de 100 subidas de impuestos de los últimos años y bajar impuestos. Auditar todo el gasto público en los primeros 100 días. Más de 300.000 millones en infraestructuras durante 15 años, con dinero privado.",
+        "fuentes": [
+          {
+            "nombre": "Contrato con España",
+            "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+          },
+          {
+            "nombre": "Infobae",
+            "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/"
+          }
+        ]
+      },
+      "trabajo": {
+        "texto": "Actualizar las pensiones con el IPC y garantizarlo también a los jóvenes, dentro del Pacto de Toledo. Subir el salario medio con más productividad y que trabajar compense más que cobrar subsidios.",
+        "fuentes": [
+          {
+            "nombre": "Contrato con España",
+            "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+          }
+        ]
+      },
+      "inmigracion": {
+        "texto": "Reducir la inmigración irregular, abrir vías legales para quien venga a trabajar, endurecer el acceso a la nacionalidad y aprobar una ley que prohíba las regularizaciones colectivas.",
+        "fuentes": [
+          {
+            "nombre": "Contrato con España",
+            "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+          }
+        ]
+      },
+      "estado": {
+        "texto": "Que los jueces elijan a los jueces del CGPJ. Presupuestos cada año y elecciones obligatorias si se prorrogan más de una vez. Menos ministerios, altos cargos y asesores. Que cada cargo responda por la corrupción de sus subordinados.",
+        "fuentes": [
+          {
+            "nombre": "Contrato con España",
+            "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+          }
+        ]
+      },
+      "mundo": {
+        "texto": "Recuperar alianzas en la Unión Europea, Hispanoamérica y con los aliados históricos de España.",
+        "fuentes": [
+          {
+            "nombre": "Contrato con España",
+            "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+          }
+        ]
+      }
+    },
+    "psoe": {
+      "vivienda": {
+        "texto": "Desarrollar el Plan Estatal de Vivienda 2026-2030 (7.000 millones) y la empresa pública Casa 47, que recibirá suelo e inmuebles de la Seguridad Social. Préstamos ICO sin intereses de hasta 50.000 euros para la entrada de la primera vivienda. Un impuesto del 25% a las socimis residenciales que no se dediquen al alquiler asequible. Mantener los decretos de alquiler.",
+        "fuentes": [
+          {
+            "nombre": "Brainsre",
+            "url": "https://brainsre.news/?p=316467"
+          },
+          {
+            "nombre": "Euronews",
+            "url": "https://es.euronews.com/2026/10/06/gobierno-rescata-decretos-ley-vivienda-plan-10000-millones-primera-compra"
+          }
+        ]
+      },
+      "economia": {
+        "texto": "Defiende el paquete que el Gobierno reeditó tras convocar elecciones: un fondo de 10.000 millones en préstamos ICO, deducciones de hasta 1.000 euros en el IRPF para inquilinos con rentas medias y un IVA del 10% para los pisos turísticos.",
+        "fuentes": [
+          {
+            "nombre": "Euronews",
+            "url": "https://es.euronews.com/2026/10/06/gobierno-rescata-decretos-ley-vivienda-plan-10000-millones-primera-compra"
+          }
+        ]
+      },
+      "trabajo": {
+        "texto": "Blindar en la Constitución la revalorización de las pensiones y subir el salario mínimo cada año.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/politica/sanchez-promete-blindar-pensiones-y-subir-el-smi-cada-ano-y-reclama-votar-en-masa-para-llegar-mucho-mas-lejos/"
+          }
+        ]
+      },
+      "inmigracion": {
+        "texto": "No ha anunciado una propuesta nueva en precampaña. Su Gobierno aprobó en abril una regularización extraordinaria para unas 500.000 personas.",
+        "vacio": true,
+        "fuentes": [
+          {
+            "nombre": "Ministerio de Inclusión",
+            "url": "https://www.inclusion.gob.es/w/el-gobierno-aprueba-la-regularizacion-administrativa-extraordinaria-de-personas-migrantes-que-ya-residen-en-espana"
+          }
+        ]
+      },
+      "estado": {
+        "texto": "No ha anunciado una propuesta concreta en precampaña.",
+        "vacio": true,
+        "fuentes": []
+      },
+      "mundo": {
+        "texto": "Se opone a elevar el gasto en defensa al 5% del PIB y defiende que España tome sus propias decisiones.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/politica/sanchez-promete-blindar-pensiones-y-subir-el-smi-cada-ano-y-reclama-votar-en-masa-para-llegar-mucho-mas-lejos/"
+          }
+        ]
+      }
+    },
+    "vox": {
+      "vivienda": {
+        "texto": "Derogar la Ley de Vivienda. Eliminar los impuestos de compra de la primera vivienda y recuperar la deducción por vivienda en el IRPF. Liberalizar suelo y acortar plazos. Recuperación inmediata de la vivienda en caso de impago y desalojo de okupas en 24 horas. «Prioridad nacional»: los españoles, primero en vivienda protegida y ayudas.",
+        "fuentes": [
+          {
+            "nombre": "Brainsre",
+            "url": "https://brainsre.news/?p=316467"
+          },
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/elecciones-generales-espana/vox-lleva-29n-su-receta-economica-con-rebajas-fiscales-recorte-gasto-reforma-pensiones/"
+          }
+        ]
+      },
+      "economia": {
+        "texto": "IRPF con 22.000 euros exentos y solo dos tramos: 15% hasta 70.000 euros y 25% por encima, con 4 puntos menos por cada hijo. Bajar los impuestos de la luz y los carburantes. Financiarlo recortando subvenciones y organismos. El Gobierno estima su coste en 46.000 millones.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/elecciones-generales-espana/vox-lleva-29n-su-receta-economica-con-rebajas-fiscales-recorte-gasto-reforma-pensiones/"
+          }
+        ]
+      },
+      "trabajo": {
+        "texto": "Pasar a un sistema de pensiones mixto: el actual de reparto más una parte de capitalización individual, con el modelo sueco como referencia.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/elecciones-generales-espana/vox-lleva-29n-su-receta-economica-con-rebajas-fiscales-recorte-gasto-reforma-pensiones/"
+          }
+        ]
+      },
+      "inmigracion": {
+        "texto": "«Remigración» (la salida del país de determinados inmigrantes) y «prioridad nacional» en el acceso a ayudas y servicios públicos.",
+        "fuentes": [
+          {
+            "nombre": "Qué!",
+            "url": "https://www.que.es/2026/10/12/precampana-vox-29n-abascal/"
+          }
+        ]
+      },
+      "estado": {
+        "texto": "Desregulación: eliminar normas y organismos que considera superfluos y suprimir obligaciones como los planes de igualdad o el registro horario en las empresas.",
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2026/06/27/plan-desregularizacion-vox-milei-elecciones-2027/"
+          }
+        ]
+      },
+      "mundo": {
+        "texto": "No ha anunciado una propuesta concreta para estas elecciones.",
+        "vacio": true,
+        "fuentes": []
+      }
+    },
+    "fa": {
+      "vivienda": {
+        "texto": "Una ley para expropiar viviendas a grandes propietarios corporativos, por fases: primero a los de más de 1.000 viviendas, luego a los de más de 700 y por último a los de más de 50. No afectaría a particulares ni familias que alquilan.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/actualidad/frente-amplio-promete-expropiar-viviendas-fondos-buitre-elevar-impuestos-grandes-fortunas/"
+          },
+          {
+            "nombre": "Artículo 14",
+            "url": "https://www.articulo14.es/politica/ada-colau-candidata-de-frente-amplio-para-el-29n-si-de-mi-depende-los-fondos-buitre-seran-expulsados-de-este-pais-20261108.html"
+          }
+        ]
+      },
+      "economia": {
+        "texto": "Un impuesto a los patrimonios de más de un millón de euros, con tipos del 2% y el 3% para los mayores; calculan que recaudaría más de 10.000 millones al año. Más impuestos a las grandes empresas.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/actualidad/frente-amplio-promete-expropiar-viviendas-fondos-buitre-elevar-impuestos-grandes-fortunas/"
+          }
+        ]
+      },
+      "trabajo": {
+        "texto": "Subir el salario mínimo; el ministro Ernest Urtasun, que va en sus listas, pidió hacerlo antes del 29N.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/actualidad/frente-amplio-promete-expropiar-viviendas-fondos-buitre-elevar-impuestos-grandes-fortunas/"
+          }
+        ]
+      },
+      "inmigracion": {
+        "texto": "No ha anunciado una propuesta concreta en precampaña.",
+        "vacio": true,
+        "fuentes": []
+      },
+      "estado": {
+        "texto": "No ha anunciado una propuesta concreta en precampaña.",
+        "vacio": true,
+        "fuentes": []
+      },
+      "mundo": {
+        "texto": "No ha anunciado una propuesta concreta en precampaña.",
+        "vacio": true,
+        "fuentes": []
+      }
+    },
+    "salf": {
+      "vivienda": {
+        "texto": "Que todo el suelo sea urbanizable salvo motivos objetivos, con ventajas fiscales para construir. Desalojo inmediato de okupas y penas de cárcel.",
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/"
+          }
+        ]
+      },
+      "economia": {
+        "texto": "IRPF del 0% para quien gane menos de 30.000 euros al año y medio punto menos por cada hijo.",
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/"
+          }
+        ]
+      },
+      "trabajo": {
+        "texto": "Ha criticado la sostenibilidad de las pensiones, pero no ha presentado una propuesta concreta.",
+        "vacio": true,
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/"
+          }
+        ]
+      },
+      "inmigracion": {
+        "texto": "Deportaciones masivas de inmigrantes en situación irregular, empezando por los procedentes de Marruecos, financiadas con la ayuda a la cooperación.",
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/"
+          }
+        ]
+      },
+      "estado": {
+        "texto": "Prohibir que los partidos se financien con dinero público. Que los delitos de corrupción no prescriban. Una «macrocárcel» inspirada en El Salvador y el fin de los permisos penitenciarios. Usar la IA para recortar burocracia y cargos.",
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/"
+          }
+        ]
+      },
+      "mundo": {
+        "texto": "Un referéndum si la UE «no respeta» a España. Se opone a enviar tropas a Ucrania.",
+        "fuentes": [
+          {
+            "nombre": "El Independiente",
+            "url": "https://www.elindependiente.com/espana/2025/10/12/alvise-arranca-su-carrera-a-las-generales-apostando-por-deportaciones-masivas-y-un-referendum-de-salida-de-la-ue/amp/"
+          }
+        ]
+      }
+    },
+    "podemos": {
+      "vivienda": {
+        "texto": "Prohibir comprar vivienda que no sea para vivir en ella y pasar al alquiler social las viviendas de los fondos de inversión. Limitar por ley el alquiler al 30% de los ingresos del hogar.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/"
+          },
+          {
+            "nombre": "Brainsre",
+            "url": "https://brainsre.news/?p=316467"
+          }
+        ]
+      },
+      "economia": {
+        "texto": "Redistribuir la riqueza aplicando el artículo 128 de la Constitución, sin concretar todavía impuestos ni tipos.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/"
+          }
+        ]
+      },
+      "trabajo": {
+        "texto": "Jubilación a los 63 años, subir las pensiones mínimas y no contributivas, salario mínimo de 1.800 euros y jornada de 30 horas semanales.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/"
+          }
+        ]
+      },
+      "inmigracion": {
+        "texto": "No ha anunciado una propuesta nueva. En enero pactó con el PSOE la regularización extraordinaria aprobada este año.",
+        "vacio": true,
+        "fuentes": [
+          {
+            "nombre": "Maldita.es",
+            "url": "https://maldita.es/malditobulo/20260128/psoe-y-podemos-aprobaran-un-real-decreto-para-legalizar-a-casi-600000-inmgrantes-que-hasta-el-31-de-diciembre-de-2025-demuestren-que-hayan-vivido-en-espana-al-menos-cinco-meses/"
+          }
+        ]
+      },
+      "estado": {
+        "texto": "No ha anunciado una propuesta concreta en precampaña.",
+        "vacio": true,
+        "fuentes": []
+      },
+      "mundo": {
+        "texto": "Rechaza que el aumento del gasto militar que piden la UE, EE. UU. y la OTAN salga de la sanidad y las pensiones.",
+        "fuentes": [
+          {
+            "nombre": "Demócrata",
+            "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/"
+          }
+        ]
+      }
+    }
+  },
+  "diario": [
+    {
+      "fecha": "2026-11-11",
+      "titulo": "Huelga general a dos días de la campaña",
+      "texto": "CCOO y UGT cifran el seguimiento entre el 41% y el 75% según la comunidad; la CEOE habla de «bajo seguimiento».",
+      "fuentes": [
+        {
+          "nombre": "EFE",
+          "url": "https://www.periodicodeibiza.es/noticias/nacional/2026/11/11/2747443/huelga-general-11n-sindicatos-cifran-seguimiento-entre-ven-exito.html"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-10",
+      "titulo": "El PP publica su programa",
+      "texto": "249 medidas, con una auditoría del gasto en 100 días y más de 300.000 millones en infraestructuras. Es el primer programa completo de un gran partido.",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-08",
+      "titulo": "Sánchez promete blindar las pensiones",
+      "texto": "En Bilbao, el candidato del PSOE se compromete a llevar la revalorización de las pensiones a la Constitución y a subir el salario mínimo cada año. Vox elige su lema: «Es sentido común».",
+      "fuentes": [
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/politica/sanchez-promete-blindar-pensiones-y-subir-el-smi-cada-ano-y-reclama-votar-en-masa-para-llegar-mucho-mas-lejos/"
+        },
+        {
+          "nombre": "Vozpópuli",
+          "url": "https://www.vozpopuli.com/espana/elecciones-generales-del-29-n-en-directo-sanchez-feijoo-pepa-millan-y-ada-colau-protagonizan-los-actos-de-este-domingo.html"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-07",
+      "titulo": "Frente Amplio: impuesto a las grandes fortunas",
+      "texto": "Ada Colau promete gravar los patrimonios de más de un millón y una ley para expropiar viviendas a grandes fondos.",
+      "fuentes": [
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/actualidad/frente-amplio-promete-expropiar-viviendas-fondos-buitre-elevar-impuestos-grandes-fortunas/"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-06",
+      "titulo": "Montero propone jubilarse a los 63",
+      "texto": "La candidata de Podemos plantea también un salario mínimo de 1.800 euros y la jornada de 30 horas.",
+      "fuentes": [
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/politica/irene-montero-propone-jubilarse-a-los-63-anos-y-elevar-las-pensiones-minimas-y-no-contributivas/"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-11-03",
+      "titulo": "Dimite el ministro de Transportes",
+      "texto": "Óscar Puente deja el cargo y renuncia a ser candidato tras el accidente de Urda, el segundo grave del año.",
+      "fuentes": [
+        {
+          "nombre": "BBC Mundo",
+          "url": "https://www.teletica.com/bbc-news-mundo/renuncia-ministro-de-transportes-de-espana-tras-el-choque-de-trenes-que-causo-69-muertos_420462"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-28",
+      "titulo": "Accidente de Urda y cierre de listas",
+      "texto": "Un choque de trenes deja 69 muertos en Toledo. Ese día, SALF registra listas al Congreso en 46 provincias; no se presenta al Senado.",
+      "fuentes": [
+        {
+          "nombre": "La Nación",
+          "url": "https://www.nacion.com/el-mundo/ministro-de-transportes-espanol-renuncia-tras/BSTJZJ2X55CEDIYSZ7K7N5WYSA/story/"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/en/politics/alvise-registers-salf-lists-for-congress-in-46-provinces-and-rules-out-competing-for-the-senate/"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-22",
+      "titulo": "Habrá cara a cara el 16 de noviembre",
+      "texto": "El PSOE acepta la fecha propuesta por el PP para un debate Sánchez-Feijóo en una cadena privada.",
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/10/22/sanchez-y-feijoo-se-citan-el-16-de-noviembre"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-19",
+      "titulo": "Feijóo firma su «Contrato con España»",
+      "texto": "Doce compromisos que luego desarrolla el programa del PP: vivienda, inmigración, pensiones, impuestos e instituciones.",
+      "fuentes": [
+        {
+          "nombre": "elDiario.es",
+          "url": "https://www.eldiario.es/1_cf78e6"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-12",
+      "titulo": "Abascal abre la precampaña en Estepona",
+      "texto": "Vox sitúa tres ejes: «remigración», «prioridad nacional» y desregulación.",
+      "fuentes": [
+        {
+          "nombre": "Qué!",
+          "url": "https://www.que.es/2026/10/12/precampana-vox-29n-abascal/"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-07",
+      "titulo": "Vox presenta su reforma fiscal",
+      "texto": "Un IRPF con 22.000 euros exentos y dos tramos, del 15% y el 25%.",
+      "fuentes": [
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/elecciones-generales-espana/vox-lleva-29n-su-receta-economica-con-rebajas-fiscales-recorte-gasto-reforma-pensiones/"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-06",
+      "titulo": "Elecciones convocadas en el BOE",
+      "texto": "El Real Decreto 806/2026 disuelve el Congreso y el Senado. El Gobierno anuncia que reeditará los decretos de vivienda.",
+      "fuentes": [
+        {
+          "nombre": "El Derecho",
+          "url": "https://elderecho.com/el-boe-publica-la-disolucion-de-las-cortes-tras-la-convocatoria-de-elecciones-generales-el-29-de-noviembre"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/10/06/gobierno-rescata-decretos-ley-vivienda-plan-10000-millones-primera-compra"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-05",
+      "titulo": "Sánchez adelanta las elecciones",
+      "texto": "Desde la Moncloa, anuncia la disolución de las Cortes para que los españoles «decidan qué futuro quieren».",
+      "fuentes": [
+        {
+          "nombre": "Telemundo/AP",
+          "url": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/pedro-sanchez-llama-a-elecciones-anticipadas-en-espana-en-medio-de-la-rcna601629"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-10-02",
+      "titulo": "El Congreso tumba los decretos de vivienda",
+      "texto": "PP, Vox y Junts votan en contra. Junts, que rompió con el Gobierno en 2025, es decisivo.",
+      "fuentes": [
+        {
+          "nombre": "Zaragozala",
+          "url": "https://zaragozala.com/actualidad/elecciones-generales-2026-29-noviembre/"
+        }
+      ]
+    }
+  ]
+}

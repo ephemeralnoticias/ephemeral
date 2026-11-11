@@ -74,7 +74,7 @@ h1.gran {
 .dato .detalle { font-size: 14px; line-height: 1.45; }
 
 /* Filtro de secciones */
-.filtro { display: flex; flex-wrap: wrap; gap: 4px 26px; align-items: center; padding-bottom: 14px; border-bottom: 1px solid var(--linea); }
+.filtro { display: flex; flex-wrap: wrap; gap: 4px 26px; align-items: center; padding-bottom: 14px; border-bottom: 1px solid var(--linea); position: sticky; top: 0; z-index: 5; background: var(--fondo); padding-top: 10px; }
 .filtro button {
   display: inline-flex; align-items: center; gap: 8px;
   font-family: var(--serif); font-size: 23px; color: var(--gris);
@@ -83,25 +83,53 @@ h1.gran {
 .filtro button[aria-pressed="true"] { color: var(--tinta); text-decoration: underline; text-underline-offset: 7px; text-decoration-thickness: 1.5px; }
 .punto { display: inline-block; width: 12px; height: 12px; border-radius: 50%; flex: none; }
 
-/* Noticias */
-.noticias { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 28px 22px; }
-.noticia { border-radius: var(--radio); padding: 20px 24px 22px; display: flex; flex-direction: column; gap: 12px; }
-.noticia[hidden] { display: none; }
-.noticia .cabeza { display: flex; justify-content: space-between; gap: 10px; font-size: 13px; font-weight: 700; }
-.noticia .cabeza span:last-child { font-weight: 500; }
-.noticia h2 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 34px; line-height: 1.02; letter-spacing: -0.01em; text-wrap: balance; }
-.noticia p { margin: 0; color: var(--texto); }
-.noticia .porque { font-size: 15px; line-height: 1.45; color: var(--tinta); }
-.noticia .porque em { font-family: var(--serif); font-size: 19px; }
-.noticia .mas { font-size: 15.5px; line-height: 1.55; border-top: 1px solid; padding-top: 12px; }
-.noticia .pie { margin-top: auto; padding-top: 6px; display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+/* Noticias y tarjetas que se dan la vuelta */
+.noticias { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); gap: 28px 22px; align-items: start; }
+.tarjeta { border-radius: var(--radio); background: var(--fondo-s); color: var(--tinta); transform-origin: 50% 50%; will-change: transform; }
+.tarjeta[hidden], .tarjeta [hidden] { display: none !important; }
+.tarjeta.abierta { grid-column: 1 / -1; background: var(--reverso-s); box-shadow: inset 0 0 0 1.5px var(--linea-s); }
+.cara, .reverso { padding: 20px 24px 22px; display: flex; flex-direction: column; gap: 12px; }
+.cara { min-height: 100%; }
+.tarjeta .cabeza { display: flex; justify-content: space-between; align-items: center; gap: 10px; font-size: 13px; font-weight: 700; color: var(--tinta-s); }
+.tarjeta .cabeza > span:last-child { font-weight: 500; }
+.tarjeta h2, .tarjeta h3 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 34px; line-height: 1.02; letter-spacing: -0.01em; text-wrap: balance; }
+.tarjeta h3:focus { outline: none; }
+.tarjeta p { margin: 0; color: var(--texto); }
+.tarjeta .resumen { font-size: 16.5px; line-height: 1.55; }
+.tarjeta .porque { font-size: 15px; line-height: 1.45; color: var(--tinta); }
+.tarjeta .porque em, .tarjeta .ahora em { font-family: var(--serif); font-size: 19px; color: var(--tinta-s); }
+.tarjeta .pie { margin-top: auto; padding-top: 6px; display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
 .boton-texto {
-  font-family: var(--serif); font-style: italic; font-size: 20px;
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: var(--serif); font-style: italic; font-size: 21px; color: var(--tinta-s, var(--tinta));
   background: none; border: 0; padding: 0; cursor: pointer;
   text-decoration: underline; text-underline-offset: 4px;
 }
+.icono-giro { width: 17px; height: 17px; flex: none; transition: transform .35s ease; }
+.boton-texto:hover .icono-giro { transform: rotate(-200deg); }
+.boton-volver {
+  display: inline-flex; align-items: center; gap: 6px; font-family: var(--sans); font-size: 13px; font-weight: 700;
+  color: var(--tinta-s); background: #FFFFFF; border: 1px solid var(--linea-s); border-radius: 999px; padding: 5px 12px 5px 9px; cursor: pointer;
+}
+.boton-volver .icono-giro { width: 14px; height: 14px; transform: scaleX(-1); }
+.reverso { gap: 14px; }
+.reverso h3 { font-size: clamp(30px, 3.6vw, 42px); max-width: 860px; }
+.reverso .cuerpo { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 14px 30px; }
+.reverso .cuerpo p { font-size: 16px; line-height: 1.6; }
+.reverso .cuerpo strong { color: var(--tinta); }
+.reverso .partes { display: block; columns: 2 340px; column-gap: 34px; }
+.reverso .partes h4 { margin: 0 0 4px; font-family: var(--serif); font-weight: 400; font-size: 22px; color: var(--tinta-s); break-after: avoid; }
+.reverso .partes p { margin-bottom: 16px; break-inside: avoid-column; }
+.claves { border-top: 1px dashed var(--linea-s); padding-top: 12px; }
+.claves .etiqueta { color: var(--tinta-s); }
+.claves ul { margin: 6px 0 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 8px; }
+.claves li { background: var(--fondo-s); border-radius: 999px; padding: 5px 12px; font-size: 14px; font-weight: 600; }
+.ahora { font-size: 15.5px; }
 .fuentes { font-size: 12.5px; color: #4D5058; }
 .fuentes a { color: inherit; }
+.aviso-29n { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; text-decoration: none; padding: 12px 18px; border-radius: var(--radio); background: #FEF6D2; font-size: 15px; }
+.aviso-29n b { font-family: var(--serif); font-weight: 400; font-size: 22px; }
+.aviso-29n:hover { color: #7A5B00; }
 
 /* Bulo y newsletter */
 .fila { display: flex; flex-wrap: wrap; gap: 28px 22px; }
@@ -140,6 +168,66 @@ h1.gran {
 .texto-largo p { margin: 0; color: var(--texto); }
 .vacio { color: var(--gris); }
 
+/* 2026 y 29N */
+.bloque-anual { display: flex; flex-direction: column; gap: 18px; scroll-margin-top: 80px; }
+.bloque-anual[hidden] { display: none; }
+.titulo-seccion { margin: 8px 0 0; display: flex; align-items: center; gap: 12px; font-family: var(--serif); font-weight: 400; font-size: 44px; line-height: 1; }
+.titulo-seccion .punto { width: 16px; height: 16px; }
+.anual h3 { font-size: 31px; }
+.bloque { display: flex; flex-direction: column; gap: 16px; }
+.titulo-bloque { margin: 0; font-family: var(--serif); font-weight: 400; font-size: clamp(36px, 4.4vw, 50px); line-height: 1; }
+.cabeza-bloque { display: flex; flex-direction: column; gap: 8px; }
+.suave { margin: 0; color: var(--gris); font-size: 15px; max-width: 760px; }
+.calendario { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.calendario li { position: relative; display: flex; flex-direction: column; gap: 4px; padding: 14px 14px 16px; border-radius: 0 16px 16px 16px; background: #FFFFFF; border: 1px solid var(--linea); font-size: 14.5px; line-height: 1.35; }
+.calendario .dia { font-family: var(--serif); font-size: 26px; line-height: 1; }
+.calendario .pasado { opacity: 0.5; }
+.calendario .proximo { background: #FEF6D2; border-color: #E9C23F; }
+.calendario .chip { align-self: flex-start; margin-top: 4px; font-size: 11.5px; font-weight: 800; letter-spacing: .04em; text-transform: uppercase; color: #7A5B00; }
+.porque-votamos { flex: 3 1 420px; }
+.porque-votamos h2, .encuestas h2 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 32px; line-height: 1.05; }
+.encuestas { flex: 2 1 340px; background: #FFFFFF; border: 1px solid var(--linea); }
+.barras { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.barras li { display: grid; grid-template-columns: 126px 1fr 52px; align-items: center; gap: 10px; font-size: 14.5px; }
+.barras .nombre { font-weight: 600; }
+.barras .pista { height: 12px; border-radius: 999px; background: #F1EFE4; overflow: hidden; }
+.barras .pista span { display: block; height: 100%; border-radius: 999px; background: var(--partido, #3B3F48); }
+.barras .valor { text-align: right; font-variant-numeric: tabular-nums; }
+.modo { display: inline-flex; align-self: flex-start; padding: 4px; border-radius: 999px; background: #F1EFE4; }
+.modo button { font-family: var(--sans); font-size: 15px; font-weight: 600; border: 0; background: none; padding: 8px 18px; border-radius: 999px; cursor: pointer; color: var(--gris); }
+.modo button[aria-pressed="true"] { background: var(--tinta); color: #FFFFFF; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chips button { font-family: var(--serif); font-size: 21px; padding: 6px 16px; border-radius: 999px; border: 1px solid var(--linea); background: #FFFFFF; cursor: pointer; color: var(--tinta); }
+.chips button[aria-pressed="true"] { background: #FEF6D2; border-color: #E9C23F; }
+/* Colores de partido (29N) */
+.punto-partido { display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: var(--partido, #3B3F48); margin-right: 8px; vertical-align: 0.12em; flex: none; }
+.barras .nombre { display: inline-flex; align-items: center; }
+.barras .nombre .punto-partido { width: 9px; height: 9px; margin-right: 7px; }
+.chips.de-partidos button { display: inline-flex; align-items: center; }
+.chips.de-partidos button[aria-pressed="true"] { background: color-mix(in srgb, var(--partido) 14%, #FFFFFF); border-color: var(--partido); box-shadow: inset 0 0 0 1px var(--partido); }
+.propuestas .propuesta { border-top: 5px solid var(--partido, var(--linea)); }
+.propuestas .propuesta.vacia { border-top-style: dashed; }
+.propuesta .cabeza b { display: inline-flex; align-items: center; }
+.ficha-partido h3 { display: flex; align-items: center; }
+.ficha-partido h3 .punto-partido { width: 18px; height: 18px; margin-right: 12px; vertical-align: 0; }
+.subtitulo { margin: 6px 0 0; font-family: var(--serif); font-weight: 400; font-size: 30px; }
+.propuestas { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); gap: 14px; margin-top: 12px; }
+.propuesta { display: flex; flex-direction: column; gap: 10px; padding: 18px 20px; border-radius: 0 18px 18px 18px; background: #FFFFFF; border: 1px solid var(--linea); }
+.propuesta .cabeza { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.propuesta .cabeza b { font-family: var(--serif); font-weight: 400; font-size: 26px; line-height: 1; }
+.propuesta .cabeza span { font-size: 13px; color: var(--gris); font-weight: 600; text-align: right; }
+.propuesta p { margin: 0; font-size: 15.5px; line-height: 1.55; }
+.propuesta.vacia { background: transparent; border-style: dashed; }
+.propuesta.vacia p { color: var(--gris); }
+.ficha-partido { margin-top: 6px; display: flex; flex-direction: column; gap: 6px; }
+.ficha-partido h3 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 40px; line-height: 1; }
+.ficha-partido p { margin: 0; }
+.diario { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.diario li { display: grid; grid-template-columns: 90px 1fr; gap: 18px; padding: 16px 0; border-top: 1px solid var(--linea); }
+.diario time { font-family: var(--serif); font-size: 24px; line-height: 1.1; color: #7A5B00; }
+.diario h3 { margin: 0 0 4px; font-family: var(--serif); font-weight: 400; font-size: 26px; line-height: 1.1; }
+.diario p { margin: 0 0 6px; color: var(--texto); }
+
 /* Pie */
 .pie-web { border-top: 1px solid var(--linea); }
 .pie-web .contenedor { padding-top: 20px; padding-bottom: 40px; display: flex; flex-wrap: wrap; gap: 12px 32px; justify-content: space-between; font-size: 14px; color: var(--gris); }
@@ -148,7 +236,12 @@ h1.gran {
 @media (max-width: 640px) {
   body { font-size: 16px; }
   .logo span { font-size: 32px; }
-  .noticia h2 { font-size: 29px; }
+  .tarjeta h2, .tarjeta h3 { font-size: 29px; }
+  .cara, .reverso { padding: 18px 18px 20px; }
+  .titulo-seccion { font-size: 36px; }
+  .barras li { grid-template-columns: 96px 1fr 46px; }
+  .diario li { grid-template-columns: 1fr; gap: 4px; }
+  .menu { gap: 6px 16px; font-size: 14.5px; }
   .filtro { flex-wrap: nowrap; overflow-x: auto; gap: 18px; }
   .filtro button { font-size: 20px; flex: none; }
   .lista-archivo a { grid-template-columns: 1fr; gap: 6px; }

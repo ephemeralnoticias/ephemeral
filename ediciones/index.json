@@ -3,8 +3,15 @@
     {
       "fecha": "2026-11-11",
       "numero": 1,
-      "resumen": "Huelga general, el programa del PP y el petróleo bajo 90 dólares",
-      "secciones": ["espana", "economia", "internacional", "ciencia", "sociedad", "deportes"]
+      "resumen": "Huelga general, el programa del PP y las hipotecas suben",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
     }
   ]
 }

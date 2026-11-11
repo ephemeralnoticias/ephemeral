@@ -30,3 +30,16 @@ Cloudflare → Workers & Pages → Create → Pages → Connect to Git → elige
 - Framework preset: **None**
 - Build command: *(vacío)*
 - Build output directory: `/`
+
+## Secciones especiales
+
+| Archivo | Para qué sirve |
+|---|---|
+| `29n.html` + `datos/29n.json` | Especial elecciones: calendario oficial, encuestas, comparador de propuestas por tema y partido, y diario de campaña. Para añadir un día de campaña, añade una entrada **al principio** de `diario`. |
+| `resumen-2026.html` + `datos/2026.json` | Las 30 noticias del año, cinco por sección. |
+
+## Formato de cada noticia
+
+Cada noticia tiene un `resumen` (unas cinco líneas), un `porque` y un `detalle` con `parrafos`, `claves` y `ahora`. Al pulsar «Abrir», la tarjeta se da la vuelta y muestra el detalle. Empieza cada párrafo con una frase corta acabada en punto («Qué se reclama.») y la web la pondrá en negrita.
+
+Orden de prioridad: España y Economía (unas tres noticias cada una), Internacional (dos) y una de Sociedad, Ciencia y Deportes.

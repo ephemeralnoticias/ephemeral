@@ -1,106 +1,421 @@
 {
   "fecha": "2026-11-11",
   "numero": 1,
-  "minutos": 5,
-  "titular": "El día, en cinco minutos.",
-  "entradilla": "Siete noticias verificadas y sin opinión. Si alguna te interesa, ábrela: cada una guarda su versión larga.",
+  "minutos": 6,
+  "titular": "España para, la campaña espera.",
+  "entradilla": "Once noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
   "dato": {
-    "seccion": "economia",
-    "cifra": "4,9%",
-    "frase": "Tu compra cuesta casi un 5% más que hace un año.",
-    "detalle": "Inflación de octubre en España (dato adelantado), la más alta desde febrero de 2023. Fuente: INE."
+    "seccion": "espana",
+    "cifra": "38,7",
+    "frase": "millones de personas están llamadas a votar el 29N.",
+    "detalle": "38.728.356 electores: 35,96 millones residen en España y 2,77 millones en el extranjero. Fuente: INE."
   },
   "noticias": [
     {
       "seccion": "espana",
-      "titulo": "España para 24 horas por la vivienda y los salarios",
-      "resumen": "CCOO, UGT y los sindicatos de inquilinas convocan la primera huelga general desde 2012, a dos días de que arranque la campaña del 29N.",
-      "porque": "medirá la movilización social justo antes de votar.",
-      "mas": "Renfe mantiene el 73% de los trenes de alta velocidad y larga distancia y el 65% de media distancia. El PP la considera una huelga electoral y el PSOE sostiene que va contra la oposición. Las manifestaciones serán por la tarde en las principales ciudades.",
-      "minutosMas": 3,
+      "titulo": "España vive su primera huelga general en 14 años",
+      "resumen": "CCOO y UGT, junto a CGT, CNT y otras organizaciones, han convocado 24 horas de paro por la vivienda, los salarios y una jornada más corta. Es la primera huelga general de los dos grandes sindicatos desde noviembre de 2012. Las cifras dependen de quién las dé: los sindicatos hablan de un seguimiento «dispar», del 41% al 75% según la comunidad; la patronal CEOE, de «bajo seguimiento».",
+      "porque": "llega a dos días de la campaña y mide cuánta gente está dispuesta a movilizarse por la vivienda.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué se reclama. La plataforma de la huelga pide medidas de vivienda, subidas de sueldo y reducir la jornada laboral. El malestar viene de lejos, pero estalló tras el desahucio de Maricarmen, la vecina de 87 años de Madrid cuyo caso desató protestas en todo el país en septiembre.",
+          "Las cifras, en disputa. Los sindicatos señalan paros de hasta el 90% en automoción y cárnicas en Castilla-La Mancha y del 84% en Cataluña, donde la patronal de pymes Pimec lo rebaja al 9%. Renfe cifra en un 6,83% su personal en huelga durante la noche y la mañana. El consumo eléctrico, que suele usarse como termómetro, era a mediodía un 2,6% más bajo que el día anterior.",
+          "Servicios mínimos. Renfe mantiene el 73% de los trenes de alta velocidad y larga distancia y el 65% de los de media distancia."
+        ],
+        "claves": [
+          "Primera huelga general conjunta de CCOO y UGT desde el 14 de noviembre de 2012",
+          "Más de 3.600 comités y secciones sindicales la respaldan, según los convocantes",
+          "Las cifras de seguimiento de sindicatos y patronal no coinciden: tómalas con cautela"
+        ],
+        "ahora": "Las grandes manifestaciones son esta tarde. Los balances finales llegarán por la noche y la campaña empieza a las 00:00 del viernes 13."
+      },
       "fuentes": [
-        { "nombre": "Euronews", "url": "https://es.euronews.com/2026/10/07/huelga-general-vivienda-espana-11-noviembre-ccoo-ugt" },
-        { "nombre": "Moncloa.com", "url": "https://www.moncloa.com/2026/11/10/huelga-general-ourense-11n-servicios-minimos-3465091/" },
-        { "nombre": "Infobae", "url": "https://www.infobae.com/espana/2026/11/10/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-huelga-general-y-el-funeral-por-las-victimas-de-urda/" }
+        {
+          "nombre": "EFE/Periódico de Ibiza",
+          "url": "https://www.periodicodeibiza.es/noticias/nacional/2026/11/11/2747443/huelga-general-11n-sindicatos-cifran-seguimiento-entre-ven-exito.html"
+        },
+        {
+          "nombre": "The Objective",
+          "url": "https://theobjective.com/sociedad/2026-11-11/ultima-hora-huelga-general-11-n/directo/"
+        },
+        {
+          "nombre": "OKDIARIO",
+          "url": "https://okdiario.com/espana/ultima-hora-huelga-general-actualidad-elecciones-generales-del-29-n-directo-20748233"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/economia/mas-de-3-600-comites-y-secciones-sindicales-de-ccoo-y-ugt-respaldan-la-huelga-general-del-11n/"
+        },
+        {
+          "nombre": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/11/10/huelga-general-ourense-11n-servicios-minimos-3465091/"
+        }
       ]
     },
     {
       "seccion": "espana",
-      "titulo": "El PP presenta su programa para el 29N",
-      "resumen": "Auditoría de todo el gasto público en 100 días, más de 300.000 millones en obras a 15 años y un plan para un millón de viviendas.",
-      "porque": "las encuestas le dan ganador, pero necesitaría a Vox para gobernar.",
-      "mas": "Es el primer gran partido que publica su programa completo. El PSOE abre campaña el viernes en Pamplona y el resto de partidos presentará sus propuestas durante la campaña, que arranca a las 00:00 del viernes 13.",
-      "minutosMas": 3,
+      "titulo": "El PP presenta su programa: auditoría en 100 días y un millón de viviendas",
+      "resumen": "El PP es el primer gran partido que publica su programa completo para el 29N: 249 medidas. La primera es auditar, en los primeros 100 días de gobierno, todo el gasto público, la Administración y las empresas del Estado. Propone más de 300.000 millones en obras durante 15 años, con dinero privado, y desarrolla los doce compromisos que Feijóo firmó en octubre, como un millón de viviendas nuevas o bajar impuestos.",
+      "porque": "el PP lidera todas las encuestas, así que este documento es el punto de partida de cualquier negociación de gobierno, también con Vox.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las obras. Los más de 300.000 millones irían a autovías, alta velocidad, Cercanías e infraestructuras hidráulicas y energéticas, con cofinanciación privada. El PP lo presentó como un programa «sin unicornios».",
+          "El «Contrato con España». Los doce compromisos que firmó Feijóo el 19 de octubre incluyen que los jueces elijan a los jueces del CGPJ, presentar presupuestos cada año y convocar elecciones si se prorrogan más de una vez, desalojar a los okupas en 48 horas, actualizar las pensiones con el IPC y revisar «una a una» las más de 100 subidas de impuestos de los últimos años.",
+          "Inmigración. Propone reducir la inmigración irregular, abrir vías legales para quien venga a trabajar, endurecer el acceso a la nacionalidad y una ley que prohíba las regularizaciones colectivas como la aprobada este año."
+        ],
+        "claves": [
+          "249 medidas",
+          "Auditoría de todo el gasto público en los primeros 100 días",
+          "Más de 300.000 millones en infraestructuras a 15 años"
+        ],
+        "ahora": "El resto de partidos aún no ha publicado su programa completo. Compara lo que ha propuesto cada uno en la página del 29N."
+      },
       "fuentes": [
-        { "nombre": "Infobae", "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/" },
-        { "nombre": "El Progreso/EFE", "url": "https://elprogreso.es/articulo/espana/directo-elecciones-generales/202611090915532012782.html" }
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/politica/el-pp-lanzara-un-plan-con-249-medidas-para-reconstruir-espana-y-tumbar-el-muro-de-sanchez/"
+        },
+        {
+          "nombre": "Contrato con España (PDF)",
+          "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
+        }
+      ]
+    },
+    {
+      "seccion": "espana",
+      "titulo": "La campaña empieza el viernes: así llegan los partidos",
+      "resumen": "La campaña arranca a las 00:00 del viernes 13 y acaba a medianoche del 27; el 28 es jornada de reflexión. La media de 11 encuestas que calcula Demócrata (7 de noviembre) sitúa al PP en el 31,0%, al PSOE en el 26,2%, a Vox en el 19,5% y a Frente Amplio en el 6,6%. Sánchez y Feijóo han aceptado un cara a cara el lunes 16.",
+      "porque": "con esos números nadie se acerca a la mayoría absoluta, 176 escaños: los pactos decidirán quién gobierna.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Quién vota. Están llamados a las urnas 38.728.356 electores, según el INE. El voto por correo se puede pedir hasta el 19 de noviembre en Correos o en su web, y hay que enviarlo antes del 25. El día 29 la votación empieza a las 9:00.",
+          "Los debates. El cara a cara Sánchez-Feijóo del 16 de noviembre es el único con la aceptación pública de ambos partidos. Hay propuestas para un debate a cuatro, pero el PSOE quiere que sea en RTVE y el PP en Atresmedia.",
+          "Cómo leer las encuestas. Son estimaciones con margen de error, no resultados, y cada instituto usa su método. La ley prohíbe publicarlas en los cinco días anteriores a la votación, del 24 al 28 de noviembre."
+        ],
+        "claves": [
+          "Campaña: del 13 al 27 de noviembre",
+          "Voto por correo: pedirlo hasta el 19, enviarlo antes del 25",
+          "Mayoría absoluta: 176 de 350 diputados"
+        ],
+        "ahora": "El viernes empiezan los mítines. Seguimos la campaña cada día en la página del 29N."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Moncloa (decreto)",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20261005-referencia-convocatoria-elecciones.aspx"
+        },
+        {
+          "nombre": "La Moncloa (voto por correo)",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/paginas/voto-por-correo-elecciones-generales-29n.aspx"
+        },
+        {
+          "nombre": "INE",
+          "url": "https://ine.es/dyngs/Prensa/EG2026.htm"
+        },
+        {
+          "nombre": "Demócrata (encuestas)",
+          "url": "https://www.democrata.es/politica/sanchez-promete-blindar-pensiones-y-subir-el-smi-cada-ano-y-reclama-votar-en-masa-para-llegar-mucho-mas-lejos/"
+        },
+        {
+          "nombre": "Artículo 14",
+          "url": "https://www.articulo14.es/politica/debate-sanchez-feijoo-cuando-seria-donde-verlo-y-que-se-sabe-del-cara-a-cara-20261103.html"
+        }
       ]
     },
     {
       "seccion": "economia",
-      "titulo": "La inflación no baja del 4,9%",
-      "resumen": "El IPC de octubre repite el nivel más alto desde 2023. La energía, ligada a la guerra con Irán, es la principal causa.",
-      "porque": "aprieta salarios, pensiones e hipotecas.",
-      "mas": "La inflación subyacente, que excluye energía y alimentos frescos, está en el 3,1%. El Banco Central Europeo mantuvo los tipos en el 2,50% en octubre y decidirá el 17 de diciembre si vuelve a subirlos.",
+      "titulo": "Las hipotecas variables suben unos 100 euros al mes",
+      "resumen": "El euríbor cerró octubre en el 3,239%, más de un punto por encima de hace un año (2,187%). Quien revise su hipoteca variable en noviembre pagará más: en una hipoteca media, unos 102 euros al mes según los cálculos de Finect con el simulador del Banco de España. Es el efecto de las dos subidas de tipos del BCE este año para frenar la inflación que ha traído la guerra de Irán.",
+      "porque": "afecta directamente a millones de familias con hipoteca variable y encarece comprar casa.",
       "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué sube. El euríbor sigue a los tipos del Banco Central Europeo. El BCE los subió en junio, por primera vez desde 2023, y otra vez en septiembre, hasta el 2,50%, para que el encarecimiento de la energía no se contagie al resto de precios. En octubre los mantuvo.",
+          "Depende de cada hipoteca. La subida cambia según lo que quede por pagar, el plazo y el diferencial. Quien revisa cada seis meses compara con abril (2,747%), así que su subida es menor.",
+          "Un detalle útil. La comisión por cambiar la hipoteca de banco (subrogación) sigue limitada al 0,05% en 2026."
+        ],
+        "claves": [
+          "Euríbor de octubre: 3,239%",
+          "Hace un año: 2,187%",
+          "Próxima reunión del BCE: 17 de diciembre"
+        ],
+        "ahora": "Los mercados descuentan otra subida del BCE en diciembre, así que el euríbor seguiría por encima del 3% durante meses."
+      },
       "fuentes": [
-        { "nombre": "INE", "url": "https://www.ine.es/dyngs/Prensa/adIPC1026.pdf" },
-        { "nombre": "BCE", "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.es.html" }
+        {
+          "nombre": "Kelisto",
+          "url": "https://www.kelisto.es/hipotecas/actualidad/euribor-octubre-2026"
+        },
+        {
+          "nombre": "Finect",
+          "url": "https://www.finect.com/usuario/davidcarmona/articulos/el-euribor-frena-su-subida-en-octubre-pero-la-cuota-de-la-hipoteca-variable-media-sube-102-euros-al-mes"
+        },
+        {
+          "nombre": "Hipotecas.me",
+          "url": "https://www.hipotecas.me/noticias/euribor-octubre-2026-se-frena-revision-hipoteca-noviembre"
+        },
+        {
+          "nombre": "CaixaBank Research",
+          "url": "https://www.caixabankresearch.com/es/node/14715/printable/print"
+        }
+      ]
+    },
+    {
+      "seccion": "economia",
+      "titulo": "La inflación sigue en el 4,9%, la más alta desde 2023",
+      "resumen": "Según el dato adelantado del INE, los precios subieron en octubre un 4,9% respecto a hace un año, la tasa más alta desde febrero de 2023. La energía, encarecida por la guerra de Irán y el bloqueo del estrecho de Ormuz, es la principal causa. La inflación subyacente, que deja fuera la energía y los alimentos frescos, está en el 3,1%.",
+      "porque": "cuando los precios suben más que los sueldos se pierde poder de compra, y presiona al BCE a seguir subiendo tipos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué es la subyacente. Mide la tendencia de fondo de los precios. Que esté en el 3,1% indica que la subida ya no es solo de la gasolina y la luz: empieza a pasar a otros productos.",
+          "Cómo hemos llegado aquí. En enero la inflación estaba en el 2,4%; en agosto, en el 4,3%. En la zona euro subió al 3,3% en agosto, con la energía un 14,3% más cara que un año antes.",
+          "Una buena noticia. El petróleo ha bajado de 90 dólares (lo tienes en la siguiente tarjeta). Si se mantiene, debería notarse en carburantes y luz."
+        ],
+        "claves": [
+          "IPC de octubre (adelantado): 4,9%",
+          "Subyacente: 3,1%",
+          "Máximo desde febrero de 2023"
+        ],
+        "ahora": "El INE confirmará el dato definitivo de octubre en los próximos días."
+      },
+      "fuentes": [
+        {
+          "nombre": "INE",
+          "url": "https://www.ine.es/dyngs/Prensa/adIPC1026.pdf"
+        },
+        {
+          "nombre": "Funcas",
+          "url": "https://www.funcas.es/wp-content/uploads/2026/09/100pi_funcas_2026.09.04.pdf"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/09/11/puede-la-subida-de-tipos-del-bce-frenar-el-shock-inflacionista-provocado-por-la-energia"
+        }
+      ]
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El petróleo baja de 90 dólares por primera vez desde agosto",
+      "resumen": "El Brent cayó por debajo de 90 dólares después de que Trump aparcara nuevos ataques contra Irán. Acumula una bajada de alrededor del 22% desde el máximo de 118 dólares del 30 de octubre. Aun así, Estados Unidos mantiene el bloqueo naval a los puertos iraníes y pasar por el estrecho de Ormuz sigue siendo arriesgado.",
+      "porque": "el precio del petróleo llega en semanas a la gasolina, el transporte y la factura de la luz.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué importa Ormuz. Por ese estrecho pasa una parte clave del petróleo y el gas del Golfo, además de fertilizantes y helio. Irán lo bloqueó a finales de marzo y, desde entonces, cualquier incidente dispara los precios.",
+          "Una guerra de ocho meses. Empezó el 28 de febrero con ataques de EE. UU. e Israel. Hubo un alto el fuego en abril y un acuerdo preliminar en junio, pero los combates volvieron en julio."
+        ],
+        "claves": [
+          "Brent: por debajo de 90 $",
+          "Máximo reciente: 118 $ el 30 de octubre",
+          "Caída acumulada: en torno al 22%"
+        ],
+        "ahora": "Todo depende de que se mantenga la pausa en los ataques: un nuevo choque en Ormuz puede revertir la bajada."
+      },
+      "fuentes": [
+        {
+          "nombre": "Perfil",
+          "url": "https://www.perfil.com/economia/el-petroleo-baja-a-us90-por-primera-vez-desde-agosto-y-las-bolsas-mundiales-suben-frente-a-un-posible-acuerdo-entre-eeuu-e-iran-abwiR5w4U3dM"
+        },
+        {
+          "nombre": "ADVFN",
+          "url": "https://mx.advfn.com/noticias-de-mercado/article/10109/precios-del-petroleo-continuan-a-la-baja-tras-decision-de-trump-de-posponer-nuevos-ataques-contra-iran"
+        },
+        {
+          "nombre": "Primicias",
+          "url": "https://www.primicias.ec/internacional/guerra-iran-seis-meses-cronologia-momentos-clave-131278/"
+        }
       ]
     },
     {
       "seccion": "internacional",
-      "titulo": "El petróleo cae por debajo de 90 dólares",
-      "resumen": "Trump aparca nuevos ataques contra Irán y el Brent marca su precio más bajo desde agosto.",
-      "porque": "si dura, abaratará la luz y los carburantes en las próximas semanas.",
-      "mas": "Acumula una caída de alrededor del 22% desde el máximo de 118 dólares del 30 de octubre. Estados Unidos mantiene el bloqueo naval en Ormuz y los riesgos para el transporte de crudo siguen ahí.",
+      "titulo": "Rusia, Ucrania y EE. UU. vuelven a negociar en Abu Dabi",
+      "resumen": "Delegaciones de los tres países se reúnen el 10 y el 11 de noviembre en Abu Dabi para retomar unas negociaciones de paz paradas desde febrero, cuando empezó la guerra de Irán. Zelenski ha dicho que aceptaría «congelar» el frente actual como primer paso. El Kremlin rechaza un alto el fuego general y quiere hablar de un sistema de seguridad para después de la guerra.",
+      "porque": "es el intento más serio en meses de frenar una guerra que ya está en su quinto año y que condiciona la seguridad y la economía de Europa.",
       "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "De dónde venimos. En febrero hubo rondas en Ginebra con mediación de EE. UU.: avanzaron en cómo vigilar un posible alto el fuego, pero no hubo acuerdo sobre el Donbás ni Zaporiyia. Después, la guerra de Irán acaparó la atención de Washington.",
+          "Qué ha cambiado. El 21 de octubre, Putin aceptó ante el enviado de Trump, Steve Witkoff, retomar las conversaciones. Ese mismo día, Zelenski se abrió a congelar las líneas del frente.",
+          "Lo que separa a las partes. Rusia pide que Ucrania se retire del Donbás antes de cualquier alto el fuego y quiere mantener allí su policía incluso con un acuerdo. Ucrania se niega a ceder territorio a cambio de garantías de seguridad."
+        ],
+        "claves": [
+          "Fechas: 10 y 11 de noviembre",
+          "Lugar: Abu Dabi (Emiratos Árabes Unidos)",
+          "Mediador: Estados Unidos"
+        ],
+        "ahora": "Putin también ha propuesto una cumbre con Trump y Xi Jinping en la reunión de la APEC del 18 y 19 de noviembre en China."
+      },
       "fuentes": [
-        { "nombre": "Perfil", "url": "https://www.perfil.com/economia/el-petroleo-baja-a-us90-por-primera-vez-desde-agosto-y-las-bolsas-mundiales-suben-frente-a-un-posible-acuerdo-entre-eeuu-e-iran-abwiR5w4U3dM" },
-        { "nombre": "ADVFN", "url": "https://mx.advfn.com/noticias-de-mercado/article/10109/precios-del-petroleo-continuan-a-la-baja-tras-decision-de-trump-de-posponer-nuevos-ataques-contra-iran" }
+        {
+          "nombre": "Reuters/GBM",
+          "url": "https://gbm.com/media/noticia/el-kremlin-confirma-las-conversaciones-trilaterales-de-paz-sobre-ucrania-la-proxima-semana/"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/10/25/zelenski-confirma-negociaciones-trilaterales-rusia-eeuu-noviembre"
+        },
+        {
+          "nombre": "Primicias",
+          "url": "https://www.primicias.ec/internacional/guerra-rusia-ucrania-putin-negociaciones-noviembre-zelenski-combate-135403/"
+        },
+        {
+          "nombre": "AP/La Voz",
+          "url": "https://lavozhispanact.com/rusia-mantendra-la-policia-y-la-guardia-nacional-en-el-donbas-aun-con-un-acuerdo-de-paz-dice-moscu/"
+        }
       ]
     },
     {
-      "seccion": "ciencia",
-      "titulo": "Nvidia investiga a su consejero delegado",
-      "resumen": "El consejo del mayor fabricante de chips para IA analiza si Jensen Huang fue objetivo de una operación de inteligencia extranjera.",
-      "porque": "Nvidia mueve las bolsas de todo el mundo.",
-      "mas": "La acción cayó más de un 4% el lunes. La empresa presenta resultados el 17 de noviembre y el caso añade escrutinio a los controles de exportación de chips a China.",
-      "minutosMas": 2,
+      "seccion": "internacional",
+      "titulo": "Los demócratas controlarán el Congreso de Estados Unidos",
+      "resumen": "En las elecciones de mitad de mandato del 3 de noviembre, el Partido Demócrata ganó la Cámara de Representantes y el Senado, incluso en estados tradicionalmente republicanos como Texas, Iowa u Ohio. Trump reconoció los resultados. El cambio de mayoría entra en vigor el 3 de enero.",
+      "porque": "desde enero, Trump ya no podrá aprobar leyes solo con votos republicanos y el Congreso podrá investigar a su Gobierno.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué se votaba. Los 435 escaños de la Cámara de Representantes, 35 de los 100 del Senado y más de 30 gobernaciones. Las proyecciones dan a los demócratas más de 230 escaños en la Cámara y al menos 54 en el Senado.",
+          "Qué cambia. Con mayoría en las dos cámaras, los demócratas deciden qué leyes se votan y tienen la llave del presupuesto. El presidente conserva el veto.",
+          "Por qué importa fuera. El Congreso tiene peso en el gasto militar y en el comercio exterior, dos asuntos clave en la guerra de Irán y en los aranceles."
+        ],
+        "claves": [
+          "Elecciones: 3 de noviembre",
+          "Nueva mayoría: desde el 3 de enero",
+          "Algunos escaños aún se están contando"
+        ],
+        "ahora": "Las cifras exactas pueden variar ligeramente cuando terminen los recuentos."
+      },
       "fuentes": [
-        { "nombre": "Investing.com", "url": "https://es.investing.com/news/stock-market-news/nvidia-esta-ante-la-mayor-crisis-de-su-historia-que-vigilar-y-que-esperar-3920505" },
-        { "nombre": "DF", "url": "https://www.df.cl/primer-click/el-repunte-de-los-mercados-se-desacelera-a-la-espera-de-reporte-de" }
+        {
+          "nombre": "AFP/La República",
+          "url": "https://www.larepublica.co/globoeconomia/democratas-ganan-camara-y-senado-en-duro-reves-electoral-para-el-presidente-trump-4517195"
+        },
+        {
+          "nombre": "El Nuevo Día",
+          "url": "https://www.elnuevodia.com/corresponsalias/washington-dc/notas/los-democratas-ganaron-mayoria-en-las-dos-camaras-del-congreso-en-medio-de-una-fuerte-reprimenda-al-presidente-trump/"
+        },
+        {
+          "nombre": "Minuto60",
+          "url": "https://minuto60.com/mundo/resultados-elecciones-estados-unidos-2026-democratas-ganadores/18305"
+        }
       ]
     },
     {
       "seccion": "sociedad",
       "titulo": "Toledo despide a las 69 víctimas de Urda",
-      "resumen": "Los Reyes asistieron a la misa funeral en la catedral. La investigación sobre el choque de trenes sigue abierta.",
-      "porque": "el accidente ya ha costado el cargo al ministro de Transportes y al presidente de Adif.",
-      "mas": "Se investiga un fallo del sistema de señalización LZB y la orden de reanudar la marcha dada desde el control de Adif. La Fiscalía Europea revisa además fondos de la UE destinados a esa línea.",
-      "minutosMas": 3,
+      "resumen": "Los Reyes asistieron en la catedral de Toledo a la misa funeral por los fallecidos en el choque de trenes del 28 de octubre, cuando un AVE de Renfe chocó contra un tren de Iryo que estaba detenido. Es el accidente ferroviario más grave en España en más de una década y el segundo del año, tras el de Adamuz (Córdoba) en enero.",
+      "porque": "ha costado el cargo al ministro de Transportes y abre preguntas sobre la seguridad de la red de alta velocidad.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué se investiga. El Gobierno apunta a un fallo humano del controlador de Adif. La gran pregunta es por qué se dio una orden de marcha normal con otro tren detenido delante, 23 minutos después de que fallara el sistema de señalización LZB.",
+          "Las consecuencias. Óscar Puente dimitió el 3 de noviembre: dijo que un ministro de Transportes no puede seguir tras dos accidentes de esa gravedad en menos de un año. Tampoco será candidato el 29N."
+        ],
+        "claves": [
+          "69 fallecidos y unos 200 heridos",
+          "28 de octubre, hacia las 8:54",
+          "Adamuz (18 de enero): más de 40 muertos"
+        ],
+        "ahora": "La jueza que instruye el caso debe autorizar la reconstrucción de la vía."
+      },
       "fuentes": [
-        { "nombre": "EFE/Infobae", "url": "https://www.infobae.com/espana/agencias/2026/11/10/los-reyes-asisten-este-martes-a-la-misa-funeral-por-las-victimas-del-accidente-de-urda/" },
-        { "nombre": "Telemadrid", "url": "https://www.telemadrid.es/programas/120-minutos/reyes-asisten-martes-funeral-victimas_1_2804540.html" }
+        {
+          "nombre": "EFE/Infobae",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/10/los-reyes-asisten-este-martes-a-la-misa-funeral-por-las-victimas-del-accidente-de-urda/"
+        },
+        {
+          "nombre": "BBC Mundo",
+          "url": "https://www.teletica.com/bbc-news-mundo/renuncia-ministro-de-transportes-de-espana-tras-el-choque-de-trenes-que-causo-69-muertos_420462"
+        },
+        {
+          "nombre": "Don Porque",
+          "url": "https://donporque.com/por-que-ha-dimitido-oscar-puente-urda/"
+        }
+      ]
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Nvidia investiga si su jefe fue objetivo del espionaje chino",
+      "resumen": "El consejo de Nvidia, el mayor fabricante de chips para inteligencia artificial, abrió el domingo una investigación independiente tras informaciones de que su consejero delegado, Jensen Huang, fue «objetivo de una operación de inteligencia extranjera». Según The New York Times, Huang admitió una relación con una directiva de un gran cliente que, según la inteligencia de EE. UU., pasaba información a Pekín. China lo niega.",
+      "porque": "Nvidia fabrica los chips con los que se entrena casi toda la IA, y su venta a China está restringida por seguridad.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Lo que dice la empresa. El consejo afirma que no tiene motivos para creer que se hayan comprometido la seguridad nacional ni sus secretos. Huang, que pidió disculpas a la plantilla, sigue al frente durante la investigación.",
+          "El cliente. La directiva trabajaba en Megaspeed, una empresa de centros de datos con sede en Singapur que compró más de 4.800 millones de dólares en chips de Nvidia en dos años, según el Times.",
+          "El Congreso. Tres comités de la Cámara de Representantes pidieron a Nvidia el 4 de noviembre explicaciones sobre sus protocolos contra el espionaje."
+        ],
+        "claves": [
+          "Investigación anunciada el 8 de noviembre",
+          "Huang sigue como consejero delegado",
+          "China niega cualquier operación"
+        ],
+        "ahora": "La investigación acaba de empezar: no hay conclusiones ni sanciones."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/09/nvidia-investiga-jensen-huang-objetivo-campana-espionaje-chino"
+        },
+        {
+          "nombre": "AP",
+          "url": "https://www.wfsb.com/2026/11/09/nvidia-investigates-whether-ceo-jensen-huang-was-targeted-by-chinese-spy-with-whom-he-had-an-affair/?outputType=amp"
+        },
+        {
+          "nombre": "DPL News",
+          "url": "https://dplnews.com/ceo-nvidia-presunta-espia-china/"
+        }
       ]
     },
     {
       "seccion": "deportes",
-      "titulo": "La selección juega el jueves en Chequia",
-      "resumen": "El partido se emite en La 1 el jueves por la noche, en la víspera del arranque de la campaña electoral.",
-      "porque": "es una de las grandes citas televisivas de la semana.",
-      "mas": "Tras el partido, La 1 emite una entrevista al presidente del Gobierno en El perro andaluz, horas antes de que empiece oficialmente la campaña.",
+      "titulo": "La campeona del mundo se juega el grupo esta semana",
+      "resumen": "España visita a Chequia el jueves 12 y recibe a Inglaterra el domingo 15 en el Metropolitano, en las dos últimas jornadas de su grupo de la Liga de Naciones. La selección de Luis de la Fuente ganó sus tres primeros partidos tras el Mundial (2-3 en Wembley, 4-1 a Croacia y 3-1 a Chequia) y encadenaba 41 partidos sin perder.",
+      "porque": "solo el primero del grupo pasa a la fase final, y el domingo se repite la final de la Eurocopa 2024.",
       "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El grupo. Lo forman Inglaterra, Croacia, Chequia y España. Chequia era colista tras perder sus dos partidos en casa.",
+          "Los horarios. Los dos partidos empiezan a las 20:45 (hora peninsular)."
+        ],
+        "claves": [
+          "Jueves 12: Chequia-España",
+          "Domingo 15: España-Inglaterra, en el Metropolitano",
+          "41 partidos seguidos sin perder"
+        ],
+        "ahora": "Si España gana el grupo, jugará su cuarta fase final seguida de la Liga de Naciones."
+      },
       "fuentes": [
-        { "nombre": "Vibras en Corte", "url": "https://vibrasencorte.es/television/pedro-sanchez-entrevista-manu-sanchez-el-perro-andaluz/" }
+        {
+          "nombre": "El Gol Digital",
+          "url": "https://www.elgoldigital.com/futbol/seleccion-espana/espana-nations-league-2026-27-grupo-calendario-inglaterra/"
+        },
+        {
+          "nombre": "Telemundo",
+          "url": "https://www.telemundo.com/deportes/mas-deporte/espana-sufrio-mas-de-la-cuenta-pero-vencio-a-republica-checa-con-otra-rcna601330"
+        },
+        {
+          "nombre": "Comuniate",
+          "url": "https://www.comuniate.com/noticias/38596/espana-se-juega-el-liderato-de-la-nations-league-en-el-proximo-paron-de-noviembre"
+        },
+        {
+          "nombre": "Última Hora",
+          "url": "https://www.ultimahora.es/deportes/futbol/2026/08/04/2683365/espana-inglaterra-liga-naciones-jugara-metropolitano.html"
+        }
       ]
     }
   ],
   "bulo": {
     "titulo": "Las encuestas de TikTok que dan ganador al PSOE el 29N no son actuales",
-    "texto": "Circulan sondeos antiguos presentados como nuevos y gráficos generados con IA. Las encuestas publicadas este mes por los institutos sitúan al PP en primer lugar.",
+    "texto": "Circulan sondeos antiguos presentados como nuevos y gráficos hechos con IA. Las encuestas publicadas este mes por los institutos sitúan al PP en primer lugar.",
     "verificador": "Maldita.es",
     "url": "https://maldita.es/tag/elecciones-generales-29n",
-    "nota": "Desde el 24 de noviembre no se pueden publicar encuestas"
+    "nota": "Del 24 al 28 de noviembre no se pueden publicar encuestas"
   }
 }
