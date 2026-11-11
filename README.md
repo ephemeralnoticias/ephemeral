@@ -49,3 +49,9 @@ En `datos/29n.json`, cada propuesta lleva `texto` (el resumen) y `puntos` (la li
 Si una noticia nombra a algún partido, añade `"partidos": ["pp", "psoe"]` y la tarjeta mostrará sus chapas. El mismo campo funciona en el resumen de 2026 y en el diario del 29N. Identificadores disponibles: `pp`, `psoe`, `vox`, `fa`, `salf`, `podemos`, `sumar`, `erc` y `junts`. Las siglas y los colores se definen en `PARTIDOS`, al principio de `assets/app.js`. Ordénalos siempre igual, por la media de encuestas.
 
 Orden de prioridad: España y Economía (unas tres noticias cada una), Internacional (dos) y una de Sociedad, Ciencia y Deportes.
+
+## Buscadores (SEO)
+
+- `robots.txt` y `sitemap.xml` indican a Google qué páginas indexar.
+- Cada página lleva en `<!-- seo -->` su dirección canónica y la imagen para compartir (`assets/compartir.png`).
+- Si cambiáis de dominio (por ejemplo a un .es), sustituid `https://ephemeral-5aj.pages.dev` por el nuevo en `robots.txt`, `sitemap.xml` y los bloques `<!-- seo -->` de cada página.
