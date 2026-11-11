@@ -4,7 +4,8 @@
    El resumen del año está en /datos/2026.json y el especial de elecciones en /datos/29n.json. */
 
 // Cuando tengas la newsletter (por ejemplo en beehiiv), pega aquí la dirección de su página de suscripción.
-const NEWSLETTER_URL = "";
+// Formulario de suscripción de beehiiv (Audience → Subscribe forms)
+const BEEHIIV_FORM = "05e6a8a6-3c70-425d-ae0b-4b4875d24e69";
 
 const SECCIONES = {
   espana:        { nombre: "España",               fondo: "#FEF6D2", tinta: "#7A5B00", punto: "#E9C23F", linea: "#EBDB95", reverso: "#FFFBEA" },
@@ -271,31 +272,24 @@ function htmlBulo(bulo, etiquetaTitulo) {
 }
 
 function formularioSuscripcion() {
-  return '<form class="caja suscripcion" id="suscribir" novalidate>' +
+  return '<div class="caja suscripcion" id="suscribir">' +
     '<span class="etiqueta" style="color:#C9CCD3">Newsletter</span>' +
     '<span class="titulo">Cada mañana, antes de que caduque.</span>' +
-    '<span class="suave">La edición llega a tu correo a las 7:30. Gratis.</span>' +
-    '<label for="email">Tu correo</label>' +
-    '<input id="email" name="email" type="email" autocomplete="email" placeholder="nombre@correo.com" required>' +
-    '<button type="submit">Suscribirme</button>' +
-    '<span class="aviso" id="aviso" role="status"></span>' +
-    "</form>";
+    '<span class="suave">La edición llegará a tu correo cada mañana. Gratis.</span>' +
+    '<div class="form-beehiiv" id="form-beehiiv"></div>' +
+    '<span class="legal">Al suscribirte aceptas recibir ephemeral. por correo. Puedes darte de baja cuando quieras desde cualquier correo. <a href="privacidad.html">Política de privacidad</a>.</span>' +
+    "</div>";
 }
 
+// Formulario de beehiiv: el script se inserta con JS para que se ejecute
 function activarSuscripcion() {
-  const f = $("#suscribir");
-  if (!f) return;
-  f.addEventListener("submit", (e) => {
-    e.preventDefault();
-    const email = $("#email").value.trim();
-    const aviso = $("#aviso");
-    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) { aviso.textContent = "Escribe un correo válido, por ejemplo nombre@correo.com."; return; }
-    if (NEWSLETTER_URL) {
-      location.href = NEWSLETTER_URL + (NEWSLETTER_URL.includes("?") ? "&" : "?") + "email=" + encodeURIComponent(email);
-    } else {
-      aviso.textContent = "La newsletter arranca muy pronto. ¡Gracias por tu interés!";
-    }
-  });
+  const caja = $("#form-beehiiv");
+  if (!caja || !BEEHIIV_FORM) return;
+  const sc = document.createElement("script");
+  sc.async = true;
+  sc.src = "https://subscribe-forms.beehiiv.com/v3/loader.js";
+  sc.setAttribute("data-beehiiv-form", BEEHIIV_FORM);
+  caja.appendChild(sc);
 }
 
 /* ---------- 2026, explicado ---------- */
@@ -396,6 +390,9 @@ async function especial29n() {
 
     // Por qué + encuestas
     const max = Math.max.apply(null, d.encuestas.datos.map((e) => e.valor));
+    // Veda electoral (art. 69.7 LOREG): sin encuestas los cinco días anteriores a la votación
+    const veda = d.encuestas.veda, ahoraMs = Date.now();
+    const enVeda = !!(veda && ahoraMs >= Date.parse(veda.inicio) && ahoraMs < Date.parse(veda.fin));
     html += '<section class="fila">' +
       '<article class="caja porque-votamos" style="background:' + s.fondo + '">' +
         '<span class="etiqueta" style="color:' + s.tinta + '">Contexto</span>' +
@@ -404,20 +401,26 @@ async function especial29n() {
         '<a class="enlace-serif" href="' + esc(d.porque.enlace) + '">La historia completa, en 2026 explicado →</a>' +
         '<span class="fuentes">' + enlacesFuentes(d.porque.fuentes) + "</span>" +
       "</article>" +
-      '<article class="caja encuestas">' +
+      (enVeda
+      ? '<article class="caja encuestas veda">' +
+        '<span class="etiqueta">Encuestas</span>' +
+        "<h2>Periodo sin encuestas</h2>" +
+        "<p>" + esc(d.encuestas.veda.texto) + "</p>" +
+      "</article>"
+      : '<article class="caja encuestas">' +
         '<span class="etiqueta">Encuestas</span>' +
         "<h2>" + esc(d.encuestas.titulo) + "</h2>" +
         '<ul class="barras">' + d.encuestas.datos.map((e) =>
           '<li style="--partido:' + esc(e.color || "#3B3F48") + '"><span class="nombre">' + chapa(e.siglas || e.partido, e.color, e.partido) + '<span class="visualmente-oculto">' + esc(e.partido) + '</span></span><span class="pista"><span style="width:' + (e.valor / max * 100).toFixed(1) + '%"></span></span><span class="valor">' + String(e.valor.toFixed(1)).replace(".", ",") + "%</span></li>").join("") +
         "</ul>" +
         '<span class="fuentes">' + esc(d.encuestas.nota) + " " + enlacesFuentes([d.encuestas.fuente], "Fuente: ") + "</span>" +
-      "</article>" +
+      "</article>") +
     "</section>";
 
     // Comparador
     html += '<section class="bloque comparador" id="programas">' +
       '<div class="cabeza-bloque"><h2 class="titulo-bloque">Qué propone cada partido</h2>' +
-      '<p class="suave">Ordenados por la media de encuestas. Solo el PP ha publicado su programa completo; del resto recogemos lo que han anunciado. Lo actualizaremos cuando publiquen sus programas.</p></div>' +
+      '<p class="suave">Ordenados por la media de encuestas. Cada propuesta enlaza a su fuente original: el programa o la web del partido siempre que existe. La etiqueta indica de dónde sale.</p></div>' +
       '<div class="modo" role="group" aria-label="Cómo comparar">' +
         '<button type="button" data-modo="tema" aria-pressed="true">Por tema</button>' +
         '<button type="button" data-modo="partido" aria-pressed="false">Por partido</button>' +
@@ -479,6 +482,7 @@ function activarComparador(d) {
       (p && p.puntos && p.puntos.length
         ? (p.intro ? '<p class="intro">' + esc(p.intro) + "</p>" : "") + '<ul class="puntos">' + p.puntos.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul>"
         : "<p>" + esc(p ? p.texto : "Sin información todavía.") + "</p>") +
+      (p && p.tipo && d.tiposFuente && d.tiposFuente[p.tipo] ? '<span class="tipo-fuente tipo-' + esc(p.tipo) + '">' + esc(d.tiposFuente[p.tipo]) + "</span>" : "") +
       (p && p.fuentes && p.fuentes.length ? '<span class="fuentes">' + enlacesFuentes(p.fuentes) + "</span>" : "") +
       "</article>";
   };
@@ -494,7 +498,7 @@ function activarComparador(d) {
       salida.innerHTML = '<div class="ficha-partido" style="--partido:' + esc(p.color) + '">' +
         '<h3>' + chapa(p.siglas || p.nombre, p.color) + esc(p.nombre) + "</h3>" +
         "<p><b>Candidato/a:</b> " + esc(p.candidato) + (p.lema ? " · <b>Lema:</b> «" + esc(p.lema) + "»" : "") + "</p>" +
-        '<p class="suave">' + esc(p.estado) + "</p>" +
+        '<p class="suave">' + esc(p.estado) + (p.web ? ' · <a href="' + esc(p.web) + '" target="_blank" rel="noopener">Web oficial</a>' : "") + "</p>" +
         '</div><div class="propuestas">' +
         d.temas.map((t) => tarjetaPropuesta(t.nombre, "", (d.propuestas[p.id] || {})[t.id], p.color, false)).join("") + "</div>";
     }

@@ -266,3 +266,11 @@ h1.gran {
 .propuesta .puntos { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
 .propuesta .puntos li { position: relative; padding-left: 18px; font-size: 15.5px; line-height: 1.5; }
 .propuesta .puntos li::before { content: "–"; position: absolute; left: 0; top: 0; color: var(--partido, var(--gris)); font-weight: 800; }
+.propuesta .tipo-fuente { align-self: flex-start; font-size: 11.5px; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; padding: 3px 8px; border-radius: 6px; background: #F1EFE6; color: #4A4D55; }
+.propuesta .tipo-programa, .propuesta .tipo-web { background: #E7F3EA; color: #24613A; }
+.propuesta .tipo-gobierno { background: #EAF0FA; color: #2C4F86; }
+.propuesta .tipo-declaraciones { background: #FBF1DE; color: #7A5413; }
+.suscripcion .form-beehiiv { min-height: 56px; }
+.suscripcion .form-beehiiv iframe { max-width: 100%; }
+.suscripcion .legal { font-size: 12.5px; line-height: 1.45; color: #C9CCD3; }
+.suscripcion .legal a { color: #FFFFFF; }

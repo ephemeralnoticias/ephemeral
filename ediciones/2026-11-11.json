@@ -32,7 +32,15 @@
       },
       "fuentes": [
         {
-          "nombre": "EFE/Periódico de Ibiza",
+          "nombre": "UGT: convocatoria de la huelga",
+          "url": "https://www.ugt.es/ugt-destaca-las-mas-de-3600-adhesiones-la-huelga-general-de-comites-de-empresa-juntas-de-personal-y"
+        },
+        {
+          "nombre": "CCOO: registro de la huelga",
+          "url": "https://www.ccoo.es/noticia:770401--%E2%80%9CCCOO_hace_un_llamamiento_a_la_clase_trabajadora_y_a_la_ciudadania_a_que_participe_de_la_huelga_y_las_movilizaciones_convocadas_para_el_11N%E2%80%9D&opc_id=8c53f4de8f8f09d2e54f19daf8d8ed95"
+        },
+        {
+          "nombre": "EFE (vía Periódico de Ibiza)",
           "url": "https://www.periodicodeibiza.es/noticias/nacional/2026/11/11/2747443/huelga-general-11n-sindicatos-cifran-seguimiento-entre-ven-exito.html"
         },
         {
@@ -78,6 +86,10 @@
         "ahora": "El resto de partidos aún no ha publicado su programa completo. Compara lo que ha propuesto cada uno en la página del 29N."
       },
       "fuentes": [
+        {
+          "nombre": "Programa electoral del PP",
+          "url": "https://www.pp.es/wp-content/uploads/2026/11/PROGRAMA-ELECTORAL-PP-2026-RECONSTRUCCION-NACIONAL.pdf"
+        },
         {
           "nombre": "Infobae",
           "url": "https://www.infobae.com/espana/2026/11/10/el-pp-presenta-su-programa-electoral-para-concurrir-al-29-n-el-proyecto-no-tiene-unicornios-dice-la-verdad/"
@@ -212,6 +224,10 @@
         {
           "nombre": "Euronews",
           "url": "https://es.euronews.com/2026/09/11/puede-la-subida-de-tipos-del-bce-frenar-el-shock-inflacionista-provocado-por-la-energia"
+        },
+        {
+          "nombre": "INE: IPC de septiembre",
+          "url": "https://www.ine.es/dyngs/Prensa/IPC0926.htm"
         }
       ],
       "ilustracion": "assets/ilustraciones/2026-11-11-inflacion.svg"
@@ -240,10 +256,6 @@
           "url": "https://www.perfil.com/economia/el-petroleo-baja-a-us90-por-primera-vez-desde-agosto-y-las-bolsas-mundiales-suben-frente-a-un-posible-acuerdo-entre-eeuu-e-iran-abwiR5w4U3dM"
         },
         {
-          "nombre": "ADVFN",
-          "url": "https://mx.advfn.com/noticias-de-mercado/article/10109/precios-del-petroleo-continuan-a-la-baja-tras-decision-de-trump-de-posponer-nuevos-ataques-contra-iran"
-        },
-        {
           "nombre": "Primicias",
           "url": "https://www.primicias.ec/internacional/guerra-iran-seis-meses-cronologia-momentos-clave-131278/"
         }
@@ -270,10 +282,6 @@
         "ahora": "Putin también ha propuesto una cumbre con Trump y Xi Jinping en la reunión de la APEC del 18 y 19 de noviembre en China."
       },
       "fuentes": [
-        {
-          "nombre": "Reuters/GBM",
-          "url": "https://gbm.com/media/noticia/el-kremlin-confirma-las-conversaciones-trilaterales-de-paz-sobre-ucrania-la-proxima-semana/"
-        },
         {
           "nombre": "Euronews",
           "url": "https://es.euronews.com/2026/10/25/zelenski-confirma-negociaciones-trilaterales-rusia-eeuu-noviembre"
@@ -344,12 +352,16 @@
       },
       "fuentes": [
         {
-          "nombre": "EFE/Infobae",
-          "url": "https://www.infobae.com/espana/agencias/2026/11/10/los-reyes-asisten-este-martes-a-la-misa-funeral-por-las-victimas-del-accidente-de-urda/"
+          "nombre": "La Moncloa: ayudas a las víctimas de Urda",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/Paginas/2026/ayudas-medidas-accidente-ferroviario-urda-toledo.aspx"
         },
         {
-          "nombre": "BBC Mundo",
-          "url": "https://www.teletica.com/bbc-news-mundo/renuncia-ministro-de-transportes-de-espana-tras-el-choque-de-trenes-que-causo-69-muertos_420462"
+          "nombre": "La Moncloa: comparecencia de Sánchez",
+          "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/041126-sanchez-comparecencia-.aspx"
+        },
+        {
+          "nombre": "EFE/Infobae",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/10/los-reyes-asisten-este-martes-a-la-misa-funeral-por-las-victimas-del-accidente-de-urda/"
         },
         {
           "nombre": "Don Porque",

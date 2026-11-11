@@ -55,3 +55,9 @@ Orden de prioridad: España y Economía (unas tres noticias cada una), Internaci
 - `robots.txt` y `sitemap.xml` indican a Google qué páginas indexar.
 - Cada página lleva en `<!-- seo -->` su dirección canónica y la imagen para compartir (`assets/compartir.png`).
 - Si cambiáis de dominio (por ejemplo a un .es), sustituid `https://ephemeral-5aj.pages.dev` por el nuevo en `robots.txt`, `sitemap.xml` y los bloques `<!-- seo -->` de cada página.
+
+## Fuentes y veda electoral
+
+- Cada propuesta de `datos/29n.json` lleva `tipo`: `programa`, `web`, `gobierno` o `declaraciones`. La web lo muestra como etiqueta. La fuente principal es siempre la del propio partido, si existe.
+- `encuestas.veda` fija el periodo en que las encuestas se ocultan solas (art. 69.7 de la LOREG). Para otras elecciones, cambia las fechas `inicio` y `fin`.
+- Las normas de redacción y fuentes están en la guía interna (documento aparte).

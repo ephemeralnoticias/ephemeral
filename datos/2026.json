@@ -43,12 +43,16 @@
           ],
           "fuentes": [
             {
-              "nombre": "Zaragozala",
-              "url": "https://zaragozala.com/actualidad/elecciones-generales-2026-29-noviembre/"
+              "nombre": "BOE: Real Decreto 806/2026",
+              "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
             },
             {
-              "nombre": "BBC Mundo",
-              "url": "https://www.teletica.com/bbc-mundo/por-que-pedro-sanchez-decidio-convocar-elecciones-anticipadas-en-espana_418631"
+              "nombre": "BOE: derogación de los decretos de vivienda",
+              "url": "https://www.boe.es/boe/dias/2026/10/02/pdfs/BOE-A-2026-20526.pdf"
+            },
+            {
+              "nombre": "La Moncloa: declaración institucional",
+              "url": "https://www.lamoncloa.gob.es/presidente/intervenciones/Paginas/2026/20260905-sanchez-decl-inst-convocatoria-elecciones.aspx"
             },
             {
               "nombre": "Diario de León",
@@ -110,7 +114,7 @@
               "url": "https://www.vozpopuli.com/espana/politica/el-pp-enmienda-una-mocion-de-vox-para-rebajar-el-alcance-del-concepto-de-prioridad-nacional.html"
             },
             {
-              "nombre": "Europa Press/Bolsamanía",
+              "nombre": "Europa Press",
               "url": "https://www.bolsamania.com/noticias/empresas/economia--el-pp-rechaza-en-el-congreso-la-propuesta-de-vox-de-exigir-la-prioridad-nacional-en-ayudas-para-vivienda--22776272.html"
             }
           ]
@@ -168,7 +172,7 @@
         },
         {
           "mes": "Enero a agosto",
-          "titulo": "Inmigración: medio millón de papeles y la noche de Ceuta",
+          "titulo": "Inmigración: más de un millón de solicitudes y la noche de Ceuta",
           "partidos": [
             "pp",
             "psoe",
@@ -179,7 +183,7 @@
           "partes": [
             {
               "t": "La regularización",
-              "p": "Tras un acuerdo entre PSOE y Podemos, el Gobierno inició en enero una regularización extraordinaria por real decreto, después de que una iniciativa legislativa popular respaldada por unas 700.000 firmas se quedara bloqueada en el Congreso. El decreto definitivo se aprobó el 14 de abril: podían pedirla quienes estuvieran en España antes del 1 de enero de 2026, con al menos cinco meses de residencia y sin antecedentes penales. El Gobierno calcula unos 500.000 beneficiarios. Es la séptima regularización de la democracia; ha habido con gobiernos del PSOE y del PP."
+              "p": "Tras un acuerdo entre PSOE y Podemos, el Gobierno inició en enero una regularización extraordinaria por real decreto, después de que una iniciativa legislativa popular respaldada por unas 700.000 firmas se quedara bloqueada en el Congreso. El decreto definitivo se aprobó el 14 de abril: podían pedirla quienes estuvieran en España antes del 1 de enero de 2026, con al menos cinco meses de residencia y sin antecedentes penales. El Gobierno calculaba al principio unos 500.000 beneficiarios; al cerrar el plazo, el 30 de junio, había recibido 1.174.978 solicitudes. Es la séptima regularización de la democracia; ha habido con gobiernos del PSOE y del PP."
             },
             {
               "t": "Ceuta",
@@ -196,10 +200,14 @@
           ],
           "claves": [
             "14 de abril: decreto de regularización",
-            "Unos 500.000 posibles beneficiarios",
+            "1.174.978 solicitudes hasta el 30 de junio",
             "30-31 de julio: unas 72.000 entradas en Ceuta"
           ],
           "fuentes": [
+            {
+              "nombre": "La Moncloa: balance de la regularización",
+              "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/020726-balance-regularizacion-extraordinaria.aspx"
+            },
             {
               "nombre": "Ministerio de Inclusión",
               "url": "https://www.inclusion.gob.es/w/el-gobierno-aprueba-la-regularizacion-administrativa-extraordinaria-de-personas-migrantes-que-ya-residen-en-espana"
@@ -211,10 +219,6 @@
             {
               "nombre": "Maldita.es (Ceuta)",
               "url": "https://maldita.es/desinfo/20260807/entrada-masiva-de-inmigrantes-logran-acceder-a-ceuta-a-traves-del-espigon-del-tarajal/"
-            },
-            {
-              "nombre": "AFP/Teletica",
-              "url": "https://www.teletica.com/internacional/lo-que-se-sabe-de-la-entrada-masiva-de-migrantes-en-el-territorio-espanol-de-ceuta_414590"
             },
             {
               "nombre": "El Universo",
@@ -255,20 +259,12 @@
           ],
           "fuentes": [
             {
-              "nombre": "Reuters/GBM",
-              "url": "https://gbm.com/media/noticia/dramatico-desahucio-de-inquilina-madrilena-de-87-anos-pone-de-relieve-crisis-de-la-vivienda-en-espana/"
+              "nombre": "INE: precios de vivienda, 1er trimestre 2026",
+              "url": "https://www.ine.es/dyngs/Prensa/IPV1T26.htm"
             },
             {
               "nombre": "El Salto",
               "url": "https://www.elsaltodiario.com/vivienda/muere-maricarmen-dos-semanas-despues-desahucio-punto-partida-del-estadillo-social-vivienda"
-            },
-            {
-              "nombre": "BBC Mundo",
-              "url": "https://www.teletica.com/bbc-news-mundo/protestan-en-espana-por-crisis-de-vivienda-imagenes-de-acampada-en-la-puerta-del-sol-de-madrid_418100"
-            },
-            {
-              "nombre": "Brainsre (INE)",
-              "url": "https://brainsre.news/precio-vivienda-ine-primer-trimestre-12-9-interanual/"
             },
             {
               "nombre": "Euronews",
@@ -372,8 +368,8 @@
               "url": "https://www.funcas.es/wp-content/uploads/2026/09/100pi_funcas_2026.09.04.pdf"
             },
             {
-              "nombre": "Europa Press/Bolsamanía",
-              "url": "https://www.bolsamania.com/noticias_print/empresas/economiavivienda--el-indice-de-referencia-del-ine-para-la-actualizacion-del-alquiler-sube-al-216-en-febrero--22035382.html"
+              "nombre": "INE: IPC de septiembre",
+              "url": "https://www.ine.es/dyngs/Prensa/IPC0926.htm"
             }
           ]
         },
@@ -476,7 +472,7 @@
           "partes": [
             {
               "t": "Los datos",
-              "p": "El precio de la vivienda libre subió un 12,9% interanual en el primer trimestre de 2026, según el INE, igual que a final de 2025. La de segunda mano, un 13,5%, el máximo de su serie. Subió en todas las comunidades, con Aragón y Murcia a la cabeza (15,6%)."
+              "p": "El precio de la vivienda libre subió un 12,9% interanual en el primer trimestre de 2026, según el INE, igual que a final de 2025. La de segunda mano, un 13,5%, el máximo de su serie. Subió en todas las comunidades, con Aragón y Murcia a la cabeza (15,6%). En el segundo trimestre se moderó hasta el 12,2%."
             },
             {
               "t": "El alquiler",
@@ -494,19 +490,24 @@
           "claves": [
             "1er trimestre: +12,9%",
             "Segunda mano: +13,5% (récord)",
-            "Alquiler: 15,3 €/m² en julio (idealista)"
+            "Alquiler: 15,3 €/m² en julio (idealista)",
+            "2º trimestre 2026: +12,2%"
           ],
           "fuentes": [
             {
-              "nombre": "Brainsre (INE)",
-              "url": "https://brainsre.news/precio-vivienda-ine-primer-trimestre-12-9-interanual/"
+              "nombre": "INE: precios de vivienda, 1er trimestre 2026",
+              "url": "https://www.ine.es/dyngs/Prensa/IPV1T26.htm"
             },
             {
-              "nombre": "Europa Press (idealista)",
+              "nombre": "INE: precios de vivienda, 2º trimestre 2026",
+              "url": "https://ine.es/dyngs/Prensa/IPV2T26.pdf"
+            },
+            {
+              "nombre": "Europa Press, vía Bolsamanía (idealista)",
               "url": "https://www.bolsamania.com/noticias_amp/mercados/economia--el-precio-del-alquiler-en-espana-alcanza-un-maximo-historico-tras-subir-un-68-en-julio-segun-idealista--23172987.html"
             },
             {
-              "nombre": "Europa Press (Fotocasa)",
+              "nombre": "Europa Press, vía Bolsamanía (Fotocasa)",
               "url": "https://www.bolsamania.com/noticias_print/empresas/economiavivienda--el-precio-del-alquiler-rompe-en-julio-con-52-meses-de-alzas-tras-bajar-un-16-segun-fotocasa--23202603.html"
             },
             {
@@ -701,10 +702,6 @@
             {
               "nombre": "EFE/El Nuevo Diario",
               "url": "https://elnuevodiario.com.do/sin-visos-de-solucion-en-la-guerra-entre-rusia-y-ucrania-la-mas-sangrienda-desde-la-iigm/"
-            },
-            {
-              "nombre": "Reuters/GBM",
-              "url": "https://gbm.com/media/noticia/el-kremlin-confirma-las-conversaciones-trilaterales-de-paz-sobre-ucrania-la-proxima-semana/"
             }
           ]
         },
@@ -762,7 +759,7 @@
         {
           "mes": "Enero y octubre",
           "titulo": "El año negro del tren",
-          "entradilla": "Dos accidentes de alta velocidad, en Adamuz y en Urda, han dejado al menos 115 muertos y la dimisión del ministro.",
+          "entradilla": "Los accidentes de alta velocidad de Adamuz y Urda, los más graves de un año en que también hubo otro en Gélida, han dejado al menos 115 muertos y la dimisión del ministro.",
           "partes": [
             {
               "t": "Adamuz",
@@ -788,12 +785,16 @@
           ],
           "fuentes": [
             {
-              "nombre": "La Nación",
-              "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-y-que-no-del-accidente-ferroviario-que-conmociona-a-espana-nid19012026/"
+              "nombre": "La Moncloa: ayudas a las víctimas de Urda",
+              "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/Paginas/2026/ayudas-medidas-accidente-ferroviario-urda-toledo.aspx"
             },
             {
-              "nombre": "Tiempo",
-              "url": "https://www.tiempo.com.mx/internacional/renuncio-ministro-de-transporte-de-espana-tras-tragedia-de-trenes/"
+              "nombre": "BOE: cese del ministro de Transportes",
+              "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23171"
+            },
+            {
+              "nombre": "La Nación",
+              "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-y-que-no-del-accidente-ferroviario-que-conmociona-a-espana-nid19012026/"
             },
             {
               "nombre": "Don Porque",
@@ -834,6 +835,14 @@
           ],
           "fuentes": [
             {
+              "nombre": "UGT: convocatoria de la huelga",
+              "url": "https://www.ugt.es/ugt-destaca-las-mas-de-3600-adhesiones-la-huelga-general-de-comites-de-empresa-juntas-de-personal-y"
+            },
+            {
+              "nombre": "CCOO: registro de la huelga",
+              "url": "https://www.ccoo.es/noticia:770401--%E2%80%9CCCOO_hace_un_llamamiento_a_la_clase_trabajadora_y_a_la_ciudadania_a_que_participe_de_la_huelga_y_las_movilizaciones_convocadas_para_el_11N%E2%80%9D&opc_id=8c53f4de8f8f09d2e54f19daf8d8ed95"
+            },
+            {
               "nombre": "DiG Abogados",
               "url": "https://www.dig.es/huelga-general-11-noviembre-empresas/"
             },
@@ -842,7 +851,7 @@
               "url": "https://www.cuatrecasas.com/resources/huelga-general-text-6ad9e370439bd185276893.pdf"
             },
             {
-              "nombre": "EFE/Periódico de Ibiza",
+              "nombre": "EFE (vía Periódico de Ibiza)",
               "url": "https://www.periodicodeibiza.es/noticias/nacional/2026/11/11/2747443/huelga-general-11n-sindicatos-cifran-seguimiento-entre-ven-exito.html"
             }
           ]
@@ -1011,16 +1020,16 @@
           ],
           "fuentes": [
             {
+              "nombre": "NASA: misión Artemis II",
+              "url": "https://www.nasa.gov/mission/artemis-ii/"
+            },
+            {
               "nombre": "NASA",
               "url": "https://www.nasa.gov/?p=983384"
             },
             {
               "nombre": "AP/ABC7",
               "url": "https://abc7chicago.com/post/la-mision-artemis-ii-se-prepara-para-tenso-amerizaje-en-el-pacfico/18867652/"
-            },
-            {
-              "nombre": "BBC Mundo",
-              "url": "https://www.teletica.com/amp/internacional/lo-que-la-mision-artemis-ii-ha-ensenado-sobre-futuros-viajes-tripulados-a-la-luna_406443"
             },
             {
               "nombre": "Euronews",
@@ -1127,7 +1136,7 @@
           "partes": [
             {
               "t": "Los datos",
-              "p": "Según el Human Capital Outlook de EY, las ocupaciones más expuestas a la IA suman algo más del 30% del empleo en España, una proporción estable desde 2022, y el mercado laboral siguió creando empleo en el segundo trimestre."
+              "p": "Según el Human Capital Outlook de EY, las ocupaciones más expuestas a la IA suman algo más del 30% del empleo en España, una proporción estable desde 2022. Y según el INE, el empleo siguió creciendo en el segundo y el tercer trimestre."
             },
             {
               "t": "Dónde se nota",
@@ -1144,6 +1153,14 @@
             "Impacto concentrado en pocos sectores"
           ],
           "fuentes": [
+            {
+              "nombre": "EY: Human Capital Outlook (octubre)",
+              "url": "https://www.ey.com/es_es/newsroom/2026/10/el-empleo-continua-creciendo-pese-al-avance-de-la-inteligencia-artificial"
+            },
+            {
+              "nombre": "INE: EPA del tercer trimestre",
+              "url": "https://www.ine.es/dyngs/Prensa/EPA3T26.htm"
+            },
             {
               "nombre": "Ecosistema Startup (EY)",
               "url": "https://ecosistemastartup.com/?p=115215"
