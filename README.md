@@ -42,4 +42,10 @@ Cloudflare → Workers & Pages → Create → Pages → Connect to Git → elige
 
 Cada noticia tiene un `resumen` (unas cinco líneas), un `porque` y un `detalle` con `parrafos`, `claves` y `ahora`. Al pulsar «Abrir», la tarjeta se da la vuelta y muestra el detalle. Empieza cada párrafo con una frase corta acabada en punto («Qué se reclama.») y la web la pondrá en negrita.
 
+Opcionalmente, cada noticia puede llevar una `ilustracion` con la ruta de un dibujo (por ejemplo `"assets/ilustraciones/2026-11-11-huelga.svg"`). Los dibujos van en `assets/ilustraciones/`, miden 600×240, son escenas con degradados y textura de grano, y usan la gama de color de su sección. Si una noticia no lleva `ilustracion`, la tarjeta se muestra sin imagen.
+
+En `datos/29n.json`, cada propuesta lleva `texto` (el resumen) y `puntos` (la lista de medidas que se muestra con guiones); `intro` es opcional. Las propuestas sin anunciar llevan `"vacio": true` y solo `texto`.
+
+Si una noticia nombra a algún partido, añade `"partidos": ["pp", "psoe"]` y la tarjeta mostrará sus chapas. El mismo campo funciona en el resumen de 2026 y en el diario del 29N. Identificadores disponibles: `pp`, `psoe`, `vox`, `fa`, `salf`, `podemos`, `sumar`, `erc` y `junts`. Las siglas y los colores se definen en `PARTIDOS`, al principio de `assets/app.js`. Ordénalos siempre igual, por la media de encuestas.
+
 Orden de prioridad: España y Economía (unas tres noticias cada una), Internacional (dos) y una de Sociedad, Ciencia y Deportes.

@@ -17,6 +17,25 @@ const SECCIONES = {
 // Orden de prioridad: España y Economía primero, después Internacional y el resto.
 const ORDEN = ["espana", "economia", "internacional", "sociedad", "ciencia", "deportes"];
 
+// Partidos: siglas y color para las chapas (orden = media de encuestas)
+const PARTIDOS = {
+  pp:      { siglas: "PP",      nombre: "Partido Popular",     color: "#1D84CE" },
+  psoe:    { siglas: "PSOE",    nombre: "PSOE",                color: "#E30613" },
+  vox:     { siglas: "VOX",     nombre: "Vox",                 color: "#63BE21" },
+  fa:      { siglas: "FA",      nombre: "Frente Amplio",       color: "#E34A2B" },
+  salf:    { siglas: "SALF",    nombre: "Se Acabó La Fiesta",  color: "#4A4F57" },
+  podemos: { siglas: "PODEMOS", nombre: "Podemos",             color: "#6B2C6E" },
+  sumar:   { siglas: "SUMAR",   nombre: "Sumar",               color: "#E5195B" },
+  erc:     { siglas: "ERC",     nombre: "ERC",                 color: "#FFB232" },
+  junts:   { siglas: "JUNTS",   nombre: "Junts",               color: "#00C3B2" }
+};
+function chapasDe(ids) {
+  const lista = (ids || []).filter((id) => PARTIDOS[id]);
+  if (!lista.length) return "";
+  return '<div class="chapas-partidos" aria-label="Partidos en esta noticia">' +
+    lista.map((id) => chapa(PARTIDOS[id].siglas, PARTIDOS[id].color, PARTIDOS[id].nombre)).join("") + "</div>";
+}
+
 const $ = (sel) => document.querySelector(sel);
 const $$ = (sel, raiz) => Array.from((raiz || document).querySelectorAll(sel));
 const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
@@ -148,7 +167,9 @@ function tarjetaNoticia(n, i) {
   const minMas = n.minutosMas || minutosDe(parrafos);
   let html = '<article class="tarjeta noticia" data-seccion="' + esc(n.seccion) + '" style="' + varsSeccion(s) + '">';
   html += '<div class="cara">' +
+    (n.ilustracion ? '<img class="ilustracion" src="' + esc(n.ilustracion) + '" alt="" width="600" height="240" decoding="async">' : "") +
     '<div class="cabeza"><span>' + String(i + 1).padStart(2, "0") + " · " + esc(s.nombre) + "</span><span>" + minFrente + "</span></div>" +
+    chapasDe(n.partidos) +
     "<h2>" + esc(n.titulo) + "</h2>" +
     '<p class="resumen">' + esc(n.resumen) + "</p>" +
     '<p class="porque"><em>Por qué importa: </em>' + esc(n.porque) + "</p>" +
@@ -286,6 +307,7 @@ function tarjetaAnual(it, n, clave) {
   return '<article class="tarjeta anual" style="' + varsSeccion(s) + '">' +
     '<div class="cara">' +
       '<div class="cabeza"><span>' + String(n).padStart(2, "0") + " · " + esc(it.mes) + "</span><span>" + min + " min</span></div>" +
+      chapasDe(it.partidos) +
       "<h3>" + esc(it.titulo) + "</h3>" +
       '<p class="resumen">' + esc(it.entradilla) + "</p>" +
       '<div class="pie">' + botonAbrir("Leer a fondo", "rev-" + id) + "</div>" +
@@ -386,7 +408,7 @@ async function especial29n() {
         '<span class="etiqueta">Encuestas</span>' +
         "<h2>" + esc(d.encuestas.titulo) + "</h2>" +
         '<ul class="barras">' + d.encuestas.datos.map((e) =>
-          '<li style="--partido:' + esc(e.color || "#3B3F48") + '"><span class="nombre"><i class="punto-partido"></i>' + esc(e.partido) + '</span><span class="pista"><span style="width:' + (e.valor / max * 100).toFixed(1) + '%"></span></span><span class="valor">' + String(e.valor.toFixed(1)).replace(".", ",") + "%</span></li>").join("") +
+          '<li style="--partido:' + esc(e.color || "#3B3F48") + '"><span class="nombre">' + chapa(e.siglas || e.partido, e.color, e.partido) + '<span class="visualmente-oculto">' + esc(e.partido) + '</span></span><span class="pista"><span style="width:' + (e.valor / max * 100).toFixed(1) + '%"></span></span><span class="valor">' + String(e.valor.toFixed(1)).replace(".", ",") + "%</span></li>").join("") +
         "</ul>" +
         '<span class="fuentes">' + esc(d.encuestas.nota) + " " + enlacesFuentes([d.encuestas.fuente], "Fuente: ") + "</span>" +
       "</article>" +
@@ -407,7 +429,7 @@ async function especial29n() {
     // Diario
     html += '<section class="bloque" id="diario"><h2 class="titulo-bloque">Diario de campaña</h2><ol class="diario">' +
       d.diario.map((e) => '<li><time datetime="' + esc(e.fecha) + '">' + esc(fechaCorta(e.fecha)) + "</time>" +
-        "<div><h3>" + esc(e.titulo) + "</h3><p>" + esc(e.texto) + '</p><span class="fuentes">' + enlacesFuentes(e.fuentes) + "</span></div></li>").join("") +
+        "<div>" + chapasDe(e.partidos) + "<h3>" + esc(e.titulo) + "</h3><p>" + esc(e.texto) + '</p><span class="fuentes">' + enlacesFuentes(e.fuentes) + "</span></div></li>").join("") +
       "</ol></section>";
 
     zona.innerHTML = html;
@@ -417,6 +439,20 @@ async function especial29n() {
     zona.innerHTML = '<p class="vacio">No hemos podido cargar el especial del 29N.</p>';
     console.error(err);
   }
+}
+
+/* Chapa de partido: siglas en la tipografía de ephemeral. sobre el color del partido */
+function textoSobre(hex) {
+  const lum = (h) => {
+    const c = [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4)));
+    return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+  };
+  const L = lum(hex), blanco = 1.05 / (L + 0.05), tinta = (L + 0.05) / (lum("#23252B") + 0.05);
+  return blanco >= tinta ? "#FFFFFF" : "#23252B";
+}
+function chapa(siglas, color, nombre) {
+  const c = color || "#3B3F48";
+  return '<span class="chapa" style="background:' + esc(c) + ";color:" + textoSobre(c) + '"' + (nombre && nombre !== siglas ? ' title="' + esc(nombre) + '"' : "") + ">" + esc(siglas) + "</span>";
 }
 
 function activarComparador(d) {
@@ -439,8 +475,10 @@ function activarComparador(d) {
   const tarjetaPropuesta = (titulo, sub, p, color, conPunto) => {
     const vacio = !p || p.vacio;
     return '<article class="propuesta' + (vacio ? " vacia" : "") + '" style="--partido:' + esc(color) + '">' +
-      '<div class="cabeza"><b>' + (conPunto ? '<i class="punto-partido"></i>' : "") + esc(titulo) + "</b>" + (sub ? "<span>" + esc(sub) + "</span>" : "") + "</div>" +
-      "<p>" + esc(p ? p.texto : "Sin información todavía.") + "</p>" +
+      '<div class="cabeza">' + (conPunto ? '<b class="con-chapa">' + chapa(conPunto, color, titulo) + (titulo.toUpperCase() !== conPunto ? '<span class="nombre-largo">' + esc(titulo) + "</span>" : "") + "</b>" : "<b>" + esc(titulo) + "</b>") + (sub ? "<span>" + esc(sub) + "</span>" : "") + "</div>" +
+      (p && p.puntos && p.puntos.length
+        ? (p.intro ? '<p class="intro">' + esc(p.intro) + "</p>" : "") + '<ul class="puntos">' + p.puntos.map((x) => "<li>" + esc(x) + "</li>").join("") + "</ul>"
+        : "<p>" + esc(p ? p.texto : "Sin información todavía.") + "</p>") +
       (p && p.fuentes && p.fuentes.length ? '<span class="fuentes">' + enlacesFuentes(p.fuentes) + "</span>" : "") +
       "</article>";
   };
@@ -450,11 +488,11 @@ function activarComparador(d) {
     if (estado.modo === "tema") {
       const tema = d.temas.find((t) => t.id === estado.tema);
       salida.innerHTML = '<h3 class="subtitulo">' + esc(tema.nombre) + '</h3><div class="propuestas">' +
-        d.partidos.map((p) => tarjetaPropuesta(p.nombre, p.candidato, (d.propuestas[p.id] || {})[tema.id], p.color, true)).join("") + "</div>";
+        d.partidos.map((p) => tarjetaPropuesta(p.nombre, p.candidato, (d.propuestas[p.id] || {})[tema.id], p.color, p.siglas || p.nombre)).join("") + "</div>";
     } else {
       const p = d.partidos.find((x) => x.id === estado.partido);
       salida.innerHTML = '<div class="ficha-partido" style="--partido:' + esc(p.color) + '">' +
-        '<h3><i class="punto-partido"></i>' + esc(p.nombre) + "</h3>" +
+        '<h3>' + chapa(p.siglas || p.nombre, p.color) + esc(p.nombre) + "</h3>" +
         "<p><b>Candidato/a:</b> " + esc(p.candidato) + (p.lema ? " · <b>Lema:</b> «" + esc(p.lema) + "»" : "") + "</p>" +
         '<p class="suave">' + esc(p.estado) + "</p>" +
         '</div><div class="propuestas">' +

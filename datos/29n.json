@@ -83,42 +83,50 @@
       {
         "partido": "PP",
         "valor": 31.0,
-        "color": "#1D84CE"
+        "color": "#1D84CE",
+        "siglas": "PP"
       },
       {
         "partido": "PSOE",
         "valor": 26.2,
-        "color": "#E30613"
+        "color": "#E30613",
+        "siglas": "PSOE"
       },
       {
         "partido": "Vox",
         "valor": 19.5,
-        "color": "#63BE21"
+        "color": "#63BE21",
+        "siglas": "VOX"
       },
       {
         "partido": "Frente Amplio",
         "valor": 6.6,
-        "color": "#E34A2B"
+        "color": "#E34A2B",
+        "siglas": "FA"
       },
       {
         "partido": "ERC",
         "valor": 2.4,
-        "color": "#FFB232"
+        "color": "#FFB232",
+        "siglas": "ERC"
       },
       {
         "partido": "SALF",
         "valor": 2.2,
-        "color": "#4A4F57"
+        "color": "#4A4F57",
+        "siglas": "SALF"
       },
       {
         "partido": "Podemos",
         "valor": 2.1,
-        "color": "#6B2C6E"
+        "color": "#6B2C6E",
+        "siglas": "PODEMOS"
       },
       {
         "partido": "Junts",
         "valor": 1.4,
-        "color": "#00C3B2"
+        "color": "#00C3B2",
+        "siglas": "JUNTS"
       }
     ]
   },
@@ -128,14 +136,16 @@
       "nombre": "PP",
       "candidato": "Alberto Núñez Feijóo",
       "estado": "Programa completo publicado el 10 de noviembre (249 medidas)",
-      "color": "#1D84CE"
+      "color": "#1D84CE",
+      "siglas": "PP"
     },
     {
       "id": "psoe",
       "nombre": "PSOE",
       "candidato": "Pedro Sánchez",
       "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
-      "color": "#E30613"
+      "color": "#E30613",
+      "siglas": "PSOE"
     },
     {
       "id": "vox",
@@ -143,7 +153,8 @@
       "candidato": "Santiago Abascal",
       "lema": "Es sentido común",
       "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
-      "color": "#63BE21"
+      "color": "#63BE21",
+      "siglas": "VOX"
     },
     {
       "id": "fa",
@@ -151,21 +162,24 @@
       "candidato": "Ada Colau",
       "lema": "Un voto como una casa",
       "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
-      "color": "#E34A2B"
+      "color": "#E34A2B",
+      "siglas": "FA"
     },
     {
       "id": "salf",
       "nombre": "SALF",
       "candidato": "Luis «Alvise» Pérez",
       "estado": "Sin programa para el 29N: propuestas presentadas en octubre de 2025",
-      "color": "#4A4F57"
+      "color": "#4A4F57",
+      "siglas": "SALF"
     },
     {
       "id": "podemos",
       "nombre": "Podemos",
       "candidato": "Irene Montero",
       "estado": "Sin programa completo todavía: propuestas anunciadas en precampaña",
-      "color": "#6B2C6E"
+      "color": "#6B2C6E",
+      "siglas": "PODEMOS"
     }
   ],
   "temas": [
@@ -198,6 +212,14 @@
     "pp": {
       "vivienda": {
         "texto": "Construir al menos un millón de viviendas. Rebajar del 10% al 4% el IVA y el impuesto de transmisiones de la primera vivienda para jóvenes y bonificarles el IRPF sus primeros años de trabajo. Alquiler en suelo público un 30% por debajo del mercado. Licencias concedidas si la Administración no responde en 90 días. Desalojo de okupas en 48 horas.",
+        "puntos": [
+          "Construir al menos un millón de viviendas.",
+          "Rebajar del 10% al 4% el IVA y el impuesto de transmisiones de la primera vivienda para jóvenes.",
+          "Bonificar el IRPF a los jóvenes en sus primeros años de trabajo.",
+          "Alquiler en suelo público un 30% por debajo del mercado.",
+          "Licencias concedidas si la Administración no responde en 90 días.",
+          "Desalojo de okupas en 48 horas."
+        ],
         "fuentes": [
           {
             "nombre": "Brainsre",
@@ -211,6 +233,11 @@
       },
       "economia": {
         "texto": "Revisar «una a una» las más de 100 subidas de impuestos de los últimos años y bajar impuestos. Auditar todo el gasto público en los primeros 100 días. Más de 300.000 millones en infraestructuras durante 15 años, con dinero privado.",
+        "puntos": [
+          "Revisar «una a una» las más de 100 subidas de impuestos de los últimos años y bajar impuestos.",
+          "Auditar todo el gasto público en los primeros 100 días.",
+          "Más de 300.000 millones en infraestructuras durante 15 años, con dinero privado."
+        ],
         "fuentes": [
           {
             "nombre": "Contrato con España",
@@ -224,6 +251,11 @@
       },
       "trabajo": {
         "texto": "Actualizar las pensiones con el IPC y garantizarlo también a los jóvenes, dentro del Pacto de Toledo. Subir el salario medio con más productividad y que trabajar compense más que cobrar subsidios.",
+        "puntos": [
+          "Actualizar las pensiones con el IPC y garantizarlo también a los jóvenes, dentro del Pacto de Toledo.",
+          "Subir el salario medio con más productividad.",
+          "Que trabajar compense más que cobrar subsidios."
+        ],
         "fuentes": [
           {
             "nombre": "Contrato con España",
@@ -233,6 +265,12 @@
       },
       "inmigracion": {
         "texto": "Reducir la inmigración irregular, abrir vías legales para quien venga a trabajar, endurecer el acceso a la nacionalidad y aprobar una ley que prohíba las regularizaciones colectivas.",
+        "puntos": [
+          "Reducir la inmigración irregular.",
+          "Abrir vías legales para quien venga a trabajar.",
+          "Endurecer el acceso a la nacionalidad.",
+          "Una ley que prohíba las regularizaciones colectivas."
+        ],
         "fuentes": [
           {
             "nombre": "Contrato con España",
@@ -242,6 +280,12 @@
       },
       "estado": {
         "texto": "Que los jueces elijan a los jueces del CGPJ. Presupuestos cada año y elecciones obligatorias si se prorrogan más de una vez. Menos ministerios, altos cargos y asesores. Que cada cargo responda por la corrupción de sus subordinados.",
+        "puntos": [
+          "Que los jueces elijan a los jueces del CGPJ.",
+          "Presupuestos cada año y elecciones obligatorias si se prorrogan más de una vez.",
+          "Menos ministerios, altos cargos y asesores.",
+          "Que cada cargo responda por la corrupción de sus subordinados."
+        ],
         "fuentes": [
           {
             "nombre": "Contrato con España",
@@ -251,6 +295,9 @@
       },
       "mundo": {
         "texto": "Recuperar alianzas en la Unión Europea, Hispanoamérica y con los aliados históricos de España.",
+        "puntos": [
+          "Recuperar alianzas en la Unión Europea, Hispanoamérica y con los aliados históricos de España."
+        ],
         "fuentes": [
           {
             "nombre": "Contrato con España",
@@ -262,6 +309,13 @@
     "psoe": {
       "vivienda": {
         "texto": "Desarrollar el Plan Estatal de Vivienda 2026-2030 (7.000 millones) y la empresa pública Casa 47, que recibirá suelo e inmuebles de la Seguridad Social. Préstamos ICO sin intereses de hasta 50.000 euros para la entrada de la primera vivienda. Un impuesto del 25% a las socimis residenciales que no se dediquen al alquiler asequible. Mantener los decretos de alquiler.",
+        "puntos": [
+          "Desarrollar el Plan Estatal de Vivienda 2026-2030 (7.000 millones).",
+          "La empresa pública Casa 47, que recibirá suelo e inmuebles de la Seguridad Social.",
+          "Préstamos ICO sin intereses de hasta 50.000 euros para la entrada de la primera vivienda.",
+          "Un impuesto del 25% a las socimis residenciales que no se dediquen al alquiler asequible.",
+          "Mantener los decretos de alquiler."
+        ],
         "fuentes": [
           {
             "nombre": "Brainsre",
@@ -275,15 +329,25 @@
       },
       "economia": {
         "texto": "Defiende el paquete que el Gobierno reeditó tras convocar elecciones: un fondo de 10.000 millones en préstamos ICO, deducciones de hasta 1.000 euros en el IRPF para inquilinos con rentas medias y un IVA del 10% para los pisos turísticos.",
+        "puntos": [
+          "Un fondo de 10.000 millones en préstamos ICO.",
+          "Deducciones de hasta 1.000 euros en el IRPF para inquilinos con rentas medias.",
+          "Un IVA del 10% para los pisos turísticos."
+        ],
         "fuentes": [
           {
             "nombre": "Euronews",
             "url": "https://es.euronews.com/2026/10/06/gobierno-rescata-decretos-ley-vivienda-plan-10000-millones-primera-compra"
           }
-        ]
+        ],
+        "intro": "Defiende el paquete que el Gobierno reeditó tras convocar elecciones:"
       },
       "trabajo": {
         "texto": "Blindar en la Constitución la revalorización de las pensiones y subir el salario mínimo cada año.",
+        "puntos": [
+          "Blindar en la Constitución la revalorización de las pensiones.",
+          "Subir el salario mínimo cada año."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -308,6 +372,10 @@
       },
       "mundo": {
         "texto": "Se opone a elevar el gasto en defensa al 5% del PIB y defiende que España tome sus propias decisiones.",
+        "puntos": [
+          "Se opone a elevar el gasto en defensa al 5% del PIB.",
+          "Defiende que España tome sus propias decisiones."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -319,6 +387,14 @@
     "vox": {
       "vivienda": {
         "texto": "Derogar la Ley de Vivienda. Eliminar los impuestos de compra de la primera vivienda y recuperar la deducción por vivienda en el IRPF. Liberalizar suelo y acortar plazos. Recuperación inmediata de la vivienda en caso de impago y desalojo de okupas en 24 horas. «Prioridad nacional»: los españoles, primero en vivienda protegida y ayudas.",
+        "puntos": [
+          "Derogar la Ley de Vivienda.",
+          "Eliminar los impuestos de compra de la primera vivienda.",
+          "Recuperar la deducción por vivienda en el IRPF.",
+          "Liberalizar suelo y acortar plazos.",
+          "Recuperación inmediata de la vivienda en caso de impago y desalojo de okupas en 24 horas.",
+          "«Prioridad nacional»: los españoles, primero en vivienda protegida y ayudas."
+        ],
         "fuentes": [
           {
             "nombre": "Brainsre",
@@ -332,6 +408,12 @@
       },
       "economia": {
         "texto": "IRPF con 22.000 euros exentos y solo dos tramos: 15% hasta 70.000 euros y 25% por encima, con 4 puntos menos por cada hijo. Bajar los impuestos de la luz y los carburantes. Financiarlo recortando subvenciones y organismos. El Gobierno estima su coste en 46.000 millones.",
+        "puntos": [
+          "IRPF con 22.000 euros exentos y solo dos tramos: 15% hasta 70.000 euros y 25% por encima.",
+          "4 puntos menos de IRPF por cada hijo.",
+          "Bajar los impuestos de la luz y los carburantes.",
+          "Financiarlo recortando subvenciones y organismos (el Gobierno estima su coste en 46.000 millones)."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -341,6 +423,10 @@
       },
       "trabajo": {
         "texto": "Pasar a un sistema de pensiones mixto: el actual de reparto más una parte de capitalización individual, con el modelo sueco como referencia.",
+        "puntos": [
+          "Pensiones mixtas: el sistema actual de reparto más una parte de capitalización individual.",
+          "El modelo sueco como referencia."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -350,6 +436,10 @@
       },
       "inmigracion": {
         "texto": "«Remigración» (la salida del país de determinados inmigrantes) y «prioridad nacional» en el acceso a ayudas y servicios públicos.",
+        "puntos": [
+          "«Remigración»: la salida del país de determinados inmigrantes.",
+          "«Prioridad nacional» en el acceso a ayudas y servicios públicos."
+        ],
         "fuentes": [
           {
             "nombre": "Qué!",
@@ -359,6 +449,10 @@
       },
       "estado": {
         "texto": "Desregulación: eliminar normas y organismos que considera superfluos y suprimir obligaciones como los planes de igualdad o el registro horario en las empresas.",
+        "puntos": [
+          "Eliminar normas y organismos que considera superfluos.",
+          "Suprimir obligaciones como los planes de igualdad o el registro horario en las empresas."
+        ],
         "fuentes": [
           {
             "nombre": "El Independiente",
@@ -375,6 +469,11 @@
     "fa": {
       "vivienda": {
         "texto": "Una ley para expropiar viviendas a grandes propietarios corporativos, por fases: primero a los de más de 1.000 viviendas, luego a los de más de 700 y por último a los de más de 50. No afectaría a particulares ni familias que alquilan.",
+        "puntos": [
+          "Una ley para expropiar viviendas a grandes propietarios corporativos, por fases.",
+          "Primero, a los de más de 1.000 viviendas; luego, a los de más de 700; y por último, a los de más de 50.",
+          "No afectaría a particulares ni a familias que alquilan."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -388,6 +487,11 @@
       },
       "economia": {
         "texto": "Un impuesto a los patrimonios de más de un millón de euros, con tipos del 2% y el 3% para los mayores; calculan que recaudaría más de 10.000 millones al año. Más impuestos a las grandes empresas.",
+        "puntos": [
+          "Un impuesto a los patrimonios de más de un millón de euros, con tipos del 2% y el 3% para los mayores.",
+          "Calculan que recaudaría más de 10.000 millones al año.",
+          "Más impuestos a las grandes empresas."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -397,6 +501,9 @@
       },
       "trabajo": {
         "texto": "Subir el salario mínimo; el ministro Ernest Urtasun, que va en sus listas, pidió hacerlo antes del 29N.",
+        "puntos": [
+          "Subir el salario mínimo; el ministro Ernest Urtasun, que va en sus listas, pidió hacerlo antes del 29N."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -423,6 +530,11 @@
     "salf": {
       "vivienda": {
         "texto": "Que todo el suelo sea urbanizable salvo motivos objetivos, con ventajas fiscales para construir. Desalojo inmediato de okupas y penas de cárcel.",
+        "puntos": [
+          "Que todo el suelo sea urbanizable salvo motivos objetivos.",
+          "Ventajas fiscales para construir.",
+          "Desalojo inmediato de okupas y penas de cárcel."
+        ],
         "fuentes": [
           {
             "nombre": "El Independiente",
@@ -432,6 +544,10 @@
       },
       "economia": {
         "texto": "IRPF del 0% para quien gane menos de 30.000 euros al año y medio punto menos por cada hijo.",
+        "puntos": [
+          "IRPF del 0% para quien gane menos de 30.000 euros al año.",
+          "Medio punto menos de IRPF por cada hijo."
+        ],
         "fuentes": [
           {
             "nombre": "El Independiente",
@@ -451,6 +567,10 @@
       },
       "inmigracion": {
         "texto": "Deportaciones masivas de inmigrantes en situación irregular, empezando por los procedentes de Marruecos, financiadas con la ayuda a la cooperación.",
+        "puntos": [
+          "Deportaciones masivas de inmigrantes en situación irregular, empezando por los procedentes de Marruecos.",
+          "Financiarlas con la ayuda a la cooperación."
+        ],
         "fuentes": [
           {
             "nombre": "El Independiente",
@@ -460,6 +580,12 @@
       },
       "estado": {
         "texto": "Prohibir que los partidos se financien con dinero público. Que los delitos de corrupción no prescriban. Una «macrocárcel» inspirada en El Salvador y el fin de los permisos penitenciarios. Usar la IA para recortar burocracia y cargos.",
+        "puntos": [
+          "Prohibir que los partidos se financien con dinero público.",
+          "Que los delitos de corrupción no prescriban.",
+          "Una «macrocárcel» inspirada en El Salvador y el fin de los permisos penitenciarios.",
+          "Usar la IA para recortar burocracia y cargos."
+        ],
         "fuentes": [
           {
             "nombre": "El Independiente",
@@ -469,6 +595,10 @@
       },
       "mundo": {
         "texto": "Un referéndum si la UE «no respeta» a España. Se opone a enviar tropas a Ucrania.",
+        "puntos": [
+          "Un referéndum si la UE «no respeta» a España.",
+          "Se opone a enviar tropas a Ucrania."
+        ],
         "fuentes": [
           {
             "nombre": "El Independiente",
@@ -480,6 +610,11 @@
     "podemos": {
       "vivienda": {
         "texto": "Prohibir comprar vivienda que no sea para vivir en ella y pasar al alquiler social las viviendas de los fondos de inversión. Limitar por ley el alquiler al 30% de los ingresos del hogar.",
+        "puntos": [
+          "Prohibir comprar vivienda que no sea para vivir en ella.",
+          "Pasar al alquiler social las viviendas de los fondos de inversión.",
+          "Limitar por ley el alquiler al 30% de los ingresos del hogar."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -493,6 +628,9 @@
       },
       "economia": {
         "texto": "Redistribuir la riqueza aplicando el artículo 128 de la Constitución, sin concretar todavía impuestos ni tipos.",
+        "puntos": [
+          "Redistribuir la riqueza aplicando el artículo 128 de la Constitución, sin concretar todavía impuestos ni tipos."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -502,6 +640,12 @@
       },
       "trabajo": {
         "texto": "Jubilación a los 63 años, subir las pensiones mínimas y no contributivas, salario mínimo de 1.800 euros y jornada de 30 horas semanales.",
+        "puntos": [
+          "Jubilación a los 63 años.",
+          "Subir las pensiones mínimas y no contributivas.",
+          "Salario mínimo de 1.800 euros.",
+          "Jornada de 30 horas semanales."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -526,6 +670,9 @@
       },
       "mundo": {
         "texto": "Rechaza que el aumento del gasto militar que piden la UE, EE. UU. y la OTAN salga de la sanidad y las pensiones.",
+        "puntos": [
+          "Rechaza que el aumento del gasto militar que piden la UE, EE. UU. y la OTAN salga de la sanidad y las pensiones."
+        ],
         "fuentes": [
           {
             "nombre": "Demócrata",
@@ -550,6 +697,9 @@
     {
       "fecha": "2026-11-10",
       "titulo": "El PP publica su programa",
+      "partidos": [
+        "pp"
+      ],
       "texto": "249 medidas, con una auditoría del gasto en 100 días y más de 300.000 millones en infraestructuras. Es el primer programa completo de un gran partido.",
       "fuentes": [
         {
@@ -561,6 +711,10 @@
     {
       "fecha": "2026-11-08",
       "titulo": "Sánchez promete blindar las pensiones",
+      "partidos": [
+        "psoe",
+        "vox"
+      ],
       "texto": "En Bilbao, el candidato del PSOE se compromete a llevar la revalorización de las pensiones a la Constitución y a subir el salario mínimo cada año. Vox elige su lema: «Es sentido común».",
       "fuentes": [
         {
@@ -576,6 +730,9 @@
     {
       "fecha": "2026-11-07",
       "titulo": "Frente Amplio: impuesto a las grandes fortunas",
+      "partidos": [
+        "fa"
+      ],
       "texto": "Ada Colau promete gravar los patrimonios de más de un millón y una ley para expropiar viviendas a grandes fondos.",
       "fuentes": [
         {
@@ -587,6 +744,9 @@
     {
       "fecha": "2026-11-06",
       "titulo": "Montero propone jubilarse a los 63",
+      "partidos": [
+        "podemos"
+      ],
       "texto": "La candidata de Podemos plantea también un salario mínimo de 1.800 euros y la jornada de 30 horas.",
       "fuentes": [
         {
@@ -609,6 +769,9 @@
     {
       "fecha": "2026-10-28",
       "titulo": "Accidente de Urda y cierre de listas",
+      "partidos": [
+        "salf"
+      ],
       "texto": "Un choque de trenes deja 69 muertos en Toledo. Ese día, SALF registra listas al Congreso en 46 provincias; no se presenta al Senado.",
       "fuentes": [
         {
@@ -624,6 +787,10 @@
     {
       "fecha": "2026-10-22",
       "titulo": "Habrá cara a cara el 16 de noviembre",
+      "partidos": [
+        "pp",
+        "psoe"
+      ],
       "texto": "El PSOE acepta la fecha propuesta por el PP para un debate Sánchez-Feijóo en una cadena privada.",
       "fuentes": [
         {
@@ -635,6 +802,9 @@
     {
       "fecha": "2026-10-19",
       "titulo": "Feijóo firma su «Contrato con España»",
+      "partidos": [
+        "pp"
+      ],
       "texto": "Doce compromisos que luego desarrolla el programa del PP: vivienda, inmigración, pensiones, impuestos e instituciones.",
       "fuentes": [
         {
@@ -646,6 +816,9 @@
     {
       "fecha": "2026-10-12",
       "titulo": "Abascal abre la precampaña en Estepona",
+      "partidos": [
+        "vox"
+      ],
       "texto": "Vox sitúa tres ejes: «remigración», «prioridad nacional» y desregulación.",
       "fuentes": [
         {
@@ -657,6 +830,9 @@
     {
       "fecha": "2026-10-07",
       "titulo": "Vox presenta su reforma fiscal",
+      "partidos": [
+        "vox"
+      ],
       "texto": "Un IRPF con 22.000 euros exentos y dos tramos, del 15% y el 25%.",
       "fuentes": [
         {
@@ -694,6 +870,11 @@
     {
       "fecha": "2026-10-02",
       "titulo": "El Congreso tumba los decretos de vivienda",
+      "partidos": [
+        "pp",
+        "vox",
+        "junts"
+      ],
       "texto": "PP, Vox y Junts votan en contra. Junts, que rompió con el Gobierno en 2025, es decisivo.",
       "fuentes": [
         {

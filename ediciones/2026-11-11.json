@@ -2,7 +2,7 @@
   "fecha": "2026-11-11",
   "numero": 1,
   "minutos": 6,
-  "titular": "España para, la campaña espera.",
+  "titular": "España se para a dos días de la campaña.",
   "entradilla": "Once noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
   "dato": {
     "seccion": "espana",
@@ -51,10 +51,15 @@
           "nombre": "Moncloa.com",
           "url": "https://www.moncloa.com/2026/11/10/huelga-general-ourense-11n-servicios-minimos-3465091/"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-huelga.svg"
     },
     {
       "seccion": "espana",
+      "partidos": [
+        "pp",
+        "vox"
+      ],
       "titulo": "El PP presenta su programa: auditoría en 100 días y un millón de viviendas",
       "resumen": "El PP es el primer gran partido que publica su programa completo para el 29N: 249 medidas. La primera es auditar, en los primeros 100 días de gobierno, todo el gasto público, la Administración y las empresas del Estado. Propone más de 300.000 millones en obras durante 15 años, con dinero privado, y desarrolla los doce compromisos que Feijóo firmó en octubre, como un millón de viviendas nuevas o bajar impuestos.",
       "porque": "el PP lidera todas las encuestas, así que este documento es el punto de partida de cualquier negociación de gobierno, también con Vox.",
@@ -85,10 +90,17 @@
           "nombre": "Contrato con España (PDF)",
           "url": "https://www.eldebate.com/uploads/files/2026/10/19/CONTRATO%20CON%20ESPANA%20.pdf"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-programa-pp.svg"
     },
     {
       "seccion": "espana",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
       "titulo": "La campaña empieza el viernes: así llegan los partidos",
       "resumen": "La campaña arranca a las 00:00 del viernes 13 y acaba a medianoche del 27; el 28 es jornada de reflexión. La media de 11 encuestas que calcula Demócrata (7 de noviembre) sitúa al PP en el 31,0%, al PSOE en el 26,2%, a Vox en el 19,5% y a Frente Amplio en el 6,6%. Sánchez y Feijóo han aceptado un cara a cara el lunes 16.",
       "porque": "con esos números nadie se acerca a la mayoría absoluta, 176 escaños: los pactos decidirán quién gobierna.",
@@ -127,7 +139,8 @@
           "nombre": "Artículo 14",
           "url": "https://www.articulo14.es/politica/debate-sanchez-feijoo-cuando-seria-donde-verlo-y-que-se-sabe-del-cara-a-cara-20261103.html"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-campana.svg"
     },
     {
       "seccion": "economia",
@@ -165,7 +178,8 @@
           "nombre": "CaixaBank Research",
           "url": "https://www.caixabankresearch.com/es/node/14715/printable/print"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-euribor.svg"
     },
     {
       "seccion": "economia",
@@ -199,7 +213,8 @@
           "nombre": "Euronews",
           "url": "https://es.euronews.com/2026/09/11/puede-la-subida-de-tipos-del-bce-frenar-el-shock-inflacionista-provocado-por-la-energia"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-inflacion.svg"
     },
     {
       "seccion": "economia",
@@ -232,7 +247,8 @@
           "nombre": "Primicias",
           "url": "https://www.primicias.ec/internacional/guerra-iran-seis-meses-cronologia-momentos-clave-131278/"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-petroleo.svg"
     },
     {
       "seccion": "internacional",
@@ -270,7 +286,8 @@
           "nombre": "AP/La Voz",
           "url": "https://lavozhispanact.com/rusia-mantendra-la-policia-y-la-guardia-nacional-en-el-donbas-aun-con-un-acuerdo-de-paz-dice-moscu/"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-abu-dabi.svg"
     },
     {
       "seccion": "internacional",
@@ -304,7 +321,8 @@
           "nombre": "Minuto60",
           "url": "https://minuto60.com/mundo/resultados-elecciones-estados-unidos-2026-democratas-ganadores/18305"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-congreso-eeuu.svg"
     },
     {
       "seccion": "sociedad",
@@ -337,7 +355,8 @@
           "nombre": "Don Porque",
           "url": "https://donporque.com/por-que-ha-dimitido-oscar-puente-urda/"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-urda.svg"
     },
     {
       "seccion": "ciencia",
@@ -371,7 +390,8 @@
           "nombre": "DPL News",
           "url": "https://dplnews.com/ceo-nvidia-presunta-espia-china/"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-nvidia.svg"
     },
     {
       "seccion": "deportes",
@@ -408,7 +428,8 @@
           "nombre": "Última Hora",
           "url": "https://www.ultimahora.es/deportes/futbol/2026/08/04/2683365/espana-inglaterra-liga-naciones-jugara-metropolitano.html"
         }
-      ]
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-11-futbol.svg"
     }
   ],
   "bulo": {
