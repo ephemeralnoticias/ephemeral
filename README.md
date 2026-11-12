@@ -61,3 +61,19 @@ Orden de prioridad: España y Economía (unas tres noticias cada una), Internaci
 - Cada propuesta de `datos/29n.json` lleva `tipo`: `programa`, `web`, `gobierno` o `declaraciones`. La web lo muestra como etiqueta. La fuente principal es siempre la del propio partido, si existe.
 - `encuestas.veda` fija el periodo en que las encuestas se ocultan solas (art. 69.7 de la LOREG). Para otras elecciones, cambia las fechas `inicio` y `fin`.
 - Las normas de redacción y fuentes están en la guía interna (documento aparte).
+
+
+## Newsletter: formulario propio (functions/api/suscribir.js)
+
+La portada usa un formulario propio que envía el correo a `/api/suscribir`, una función de
+Cloudflare Pages que da de alta al suscriptor en beehiiv con su API. Así los bloqueadores de
+anuncios no lo ocultan.
+
+Para activarlo hay que guardar dos variables en Cloudflare Pages
+(proyecto → Settings → Variables and Secrets), de tipo **Secret**, en Production:
+
+- `BEEHIIV_API_KEY`: clave creada en beehiiv → Settings → API → Create New API Key.
+- `BEEHIIV_PUBLICATION_ID`: el ID de la publicación (API V2, empieza por `pub_`), en la misma pantalla.
+
+Después hay que volver a desplegar (Deployments → Retry deployment). Mientras no estén las dos
+variables, la web muestra automáticamente el formulario de beehiiv de siempre.

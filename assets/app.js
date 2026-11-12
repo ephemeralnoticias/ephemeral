@@ -271,16 +271,59 @@ function htmlBulo(bulo, etiquetaTitulo) {
     "</article>";
 }
 
-// La caja de la newsletter está escrita en index.html (con el script de beehiiv tal cual),
-// para que el formulario cargue siempre igual. Si a los 8 segundos no ha aparecido
-// (bloqueador de anuncios, red lenta), se muestra un aviso con una alternativa.
-function vigilarFormulario() {
-  const caja = $("#form-beehiiv"), aviso = $("#form-aviso");
-  if (!caja || !aviso) return;
-  setTimeout(() => {
-    const cargado = Array.from(caja.children).some((e) => e.tagName !== "SCRIPT") || caja.querySelector("iframe");
-    if (!cargado) aviso.hidden = false;
+// Newsletter. Si el servidor (functions/api/suscribir.js) tiene configurada la API de beehiiv,
+// se usa el formulario propio, que no bloquean los bloqueadores de anuncios.
+// Si no, se queda el formulario de beehiiv, y si a los 8 s no ha cargado se muestra un aviso.
+async function prepararNewsletter() {
+  const propio = $("#form-propio"), embed = $("#form-beehiiv"), aviso = $("#form-aviso");
+  if (!propio || !embed) return;
+  let listo = false;
+  try {
+    const r = await fetch("api/suscribir", { headers: { Accept: "application/json" }, cache: "no-store" });
+    if (r.ok) listo = (await r.json()).listo === true;
+  } catch (e) { listo = false; }
+
+  if (listo) {
+    embed.hidden = true;
+    if (aviso) aviso.hidden = true;
+    propio.hidden = false;
+    activarFormularioPropio(propio);
+    return;
+  }
+  if (aviso) setTimeout(() => {
+    // Se considera cargado si el formulario ocupa espacio visible (no basta con que exista).
+    if (embed.getBoundingClientRect().height < 40) aviso.hidden = false;
   }, 8000);
+}
+
+function activarFormularioPropio(form) {
+  const estado = $("#form-estado"), boton = form.querySelector("button"), campo = form.querySelector("#correo");
+  const decir = (texto, tipo) => { estado.textContent = texto; estado.dataset.tipo = tipo || ""; };
+  form.addEventListener("submit", async (ev) => {
+    ev.preventDefault();
+    const email = campo.value.trim();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { decir("Revisa el correo: parece que falta algo.", "error"); campo.focus(); return; }
+    boton.disabled = true; decir("Enviando…");
+    try {
+      const r = await fetch("api/suscribir", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({ email, web: form.elements.web.value }),
+      });
+      if (r.ok) {
+        form.reset();
+        decir("¡Hecho! Revisa tu correo (y la carpeta de spam): te acabamos de escribir.", "ok");
+      } else if (r.status === 400) {
+        decir("Revisa el correo: parece que falta algo.", "error");
+      } else {
+        decir("No hemos podido apuntarte ahora mismo. Inténtalo en unos minutos o escríbenos a ephemeralnoticias@gmail.com.", "error");
+      }
+    } catch (e) {
+      decir("Sin conexión. Inténtalo de nuevo en unos minutos.", "error");
+    } finally {
+      boton.disabled = false;
+    }
+  });
 }
 
 /* ---------- 2026, explicado ---------- */
@@ -538,7 +581,7 @@ async function bulos() {
 }
 
 const pagina = document.body.dataset.pagina;
-if (pagina === "portada") { portada(); vigilarFormulario(); }
+if (pagina === "portada") { portada(); prepararNewsletter(); }
 if (pagina === "anual") anual();
 if (pagina === "29n") especial29n();
 if (pagina === "archivo") archivo();

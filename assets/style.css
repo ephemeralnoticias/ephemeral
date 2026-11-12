@@ -278,3 +278,13 @@ h1.gran {
 .suscripcion .form-aviso { margin: 0; font-size: 13px; line-height: 1.45; color: #E9D9A6; }
 .suscripcion .form-aviso a { color: inherit; }
 #suscribir { scroll-margin-top: 90px; }
+.form-propio { display: flex; flex-direction: column; gap: 8px; }
+.form-propio .form-linea { display: flex; flex-wrap: wrap; gap: 8px; }
+.form-propio .form-linea input { flex: 1 1 200px; min-width: 0; }
+.form-propio .form-linea button { flex: 0 0 auto; }
+.form-propio button:disabled { opacity: .6; cursor: wait; }
+.form-propio .trampa { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.form-propio .form-estado { margin: 0; min-height: 1.2em; font-size: 13.5px; line-height: 1.45; color: #C9CCD3; }
+.form-propio .form-estado[data-tipo="ok"] { color: #9FDDA8; }
+.form-propio .form-estado[data-tipo="error"] { color: #F2B8A8; }
+[hidden] { display: none !important; }

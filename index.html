@@ -51,6 +51,15 @@
           <span class="etiqueta" style="color:#C9CCD3">Newsletter</span>
           <span class="titulo">Cada mañana, antes de que caduque.</span>
           <span class="suave">La edición llegará a tu correo cada mañana. Gratis.</span>
+          <form class="form-propio" id="form-propio" hidden novalidate>
+            <label for="correo">Tu correo</label>
+            <div class="form-linea">
+              <input id="correo" name="email" type="email" inputmode="email" autocomplete="email" placeholder="tu@correo.com" required>
+              <button type="submit">Suscribirme</button>
+            </div>
+            <input class="trampa" type="text" name="web" tabindex="-1" autocomplete="off" aria-hidden="true">
+            <p class="form-estado" id="form-estado" role="status" aria-live="polite"></p>
+          </form>
           <div class="form-beehiiv" id="form-beehiiv"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="05e6a8a6-3c70-425d-ae0b-4b4875d24e69"></script></div>
           <p class="form-aviso" id="form-aviso" hidden>¿No ves el formulario? Recarga la página. Si sigue sin aparecer, puede que un bloqueador de anuncios lo esté ocultando: desactívalo para esta web o escríbenos a <a href="mailto:ephemeralnoticias@gmail.com">ephemeralnoticias@gmail.com</a> y te apuntamos nosotros.</p>
           <span class="legal">Al suscribirte aceptas recibir ephemeral. por correo. Puedes darte de baja cuando quieras desde cualquier correo. <a href="privacidad.html">Política de privacidad</a>.</span>
