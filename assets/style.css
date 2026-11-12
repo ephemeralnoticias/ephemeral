@@ -274,3 +274,7 @@ h1.gran {
 .suscripcion .form-beehiiv iframe { max-width: 100%; }
 .suscripcion .legal { font-size: 12.5px; line-height: 1.45; color: #C9CCD3; }
 .suscripcion .legal a { color: #FFFFFF; }
+
+.suscripcion .form-aviso { margin: 0; font-size: 13px; line-height: 1.45; color: #E9D9A6; }
+.suscripcion .form-aviso a { color: inherit; }
+#suscribir { scroll-margin-top: 90px; }

@@ -5,7 +5,6 @@
 
 // Cuando tengas la newsletter (por ejemplo en beehiiv), pega aquí la dirección de su página de suscripción.
 // Formulario de suscripción de beehiiv (Audience → Subscribe forms)
-const BEEHIIV_FORM = "05e6a8a6-3c70-425d-ae0b-4b4875d24e69";
 
 const SECCIONES = {
   espana:        { nombre: "España",               fondo: "#FEF6D2", tinta: "#7A5B00", punto: "#E9C23F", linea: "#EBDB95", reverso: "#FFFBEA" },
@@ -233,12 +232,13 @@ async function portada() {
     html += '<a class="aviso-29n" href="29n.html"><span class="punto" style="background:#E9C23F"></span><b>Especial 29N</b> Qué propone cada partido y el diario de la campaña →</a>';
     html += navFiltro(usadas);
     html += '<section class="noticias">' + noticias.map(tarjetaNoticia).join("") + "</section>";
-    html += '<section class="fila">' + htmlBulo(ed.bulo) + formularioSuscripcion() + "</section>";
 
     zona.innerHTML = html;
     activarFiltro(".noticia");
     activarGiros(zona);
-    activarSuscripcion();
+    const fila = $("#fila-final");
+    if (fila && ed.bulo) fila.insertAdjacentHTML("afterbegin", htmlBulo(ed.bulo));
+    if (location.hash === "#suscribir") { const c = $("#suscribir"); if (c) c.scrollIntoView(); }
     setInterval(() => { const e = $("#estado"); if (e) e.textContent = estadoEdicion(ed.fecha); }, 60000);
   } catch (err) {
     zona.innerHTML = '<p class="vacio">No hemos podido cargar la edición. Vuelve a intentarlo en unos minutos.</p>';
@@ -271,25 +271,16 @@ function htmlBulo(bulo, etiquetaTitulo) {
     "</article>";
 }
 
-function formularioSuscripcion() {
-  return '<div class="caja suscripcion" id="suscribir">' +
-    '<span class="etiqueta" style="color:#C9CCD3">Newsletter</span>' +
-    '<span class="titulo">Cada mañana, antes de que caduque.</span>' +
-    '<span class="suave">La edición llegará a tu correo cada mañana. Gratis.</span>' +
-    '<div class="form-beehiiv" id="form-beehiiv"></div>' +
-    '<span class="legal">Al suscribirte aceptas recibir ephemeral. por correo. Puedes darte de baja cuando quieras desde cualquier correo. <a href="privacidad.html">Política de privacidad</a>.</span>' +
-    "</div>";
-}
-
-// Formulario de beehiiv: el script se inserta con JS para que se ejecute
-function activarSuscripcion() {
-  const caja = $("#form-beehiiv");
-  if (!caja || !BEEHIIV_FORM) return;
-  const sc = document.createElement("script");
-  sc.async = true;
-  sc.src = "https://subscribe-forms.beehiiv.com/v3/loader.js";
-  sc.setAttribute("data-beehiiv-form", BEEHIIV_FORM);
-  caja.appendChild(sc);
+// La caja de la newsletter está escrita en index.html (con el script de beehiiv tal cual),
+// para que el formulario cargue siempre igual. Si a los 8 segundos no ha aparecido
+// (bloqueador de anuncios, red lenta), se muestra un aviso con una alternativa.
+function vigilarFormulario() {
+  const caja = $("#form-beehiiv"), aviso = $("#form-aviso");
+  if (!caja || !aviso) return;
+  setTimeout(() => {
+    const cargado = Array.from(caja.children).some((e) => e.tagName !== "SCRIPT") || caja.querySelector("iframe");
+    if (!cargado) aviso.hidden = false;
+  }, 8000);
 }
 
 /* ---------- 2026, explicado ---------- */
@@ -547,7 +538,7 @@ async function bulos() {
 }
 
 const pagina = document.body.dataset.pagina;
-if (pagina === "portada") portada();
+if (pagina === "portada") { portada(); vigilarFormulario(); }
 if (pagina === "anual") anual();
 if (pagina === "29n") especial29n();
 if (pagina === "archivo") archivo();
