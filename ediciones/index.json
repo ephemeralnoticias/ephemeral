@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-12",
+      "numero": 2,
+      "resumen": "Arranca la campaña, el balance de la huelga y los decretos de vivienda",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-11",
       "numero": 1,
       "resumen": "Huelga general, el programa del PP y las hipotecas suben",

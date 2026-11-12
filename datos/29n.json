@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11",
+  "actualizado": "2026-11-12",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -854,6 +854,28 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-12",
+      "titulo": "Arranca la campaña",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "texto": "A medianoche empiezan los quince días de campaña. Sánchez abre en Sevilla, Feijóo en Badalona, Abascal en Colón, Colau en Vallecas y Montero en el Rastro.",
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: Real Decreto de convocatoria",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261005-referencia-convocatoria-elecciones.aspx"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-11",
       "titulo": "Huelga general a dos días de la campaña",

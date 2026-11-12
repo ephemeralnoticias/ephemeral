@@ -1,0 +1,417 @@
+{
+  "fecha": "2026-11-12",
+  "numero": 2,
+  "minutos": 6,
+  "titular": "Arranca la campaña tras la huelga.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "15",
+    "frase": "días de campaña empiezan esta medianoche.",
+    "detalle": "Del viernes 13 a las 00:00 al viernes 27 a las 24:00. El sábado 28 es jornada de reflexión y el domingo 29 se vota. Fuente: Real Decreto 806/2026 de convocatoria."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "La campaña arranca esta medianoche: así abren los candidatos",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "resumen": "La campaña del 29N empieza a las 00:00 del viernes 13 y dura quince días. Pedro Sánchez (PSOE) la abre en Sevilla; Alberto Núñez Feijóo (PP), en Badalona; Santiago Abascal (Vox), en la plaza de Colón de Madrid; Ada Colau (Frente Amplio), en Vallecas, e Irene Montero (Podemos), en el Rastro.",
+      "porque": "desde esta noche los partidos ya pueden pedir el voto de forma explícita y empieza la recta final hacia el 29N.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El calendario. El decreto de convocatoria fija la campaña entre las 00:00 del viernes 13 y las 24:00 del viernes 27 de noviembre. El sábado 28 es jornada de reflexión y el domingo 29 se vota.",
+          "Los primeros actos. Sánchez abre en el auditorio Fibes de Sevilla, ciudad que también eligió en 2019. Feijóo estará con el alcalde de Badalona, Xavier García Albiol, y con los expresidentes Aznar y Rajoy. Abascal regresa a Colón, escenario habitual de los grandes actos de Vox. Colau comparte escenario con Más Madrid, IU y Movimiento Sumar, y Montero, con Ione Belarra.",
+          "Los debates. Los organizará la Academia de Televisión, pero todavía no hay fechas ni formato. Se espera un cara a cara entre Sánchez y Feijóo y un debate a cuatro con Abascal y Colau."
+        ],
+        "claves": [
+          "Campaña: del viernes 13 al viernes 27 de noviembre",
+          "Jornada de reflexión: sábado 28",
+          "Del 24 al 28 de noviembre no se pueden publicar encuestas"
+        ],
+        "ahora": "Las pegadas de carteles son esta noche. Mañana, viernes, es el primer día completo de campaña."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: Real Decreto de convocatoria",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261005-referencia-convocatoria-elecciones.aspx"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/12/sanchez-abre-campana-hoy-en-sevilla-feijoo-lo-hara-en-badalona-mientras-que-abascal-y-colau-eligen-madrid/"
+        },
+        {
+          "nombre": "elDiario.es",
+          "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13656941_1126536.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-campana.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "La huelga, en cifras: cada parte da las suyas",
+      "partidos": [
+        "pp",
+        "vox",
+        "sumar",
+        "podemos"
+      ],
+      "resumen": "La primera huelga general en 14 años acabó con manifestaciones en decenas de ciudades. Los sindicatos hablan de un seguimiento del 41% al 75% según la comunidad; CEOE y Cepyme lo dejan por debajo del 5%. En Madrid, la Delegación del Gobierno contó 120.000 manifestantes y el Sindicato de Inquilinas, 400.000.",
+      "porque": "es el último gran pulso social antes de la campaña y los partidos ya lo usan en sus discursos.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Un dato que no da ninguna de las partes. La demanda de electricidad, que se suele usar como termómetro, fue hasta las 18:00 un 4,87% menor de lo previsto. La mayor caída, del 15,49%, se dio entre las 10:00 y las 11:00.",
+          "Incidentes. Interior registró 919 incidencias y, sumando a Mossos y Ertzaintza, hubo más de 70 detenidos. Hubo cargas policiales en Madrid y disturbios en Barcelona. Amnistía Internacional pidió investigar el uso de la fuerza. También se investigan un artefacto de poca potencia contra la sede de UGT en Vigo y un ataque a la sede del PP en Barakaldo con dos militantes heridos.",
+          "Las reacciones. Feijóo (PP) la calificó de «fracaso» y de acto de campaña encubierto. Abascal (Vox) acusó al Gobierno de usar a los sindicatos contra los trabajadores. La vicepresidenta Yolanda Díaz (Sumar) expresó su apoyo a los convocantes, e Irene Montero (Podemos) criticó las cargas policiales."
+        ],
+        "claves": [
+          "Sindicatos: seguimiento del 41% al 75% según la comunidad",
+          "CEOE y Cepyme: menos del 5%",
+          "Consumo eléctrico: un 4,87% por debajo de lo previsto"
+        ],
+        "ahora": "CCOO anuncia una denuncia por el uso de gas pimienta en Madrid. Hay nuevas protestas convocadas en Cádiz y Córdoba el domingo 15."
+      },
+      "fuentes": [
+        {
+          "nombre": "elDiario.es: así fue la huelga",
+          "url": "https://www.eldiario.es/economia/huelga-general-11-noviembre-ultima-hora-directo-arranca-gran-paro-vivienda_133_13653845.html"
+        },
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/11/feijoo-afirma-que-es-evidente-que-la-huelga-general-ha-sido-un-fracaso/"
+        },
+        {
+          "nombre": "El Plural",
+          "url": "https://www.elplural.com/politica/espana/huelga-general-11m-directo-ultima-hora-protestas-manifestaciones_200011126"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-huelga-balance.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El Congreso vota hoy los decretos de vivienda: uno saldría y otro no",
+      "resumen": "La Diputación Permanente decide hoy si convalida los dos decretos de vivienda que el Gobierno aprobó el 6 de octubre. Según los recuentos publicados, el general saldría adelante por 35 votos a 34 gracias al PNV; el que alarga los alquileres e indemniza al inquilino decaería.",
+      "porque": "de este voto depende qué reglas de alquiler se aplican: el segundo decreto debía entrar en vigor este domingo, 15 de noviembre.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El decreto general (RDL 29/2026). Está en vigor desde el 8 de octubre. Crea la línea «Tu Casa», con préstamos de hasta 50.000 euros para la primera vivienda, prohíbe hasta 2030 los desahucios de personas vulnerables sin alternativa habitacional y permite prorrogar los alquileres hasta 2028 con subidas de hasta el 2%.",
+          "El decreto de los alquileres (RDL 28/2026). Cambia la Ley de Arrendamientos Urbanos: al acabar el contrato mínimo de cinco años (siete si el casero es una empresa), se prorrogaría por periodos de cinco o siete años. Si el propietario no renueva, tendría que pagar al inquilino un año de renta.",
+          "Por qué decide la Diputación Permanente. Con las Cortes disueltas, es el órgano que convalida los decretos. Tiene 69 miembros y, sin contar al PNV, los votos están empatados a 34."
+        ],
+        "claves": [
+          "Diputación Permanente: 69 miembros",
+          "Decreto general: 35 votos a 34, según los recuentos",
+          "Si un decreto no se convalida, deja de aplicarse"
+        ],
+        "ahora": "La votación es hoy. Mañana te contamos el resultado."
+      },
+      "fuentes": [
+        {
+          "nombre": "BOE: Real Decreto-ley 29/2026",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823"
+        },
+        {
+          "nombre": "BOE: Real Decreto-ley 28/2026",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20822"
+        },
+        {
+          "nombre": "Provivienda: qué cambia en el alquiler",
+          "url": "https://provivienda.org/observatorio/real-decreto-ley-26-2026-que-cambia-en-el-precio-del-alquiler-y-la-vivienda-asequible/"
+        },
+        {
+          "nombre": "Qué!",
+          "url": "https://www.que.es/2026/11/12/decretos-vivienda-congreso-alquiler/"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/politica/congreso-y-senado/los-decretos-de-vivienda-encaran-su-validacion-final-este-jueves-en-la-diputacion-permanente-del-congreso/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-vivienda.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El petróleo vuelve a subir por la tensión en Ormuz",
+      "resumen": "El barril de Brent cerró el miércoles en 92,76 dólares, un 1,39% más, después de haber caído por debajo de 90 en los últimos días. El mercado sigue pendiente de los ataques a barcos en el estrecho de Ormuz y del atasco en el diálogo entre EE. UU. e Irán.",
+      "porque": "el precio del crudo se nota en la gasolina, en la luz y en la inflación, que en octubre fue del 4,9% en España.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué lo ha movido. Los Guardianes de la Revolución iraníes informaron el martes de que tres petroleros se incendiaron en Ormuz. La subida llegó, además, después de que Teherán descartara entregar su material nuclear enriquecido.",
+          "El crudo estadounidense. El West Texas subió menos, un 0,57%, hasta 86,53 dólares.",
+          "En contexto. Con la guerra de Irán, el Brent llegó a rozar los 118 dólares en marzo. Ayer contamos que había bajado de 90: el rebote muestra lo volátil que sigue el mercado."
+        ],
+        "claves": [
+          "Brent: 92,76 dólares (+1,39%)",
+          "West Texas: 86,53 dólares (+0,57%)",
+          "Inflación de octubre en España: 4,9% (dato adelantado del INE)"
+        ],
+        "ahora": "El precio seguirá atado a lo que pase en Ormuz y a las conversaciones entre Washington y Teherán."
+      },
+      "fuentes": [
+        {
+          "nombre": "Agencia Reforma (vía El Diario de Chihuahua)",
+          "url": "https://diario.mx/economia/2026/nov/11/cierra-crudo-brent-con-alza-de-14-a-9276-dolares-1148251.html"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/11/el-petroleo-sube-mientras-inversores-vigilan-ataques-en-el-estrecho-de-ormuz"
+        },
+        {
+          "nombre": "AFP (vía La Nación)",
+          "url": "https://lanacion.com.py/mundo_edicion_impresa/2026/11/11/se-incendian-tres-petroleros-en-ormuz"
+        },
+        {
+          "nombre": "INE: IPC adelantado de octubre",
+          "url": "https://www.ine.es/dyngs/Prensa/es/adIPC1026.htm"
+        },
+        {
+          "nombre": "Wikipedia: crisis del combustible de 2026",
+          "url": "https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-petroleo.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Rusia y Ucrania pactan un gran canje de prisioneros, pero no la paz",
+      "resumen": "Las negociaciones de Abu Dabi, con mediación de EE. UU., terminaron el miércoles con un acuerdo de principio para intercambiar prisioneros y sin avances para acabar con la guerra. Zelenski dijo que se barajan 1.000 prisioneros por cada bando, que podrían llegar a 1.500.",
+      "porque": "es el único resultado concreto de unas conversaciones en las que el territorio y las garantías de seguridad siguen bloqueando la paz.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que sigue abierto. Rusia exige que Ucrania se retire de la parte del Donbás que aún controla y rechaza un alto el fuego inmediato. Kiev pide primero el fin de la guerra y garantías de seguridad, y Zelenski sostiene que el territorio deben tratarlo directamente los dos presidentes.",
+          "Quién negocia. Por EE. UU., Jared Kushner y Steve Witkoff; por Ucrania, Rustem Umérov; por Rusia, Vladímir Medinski. Representantes europeos viajaron a Abu Dabi para consultas aparte, sin sentarse en la mesa a tres.",
+          "Lo siguiente. Kushner y Witkoff viajan hoy a Moscú para reunirse con Putin y después irán a Dublín para ver a Zelenski. No hay fecha para un encuentro entre los dos presidentes."
+        ],
+        "claves": [
+          "Canje previsto: entre 1.000 y 1.500 prisioneros por bando",
+          "Sin fecha para una reunión entre Putin y Zelenski",
+          "Kushner reconoce que entre las partes falta confianza"
+        ],
+        "ahora": "La cifra final del intercambio se conocerá hoy."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/11/ucrania-rusia-acuerdan-gran-intercambio-presos"
+        },
+        {
+          "nombre": "La Jornada",
+          "url": "https://www.jornada.com.mx/noticia/2026/11/11/mundo/rusia-y-ucrania-concluyen-en-abu-dabi-negociaciones-sin-acuerdo-para-finalizar-la-guerra"
+        },
+        {
+          "nombre": "El Imparcial",
+          "url": "https://www.elimparcial.com/mundo/2026/11/11/rusia-y-ucrania-terminan-negociaciones-en-abu-dabi-sin-acuerdo-para-poner-fin-a-la-guerra-mientras-persisten-sus-diferencias-por-el-territorio-y-las-garantias-de-seguridad/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-abu-dabi.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "El brote de ébola del Congo supera los 11.000 casos",
+      "resumen": "La República Democrática del Congo ha confirmado 11.042 casos y 5.387 muertes hasta el 9 de noviembre. Es el brote de ébola más mortífero de la historia del país y el segundo mayor registrado en el mundo.",
+      "porque": "lo causa la cepa Bundibugyo, que no tiene vacuna ni tratamiento conocidos, y ya ha llegado a ocho de las 26 provincias del país.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Las publica el Instituto Nacional de Salud Pública congoleño. Casi la mitad de los casos confirmados ha muerto: la letalidad ronda el 49%.",
+          "Por qué cuesta frenarlo. Las autoridades señalan dos obstáculos: los casos se detectan tarde y el conflicto armado dificulta llegar a muchas zonas.",
+          "La respuesta. El brote se declaró en mayo. La OMS ha pedido que los fondos para combatirlo lleguen más rápido."
+        ],
+        "claves": [
+          "11.042 casos confirmados y 5.387 muertes",
+          "Afecta a 8 de las 26 provincias",
+          "No hay vacuna contra la cepa Bundibugyo"
+        ],
+        "ahora": "Las cifras se actualizan cada pocos días con los informes del Gobierno congoleño."
+      },
+      "fuentes": [
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+        },
+        {
+          "nombre": "AP (vía Proceso)",
+          "url": "https://www.proceso.com.mx/internacional/2026/11/11/el-ebola-supera-los-11-mil-casos-en-el-brote-mas-mortifero-del-congo-383510.html"
+        },
+        {
+          "nombre": "Redacción Médica",
+          "url": "https://www.redaccionmedica.com/politica/internacional/20261111/la-crisis-del-ebola-alcanza-los-casos-en-rdc-con-una-letalidad-que-ya-roza-el/364809_0.html"
+        },
+        {
+          "nombre": "La Opinión",
+          "url": "https://laopinion.com/2026/11/11/el-ebola-supera-los-11000-casos-y-mas-de-5000-muertes-en-el-congo-no-seamos-indiferentes-y-volteemos-la-cara/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-ebola.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Si vas a votar por correo, tienes hasta el 19 de noviembre",
+      "resumen": "Quien no pueda votar en persona el 29N puede pedir el voto por correo hasta el jueves 19 de noviembre, por internet en la web de Correos o en cualquier oficina postal. Después hay que enviarlo como tarde el 25 de noviembre.",
+      "porque": "si el 29 vas a estar fuera de tu municipio o te toca trabajar, es la forma de que tu voto cuente.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Paso 1: pedirlo. En la web de Correos o en una oficina, hasta el 19 de noviembre.",
+          "Paso 2: recibirlo. Correos te envía a casa las papeletas, los sobres y el certificado de inscripción en el censo.",
+          "Paso 3: enviarlo. Con esa documentación votas y entregas el sobre en una oficina de Correos entre el 10 y el 25 de noviembre."
+        ],
+        "claves": [
+          "Pedir el voto: hasta el 19 de noviembre",
+          "Enviarlo: hasta el 25 de noviembre",
+          "Por internet o en cualquier oficina de Correos"
+        ],
+        "ahora": "Quedan siete días para pedirlo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Correos: voto por correo 29N",
+          "url": "https://www.correos.es/es/es/particulares/para-el-ciudadano/voto-por-correo"
+        },
+        {
+          "nombre": "Correos: nota de prensa",
+          "url": "https://www.correos.com/sala-prensa/ya-se-puede-solicitar-el-voto-por-correo-para-las-elecciones-generales-del-29-de-noviembre/"
+        },
+        {
+          "nombre": "Político Electoral: plazos de la JEC",
+          "url": "https://www.politicaelectoral.com/es/espana/generales-2026/nacional/como-votar"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-voto-correo.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Charles se despide, pero hoy aún hay avisos en 14 comunidades",
+      "resumen": "La borrasca Charles pierde fuerza este jueves, pero la AEMET mantiene avisos por lluvia, viento u oleaje en 14 comunidades y en Ceuta. Se esperan lluvias fuertes en el norte y rachas de hasta 100 km/h en Almería y Murcia.",
+      "porque": "ayer obligó a suspender parte de las manifestaciones en Huelva y Sevilla, y hoy todavía puede complicar carreteras y costa.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Dónde. Las lluvias más abundantes se esperan en Galicia, el Cantábrico, los Pirineos y Cataluña. En el sureste, el viento puede pasar de 100 km/h, con mala mar en el Mediterráneo.",
+          "Cuándo acaba. El aviso especial de la AEMET da por cerrado el episodio a lo largo de hoy. En Canarias ya se levantan los avisos.",
+          "Lo que viene. La AEMET prevé una segunda mitad de noviembre más suave de lo habitual."
+        ],
+        "claves": [
+          "Avisos en 14 comunidades y Ceuta",
+          "Rachas de hasta 100 km/h en Almería y Murcia",
+          "Fin del episodio previsto para hoy"
+        ],
+        "ahora": "Si vas a viajar, mira antes los avisos de tu zona en la web de la AEMET."
+      },
+      "fuentes": [
+        {
+          "nombre": "AEMET: avisos",
+          "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/la-borrasca-charles-mantiene-en-aviso-por-lluvias-viento-y-olas-a-casi-todo-el-este-peninsular/"
+        },
+        {
+          "nombre": "El Diario de Madrid",
+          "url": "https://www.eldiariodemadrid.es/articulo/madrid/borrasca-charles-12-noviembre-avisos-viento-lluvia-madrid/20261112081848146666.html"
+        },
+        {
+          "nombre": "Canarias7",
+          "url": "https://www.canarias7.es/canarias/aemet-carpetazo-borrasca-charles-avisa-fin-lluvias-20261112070000-nt.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-borrasca.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "La ONU avisa en la COP31 de que la crisis climática va más rápido que la respuesta",
+      "resumen": "Los líderes mundiales se reunieron ayer y siguen hoy en Antalya (Turquía), dentro de la cumbre del clima COP31, que dura hasta el 20 de noviembre. El secretario general de la ONU, António Guterres, advirtió de que la lentitud de la respuesta lleva al mundo a un camino de destrucción y pidió acelerar el abandono de los combustibles fósiles.",
+      "porque": "lo que se acuerde sobre financiación y combustibles fósiles influye en la factura energética y en cómo se prepara cada país para los fenómenos extremos.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Quién manda. Turquía preside la cumbre y Australia dirige las negociaciones, un reparto pactado porque ambos países querían organizarla.",
+          "La pelea de siempre: el dinero. La conferencia arrancó el lunes con una disputa sobre quién debe pagar la respuesta al cambio climático y cómo se negocian esos compromisos.",
+          "Cómo se decide. En las COP los acuerdos se adoptan por consenso entre casi 200 países, sin votaciones por mayoría. Basta con un país en contra para bloquear un texto."
+        ],
+        "claves": [
+          "COP31: del 9 al 20 de noviembre, en Antalya",
+          "Cumbre de líderes: 11 y 12 de noviembre",
+          "Los acuerdos requieren consenso"
+        ],
+        "ahora": "Tras la cumbre de líderes, los negociadores tienen una semana para cerrar los textos."
+      },
+      "fuentes": [
+        {
+          "nombre": "Reuters (vía BusinessDay)",
+          "url": "https://www.businessday.co.za/world/europe/2026-11-11-climate-crisis-is-outrunning-us-un-chief-warns-cop31-delegates/"
+        },
+        {
+          "nombre": "Naciones Unidas",
+          "url": "https://www.un.org/fr/node/249276"
+        },
+        {
+          "nombre": "La Nación (Costa Rica)",
+          "url": "https://www.nacion.com/el-mundo/cop31-abre-en-turquia-con-disputa-por-el/RERVT3GEGNGOZI2FCKE2XDRGWU/story/"
+        },
+        {
+          "nombre": "CIDOB",
+          "url": "https://www.cidob.org/publicaciones/cop31-vista-conferencia-santa-marta-como-atajo-para-sortear-bloqueo-climatico"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-cop31.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "España juega esta noche en Praga con los cuartos ya asegurados",
+      "resumen": "La selección masculina visita a Chequia a las 20:45 en la quinta jornada de la Liga de Naciones. La campeona del mundo llega como líder de su grupo y ya clasificada para cuartos; Chequia es última y no ha sumado ningún punto.",
+      "porque": "es el penúltimo partido de la fase de grupos: el domingo, España recibe a Inglaterra en el Metropolitano.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las bajas. Lamine Yamal y Mikel Oyarzabal no viajan a Praga. Está previsto que vuelvan para el partido contra Inglaterra.",
+          "El precedente. España ganó 3-1 a Chequia en la ida. Los checos han perdido sus cuatro partidos en esta Liga de Naciones, el último por 3-0 contra Inglaterra.",
+          "Lo que está en juego. España puede asegurar hoy el primer puesto si gana y Inglaterra tropieza contra Croacia. Si no, se decidirá el domingo."
+        ],
+        "claves": [
+          "Chequia-España: hoy, 20:45, en Praga",
+          "España-Inglaterra: domingo 15, 20:45, Metropolitano",
+          "España ya está en cuartos de final"
+        ],
+        "ahora": "Mañana, el resultado."
+      },
+      "fuentes": [
+        {
+          "nombre": "Eurosport",
+          "url": "https://www.eurosport.es/futbol/uefa-nations-league/2026-2027/republica-checa-espana-jornada-5-alineaciones-probables-previa-estadisticas-horario-como-ver-tv-online-streaming-enlace_sto23354246/story.shtml"
+        },
+        {
+          "nombre": "DAZN",
+          "url": "https://www.dazn.com/es-ES/news/futbol/cual-es-convocatoria-seleccion-espanola-luis-de-la-fuente-lista-completa-jugadores-convocados/1w6dvyzuxs6br10ri3f837vast"
+        },
+        {
+          "nombre": "Goal",
+          "url": "https://www.goal.com/es-cl/noticias/chequia-espana-previa-de-la-liga-a-de-la-liga-de-naciones-de-la-uefa-todo-lo-que-debes-saber/blt45cbbe8b2225b2a8"
+        },
+        {
+          "nombre": "Sports Illustrated",
+          "url": "https://www.si.com/es-us/la-lista-de-convocados-de-la-seleccion-espanola-para-los-partidos-frente-a-la-republica-checa-e-inglaterra"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-12-futbol.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, los sindicatos no desconvocaron la huelga por falta de seguimiento",
+    "texto": "Circula un supuesto titular de prensa que lo anuncia, pero está hecho con inteligencia artificial y no hay registro de que se publicara. La huelga se celebró el miércoles tal como estaba convocada.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261111/sindicatos-desconvocan-la-huelga-general-prevista-para-el-11-n-ante-la-evidencia-de-escaso-seguimiento/",
+    "nota": "Si te llega una captura sin enlace a la noticia original, desconfía"
+  }
+}
