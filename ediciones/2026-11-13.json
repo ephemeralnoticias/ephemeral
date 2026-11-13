@@ -1,0 +1,415 @@
+{
+  "fecha": "2026-11-13",
+  "numero": 3,
+  "minutos": 6,
+  "titular": "Primer día de campaña, con el CIS y la UCO.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "45.000",
+    "frase": "entrevistas tiene la encuesta preelectoral del CIS.",
+    "detalle": "Es la más grande de la campaña, pero se hizo entre el 7 y el 30 de octubre: no recoge ni la huelga ni el inicio de la campaña. Fuente: CIS."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Primer día de campaña: quién está dónde",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "erc",
+        "podemos"
+      ],
+      "resumen": "La campaña empezó a medianoche. Hoy Pedro Sánchez (PSOE) está en Arnedo y Pamplona; Alberto Núñez Feijóo (PP), en Madrid junto a Isabel Díaz Ayuso; Santiago Abascal (Vox) pasa por Toledo y cierra con un mitin en la plaza de Colón; Irene Montero (Podemos) y Gabriel Rufián (ERC) comparten acto en Palma.",
+      "porque": "son quince días para convencer a los indecisos, y el lunes llega el primer cara a cara.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Cómo arrancaron. En los actos de apertura de ayer, Feijóo habló de hacer una auditoría, Sánchez de remontada y Abascal de «prioridad nacional». Ada Colau (Frente Amplio) abrió en Vallecas avisando de que el próximo Gobierno progresista tendrá que ir contra la especulación.",
+          "Los debates. El cara a cara entre Sánchez y Feijóo está previsto para el lunes 16 de noviembre. El debate a cuatro, con Abascal y Colau, será el jueves 26.",
+          "El calendario. La campaña acaba a medianoche del viernes 27. El 23 de noviembre es el último día en que se pueden publicar encuestas."
+        ],
+        "claves": [
+          "Cara a cara Sánchez-Feijóo: lunes 16",
+          "Debate a cuatro: jueves 26",
+          "Último día para publicar encuestas: 23 de noviembre"
+        ],
+        "ahora": "El lunes 16, primer cara a cara entre Sánchez y Feijóo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Estrella Digital: cuaderno de campaña",
+          "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-arranque/20261113073000453273.html"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/elecciones-generales-espana/pistoletazo-salida-29n-donde-estaran-sanchez-feijoo-abascal-colau-montero-en-primeros-actos-campana/"
+        },
+        {
+          "nombre": "Moncloa.com: calendario de la campaña",
+          "url": "https://www.moncloa.com/2026/11/12/29n-campana-calendario-debates-3466186"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-campana.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El CIS da ganador al PSOE y se aleja del resto de encuestas",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "resumen": "La encuesta preelectoral del CIS, con 45.000 entrevistas, estima un 33,3% de los votos para el PSOE, un 25,5% para el PP, un 18,4% para Vox y un 4,7% para el Frente Amplio. Con esos datos, PP y Vox no sumarían mayoría absoluta.",
+      "porque": "es la encuesta más grande de la campaña, pero sus resultados difieren de otras: algunas encuestas privadas, como la de DYM, dan la mayoría a PP y Vox.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los escaños. El CIS da al PSOE entre 134 y 143 diputados; al PP, entre 98 y 106, y a Vox, entre 57 y 65. La mayoría absoluta está en 176.",
+          "Cuándo se hizo. Las entrevistas son del 7 al 30 de octubre, así que no recogen ni la huelga general ni el inicio de la campaña.",
+          "Por qué difiere. El CIS parte del voto que declaran los encuestados y lo corrige con su propio método; las encuestas privadas usan métodos distintos y obtienen resultados diferentes. Ninguna encuesta es un resultado: es una estimación con margen de error."
+        ],
+        "claves": [
+          "PSOE 33,3% · PP 25,5% · Vox 18,4% · Frente Amplio 4,7%",
+          "45.000 entrevistas, del 7 al 30 de octubre",
+          "Mayoría absoluta: 176 escaños"
+        ],
+        "ahora": "En nuestro especial 29N tienes la media de encuestas, que se publica hasta el 23 de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "CIS: encuesta preelectoral 29N",
+          "url": "https://www.cis.es/es/w/el-psoe-lograr%C3%ADa-el-33-3-de-los-votos-en-las-elecciones-generales-del-29n"
+        },
+        {
+          "nombre": "elDiario.es",
+          "url": "https://www.eldiario.es/politica/cis-preelectoral-aleja-resto-encuestas-situa-suma-pp-vox-lejos-mayoria-absoluta_1_13658236.html"
+        },
+        {
+          "nombre": "Diario de Pontevedra",
+          "url": "https://www.diariodepontevedra.es/articulo/elecciones-generales-29n/cis-da-victoria-psoe-elecciones-generales-29n-deja-pp-vox-mayoria/202611121805441476750.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-cis.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Un informe de la UCO sitúa a Sánchez en una reunión con Corvillo; Moncloa lo niega",
+      "partidos": [
+        "pp",
+        "psoe"
+      ],
+      "resumen": "Un informe de la Guardia Civil en el caso Koldo recoge mensajes en los que Cristian Corvillo, detenido el 5 de noviembre, cuenta que se reunió a solas unos 35 minutos con Pedro Sánchez en abril de 2023. Moncloa niega que esa reunión existiera.",
+      "porque": "Sánchez dijo la semana pasada que los detenidos no tenían nada que ver con él, y el informe llega en el primer día de campaña.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué dice el informe. Se basa en una conversación de WhatsApp entre Corvillo y el empresario Víctor de Aldama. Según la UCO, en la cita se habrían tratado cuestiones personales y asuntos relacionados con el exministro José Luis Ábalos.",
+          "Qué no dice. El informe no atribuye a Sánchez ningún delito. Lo que se sabe del contenido de la reunión procede solo del relato que Corvillo hizo a un tercero.",
+          "Las versiones. La Moncloa y el PSOE niegan el encuentro y que Corvillo fuera chófer de Sánchez. El PP sostiene que el informe desmonta la versión del Gobierno."
+        ],
+        "claves": [
+          "Corvillo fue detenido el 5 de noviembre y quedó en libertad el mismo día",
+          "El informe está en el sumario de la Audiencia Nacional",
+          "Ábalos y Koldo García están en prisión"
+        ],
+        "ahora": "El juez de la Audiencia Nacional Ismael Moreno sigue con la investigación."
+      },
+      "fuentes": [
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/12/am-la-uco-ve-vinculacion-entre-el-psoe-y-el-exchofer-de-sanchez-detenido-viene-el-presidente-y-tengo-reunion-con-el/"
+        },
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://infobae.com/espana/agencias/2026/11/12/la-uco-constata-una-cita-entre-sanchez-y-corvillo-en-la-que-habrian-hablado-de-abalos"
+        },
+        {
+          "nombre": "Estrella Digital",
+          "url": "https://www.estrelladigital.es/espana/tribunales/uco-situa-sanchez-reunion-privada-corvillo-cordoba-abalos/20261113063000453262.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-informe.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Vivienda: se salva la prórroga de los alquileres y cae la renovación automática",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "erc",
+        "podemos",
+        "junts"
+      ],
+      "resumen": "La Diputación Permanente del Congreso convalidó ayer por 35 votos a 34 el decreto general de vivienda: prórroga de hasta dos años de los alquileres, freno a los desahucios de personas vulnerables y préstamos para la primera vivienda. El decreto de la renovación automática de los contratos decayó por 35 votos a 34.",
+      "porque": "afecta a muchos inquilinos: los contratos de vivienda habitual que terminen antes de 2029 pueden acogerse a la prórroga.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que sigue en vigor (RDL 29/2026). Prórroga extraordinaria de hasta dos años para los contratos de vivienda habitual que terminen hasta el 31 de diciembre de 2028, manteniendo sus condiciones. También los préstamos de hasta 50.000 euros para la entrada de la primera vivienda.",
+          "Lo que decae (RDL 28/2026). La renovación automática y sucesiva de los contratos de alquiler y la indemnización al inquilino si el propietario no renovaba. Debía entrar en vigor el domingo 15.",
+          "Cómo se votó. A favor del decreto general: PSOE, Sumar, ERC, Bildu, PNV y Podemos. En contra: PP, Vox y Junts. En el segundo, el PNV votó en contra junto a PP, Vox y Junts."
+        ],
+        "claves": [
+          "Prórroga de hasta 2 años si tu contrato acaba antes de 2029",
+          "Préstamos de hasta 50.000 € para la primera vivienda",
+          "Decae la renovación automática del alquiler"
+        ],
+        "ahora": "Si eres inquilino y tu contrato está por terminar, consulta en el BOE las condiciones de la prórroga."
+      },
+      "fuentes": [
+        {
+          "nombre": "BOE: Real Decreto-ley 29/2026",
+          "url": "https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20823"
+        },
+        {
+          "nombre": "idealista/news",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de"
+        },
+        {
+          "nombre": "El Diario de Madrid",
+          "url": "https://www.eldiariodemadrid.es/articulo/vivienda/congreso-decretos-vivienda-prorroga-alquileres-renovacion-automatica/20261112162933146758.html"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/la-diputacion-permanente-del-congreso-valida-el-decreto-de-vivienda-y-deroga-el-de-los-alquileres-indefinidos/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-vivienda.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Jensen Huang dimite como jefe de Nvidia",
+      "resumen": "El cofundador de Nvidia, la empresa de chips clave para la inteligencia artificial, dejó ayer con efecto inmediato sus cargos de consejero delegado, presidente y consejero. La directora financiera, Colette Kress, asume el puesto de forma interina.",
+      "porque": "Nvidia es una de las empresas más valiosas del mundo y su salida sacude a las bolsas y a todo el sector de la IA.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué se va. Su salida llega después de que el consejo abriera una investigación interna tras publicarse informaciones sobre relaciones extramatrimoniales con una subordinada y con una exdirectiva de la empresa Megaspeed sospechosa de ser agente del Gobierno chino.",
+          "Quién manda ahora. Kress, en Nvidia desde 2013 y antes en Cisco y Microsoft, será consejera delegada interina mientras se busca un sustituto. Harvey Jones pasa a presidir el consejo.",
+          "Qué viene. Huang ha aceptado comparecer ante el Congreso de EE. UU. antes del 26 de noviembre. Hoy, los futuros de las bolsas europeas abrieron a la baja y las bolsas chinas cayeron."
+        ],
+        "claves": [
+          "Huang dirigió Nvidia durante 33 años",
+          "Colette Kress, consejera delegada interina",
+          "Huang tiene cerca del 3,6% de las acciones"
+        ],
+        "ahora": "El consejo busca un consejero delegado permanente, de dentro o de fuera de la empresa."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nvidia: comunicado oficial (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        },
+        {
+          "nombre": "elEconomista",
+          "url": "https://www.eleconomista.es/tecnologia/noticias/14027381/11/26/el-ceo-nvidia-jensen-huang-anuncia-su-dimision-y-la-compania-nombra-a-colette-kress-como-interina.html"
+        },
+        {
+          "nombre": "Yahoo Noticias",
+          "url": "https://es-us.noticias.yahoo.com/dimisi%C3%B3n-jensen-huang-sacude-nvidia-141636746.html"
+        },
+        {
+          "nombre": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-dimite-como-ceo-nvidia-anuncia-su-plan-transicion-para-frenar-sangria-bolsa"
+        },
+        {
+          "nombre": "MarketScreener: boletín matinal",
+          "url": "https://es.marketscreener.com/noticias/bolet-n-matinal-13-de-noviembre-de-2026-ce785ed9dd8ff226"
+        },
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/13/viernes-13-de-noviembre-de-2026-0800-gmt/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-chip.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Los enviados de Trump ven progresos tras reunirse con Putin, que rechaza tropas extranjeras en Ucrania",
+      "resumen": "Steve Witkoff y Jared Kushner se reunieron ayer con Vladímir Putin en el Kremlin, un día después de las conversaciones de Abu Dabi. Witkoff dijo que hubo avances, pero Putin insistió en que tropas extranjeras de paz en Ucrania serían para Rusia una continuación de la guerra.",
+      "porque": "Europa quiere entrar en la negociación y el Kremlin admite ahora que podría sumarse más adelante.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que se trató. Kushner explicó que el objetivo era cerrar la ayuda humanitaria y el canje de prisioneros pactado en Abu Dabi, y abrir la mesa a los países europeos.",
+          "La puerta europea. El portavoz del Kremlin, Dmitri Peskov, admitió que los europeos podrían sumarse más adelante. Hasta ahora, Moscú se había resistido.",
+          "Siguiente parada. Desde Moscú, los enviados volaron a Dublín para contar a Zelenski lo hablado. Zelenski está allí por la cumbre de la Comunidad Política Europea."
+        ],
+        "claves": [
+          "Es la décima reunión en persona entre Witkoff y Putin",
+          "Rusia rechaza tropas extranjeras de paz en Ucrania",
+          "Siguen sin acuerdo sobre territorio y garantías de seguridad"
+        ],
+        "ahora": "Se espera conocer hoy qué ha trasladado EE. UU. a Zelenski en Dublín."
+      },
+      "fuentes": [
+        {
+          "nombre": "TIME",
+          "url": "https://time.com/article/2026/11/12/ukraine-russia-peace-deal-talks-putin-zelensky-witkoff-kushner/"
+        },
+        {
+          "nombre": "CNN (vía KRDO)",
+          "url": "https://krdo.com/telemundo/telemundo-sur-colorado/cnn-spanish/2026/11/12/witkoff-y-kushner-llegan-a-moscu-para-mantener-conversaciones-sobre-ucrania-con-putin/"
+        },
+        {
+          "nombre": "Reuters (vía Reporte Asia)",
+          "url": "https://reporteasia.com/destacado/2026/11/12/putin-recibe-witkoff-kushner-kremlin-nuevo-intento-paz-ucrania/"
+        },
+        {
+          "nombre": "Ejércitos",
+          "url": "https://www.ejercitos.org/guerra-de-ucrania-dia-1723-reunion-en-moscu-entre-vladimir-putin-steve-witkoff-y-jared-kushner/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-avion.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "El ébola del Congo circuló semanas sin que nadie lo detectara",
+      "resumen": "Un estudio con datos de teléfonos móviles ha reconstruido las primeras semanas del brote de ébola de la República Democrática del Congo, el que ya supera los 11.000 casos. Según los investigadores, el virus circulaba desde semanas antes de que se detectara, en mayo.",
+      "porque": "explica por qué este brote se ha hecho tan grande y qué falló para pararlo a tiempo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué se ha hecho. Los investigadores usaron datos de movimientos de móviles para seguir cómo se fue extendiendo el virus antes de que se confirmaran los primeros casos.",
+          "Qué falló. Señalan fallos en la vigilancia, falta de pruebas diagnósticas y recortes de financiación, que hicieron que la cepa Bundibugyo pasara desapercibida.",
+          "Por qué importa. Saber cómo se mueve un brote en sus primeras semanas ayuda a preparar la respuesta ante el siguiente."
+        ],
+        "claves": [
+          "Más de 11.000 casos en el Congo",
+          "Se detectó en mayo, semanas después de empezar",
+          "Lo cuenta la revista Nature"
+        ],
+        "ahora": "Ayer contamos las cifras del brote; hoy, por qué se detectó tarde."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03666-z"
+        },
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-datos-movil.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Rosalía arrasa en los Latin Grammy con cinco premios",
+      "resumen": "La cantante española ganó anoche en Las Vegas el premio a álbum del año por LUX, el tercero de su carrera en esa categoría tras El mal querer y Motomami. También se llevó canción del año por La Perla.",
+      "porque": "es la artista más premiada de la noche y una de las pocas que ha ganado tres veces el premio más importante.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los cinco premios. Álbum del año, canción del año, mejor canción pop, mejor álbum de música alternativa y mejor videoclip corto, por Sauvignon Blanc.",
+          "Lo que dijo. Al recoger el premio explicó que llamó al disco LUX porque significa luz en latín.",
+          "Otros ganadores. Milo J, Karol G y CA7RIEL & Paco Amoroso también se llevaron premios. Daddy Yankee fue reconocido como Persona del Año."
+        ],
+        "claves": [
+          "5 Latin Grammy para Rosalía",
+          "Tercer álbum del año: El mal querer, Motomami y LUX",
+          "La gala fue en Las Vegas"
+        ],
+        "ahora": "LUX es el cuarto disco de estudio de Rosalía."
+      },
+      "fuentes": [
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/11/13/entretenimiento/live-news/premios-latin-grammy-2026-en-vivo-orix"
+        },
+        {
+          "nombre": "Deadline",
+          "url": "https://deadline.com/2026/11/latin-grammy-awards-2026-winners-full-list-1237222557/"
+        },
+        {
+          "nombre": "BBC Mundo (vía Yahoo)",
+          "url": "https://es-us.noticias.yahoo.com/latin-grammy-2026-ganadores-premios-041958680.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-musica.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Fin de semana de lluvias en el noroeste y nieve en los Pirineos",
+      "resumen": "La borrasca Charles se aleja, pero la inestabilidad sigue. La AEMET mantiene avisos por lluvias fuertes y nieve en cinco comunidades, con Galicia y Baleares entre las más afectadas.",
+      "porque": "si viajas este fin de semana, las lluvias en Galicia y el Cantábrico pueden complicar las carreteras secundarias.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Hoy. Lluvias persistentes o fuertes en Galicia y en el litoral cantábrico, y rachas muy fuertes de viento en Baleares.",
+          "Sábado y domingo. El tiempo seguirá parecido el sábado. El domingo, lo peor se lo llevarán el cuadrante noroeste y los Pirineos.",
+          "La nieve. La cota está alta, así que los problemas se limitan a puertos de montaña y estaciones de esquí."
+        ],
+        "claves": [
+          "Avisos en cinco comunidades",
+          "Galicia y Baleares, de las más afectadas",
+          "Nieve solo en cotas altas"
+        ],
+        "ahora": "Antes de salir, consulta los avisos de tu zona en la web de la AEMET."
+      },
+      "fuentes": [
+        {
+          "nombre": "AEMET: avisos",
+          "url": "https://www.aemet.es/es/eltiempo/prediccion/avisos"
+        },
+        {
+          "nombre": "Qué!",
+          "url": "https://www.que.es/2026/11/13/avisos-aemet-fin-semana/"
+        },
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/13/hoy-sera-noticia-viernes-13-de-noviembre/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-tiempo.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "España gana en Praga y se jugará el liderato contra Inglaterra",
+      "resumen": "La selección ganó 0-2 a Chequia en la Liga de Naciones, con un penalti de Álex Baena en el minuto 39 y un gol de Marc Pubill en el 96. Es su duodécima victoria seguida.",
+      "porque": "con un empate el domingo ante Inglaterra en el Metropolitano, España acabaría primera de su grupo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El partido. Chequia, que acabó con diez jugadores, aguantó hasta el penalti. Después, Fabián estrelló un balón en la cruceta y Pubill sentenció en el descuento.",
+          "La racha. España no ha perdido en esta Liga de Naciones y suma doce victorias consecutivas.",
+          "Lo que viene. España-Inglaterra, el domingo 15 a las 20:45 en el Metropolitano. A España le basta con empatar."
+        ],
+        "claves": [
+          "Chequia 0-2 España",
+          "Goles: Baena (p., 39') y Pubill (90+6')",
+          "12 victorias seguidas"
+        ],
+        "ahora": "El domingo, España-Inglaterra en el Metropolitano."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/cronica-del-republica-checa-espana-0-2/"
+        },
+        {
+          "nombre": "COPE",
+          "url": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-republica-checa-espana-5a-jornada-nations-league-12-20261112_3474154.html"
+        },
+        {
+          "nombre": "VAVEL",
+          "url": "https://www.vavel.com/es/futbol/2026/11/12/1278951-republica-checa-vs-espana-en-vivo-y-en-directo-uefa-nations-league-2026-27.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-13-futbol.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, nadie te va a pedir «confirmar tu voto» por WhatsApp",
+    "texto": "Circula un mensaje que pide confirmar el voto del 29N metiendo un código de ocho caracteres en WhatsApp. Es un engaño: ese código vincula tu cuenta a otro dispositivo. El INE asegura que nunca pide verificar el voto, y WhatsApp no participa en ningún proceso electoral.",
+    "verificador": "Newtral",
+    "url": "https://www.newtral.es/voto-whatsapp-ine/20261013/",
+    "nota": "Si ya metiste el código, entra en «Dispositivos vinculados» de WhatsApp y cierra las sesiones que no reconozcas"
+  }
+}

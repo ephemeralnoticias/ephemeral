@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12",
+  "actualizado": "2026-11-13",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -854,6 +854,27 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-13",
+      "titulo": "Primer día de campaña y encuesta del CIS",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "texto": "El CIS estima PSOE 33,3%, PP 25,5%, Vox 18,4% y Frente Amplio 4,7%, lejos de la mayoría de encuestas privadas. El cara a cara Sánchez-Feijóo será el lunes 16.",
+      "fuentes": [
+        {
+          "nombre": "CIS: encuesta preelectoral 29N",
+          "url": "https://www.cis.es/es/w/el-psoe-lograr%C3%ADa-el-33-3-de-los-votos-en-las-elecciones-generales-del-29n"
+        },
+        {
+          "nombre": "Moncloa.com: calendario de la campaña",
+          "url": "https://www.moncloa.com/2026/11/12/29n-campana-calendario-debates-3466186"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-12",
       "titulo": "Arranca la campaña",

@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-13",
+      "numero": 3,
+      "resumen": "Primer día de campaña, el CIS, el informe de la UCO y la vivienda",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "ciencia",
+        "sociedad",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-12",
       "numero": 2,
       "resumen": "Arranca la campaña, el balance de la huelga y los decretos de vivienda",
