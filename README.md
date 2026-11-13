@@ -77,3 +77,9 @@ Para activarlo hay que guardar dos variables en Cloudflare Pages
 
 Después hay que volver a desplegar (Deployments → Retry deployment). Mientras no estén las dos
 variables, la web muestra automáticamente el formulario de beehiiv de siempre.
+
+## Publicación
+
+Desde el 13 de noviembre de 2026, las ediciones se publican directamente en `main` desde Claude
+(app de GitHub instalada en el repositorio). Cloudflare Pages despliega cada commit automáticamente.
+Ya no hace falta subir zips a mano.
