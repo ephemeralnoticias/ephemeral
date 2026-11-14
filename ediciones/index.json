@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-14",
+      "numero": 4,
+      "resumen": "Los candidatos en Jordi Wild, la fecha del cara a cara y la inflación",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-13",
       "numero": 3,
       "resumen": "Primer día de campaña, el CIS, el informe de la UCO y la vivienda",

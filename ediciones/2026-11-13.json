@@ -23,20 +23,20 @@
         "podemos"
       ],
       "resumen": "La campaña empezó a medianoche. Hoy Pedro Sánchez (PSOE) está en Arnedo y Pamplona; Alberto Núñez Feijóo (PP), en Madrid junto a Isabel Díaz Ayuso; Santiago Abascal (Vox) pasa por Toledo y cierra con un mitin en la plaza de Colón; Irene Montero (Podemos) y Gabriel Rufián (ERC) comparten acto en Palma.",
-      "porque": "son quince días para convencer a los indecisos, y el lunes llega el primer cara a cara.",
+      "porque": "son quince días para convencer a los indecisos, y el jueves 19 llega el cara a cara.",
       "minutosMas": 2,
       "detalle": {
         "parrafos": [
           "Cómo arrancaron. En los actos de apertura de ayer, Feijóo habló de hacer una auditoría, Sánchez de remontada y Abascal de «prioridad nacional». Ada Colau (Frente Amplio) abrió en Vallecas avisando de que el próximo Gobierno progresista tendrá que ir contra la especulación.",
-          "Los debates. El cara a cara entre Sánchez y Feijóo está previsto para el lunes 16 de noviembre. El debate a cuatro, con Abascal y Colau, será el jueves 26.",
+          "Los debates. El cara a cara entre Sánchez y Feijóo será el jueves 19 de noviembre. Habrá un segundo debate con más candidatos, previsto en torno al jueves 26.",
           "El calendario. La campaña acaba a medianoche del viernes 27. El 23 de noviembre es el último día en que se pueden publicar encuestas."
         ],
         "claves": [
-          "Cara a cara Sánchez-Feijóo: lunes 16",
-          "Debate a cuatro: jueves 26",
+          "Cara a cara Sánchez-Feijóo: jueves 19",
+          "Segundo debate: en torno al jueves 26",
           "Último día para publicar encuestas: 23 de noviembre"
         ],
-        "ahora": "El lunes 16, primer cara a cara entre Sánchez y Feijóo."
+        "ahora": "Corrección (14 nov): en la primera versión decíamos que el cara a cara sería el lunes 16. La Academia de Televisión lo fijó el viernes 13 para el jueves 19."
       },
       "fuentes": [
         {
@@ -50,6 +50,10 @@
         {
           "nombre": "Moncloa.com: calendario de la campaña",
           "url": "https://www.moncloa.com/2026/11/12/29n-campana-calendario-debates-3466186"
+        },
+        {
+          "nombre": "Diari de Tarragona: el cara a cara será el 19",
+          "url": "https://www.diaridetarragona.com/espana/275668/cara-cara-sanchez-feijoo-sera-19-noviembre-organizado-academia-television.html"
         }
       ],
       "ilustracion": "assets/ilustraciones/2026-11-13-campana.svg"

@@ -1,0 +1,332 @@
+{
+  "fecha": "2026-11-14",
+  "numero": 4,
+  "minutos": 5,
+  "titular": "Los candidatos, en Jordi Wild; el cara a cara, el jueves 19.",
+  "entradilla": "Nueve noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "economia",
+    "cifra": "4,9%",
+    "frase": "subieron los precios en octubre respecto a hace un año.",
+    "detalle": "El INE confirmó ayer el dato adelantado: es la inflación más alta desde febrero de 2023. Fuente: INE."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Sánchez, Feijóo y Colau, en el pódcast de Jordi Wild; Abascal, no",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "resumen": "El youtuber Jordi Wild publicó ayer en The Wild Project sus entrevistas a Ada Colau (Frente Amplio), Alberto Núñez Feijóo (PP) y Pedro Sánchez (PSOE), en ese orden: de menos a más escaños. Santiago Abascal (Vox) se retiró antes de grabar.",
+      "porque": "es uno de los pódcast más vistos en España, con un público sobre todo de entre 18 y 34 años, y la campaña también se juega fuera de la tele.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El formato. Entrevistas individuales grabadas en el estudio de Wild en Manresa, sin preguntas pactadas ni cortes. Se anunciaron de 60 a 90 minutos, aunque la de Colau pasó de las dos horas. Wild anunció preguntas sobre seguridad, inmigración, vivienda y la situación del tren, además de otras personales.",
+          "Los verificadores. Dos periodistas comprobaban en directo los datos de los candidatos y de Wild: Javier Collado (Vozpópuli) e Iván Muñoz (infoLibre). Según elDiario.es, solo intervinieron una vez con Colau y otra con Feijóo.",
+          "Por qué no está Abascal. Vox dice que no irá a programas que no emitan sus entrevistas íntegras, tras su paso por «La Revuelta». El formato de Wild ya emite las entrevistas completas; él cree que Vox canceló para «minimizar riesgos»."
+        ],
+        "claves": [
+          "Entrevistas a Colau, Feijóo y Sánchez, publicadas el viernes 13",
+          "Dos verificadores en el plató",
+          "Vox canceló la de Abascal"
+        ],
+        "ahora": "Las tres entrevistas están completas en el canal de YouTube de The Wild Project."
+      },
+      "fuentes": [
+        {
+          "nombre": "elDiario.es: el formato y la cancelación de Abascal",
+          "url": "https://www.eldiario.es/era/entrevistas-jordi-wild-youtuber-convertido-escaparate-relevante-candidatos_1_13653348.html"
+        },
+        {
+          "nombre": "elDiario.es: quiénes son los verificadores",
+          "url": "https://www.eldiario.es/rastreador/son-verificadores-fiscalizan-jordi-wild-candidatos-entrevistas_132_13661371.html"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/elecciones-generales-espana/quienes-son-verificadores-jordi-wild/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-podcast.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El cara a cara entre Sánchez y Feijóo será el jueves 19",
+      "partidos": [
+        "pp",
+        "psoe"
+      ],
+      "resumen": "La Academia de Televisión confirmó que el debate entre Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP) será el jueves 19 de noviembre en Madrid Content City (Tres Cantos), moderado por María Casado. Se barajó el lunes 16, pero los partidos lo fijaron para el 19.",
+      "porque": "es el único cara a cara de la campaña y puede verse en cualquier cadena: la Academia ofrece la señal gratis.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los bloques. Vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración democrática; y migración y política exterior.",
+          "El orden. Se sorteó: Feijóo abrirá el debate y Sánchez tendrá la última palabra.",
+          "Y después. El acuerdo incluye un segundo debate, también de la Academia, con los candidatos de los principales partidos nacionales, previsto en torno al 26 de noviembre."
+        ],
+        "claves": [
+          "Jueves 19 de noviembre",
+          "Modera María Casado",
+          "Señal libre para todas las cadenas"
+        ],
+        "ahora": "Corrección: en la edición de ayer dijimos que el cara a cara sería el lunes 16. Ya lo hemos corregido."
+      },
+      "fuentes": [
+        {
+          "nombre": "Diari de Tarragona",
+          "url": "https://www.diaridetarragona.com/espana/275668/cara-cara-sanchez-feijoo-sera-19-noviembre-organizado-academia-television.html"
+        },
+        {
+          "nombre": "Mundiario",
+          "url": "https://www.mundiario.com/politica/sanchez-feijoo-tienen-fecha-cara-cara-vivienda-corrupcion-economia-marcaran-29-n/20261114050328452793.html"
+        },
+        {
+          "nombre": "OKDiario",
+          "url": "https://okdiario.com/cool/television/cara-cara-sanchez-feijoo-sera-19-noviembre-vera-varios-canales-lo-moderara-maria-casado-20895240"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-debate.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Segundo día de campaña: quién está dónde",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos",
+        "erc",
+        "junts"
+      ],
+      "resumen": "Pedro Sánchez (PSOE) da un mitin en Palma con Francina Armengol; Alberto Núñez Feijóo (PP) está en Santiago de Compostela con Alfonso Rueda; Santiago Abascal (Vox) hace dos actos, en Almería y en Murcia; Ada Colau (Frente Amplio) va a Sevilla e Irene Montero (Podemos), a Las Palmas.",
+      "porque": "el primer fin de semana de campaña sirve para ver dónde concentra cada partido sus esfuerzos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los demás. Oriol Junqueras (ERC) está en Mataró; Míriam Nogueras (Junts), en Manresa, y Ana Pontón (BNG), en Tomiño y Allariz.",
+          "Los acompañantes. Con Feijóo están también Miguel Tellado y Diego Calvo. Con Colau, en Sevilla, Emilio Delgado, Toni Valero, Verónica Barbero y Enrique Santiago."
+        ],
+        "claves": [
+          "Sánchez: Palma",
+          "Feijóo: Santiago",
+          "Abascal: Almería y Murcia",
+          "Colau: Sevilla · Montero: Las Palmas"
+        ],
+        "ahora": "La campaña acaba a medianoche del viernes 27."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/14/segundo-dia-de-campana-sanchez-en-mallorca-feijoo-en-a-coruna-y-abascal-duplica-actos/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-mapa.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "La inflación sigue en el 4,9%, la más alta desde 2023",
+      "resumen": "El INE confirmó que los precios subieron un 4,9% en octubre respecto a hace un año, igual que en septiembre. La inflación subyacente, que excluye energía y alimentos frescos, se queda en el 3,1%.",
+      "porque": "todo cuesta casi un 5% más que hace un año, y la inflación de estos meses decidirá cuánto suben las pensiones en 2027.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué no baja. Ha subido el gas y han bajado las gasolinas, y unos efectos han compensado a los otros. Los precios subieron un 0,6% solo de septiembre a octubre.",
+          "Por comunidades. Todas superan el 4%. Las más altas, Castilla y León, Castilla-La Mancha y Galicia (5,3%); la más baja, Andalucía (4,4%).",
+          "Las pensiones. Por ley suben según la inflación media de diciembre de 2025 a noviembre de 2026. El INE adelantará el dato de noviembre el 27, dos días antes de votar; el Gobierno asegura que habrá subida aunque esté en funciones."
+        ],
+        "claves": [
+          "IPC de octubre: 4,9%",
+          "Subyacente: 3,1%",
+          "Índice para actualizar alquileres (IRAV): 2,57%"
+        ],
+        "ahora": "El 27 de noviembre, el INE adelanta la inflación de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "INE: IPC de octubre de 2026",
+          "url": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607"
+        },
+        {
+          "nombre": "Deia (Europa Press)",
+          "url": "https://www.deia.eus/economia/2026/11/13/ine-confirma-ipc-siguio-octubre-11752380.html"
+        },
+        {
+          "nombre": "Demócrata: las pensiones de 2027",
+          "url": "https://www.democrata.es/economia/subida-pensiones-en-2027-carlos-cuerpo-garantiza-revalorizacion-con-ipc-pero-falta-conocer-porcentaje/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-cesta.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "EE. UU. paró todos los despegues durante unas cuatro horas",
+      "resumen": "La agencia de aviación de EE. UU. (FAA) suspendió ayer todos los despegues del país por un fallo de comunicaciones en sus centros regionales de control aéreo. Las salidas se reanudaron tras unas cuatro horas.",
+      "porque": "es la primera parada nacional desde enero de 2023 y afectó también a vuelos internacionales con origen o destino en EE. UU.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué falló. Las comunicaciones de los centros que guían a los aviones entre aeropuertos. Los aviones en el aire pudieron aterrizar.",
+          "Las consecuencias. Miles de retrasos y casi 4.000 cancelaciones, según webs de seguimiento de vuelos. Las agencias de seguridad investigan y, por ahora, no hay indicios de ciberataque."
+        ],
+        "claves": [
+          "Parada nacional de unas 4 horas",
+          "La primera desde enero de 2023",
+          "Sin indicios de ciberataque"
+        ],
+        "ahora": "Si vuelas a EE. UU. estos días, revisa el estado de tu vuelo con la aerolínea."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/13/estados-unidos-suspende-todos-los-vuelos-del-pais-por-circunstancias-extraordinarias"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/13/suspension-de-vuelos-en-estados-unidos-en-vivo-investigan-una-falla-que-afecta-a-todos-los-centros-de-control-aereo/"
+        },
+        {
+          "nombre": "Univision",
+          "url": "https://www.univision.com/noticias/estados-unidos/eeuu-suspende-vuelos-hoy-en-vivo-faa-cancela-operaciones-aeropuertos"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-aeropuerto.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "El papa vuelve a Chiclayo, la diócesis que dirigió",
+      "resumen": "León XIV corona hoy a la Virgen Inmaculada en la catedral de Chiclayo (Perú) y oficia una misa en Santa Cruz de Succhabamba (Cajamarca). Fue obispo de Chiclayo entre 2015 y 2023.",
+      "porque": "es su primera visita a Perú como papa, el país donde pasó gran parte de su vida y del que tiene la nacionalidad.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El viaje. Está en Perú del 11 al 16 de noviembre, tras pasar por Uruguay y Argentina. Mañana estará en Cusco, en Saqsaywaman, y después en Pucallpa."
+        ],
+        "claves": [
+          "Visita a Perú: 11-16 de noviembre",
+          "Obispo de Chiclayo: 2015-2023"
+        ],
+        "ahora": "El domingo, Cusco y Pucallpa; el lunes, último día, en Lima y Callao."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Peruano: agenda oficial",
+          "url": "https://elperuano.pe/noticia/305157-papa-leon-xiv-en-peru-revisa-aqui-la-agenda-oficial-de-su-visita-del-11-al-16-de-noviembre"
+        },
+        {
+          "nombre": "El Comercio",
+          "url": "https://elcomercio.pe/lima/papa-leon-xiv-en-peru-esta-es-la-cobertura-de-el-comercio-via-streaming-gira-sudamerica-2026-apuesplan-ultimas-noticia/?outputType=amp"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-peru.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Sábado de lluvia casi general; el domingo, sobre todo en el noroeste",
+      "resumen": "AEMET prevé lluvias en casi toda la Península este sábado, con más cantidad en el oeste de Galicia, los Pirineos y el oeste y el centro de Andalucía. El domingo se concentrarán en el noroeste y los Pirineos.",
+      "porque": "hay avisos en Galicia, Cantabria, Cataluña, la Comunitat Valenciana y Baleares, naranja en Baleares.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Nieve. Solo por encima de los 2.000 metros.",
+          "Andalucía. AEMET espera que el tiempo se estabilice el domingo, tras una semana de lluvias por las borrascas Bruna y Charles."
+        ],
+        "claves": [
+          "Lluvia casi general el sábado",
+          "Nieve por encima de 2.000 m",
+          "Aviso naranja en Baleares"
+        ],
+        "ahora": "Consulta los avisos de tu zona en aemet.es."
+      },
+      "fuentes": [
+        {
+          "nombre": "Qué! (previsión de AEMET)",
+          "url": "https://www.que.es/2026/11/13/avisos-aemet-fin-semana/"
+        },
+        {
+          "nombre": "El Mira (AEMET Andalucía)",
+          "url": "https://www.elmira.es/articulo/andalucia/borrasca-mas-extensa-que-peninsula-otra-subtropical-aemet-preve-semana-lluvia-andalucia-sabado/20261109173339627570.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-lluvia.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "La cumbre del clima de Antalya llega a su ecuador",
+      "resumen": "La COP31, en Antalya (Turquía), cierra su primera semana. Turquía preside la cumbre y Australia dirige las negociaciones, que empezaron con una disputa sobre quién debe pagar la respuesta al cambio climático.",
+      "porque": "de aquí debe salir cómo se cumplen las promesas climáticas antes de 2030; la cumbre acaba el 20 de noviembre.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Hoy. La presidencia pidió a los países que envíen por escrito, como tarde hoy, lo que quieren que incluya la decisión final.",
+          "El tono. El presidente de la cumbre, Murat Kurum, la ha llamado una «COP de la implementación»: menos promesas nuevas y más cumplir las que ya existen."
+        ],
+        "claves": [
+          "COP31: del 9 al 20 de noviembre",
+          "Presidencia compartida: Turquía y Australia"
+        ],
+        "ahora": "Las negociaciones finales están previstas para el 20 de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "IISD, Boletín de Negociaciones de la Tierra",
+          "url": "https://enb.iisd.org/es/antalya-un-climate-change-conference-cop31-daily-report-9nov2026"
+        },
+        {
+          "nombre": "La Nación",
+          "url": "https://www.nacion.com/el-mundo/cop31-abre-en-turquia-con-disputa-por-el/RERVT3GEGNGOZI2FCKE2XDRGWU/story/"
+        },
+        {
+          "nombre": "Balkan Green Energy News",
+          "url": "https://balkangreenenergynews.com/cop31-opens-amid-warnings-that-2026-will-be-among-hottest-years-on-record/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-clima.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "España-Inglaterra, mañana: un empate vale el primer puesto",
+      "resumen": "La selección recibe a Inglaterra mañana domingo a las 20:45 en el Metropolitano, en la última jornada de la fase de liga de la Liga de Naciones. A España le basta un empate para acabar primera de su grupo.",
+      "porque": "la primera plaza da acceso a su cuarta Final Four consecutiva.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La ida. España ganó 2-3 en Wembley en septiembre, remontando con goles de los suplentes Álex Baena y Mikel Oyarzabal.",
+          "Cómo llega. Ganó el jueves 0-2 en Praga y suma doce victorias seguidas."
+        ],
+        "claves": [
+          "Domingo 15, 20:45",
+          "Metropolitano (Madrid)",
+          "Ida: Inglaterra 2-3 España"
+        ],
+        "ahora": "Mañana, 20:45: España-Inglaterra."
+      },
+      "fuentes": [
+        {
+          "nombre": "RFEF",
+          "url": "https://rfef.es/es/noticias/el-metropolitano-acogera-el-espana-inglaterra-de-la-nations-league"
+        },
+        {
+          "nombre": "Atlético de Madrid",
+          "url": "https://www.atleticodemadrid.com/noticias/el-riyadh-air-metropolitano-albergara-el-espana-inglaterra-del-15-de-noviembre-de-2026"
+        },
+        {
+          "nombre": "El Gol Digital: la ida en Wembley",
+          "url": "https://www.elgoldigital.com/futbol/seleccion-espana/inglaterra-espana-2-3-nations-league-baena-oyarzabal-wembley/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-14-estadio.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, los verificadores de Jordi Wild no eran Tamayo y la Gata de Schrödinger",
+    "texto": "Antes de publicarse las entrevistas circularon mensajes que aseguraban, sin pruebas, que los «verificadores» de Jordi Wild eran Carles Tamayo y Rocío Vidal (la Gata de Schrödinger), y que estaban «subvencionados». Ambos lo negaron. Los verificadores son los periodistas Javier Collado e Iván Muñoz.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261112/los-verificadores-independientes-de-las-entrevistas-de-jordi-wild-para-el-29n-son-tamayo-y-la-gata-de-schrodinger/",
+    "nota": "Desconfía de los «ahora se sabe» sin enlace a ninguna fuente"
+  }
+}

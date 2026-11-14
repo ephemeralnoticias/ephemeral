@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13",
+  "actualizado": "2026-11-14",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -26,7 +26,7 @@
       "texto": "Empieza la campaña (00:00)"
     },
     {
-      "fecha": "2026-11-16",
+      "fecha": "2026-11-19",
       "texto": "Cara a cara Sánchez-Feijóo"
     },
     {
@@ -855,6 +855,27 @@
   },
   "diario": [
     {
+      "fecha": "2026-11-14",
+      "titulo": "Fecha para el cara a cara y entrevistas en Jordi Wild",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "texto": "La Academia de Televisión fija el cara a cara Sánchez-Feijóo para el jueves 19. Sánchez, Feijóo y Colau aparecen en The Wild Project; Abascal canceló su entrevista.",
+      "fuentes": [
+        {
+          "nombre": "Diari de Tarragona",
+          "url": "https://www.diaridetarragona.com/espana/275668/cara-cara-sanchez-feijoo-sera-19-noviembre-organizado-academia-television.html"
+        },
+        {
+          "nombre": "elDiario.es",
+          "url": "https://www.eldiario.es/era/entrevistas-jordi-wild-youtuber-convertido-escaparate-relevante-candidatos_1_13653348.html"
+        }
+      ]
+    },
+    {
       "fecha": "2026-11-13",
       "titulo": "Primer día de campaña y encuesta del CIS",
       "partidos": [
@@ -863,7 +884,7 @@
         "vox",
         "fa"
       ],
-      "texto": "El CIS estima PSOE 33,3%, PP 25,5%, Vox 18,4% y Frente Amplio 4,7%, lejos de la mayoría de encuestas privadas. El cara a cara Sánchez-Feijóo será el lunes 16.",
+      "texto": "El CIS estima PSOE 33,3%, PP 25,5%, Vox 18,4% y Frente Amplio 4,7%, por encima para el PSOE de lo que dan otras encuestas. (Corregido: el cara a cara no es el lunes 16, sino el jueves 19.)",
       "fuentes": [
         {
           "nombre": "CIS: encuesta preelectoral 29N",
