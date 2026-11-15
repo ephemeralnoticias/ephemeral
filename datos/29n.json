@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14",
+  "actualizado": "2026-11-15",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -40,6 +40,10 @@
     {
       "fecha": "2026-11-25",
       "texto": "Último día para enviar el voto por correo"
+    },
+    {
+      "fecha": "2026-11-26",
+      "texto": "Debate a cuatro (Academia de Televisión)"
     },
     {
       "fecha": "2026-11-28",
@@ -854,6 +858,28 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-15",
+      "titulo": "Fecha para el debate a cuatro",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "texto": "La Academia de Televisión fija el debate entre los principales candidatos para el jueves 26. La Junta Electoral decidirá si entra Podemos. Sánchez presenta el programa del PSOE en Alcorcón.",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/14/el-debate-entre-los-principales-candidatos-ya-tiene-fecha-se-celebrara-una-semana-despues-del-cara-a-cara/"
+        },
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/tercer-dia-de-campana-sanchez-en-alcorcon-feijoo-en-santander-y-abascal-en-cornella/"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-14",
       "titulo": "Fecha para el cara a cara y entrevistas en Jordi Wild",

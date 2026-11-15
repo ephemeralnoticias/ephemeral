@@ -1,6 +1,18 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-15",
+      "numero": 5,
+      "resumen": "Tercer día de campaña, el debate a cuatro y la propuesta de EE. UU. sobre el Donbás",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-14",
       "numero": 4,
       "resumen": "Los candidatos en Jordi Wild, la fecha del cara a cara y la inflación",

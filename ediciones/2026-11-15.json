@@ -1,0 +1,356 @@
+{
+  "fecha": "2026-11-15",
+  "numero": 5,
+  "minutos": 5,
+  "titular": "Domingo de programas y mítines; el debate a cuatro, el jueves 26.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "internacional",
+    "cifra": "133",
+    "frase": "países votaron en la ONU a favor de una moratoria universal de la pena de muerte.",
+    "detalle": "Fue en la comisión de derechos humanos de la Asamblea General. En 2024, la votación final reunió 130 apoyos. Fuentes: Euronews y Amnistía Internacional."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Tercer día de campaña: Sánchez presenta su programa y Feijóo va a Santander",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "resumen": "Pedro Sánchez (PSOE) presenta hoy el programa electoral socialista en Alcorcón (Madrid). Alberto Núñez Feijóo (PP) da un mitin en Santander, Santiago Abascal (Vox) en Cornellà de Llobregat, Ada Colau (Frente Amplio) celebra su acto central en Zaragoza e Irene Montero (Podemos) está en Sevilla.",
+      "porque": "es el primer domingo de campaña y el día en que el PSOE enseña sus propuestas por escrito.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que dijeron ayer. En Palma, Sánchez pidió a Feijóo que acepte el resultado electoral, fijó como meta una participación del 75% y prometió blindar las pensiones en la Constitución si logra una mayoría suficiente. En Santiago, ante unas 8.000 personas según el PP, Feijóo reprochó a Sánchez que presuma de trenes tras el accidente de Urda.",
+          "Los demás. Abascal hizo doblete en Almería y Murcia; Colau habló de pensiones en Sevilla y Montero, de migración en Canarias.",
+          "Un acto suspendido. El PSOE canceló el mitin de Sánchez con el presidente brasileño, Lula da Silva, en Madrid, por una afonía de Lula."
+        ],
+        "claves": [
+          "Sánchez: Alcorcón (programa)",
+          "Feijóo: Santander",
+          "Abascal: Cornellà",
+          "Colau: Zaragoza · Montero: Sevilla"
+        ],
+        "ahora": "Esta tarde Sánchez será entrevistado en La Séptima (19:00)."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/tercer-dia-de-campana-sanchez-en-alcorcon-feijoo-en-santander-y-abascal-en-cornella/"
+        },
+        {
+          "nombre": "Estrella Digital: el sábado de campaña",
+          "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-trenes-palma/20261115073000453355.html"
+        },
+        {
+          "nombre": "El Español: agenda del domingo",
+          "url": "https://www.elespanol.com/espana/20261115/elecciones-generales-directo-ultima-hora-campana-electoral-pedro-sanchez-encuestas-sondeos-psoe-pp-vox-voto-correo-espana-partidos-2026/1003744458767_10.html"
+        },
+        {
+          "nombre": "Infobae: suspendido el acto con Lula",
+          "url": "https://www.infobae.com/espana/2026/11/14/el-psoe-cancela-el-acto-de-campana-de-pedro-sanchez-y-lula-da-silva-en-madrid-por-una-afonia-del-lider-brasileno/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-mitin.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El debate a cuatro será el jueves 26; Podemos espera a la Junta Electoral",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "resumen": "La Academia de Televisión organizará el debate entre los principales candidatos el jueves 26, una semana después del cara a cara. Previsiblemente estarán Sánchez, Feijóo, Abascal y Colau. Si entra Irene Montero (Podemos) lo decidirá la Junta Electoral Central.",
+      "porque": "es el último gran debate antes de votar: tres días después llegan las urnas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El calendario. Miércoles 18: debate de vivienda en la Cadena SER entre Isabel Rodríguez (PSOE) y Juan Bravo (PP). Jueves 19: cara a cara Sánchez-Feijóo. Lunes 23: debate a ocho en RTVE con portavoces de los grupos del Congreso, moderado por Xabier Fortes. Jueves 26: debate a cuatro.",
+          "El precedente. La Junta Electoral ya rechazó que Podemos entrara en el debate económico de laSexta, al considerar que un formato a cuatro cumplía los criterios de pluralismo y proporcionalidad."
+        ],
+        "claves": [
+          "18: vivienda (SER)",
+          "19: cara a cara",
+          "23: debate a ocho (RTVE)",
+          "26: debate a cuatro"
+        ],
+        "ahora": "El cartel del día 26 aún no es definitivo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/14/el-debate-entre-los-principales-candidatos-ya-tiene-fecha-se-celebrara-una-semana-despues-del-cara-a-cara/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-calendario.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "¿De dónde llegan los inmigrantes? Los datos que revisaron los verificadores de Jordi Wild",
+      "partidos": [
+        "psoe"
+      ],
+      "resumen": "En la entrevista con Jordi Wild, Pedro Sánchez dijo que, de los migrantes que llegan a España, «el 40% son europeos» y otro 40%, latinoamericanos. Los verificadores del programa aportaron otra foto: en los últimos cinco años, los que más llegan son colombianos, marroquíes y venezolanos.",
+      "porque": "la inmigración es el segundo problema para los españoles según el CIS de octubre (20,9%), detrás de la vivienda.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las llegadas. Según los datos que leyeron en el programa: 168.122 colombianos, 133.130 marroquíes y 103.225 venezolanos en cinco años. Con datos de 2024, los europeos fueron el 23% de las llegadas, no el 40%. En el último año, Venezuela ha adelantado a Marruecos.",
+          "Los que ya viven aquí. Si se mira a los extranjeros residentes, los marroquíes son los primeros, seguidos de rumanos, colombianos y venezolanos. Según Noticias Trabajo, las cifras de Sánchez se parecen más a esa foto que a la de las llegadas.",
+          "Las demás entrevistas. Según elDiario.es, los verificadores intervinieron una vez con Colau, otra con Feijóo y algo más con Sánchez."
+        ],
+        "claves": [
+          "Más llegadas en 5 años: Colombia, Marruecos, Venezuela",
+          "Europeos en 2024: 23% de las llegadas",
+          "Residentes: Marruecos, primero"
+        ],
+        "ahora": "Corrección: ayer dijimos que los verificadores solo intervinieron con Colau y Feijóo. También lo hicieron con Sánchez; ya lo hemos corregido."
+      },
+      "fuentes": [
+        {
+          "nombre": "elDiario.es: las intervenciones de los verificadores",
+          "url": "https://www.eldiario.es/rastreador/son-verificadores-fiscalizan-jordi-wild-candidatos-entrevistas_132_13661371.html"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/13/los-datos-sobre-la-nacionalidad-de-los-inmigrantes-que-han-hecho-trabajar-a-los-verificadores-de-jordi-wild-pedro-sanchez-asegura-que-un-40-son-latinoamericanos/"
+        },
+        {
+          "nombre": "Noticias Trabajo: los datos del INE",
+          "url": "https://www.noticiastrabajo.es/politica/pedro-sanchez-se-equivoca-ante-los-verificadores-de-jordi-wild-al-decir-que-el-40-de-los-inmigrantes-que-llegan-son-europeos-cuando-en-2024-fueron-el-23/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-datos.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "En Valladolid, tachar a Óscar Puente en la papeleta anulará el voto",
+      "partidos": [
+        "psoe"
+      ],
+      "resumen": "La Junta Electoral Central anuló el acuerdo de la Junta de Valladolid que permitía tachar el nombre de Óscar Puente en la papeleta del PSOE sin invalidar el voto. Puente renunció a ser candidato, pero su nombre sigue impreso.",
+      "porque": "si votas en Valladolid y tachas su nombre, tu voto no contará para nadie.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué. La Central recuerda que las candidaturas no se pueden cambiar una vez presentadas y que cualquier tachadura en la papeleta hace nulo el voto (artículos 48.2 y 96.2 de la ley electoral). El precedente de 2011 que usó Valladolid es anterior a su instrucción de 2012, que no admite excepciones."
+        ],
+        "claves": [
+          "Decisión de la Junta Electoral Central: 12 de noviembre",
+          "Papeleta con tachaduras = voto nulo"
+        ],
+        "ahora": "La papeleta vale tal y como está impresa."
+      },
+      "fuentes": [
+        {
+          "nombre": "Maldita.es",
+          "url": "https://maldita.es/desinfo/20261113/tachar-el-nombre-de-oscar-puente-hace-nulo-el-voto/"
+        },
+        {
+          "nombre": "BOE: Instrucción 1/2012 de la Junta Electoral Central",
+          "url": "https://boe.gob.es/buscar/pdf/2012/BOE-A-2012-3859-consolidado.pdf"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-papeleta.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Productores de cinco países piden etiquetar de dónde viene el tomate",
+      "resumen": "Organizaciones agrarias de España, Francia, Italia, Portugal y Polonia han lanzado la campaña «We Tomato Europe». Piden etiquetas claras con el país de origen y más controles a los tomates importados de fuera de la UE.",
+      "porque": "España es uno de los grandes productores de tomate de Europa y el sector denuncia la competencia de importaciones con normas menos exigentes.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Quiénes. En España, Asaja, COAG, UPA, Cooperativas Agro-alimentarias y Fepex.",
+          "Qué piden. Origen claro en la etiqueta, cláusulas de salvaguarda si las importaciones desequilibran el mercado, más controles sanitarios en frontera y que lo importado cumpla las mismas normas. También piden revisar el acuerdo comercial con Marruecos."
+        ],
+        "claves": [
+          "Campaña «We Tomato Europe»",
+          "España, Francia, Italia, Portugal y Polonia"
+        ],
+        "ahora": "Las organizaciones quieren llevar la campaña a consumidores e instituciones europeas."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/14/de-donde-viene-el-tomate-que-compra-5-paises-piden-que-el-origen-quede-claro-con-we-tomato"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-tomate.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Zelenski: EE. UU. planteó que Ucrania deje el Donbás a cambio de entrar en la OTAN",
+      "resumen": "El presidente ucraniano, Volodímir Zelenski, contó que los negociadores estadounidenses preguntaron por primera vez si Ucrania se retiraría del Donbás si entrara en la OTAN. Rusia exige que Ucrania abandone toda la región de Donetsk.",
+      "porque": "es la primera vez que se pone sobre la mesa entrar en la OTAN a cambio de territorio, el gran escollo de las negociaciones.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Su respuesta. Zelenski dice que Ucrania no cederá territorio, pero que, si recibe un paquete completo de seguridad (un ejército fuerte y garantías de la OTAN y la UE), lo sometería a la opinión de los ucranianos.",
+          "Sobre Putin. Zelenski llamó «peligrosas» las demandas rusas para cambiar la seguridad europea: «La verdadera seguridad en Europa son la UE y la OTAN»."
+        ],
+        "claves": [
+          "Propuesta planteada «por primera vez», según Zelenski",
+          "Rusia exige toda la región de Donetsk"
+        ],
+        "ahora": "Las negociaciones entre EE. UU., Ucrania y Rusia siguen abiertas."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Emol)",
+          "url": "https://www.emol.com/noticias/Internacional/2026/11/14/1217098/ucrania-otan-trump-zelenski.html"
+        },
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/11/14/mundo/ee-uu-ucrania-donbas-ingreso-otan-trax"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/14/eeuu-plantea-la-retirada-del-dombas-a-ucrania-a-cambio-de-adhesion-a-la-otan"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-mapa-frente.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "133 países apoyan en la ONU una moratoria de la pena de muerte",
+      "resumen": "La comisión de derechos humanos de la Asamblea General de la ONU aprobó con 133 votos a favor la resolución que pide a los países dejar de ejecutar mientras avanzan hacia la abolición. Se vota cada dos años.",
+      "porque": "llega cuando las ejecuciones van al alza: subieron un 78% en 2025.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "¿Es obligatoria? No: las resoluciones de la Asamblea General no son vinculantes, aunque tienen peso político.",
+          "Lo siguiente. El pleno de la Asamblea suele votarla en diciembre. En 2024 la aprobaron 130 países."
+        ],
+        "claves": [
+          "133 votos a favor en la comisión",
+          "Ejecuciones en 2025: +78%"
+        ],
+        "ahora": "Falta la votación final del pleno de la Asamblea General."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/14/133-paises-de-la-onu-votan-a-favor-de-la-moratoria-universal-de-la-pena-de-muerte"
+        },
+        {
+          "nombre": "Amnistía Internacional: la votación de 2024",
+          "url": "https://www.amnesty.org/es/latest/news/2024/12/global-un-member-states-move-closer-to-rejecting-death-penalty-as-lawful-punishment-under-international-law/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-onu.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "El Hierro, desbordado por la llegada de cayucos",
+      "resumen": "Más de 80 cayucos han llegado a El Hierro desde que empezó noviembre, según EFE. El ministro de Política Territorial, Ángel Víctor Torres, visita hoy el puerto de La Restinga.",
+      "porque": "la isla tiene poco más de 10.000 habitantes y declaró la emergencia la semana pasada.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Según el Gobierno canario, las llegadas subieron un 320% en octubre y un 1.000% en los primeros ocho días de noviembre respecto al año anterior.",
+          "Por qué ahora. En otoño el mar está más tranquilo y suben las salidas, sobre todo desde Senegal, por la ruta atlántica: la más peligrosa del mundo."
+        ],
+        "claves": [
+          "Más de 80 cayucos en noviembre",
+          "Emergencia declarada en la isla"
+        ],
+        "ahora": "El Gobierno canario reclama a Moncloa medidas inmediatas."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/14/hoy-sera-noticia-domingo-15-de-noviembre/"
+        },
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
+        },
+        {
+          "nombre": "Artículo 14",
+          "url": "https://www.articulo14.es/politica/el-gobierno-canario-reclama-a-moncloa-medidas-inmediatas-para-el-hierro-esto-no-es-dentro-de-15-dias-es-manana-20261110.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-mar.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Pagaban 100 euros en TikTok por abrir cuentas para mover dinero de estafas",
+      "resumen": "La Guardia Civil ha cerrado un canal de TikTok que ofrecía hasta 100 euros a quien abriera una cuenta bancaria. Esas cuentas se usaban para recibir y mover dinero de estafas. Hay al menos 162 víctimas.",
+      "porque": "ceder tu cuenta a otros puede acarrear responsabilidades penales, aunque no sepas de dónde viene el dinero.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La operación. Se llama Black-Account: dos detenidos y un investigado en Granada y Almería, y 38.000 euros recuperados. Uno de los titulares llegó a tener 26 cuentas en ocho bancos.",
+          "El consejo. No abras cuentas para otros ni compartas claves o códigos SMS. Ninguna empresa legítima paga por usar tu cuenta. Si ya lo hiciste, avisa a tu banco y denuncia (062)."
+        ],
+        "claves": [
+          "162 víctimas",
+          "Hasta 100 € por cuenta",
+          "Riesgo penal para quien la cede"
+        ],
+        "ahora": "La investigación sigue abierta y no se descartan más detenciones."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/14/la-guardia-civil-cierra-un-canal-de-tiktok-que-captaba-cuentas-bancarias-para-cometer-ciberdelitos/"
+        },
+        {
+          "nombre": "El Español",
+          "url": "https://www.elespanol.com/espana/andalucia/20261114/guardia-civil-cierra-canal-tiktok-pagaba-euros-abrir-cuentas-bancarias-estafar/1003744458334_0.html"
+        },
+        {
+          "nombre": "Economía Finanzas",
+          "url": "https://www.economiafinanzas.com/la-guardia-civil-cierra-un-canal-de-tiktok-que-ofrecia-hasta-100-euros-por-abrir-cuentas-dos-detenidos-y-162-victimas/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-cuentas.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Hoy, España-Inglaterra: con un empate, primera de grupo",
+      "resumen": "La campeona del mundo recibe a Inglaterra a las 20:45 en el Metropolitano, en la última jornada de la fase de liga de la Liga de Naciones. A España le basta un empate para acabar primera y jugar la Final Four.",
+      "porque": "España y Francia se disputan además acoger esa Final Four.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Dónde verlo. En abierto en La 1 de TVE y RTVE Play.",
+          "La ida. España ganó 2-3 en Wembley en septiembre."
+        ],
+        "claves": [
+          "20:45, Metropolitano",
+          "La 1 y RTVE Play",
+          "Ida: Inglaterra 2-3 España"
+        ],
+        "ahora": "Esta noche, 20:45."
+      },
+      "fuentes": [
+        {
+          "nombre": "RFEF",
+          "url": "https://rfef.es/es/noticias/el-metropolitano-acogera-el-espana-inglaterra-de-la-nations-league"
+        },
+        {
+          "nombre": "Infobae: la candidatura a la Final Four",
+          "url": "https://www.infobae.com/espana/deportes/2026/11/14/espana-y-francia-se-disputan-acoger-la-final-four-de-la-nations-league-el-gran-ensayo-del-santiago-bernabeu-para-la-final-del-mundial-2030/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-15-balon.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, esta foto de Koldo con Tellado y Ester Muñoz no es real",
+    "texto": "Circula una imagen que muestra supuestamente a Koldo García reunido con Miguel Tellado y Ester Muñoz (PP). Maldita.es la pasó por SynthID, el detector de Google, que indica que fue generada o editada con IA de OpenAI. No hay rastro de una foto original.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261113/una-foto-muestra-a-koldo-garcia-miguel-tellado-y-esther-munoz-reunidos/",
+    "nota": "En campaña, desconfía de fotos «exclusivas» sin fuente"
+  }
+}
