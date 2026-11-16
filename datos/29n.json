@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15",
+  "actualizado": "2026-11-16",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -858,6 +858,26 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-16",
+      "titulo": "El PSOE presenta su programa",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ],
+      "texto": "Sánchez presenta en Alcorcón el programa socialista: permiso de crianza pagado, pensiones y aborto en la Constitución y más impuestos a grandes propietarios. Feijóo hace campaña en Santander y Abascal, en Cornellà.",
+      "fuentes": [
+        {
+          "nombre": "El Independiente",
+          "url": "https://www.elindependiente.com/espana/2026/11/15/sanchez-programa-electoral-alcorcon-crianza-grandes-tenedores-union-amistad/"
+        },
+        {
+          "nombre": "Estrella Digital",
+          "url": "https://www.estrelladigital.es/espana/feijoo-ave-reinosa-abascal-voto-socialista-sanchez-reforma-constitucion/20261116073000453409.html"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-15",
       "titulo": "Fecha para el debate a cuatro",

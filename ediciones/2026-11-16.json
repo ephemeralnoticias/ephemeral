@@ -1,0 +1,306 @@
+{
+  "fecha": "2026-11-16",
+  "numero": 6,
+  "minutos": 5,
+  "titular": "El PSOE enseña su programa y mañana hay huelga de trenes.",
+  "entradilla": "Nueve noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "sociedad",
+    "cifra": "1.580",
+    "frase": "personas llegaron el sábado a Canarias en cayucos y pateras.",
+    "detalle": "Fue el fin de semana con más rescates en los 30 años de la ruta canaria: más de 2.500 personas. Fuentes: EFE e Infobae."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "El PSOE presenta su programa; Feijóo y Abascal hacen campaña en Santander y Cornellà",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "resumen": "Pedro Sánchez (PSOE) presentó ayer en Alcorcón su programa: un permiso de cuatro semanas pagado al 100% para cuidar a hijos menores de ocho años, más impuestos a grandes propietarios con pisos vacíos o turísticos y una nueva figura legal, la «unión de amistad». Alberto Núñez Feijóo (PP) estuvo en Santander y Santiago Abascal (Vox), en Cornellà.",
+      "porque": "a 13 días de votar, los partidos ya han puesto sus propuestas sobre la mesa.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "PSOE. Propone reformar la Constitución para garantizar que las pensiones suban con el IPC y para reconocer el derecho al aborto. Pidió una participación del 75% y 176 escaños, la mayoría absoluta.",
+          "PP. Feijóo puso a Cantabria como modelo y prometió una financiación autonómica justa, apoyo a los ganaderos, sacar al lobo de la lista de especies protegidas y que el AVE llegue a Reinosa.",
+          "Vox. Abascal pidió el voto también a votantes de otros partidos y advirtió de un posible fraude electoral. Su programa incluye un IRPF de dos tramos con los primeros 22.000 euros exentos y un sistema de pensiones mixto, con una parte de capitalización.",
+          "Hoy. Sánchez recibe en la Moncloa al presidente brasileño, Lula, y por la noche lo entrevistan en Telecinco. Feijóo va a Lleida y Pamplona; Abascal, a Tenerife; y Ada Colau (Frente Amplio) participa en un acto sobre vivienda en Madrid, el día en que su coalición presenta el programa."
+        ],
+        "claves": [
+          "PSOE: permiso de crianza pagado y pensiones en la Constitución",
+          "PP: financiación autonómica y AVE a Reinosa",
+          "Vox: IRPF de dos tramos",
+          "Jueves 19: último día para pedir el voto por correo"
+        ],
+        "ahora": "El jueves 19 hay cara a cara y termina el plazo para pedir el voto por correo."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/dia-3-sanchez-presenta-el-programa-del-psoe-y-pide-el-voto-de-la-gente-moderada/"
+        },
+        {
+          "nombre": "El Independiente: las medidas del PSOE",
+          "url": "https://www.elindependiente.com/espana/2026/11/15/sanchez-programa-electoral-alcorcon-crianza-grandes-tenedores-union-amistad/"
+        },
+        {
+          "nombre": "Estrella Digital: el domingo de campaña",
+          "url": "https://www.estrelladigital.es/espana/feijoo-ave-reinosa-abascal-voto-socialista-sanchez-reforma-constitucion/20261116073000453409.html"
+        },
+        {
+          "nombre": "EFE: la agenda de hoy",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/16/cuarto-dia-de-campana-sanchez-con-lula-feijoo-en-lleida-y-navarra-y-abascal-en-tenerife/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-programa.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Mañana hay huelga en Renfe: estos son los trenes garantizados",
+      "resumen": "Los sindicatos ferroviarios mantienen la huelga de 24 horas del martes 17 en todo el Grupo Renfe. Transportes ha fijado servicios mínimos: 75% en Cercanías en hora punta (50% el resto del día), 72% en AVE y Larga Distancia y 65% en Media Distancia.",
+      "porque": "si coges el tren mañana, puede que el tuyo no salga: consulta antes en renfe.com.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué. No es una huelga por salarios: los sindicatos piden más seguridad en la red, revisar protocolos y más inversión en mantenimiento tras los accidentes de Adamuz y Urda, que dejaron 115 muertos este año.",
+          "Lo que no les ha convencido. El viernes, el Consejo de Ministros aprobó un real decreto para reforzar la seguridad y ampliar garantías a los maquinistas. Los sindicatos mantienen la presión hasta que se aplique."
+        ],
+        "claves": [
+          "Cercanías: 75% en hora punta, 50% el resto",
+          "AVE y Larga Distancia: 72%",
+          "Media Distancia: 65%"
+        ],
+        "ahora": "La huelga dura todo el martes 17. Hoy está prevista una concentración."
+      },
+      "fuentes": [
+        {
+          "nombre": "Renfe: servicios mínimos",
+          "url": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/11/establecidos-los-servicios-minimos-para-la-huelga-del-17-de-noviembre"
+        },
+        {
+          "nombre": "El Cronista",
+          "url": "https://www.cronista.com/espana/actualidad-es/los-ferroviarios-mantienen-la-huelga-del-martes-pese-a-los-cambios-en-adif-y-renfe-asi-seran-los-servicios-minimos/"
+        },
+        {
+          "nombre": "Noticias Ciudadanas",
+          "url": "https://noticiasciudadanas.com/huelga-renfe-este-martes-17-de-noviembre"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-tren.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Yolanda Díaz se juega hoy dirigir la Organización Internacional del Trabajo",
+      "resumen": "El consejo de la OIT, la agencia de la ONU para el empleo, vota hoy en secreto a su próximo director general. Compiten Yolanda Díaz, vicepresidenta segunda del Gobierno; el actual director, el togolés Gilbert Houngbo; y el excanciller peruano Javier González-Olaechea.",
+      "porque": "Díaz no repite en las listas del 29N. Si gana, sería la primera mujer y la primera española al frente de la OIT.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Quién vota. Un consejo de 56 miembros: 28 representantes de gobiernos, 14 de empresarios y 14 de trabajadores. Puede hacer falta más de una ronda.",
+          "Cuándo empezaría. El mandato, de cinco años, arranca el 1 de octubre de 2027."
+        ],
+        "claves": [
+          "Votación secreta hoy en Ginebra",
+          "Mandato desde octubre de 2027"
+        ],
+        "ahora": "El resultado se conocerá hoy."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Debate: cómo se elige",
+          "url": "https://www.eldebate.com/economia/20260724/intransigencia-diaz-patronal-juega-ahora-contra-dirigir-oit_443035.html"
+        },
+        {
+          "nombre": "Diario de León (EFE)",
+          "url": "https://www.diariodeleon.es/economia/260831/2095808/guerra-abierta-oit-salto-yolanda-diaz-empleo-global-cambiar-reglas-juego.html"
+        },
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/16/elecciones-generales-espana-2026-en-directo-ultima-hora-de-la-visita-de-lula-da-silva-el-futuro-de-yolanda-diaz-y-el-programa-del-frente-amplio/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-oit.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Black Friday y Navidad darán trabajo a unas 200.000 personas",
+      "resumen": "La campaña de fin de año (Black Friday, Navidad y rebajas de enero) sostendrá unos 200.000 empleos en España, según la previsión que recoge EFE. Black Friday llega en once días.",
+      "porque": "es la temporada con más contratos del año, y también la de más ofertas engañosas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Un consejo. Antes de comprar, mira el precio unas semanas antes: muchas campañas se preparan con meses de antelación y no todos los descuentos lo son."
+        ],
+        "claves": [
+          "Unos 200.000 empleos",
+          "Black Friday: viernes 27"
+        ],
+        "ahora": "Hoy se presenta el barómetro del comercio para la temporada alta."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/temas-del-dia-de-efe-espana-del-lunes-16-de-noviembre-de-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-compras.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Lula y Orsi, en la Moncloa",
+      "resumen": "Pedro Sánchez recibe hoy al presidente de Brasil, Luiz Inácio Lula da Silva, y al de Uruguay, Yamandú Orsi. Es el primer viaje de Lula a Madrid desde que ganó las recientes elecciones brasileñas.",
+      "porque": "llega en plena campaña, después de que se suspendiera el mitin conjunto con Sánchez.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La agenda. Lula llega en visita de trabajo. Orsi será recibido a las 13:45.",
+          "El mitin. El PSOE canceló el sábado el acto con Lula previsto en Madrid por una afonía del presidente brasileño."
+        ],
+        "claves": [
+          "Visitas oficiales en la Moncloa",
+          "Sin acto de campaña conjunto"
+        ],
+        "ahora": "No está previsto ningún acto de partido con Lula."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/temas-del-dia-de-efe-espana-del-lunes-16-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Infobae: acto suspendido",
+          "url": "https://www.infobae.com/espana/2026/11/14/el-psoe-cancela-el-acto-de-campana-de-pedro-sanchez-y-lula-da-silva-en-madrid-por-una-afonia-del-lider-brasileno/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-recepcion.svg",
+      "partidos": [
+        "psoe"
+      ]
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Canarias vive el fin de semana con más rescates en 30 años de ruta",
+      "resumen": "Más de 2.500 personas llegaron a Canarias en cayucos y pateras este fin de semana; solo el sábado, 1.580 en quince embarcaciones y tres islas. Es la cifra más alta en un fin de semana en los 30 años de la ruta canaria.",
+      "porque": "los centros de acogida están saturados: cientos de personas esperan hacinadas en el puerto de La Estaca, en El Hierro.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El Gobierno central envía recursos a las islas.",
+          "Hoy, Santiago Abascal (Vox) visita Tenerife: la inmigración es el eje de su campaña."
+        ],
+        "claves": [
+          "Más de 2.500 personas en un fin de semana",
+          "Sábado: 1.580 en 15 embarcaciones"
+        ],
+        "ahora": "Siguen las llegadas a El Hierro."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/16/elecciones-generales-espana-2026-en-directo-ultima-hora-de-la-visita-de-lula-da-silva-el-futuro-de-yolanda-diaz-y-el-programa-del-frente-amplio/"
+        },
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/temas-del-dia-de-efe-espana-del-lunes-16-de-noviembre-de-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-salvavidas.svg",
+      "partidos": [
+        "vox"
+      ]
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "El papa cierra en Lima su primera gira por Latinoamérica",
+      "resumen": "León XIV termina en Lima su visita a Perú con una misa multitudinaria. Ha pasado por Uruguay, Argentina y Perú, el país donde vivió más de veinte años y del que tiene la nacionalidad.",
+      "porque": "es su primer gran viaje a la región desde que es papa.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El viaje. En Perú estuvo en Chiclayo, Cajamarca, Cusco, Pucallpa y Lima."
+        ],
+        "claves": [
+          "Uruguay, Argentina y Perú",
+          "Vuelta a Roma tras la etapa de Lima"
+        ],
+        "ahora": "Regresa al Vaticano."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://infobae.com/america/agencias/2026/11/16/lunes-16-de-noviembre-de-2026-0200-gmt"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-lima.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "El Hespérides zarpa hacia la Antártida",
+      "resumen": "El buque de investigación oceanográfica Hespérides sale hoy de Cartagena para la 31.ª campaña antártica española (2026-27).",
+      "porque": "España tiene dos bases en la Antártida y el buque lleva a los equipos científicos y el material para el verano austral.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Y en Tenerife. El Instituto de Astrofísica de Canarias reúne hasta el 27 de noviembre a más de cien estudiantes y jóvenes investigadores de unos 20 países en su escuela de invierno, dedicada a estrellas masivas, supernovas y ondas gravitacionales."
+        ],
+        "claves": [
+          "31.ª campaña antártica",
+          "Salida: Cartagena"
+        ],
+        "ahora": "El buque zarpa hoy a las 12:45."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/15/temas-del-dia-de-efe-espana-del-lunes-16-de-noviembre-de-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-buque.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Inglaterra gana 2-3 en el Metropolitano y acaba con la racha de España",
+      "resumen": "Inglaterra llegó a ponerse 0-3 con goles de Harry Kane (de penalti), Ezri Konsa y Ben White. España recortó con Mikel Oyarzabal, de penalti, y Nico Williams, pero no le alcanzó. Era su primera derrota oficial desde marzo de 2024.",
+      "porque": "Inglaterra acaba primera del grupo y España, segunda.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Lo siguiente. Los dos primeros de cada grupo juegan los cuartos de final, del 25 al 30 de marzo de 2027. La fase final será del 9 al 13 de junio.",
+          "Corrección. El sábado y el domingo dijimos que el primer puesto daba acceso a la Final Four. No es así: ya estaba clasificada para cuartos y el primer puesto solo da ventaja en el cruce. Ya lo hemos corregido."
+        ],
+        "claves": [
+          "España 2-3 Inglaterra",
+          "Fin de una racha de más de 40 partidos oficiales sin perder",
+          "Cuartos de final: marzo de 2027"
+        ],
+        "ahora": "España jugará los cuartos en marzo."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Comercio",
+          "url": "https://www.elcomercio.com/deportes/futbol/espana-inglaterra-resultado-liga-naciones/"
+        },
+        {
+          "nombre": "Libertad Digital",
+          "url": "https://www.libertaddigital.com/deportes/directo/2026-11-15-narracion-espana-inglaterra-liganaciones-7491740/"
+        },
+        {
+          "nombre": "ESdiario: el calendario de la Liga de Naciones",
+          "url": "https://www.esdiario.com/deportes/260212/179625/asi-quedan-emparejamientos-nations-league.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-16-marcador.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, no existe una encuesta de IMOP que dé la mayoría absoluta a la izquierda",
+    "texto": "Circula una supuesta encuesta atribuida a IMOP que da 178 escaños al bloque de izquierdas (173 al PSOE y 5 a Frente Amplio). Newtral no ha encontrado rastro de ella y la cuenta que la difunde ha pedido explícitamente el voto para el PSOE.",
+    "verificador": "Newtral",
+    "url": "https://www.newtral.es/encuesta-falsa-imop-mayoria-absoluta-bloque-izquierda-29n/20261114/",
+    "nota": "Antes de compartir una encuesta, búscala en la web del instituto que la firma"
+  }
+}

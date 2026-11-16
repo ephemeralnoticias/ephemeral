@@ -318,8 +318,8 @@
     {
       "seccion": "deportes",
       "titulo": "Hoy, España-Inglaterra: con un empate, primera de grupo",
-      "resumen": "La campeona del mundo recibe a Inglaterra a las 20:45 en el Metropolitano, en la última jornada de la fase de liga de la Liga de Naciones. A España le basta un empate para acabar primera y jugar la Final Four.",
-      "porque": "España y Francia se disputan además acoger esa Final Four.",
+      "resumen": "La campeona del mundo recibe a Inglaterra a las 20:45 en el Metropolitano, en la última jornada de la fase de liga de la Liga de Naciones. A España le basta un empate para acabar primera de grupo.",
+      "porque": "España ya está en cuartos de final; el primer puesto da ventaja en el cruce.",
       "minutosMas": 1,
       "detalle": {
         "parrafos": [
@@ -331,7 +331,7 @@
           "La 1 y RTVE Play",
           "Ida: Inglaterra 2-3 España"
         ],
-        "ahora": "Esta noche, 20:45."
+        "ahora": "Esta noche, 20:45. Corrección (16 nov): en la primera versión decíamos que el primer puesto daba acceso a la Final Four. No es así: los dos primeros de cada grupo pasan a los cuartos de final de marzo de 2027, y España ya estaba clasificada."
       },
       "fuentes": [
         {

@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-16",
+      "numero": 6,
+      "resumen": "El programa del PSOE, la huelga de Renfe y la derrota ante Inglaterra",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-15",
       "numero": 5,
       "resumen": "Tercer día de campaña, el debate a cuatro y la propuesta de EE. UU. sobre el Donbás",
