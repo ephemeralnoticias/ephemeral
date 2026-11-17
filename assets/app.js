@@ -274,9 +274,34 @@ function htmlBulo(bulo, etiquetaTitulo) {
 // Newsletter. Si el servidor (functions/api/suscribir.js) tiene configurada la API de beehiiv,
 // se usa el formulario propio, que no bloquean los bloqueadores de anuncios.
 // Si no, se queda el formulario de beehiiv, y si a los 8 s no ha cargado se muestra un aviso.
+// Casilla obligatoria «He leído y acepto la política de privacidad»: sin marcarla no se puede
+// enviar el formulario propio, y el de beehiiv queda bloqueado (inert + velo encima).
+function prepararConsentimiento() {
+  const casilla = $("#acepto"), zona = $("#zona-beehiiv"), embed = $("#form-beehiiv"),
+        velo = $("#form-velo"), avisoC = $("#form-consent-aviso");
+  if (!casilla) return () => true;
+  const caja = casilla.closest(".consentimiento");
+  const pedir = () => {
+    if (avisoC) avisoC.hidden = false;
+    if (caja) caja.classList.add("falta");
+    casilla.focus();
+  };
+  const aplicar = () => {
+    const ok = casilla.checked;
+    if (zona) zona.dataset.bloqueado = ok ? "no" : "si";
+    if (embed) embed.inert = !ok;
+    if (ok) { if (avisoC) avisoC.hidden = true; if (caja) caja.classList.remove("falta"); }
+  };
+  casilla.addEventListener("change", aplicar);
+  if (velo) velo.addEventListener("click", pedir);
+  aplicar();
+  return () => { if (casilla.checked) return true; pedir(); return false; };
+}
+
 async function prepararNewsletter() {
   const propio = $("#form-propio"), embed = $("#form-beehiiv"), aviso = $("#form-aviso");
   if (!propio || !embed) return;
+  const consentido = prepararConsentimiento();
   let listo = false;
   try {
     const r = await fetch("api/suscribir", { headers: { Accept: "application/json" }, cache: "no-store" });
@@ -287,7 +312,8 @@ async function prepararNewsletter() {
     embed.hidden = true;
     if (aviso) aviso.hidden = true;
     propio.hidden = false;
-    activarFormularioPropio(propio);
+    const zona = $("#zona-beehiiv"); if (zona) zona.hidden = true;
+    activarFormularioPropio(propio, consentido);
     return;
   }
   if (aviso) setTimeout(() => {
@@ -296,11 +322,12 @@ async function prepararNewsletter() {
   }, 8000);
 }
 
-function activarFormularioPropio(form) {
+function activarFormularioPropio(form, consentido) {
   const estado = $("#form-estado"), boton = form.querySelector("button"), campo = form.querySelector("#correo");
   const decir = (texto, tipo) => { estado.textContent = texto; estado.dataset.tipo = tipo || ""; };
   form.addEventListener("submit", async (ev) => {
     ev.preventDefault();
+    if (!consentido()) return;
     const email = campo.value.trim();
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { decir("Revisa el correo: parece que falta algo.", "error"); campo.focus(); return; }
     boton.disabled = true; decir("Enviando…");
@@ -308,10 +335,11 @@ function activarFormularioPropio(form) {
       const r = await fetch("api/suscribir", {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },
-        body: JSON.stringify({ email, web: form.elements.web.value }),
+        body: JSON.stringify({ email, acepta: $("#acepto").checked === true, web: form.elements.web.value }),
       });
       if (r.ok) {
         form.reset();
+        $("#acepto").checked = false; $("#acepto").dispatchEvent(new Event("change"));
         decir("¡Hecho! Revisa tu correo (y la carpeta de spam): te acabamos de escribir.", "ok");
       } else if (r.status === 400) {
         decir("Revisa el correo: parece que falta algo.", "error");

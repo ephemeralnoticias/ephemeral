@@ -18,7 +18,7 @@ export async function onRequestGet({ env }) {
   return responder({ listo: configurado(env) });
 }
 
-// POST /api/suscribir  { "email": "...", "web": "" }
+// POST /api/suscribir  { "email": "...", "acepta": true, "web": "" }
 export async function onRequestPost({ request, env }) {
   if (!configurado(env)) return responder({ ok: false, error: "config" }, 503);
 
@@ -27,6 +27,9 @@ export async function onRequestPost({ request, env }) {
 
   // Campo trampa: las personas no lo ven; si viene relleno, es un robot. Fingimos que todo fue bien.
   if (datos && datos.web) return responder({ ok: true });
+
+  // Sin la casilla «He leído y acepto la política de privacidad» marcada no se da de alta a nadie.
+  if (!datos || datos.acepta !== true) return responder({ ok: false, error: "consentimiento" }, 400);
 
   const email = String((datos && datos.email) || "").trim().toLowerCase();
   if (email.length > 254 || !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) {
