@@ -1,0 +1,402 @@
+{
+  "fecha": "2026-11-17",
+  "numero": 7,
+  "minutos": 6,
+  "titular": "Huelga de trenes, salario mínimo de 1.286 euros y Díaz se retira de la OIT.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "economia",
+    "cifra": "1.286 €",
+    "frase": "será el salario mínimo en 2027, en catorce pagas, si el Gobierno lo aprueba hoy como ha anunciado.",
+    "detalle": "Son 65 euros más al mes y 18.004 euros al año, un 5,3% más que ahora. Fuente: Ministerio de Trabajo, vía Europa Press y EFE."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Quinto día de campaña: Sánchez va a Albacete y Feijóo acompaña a su candidato agredido",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "resumen": "Pedro Sánchez (PSOE) da hoy un mitin en Albacete. Alberto Núñez Feijóo (PP) acompaña en Éibar a Jon Echeverría, su candidato por Gipuzkoa, agredido el sábado en Hernani, y luego va a Bilbao y Logroño. Santiago Abascal (Vox) sigue en Canarias, con actos en Arrecife y Las Palmas, y Ada Colau (Frente Amplio) hace un desayuno informativo en Madrid y una entrevista en un pódcast.",
+      "porque": "a doce días de votar y a dos del cara a cara, cada partido refuerza sus temas: Feijóo, la seguridad de su campaña en el País Vasco; Abascal, la inmigración; Colau, la vivienda.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que dijo Sánchez ayer. En Telecinco anunció que el Consejo de Ministros aprueba hoy una subida del 4,5% para los empleados públicos en 2027, pactada con CSIF, CCOO y UGT. Sobre la amnistía dijo: «Hice de la necesidad virtud». Por la mañana recibió en la Moncloa a Lula da Silva y a Yamandú Orsi; Lula, que suspendió su mitin por afonía, grabó después un vídeo deseándole la victoria.",
+          "Lo que dijo Feijóo. En Pamplona, en un mitin conjunto de UPN y PP ante unas 1.000 personas según el PP, presentó la medida 132 de su programa: que quienes tuvieron que irse del País Vasco y Navarra por ETA puedan volver a votar en el municipio donde estaban empadronados.",
+          "Lo que dijo Abascal. En Santa Cruz de Tenerife, ante unas 5.000 personas según Vox, defendió «Canarias para los canarios y España para los españoles» y rechazó repartir por la Península a los recién llegados.",
+          "Lo que dijo Colau. Puso una condición para que Frente Amplio entre en un Gobierno: que el primer decreto estabilice los contratos de alquiler. Su compañero Pablo Bustinduy presentó un programa que incluye un tope de 10 millones de euros a lo que puede heredar cada persona."
+        ],
+        "claves": [
+          "Sánchez: Albacete",
+          "Feijóo: Éibar, Bilbao y Logroño",
+          "Abascal: Arrecife y Las Palmas",
+          "Colau: Madrid"
+        ],
+        "ahora": "Pasado mañana, jueves 19, es el cara a cara y el último día para pedir el voto por correo."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el quinto día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/quinto-dia-de-campana-de-la-crisis-migratoria-en-canarias-al-podcast-irreverente-y-lgtbi/"
+        },
+        {
+          "nombre": "Estrella Digital: el lunes de campaña",
+          "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-colau-decreto-alquiler-feijoo-eta/20261117094811453461.html"
+        },
+        {
+          "nombre": "EFE: agenda del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/16/temas-del-dia-de-efe-espana-del-martes-17-de-noviembre-de-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-escenario.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Petardos, huevos y piedras contra el candidato del PP en Hernani",
+      "partidos": [
+        "pp",
+        "vox"
+      ],
+      "resumen": "Jon Echeverría, candidato del PP al Congreso por Gipuzkoa, tuvo que suspender el sábado un acto en la plaza de los Tilos de Hernani. Según el PP, unos 200 jóvenes, algunos encapuchados, le gritaron y le lanzaron petardos, huevos y piedras.",
+      "porque": "es el incidente más grave de la campaña hasta ahora y ha obligado al PP vasco a cambiar su agenda en Gipuzkoa.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las consecuencias. El PP vasco suspendió su gira por Gipuzkoa y dijo que solo hará actos donde haya condiciones de seguridad. El partido criticó la protección que le daba Interior, y el ministerio pidió después que se protegiera a Echeverría.",
+          "Las condenas. El lehendakari, Imanol Pradales (PNV), condenó el lanzamiento de «petardos, huevos y piedras». Feijóo respondió con un «ni un paso atrás» y Santiago Abascal (Vox) mostró su solidaridad con Echeverría.",
+          "Hoy. Feijóo acompaña a Echeverría por la mañana en Éibar."
+        ],
+        "claves": [
+          "Sábado 14, plaza de los Tilos (Hernani)",
+          "El PP suspende su gira en Gipuzkoa",
+          "Condenas del lehendakari, Feijóo y Abascal"
+        ],
+        "ahora": "Feijóo hace campaña hoy en Éibar junto a Echeverría."
+      },
+      "fuentes": [
+        {
+          "nombre": "Noticias de Gipuzkoa",
+          "url": "https://www.noticiasdegipuzkoa.eus/politica/2026/11/14/pp-suspende-campana-gipuzkoa-denunciar-hernani-11756486.html"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/14/agreden-al-candidato-del-pp-por-guipuzcoa-el-primer-sabado-de-campana"
+        },
+        {
+          "nombre": "Crónica Vasca",
+          "url": "https://cronicavasca.elespanol.com/politica/20261114/agresion-hernani-petardos-candidato-pp-jon-echeverria/1003742812148_0.html"
+        },
+        {
+          "nombre": "Qué!",
+          "url": "https://www.que.es/2026/11/15/agresion-jon-echeverria-hernani/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-plaza.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Huelga de trenes hoy: cancelaciones en toda España",
+      "resumen": "Desde la medianoche hay huelga de 24 horas en Renfe y Adif, y también en las operadoras privadas Iryo y Ouigo. Hay trenes cancelados en Andalucía, Murcia, Madrid y Cataluña, y Rodalies avisa de que no se están cumpliendo los servicios mínimos.",
+      "porque": "si tienes que coger un tren hoy, comprueba antes si sale: las listas de trenes afectados están en las webs de cada compañía.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué hay huelga. Los sindicatos piden más seguridad en la red ferroviaria, veinte días después del accidente de Urda (Toledo). Ya hubo un paro de maquinistas el 10 de noviembre.",
+          "Los servicios mínimos. Transportes fijó un 75% en Cercanías en hora punta y un 50% el resto del día, un 72% en AVE y Larga Distancia y un 65% en Media Distancia.",
+          "Ejemplos. En Andalucía se cancelaron a primera hora trenes de las líneas Sevilla-Málaga y Sevilla-Granada, y unos cuarenta podrían verse afectados. En Murcia, Ouigo canceló dos trenes con Madrid.",
+          "Mañana. La Diputación Permanente del Congreso vota la seguridad ferroviaria tras el accidente de Urda."
+        ],
+        "claves": [
+          "24 horas: todo el martes",
+          "Renfe, Adif, Iryo y Ouigo",
+          "Rodalies: no se cumplen los mínimos"
+        ],
+        "ahora": "Consulta tu tren en renfe.com, iryo.eu o ouigo.com antes de ir a la estación."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (directo)",
+          "url": "https://www.infobae.com/espana/2026/11/17/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-campana-y-la-subida-de-sueldo-de-los-funcionarios/"
+        },
+        {
+          "nombre": "Canal Sur",
+          "url": "https://www.canalsur.es/noticias/andalucia/primeras-cancelaciones-estaciones-huelga-maquinistas_1_1453310.html"
+        },
+        {
+          "nombre": "La 7 TV (Murcia)",
+          "url": "https://www.la7tv.es/region/transporte-logistica/huelga-ferroviaria-deja-varios-trenes-afectados-region-murcia-martes/20261117090650075831.html"
+        },
+        {
+          "nombre": "Renfe: trenes afectados",
+          "url": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/sala-de-prensa/general/pdf-y-otros/Trenes%2017%20de%20noviembre%20OSP.pdf"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-panel.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Yolanda Díaz retira su candidatura a la OIT y Houngbo sigue hasta 2032",
+      "resumen": "Yolanda Díaz retiró ayer su candidatura a dirigir la Organización Internacional del Trabajo horas antes de la votación. El togolés Gilbert Houngbo, único candidato, fue reelegido con 51 votos a favor y 5 abstenciones.",
+      "porque": "Díaz no repite en las listas del 29N y la OIT era su salida a un cargo internacional.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Su explicación. En una carta, Díaz dijo que se había «impedido la libertad de voto» a gran parte del sindicalismo mundial y que no quería dividir al movimiento sindical. Acusó a la dirección de la Confederación Sindical Internacional de apoyar a la actual dirección de la OIT, y advirtió de que el organismo «seguirá en declive» si nada cambia.",
+          "Lo que publican otros medios. Según The Objective, Díaz no tenía los apoyos suficientes: habría perdido el respaldo de Francia, y el de Brasil no bastaba.",
+          "Cómo se elige. Vota un consejo de 56 miembros: 28 representantes de gobiernos, 14 de empresarios y 14 de trabajadores. El mandato de Houngbo, que dirige la OIT desde 2022, empieza el 1 de octubre de 2027 y dura cinco años."
+        ],
+        "claves": [
+          "Houngbo: 51 votos y 5 abstenciones",
+          "Díaz se retiró horas antes",
+          "Mandato hasta 2032"
+        ],
+        "ahora": "Corrección: ayer incluimos como candidato al peruano Javier González-Olaechea, que ya se había retirado el 4 de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Público",
+          "url": "https://www.publico.es/politica/gobierno/yolanda-diaz-retira-candidatura-direccion-general-oit.html"
+        },
+        {
+          "nombre": "Noticias de Álava: el resultado",
+          "url": "https://www.noticiasdealava.eus/economia/2026/11/16/houngbo-reelegido-director-oit-espantada-11762922.html"
+        },
+        {
+          "nombre": "The Objective",
+          "url": "https://theobjective.com/espana/politica/2026-11-16/yolanda-diaz-presidencia-oit-director-general/"
+        },
+        {
+          "nombre": "Diario Red (la retirada de González-Olaechea)",
+          "url": "https://www.diario-red.com/internacional/togoles-houngbo-reelegido-dirigir-oit-retirar-diaz-unica-candidatura-rival/20261116193552080461.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-ginebra.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El salario mínimo subirá a 1.286 euros en 2027 y seguirá sin pagar IRPF",
+      "resumen": "El Consejo de Ministros aprueba hoy subir el salario mínimo un 5,3% para 2027: de 1.221 a 1.286 euros brutos al mes en catorce pagas. Son 65 euros más al mes y 910 al año, hasta 18.004 euros anuales.",
+      "porque": "afecta a quien cobra el mínimo y sirve de referencia para muchos contratos, sobre todo de gente joven.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El IRPF. El Gobierno aprueba también una deducción para que quienes cobran el salario mínimo sigan sin pagar este impuesto, y que la subida les llegue entera.",
+          "Lo que pedía cada uno. CCOO y UGT reclamaban un 7%; el comité de expertos que asesora al Gobierno recomendaba un 4,9%. El Ministerio de Trabajo defiende que así el salario mínimo se mantiene en el 60% del salario medio.",
+          "Funcionarios. El mismo Consejo aprueba una subida del 4,5% para los empleados públicos en 2027, dentro del acuerdo con los sindicatos que prevé un 11% entre 2025 y 2028.",
+          "El momento. El Gobierno lo aprueba doce días antes de las elecciones del 29N."
+        ],
+        "claves": [
+          "1.286 € al mes (14 pagas)",
+          "+5,3%: 65 € más al mes",
+          "Sin IRPF",
+          "Funcionarios: +4,5%"
+        ],
+        "ahora": "La subida se aplicará desde el 1 de enero de 2027."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-17/6094292-gobierno-aprueba-hoy-subida-53-smi-2027-deduccion-no-tribute"
+        },
+        {
+          "nombre": "Menorca (dudas y respuestas)",
+          "url": "https://www.menorca.info/actualidad/dudas-respuestas/2026/11/17/2751451/cuanto-subira-salario-minimo-interprofesional-2027-espana-tras-aprobacion-consejo-ministros.html"
+        },
+        {
+          "nombre": "Catalunya Press",
+          "url": "https://www.catalunyapress.es/articulo/politica/2026-11-17/6094301-gobierno-confirma-subida-smi-2027-cuanto-queda-salario-minimo"
+        },
+        {
+          "nombre": "Infobae: funcionarios",
+          "url": "https://www.infobae.com/espana/2026/11/17/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-campana-y-la-subida-de-sueldo-de-los-funcionarios/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-nomina.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Trump, Xi y Putin se reunirán por primera vez los tres juntos el jueves",
+      "resumen": "China ha confirmado que su presidente, Xi Jinping, reunirá el jueves 19 en Shenzhen a Donald Trump (EE. UU.) y Vladímir Putin (Rusia), en paralelo a la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Es la primera cumbre a tres entre los líderes de las tres potencias.",
+      "porque": "las tres potencias nucleares más grandes se sientan a la misma mesa, con la guerra de Irán y la de Ucrania abiertas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "De qué hablarán. Según la Casa Blanca, la reunión se centrará en la no proliferación nuclear y en la reducción de armas. China ha dicho que uno de los temas será la «paz mundial».",
+          "Lo que no está en la agenda. Según La Tercera, se espera que hablen de Irán, pero no de la guerra en Ucrania.",
+          "El contexto. Trump lleva meses diciendo que quiere sentarse con Xi y Putin para negociar recortes en gasto militar y armas nucleares."
+        ],
+        "claves": [
+          "Jueves 19, Shenzhen (China)",
+          "Primera cumbre a tres",
+          "Tema principal: armas nucleares"
+        ],
+        "ahora": "La cumbre coincide en día con el cara a cara Sánchez-Feijóo."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Nación (AP)",
+          "url": "https://lanacion.com.ar/el-mundo/china-confirmo-una-cumbre-trilateral-entre-xi-jinping-trump-y-putin-en-shenzhen-nid16112026"
+        },
+        {
+          "nombre": "La Tercera",
+          "url": "https://www.latercera.com/mundo/noticia/la-casa-blanca-confirma-reunion-trilateral-de-trump-putin-y-xi-en-china-la-cita-historica-se-centrara-en-la-no-proliferacion-nuclear/"
+        },
+        {
+          "nombre": "El Tiempo",
+          "url": "https://www.eltiempo.com/mundo/eeuu-y-canada/donald-trump-vladimir-putin-y-xi-jinping-se-sentaran-a-la-misma-mesa-en-una-historica-cumbre-trilateral-el-19-de-noviembre-3601115"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-mesa.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Irán ataca una base en Baréin y EE. UU. reúne tres portaaviones en la zona",
+      "resumen": "La Guardia Revolucionaria iraní dice que atacó con seis drones un radar de la base aérea de Riffa, en Baréin. El Ministerio de Defensa bareiní afirma que interceptó varias «amenazas aéreas iraníes». Mientras, un tercer portaaviones estadounidense ha llegado a Oriente Medio.",
+      "porque": "es un nuevo episodio del enfrentamiento entre Irán y EE. UU., que afecta al precio del petróleo y, por tanto, a lo que pagamos por la energía.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La versión iraní. Teherán presenta el ataque como respuesta a un bombardeo estadounidense previo contra una torre de telecomunicaciones iraní. Jordania, Egipto, Arabia Saudí y Catar lo condenaron.",
+          "El despliegue. El USS Theodore Roosevelt se une a otros dos portaaviones. Según ABC News, más de 20 buques de la Marina de EE. UU. hacen cumplir el bloqueo de los puertos iraníes.",
+          "En Ormuz. La Guardia Revolucionaria asegura que dos petroleros chocaron con minas en el estrecho y uno se hundió. No hay confirmación independiente.",
+          "Las negociaciones. Las conversaciones de paz entre Irán y EE. UU. siguen estancadas."
+        ],
+        "claves": [
+          "Ataque iraní a la base de Riffa (Baréin)",
+          "Tres portaaviones de EE. UU. en la zona",
+          "Negociaciones estancadas"
+        ],
+        "ahora": "Se espera que Irán se trate en la cumbre Trump-Xi-Putin del jueves."
+      },
+      "fuentes": [
+        {
+          "nombre": "Democracy Now!",
+          "url": "https://www.democracynow.org/2026/11/16/headlines"
+        },
+        {
+          "nombre": "Just Security",
+          "url": "https://www.justsecurity.org/164727/early-edition-november-16-2026/"
+        },
+        {
+          "nombre": "Anadolu",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-golfo.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Más de 11.000 llegadas a Canarias en medio mes: el Gobierno reúne a su comisión de crisis",
+      "resumen": "Solo en la primera quincena de noviembre han llegado a Canarias más de 11.000 personas en cayucos y pateras, más de 3.000 de ellas el fin de semana. La Comisión Interministerial de Inmigración se reúne hoy en la Moncloa para evaluar la situación en El Hierro.",
+      "porque": "es el mayor repunte de llegadas en años y los centros de acogida de la isla están desbordados.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué piden. Interior ha pedido varias veces a la UE que despliegue a Frontex, la agencia europea de fronteras, en Senegal y Mauritania, de donde salen muchas embarcaciones.",
+          "Canarias. El presidente canario, Fernando Clavijo, comparece hoy tras la reunión. El Gobierno canario lleva días pidiendo a la Moncloa medidas inmediatas.",
+          "En campaña. Abascal hace campaña en Canarias con la inmigración como eje; los demás partidos también se han pronunciado sobre la crisis."
+        ],
+        "claves": [
+          "Más de 11.000 llegadas en la primera quincena de noviembre",
+          "Más de 3.000 el fin de semana",
+          "Hoy: comisión interministerial"
+        ],
+        "ahora": "Siguen las llegadas a El Hierro."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE: agenda del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/16/temas-del-dia-de-efe-espana-del-martes-17-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Infobae (directo)",
+          "url": "https://www.infobae.com/espana/2026/11/17/elecciones-generales-29-n-en-directo-ultima-hora-de-los-sondeos-la-campana-y-la-subida-de-sueldo-de-los-funcionarios/"
+        }
+      ],
+      "partidos": [
+        "vox"
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-puerto.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "GTA VI sale el jueves: 79,99 euros y solo en consolas",
+      "resumen": "Grand Theft Auto VI llega el jueves 19 de noviembre a PlayStation 5 y Xbox Series X|S, después de dos retrasos. Cuesta 79,99 euros la edición estándar y 99,99 la Ultimate, y la precarga digital está abierta desde el 12 de noviembre.",
+      "porque": "es probablemente el lanzamiento de entretenimiento más esperado del año y marca el precio de los grandes videojuegos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La hora. Se desbloquea a las 00:00 del jueves, hora local.",
+          "Sin PC. Rockstar no ha anunciado fecha para la versión de ordenador.",
+          "Los retrasos. Iba a salir en otoño de 2025 y luego en mayo de 2026; Rockstar lo retrasó para pulir el juego."
+        ],
+        "claves": [
+          "Jueves 19, a las 00:00",
+          "79,99 € (estándar) · 99,99 € (Ultimate)",
+          "PS5 y Xbox Series"
+        ],
+        "ahora": "Si lo has comprado en digital, ya puedes precargarlo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Geeknetic",
+          "url": "https://www.geeknetic.es/Noticia/39189/"
+        },
+        {
+          "nombre": "Vandal: guía de reserva",
+          "url": "https://vandal.elespanol.com/noticia/1350791112/guia-de-reserva-de-gta-6-precio-hora-ediciones-y-todas-las-novedades-confirmadas-por-rockstar/"
+        },
+        {
+          "nombre": "LaPS4",
+          "url": "https://www.laps4.com/preguntas-y-respuestas/cuando-sale-finalmente-gta-6"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-consola.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Alcaraz arrasa a Tiafoe (6-2, 6-2) en su estreno en las ATP Finals",
+      "resumen": "Carlos Alcaraz debutó ayer en las ATP Finals de Turín, el torneo que reúne a los ocho mejores del año, ganando 6-2 y 6-2 al estadounidense Frances Tiafoe en una hora y nueve minutos.",
+      "porque": "es el gran título que le falta: en 2025 llegó a la final, pero aún no lo ha ganado.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Cómo llega. Ganó en Viena y París en el último mes y suma diez victorias seguidas. Es su cuarta participación en el torneo.",
+          "El formato. Ocho jugadores en dos grupos de cuatro; los dos primeros de cada grupo pasan a semifinales. Alcaraz está en el grupo Ivan Lendl."
+        ],
+        "claves": [
+          "Alcaraz 6-2, 6-2 Tiafoe",
+          "10 victorias seguidas",
+          "Grupo Ivan Lendl"
+        ],
+        "ahora": "Le quedan dos partidos de grupo esta semana."
+      },
+      "fuentes": [
+        {
+          "nombre": "The Objective",
+          "url": "https://theobjective.com/deportes/2026-11-16/alcaraz-tiafoe-atp-finals/"
+        },
+        {
+          "nombre": "Diario Deportes",
+          "url": "https://diariodeportes.com.co/mas-deportes/tenis/carlos-alcaraz-arranco-las-atp-finals-con-victoria-rapida-sobre-frances-tiafoe/"
+        },
+        {
+          "nombre": "Tenis al Máximo",
+          "url": "https://www.tenisalmaximo.pe/alcaraz-arranca-con-victoriad-en-turin/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-17-tenis.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, este vídeo de una mujer migrante que se irá «si gana Vox» no es real",
+    "texto": "Vuelve a circular el vídeo de una mujer musulmana y migrante que dice que, si Vox gana las elecciones, se volverá a su país porque no trabaja y se acabarán «las ayudas». Maldita.es ha comprobado que el vídeo está generado con inteligencia artificial.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261116/bulos-desinformaciones-elecciones-29-noviembre-2026/",
+    "nota": "Si un vídeo confirma exactamente lo que piensas, desconfía el doble"
+  }
+}

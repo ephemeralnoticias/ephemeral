@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16",
+  "actualizado": "2026-11-17",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -858,6 +858,27 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-17",
+      "titulo": "Agresión en Hernani y subida del salario mínimo",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "texto": "El PP suspende su gira en Gipuzkoa tras la agresión a su candidato en Hernani. El Gobierno aprueba subir el salario mínimo a 1.286 euros y un 4,5% a los funcionarios. Colau pone el alquiler como condición para entrar en un Gobierno.",
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/14/agreden-al-candidato-del-pp-por-guipuzcoa-el-primer-sabado-de-campana"
+        },
+        {
+          "nombre": "Estrella Digital",
+          "url": "https://www.estrelladigital.es/espana/cuaderno-campana-29n-colau-decreto-alquiler-feijoo-eta/20261117094811453461.html"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-16",
       "titulo": "El PSOE presenta su programa",
