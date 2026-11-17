@@ -393,10 +393,10 @@
     }
   ],
   "bulo": {
-    "titulo": "No, este vídeo de una mujer migrante que se irá «si gana Vox» no es real",
-    "texto": "Vuelve a circular el vídeo de una mujer musulmana y migrante que dice que, si Vox gana las elecciones, se volverá a su país porque no trabaja y se acabarán «las ayudas». Maldita.es ha comprobado que el vídeo está generado con inteligencia artificial.",
-    "verificador": "Maldita.es",
-    "url": "https://maldita.es/desinfo/20261116/bulos-desinformaciones-elecciones-29-noviembre-2026/",
-    "nota": "Si un vídeo confirma exactamente lo que piensas, desconfía el doble"
+    "titulo": "No, el lector del DNI digital no marca tu voto para ningún partido",
+    "texto": "Circula en redes un vídeo de animación que asegura que, si votas el 29N con el DNI digital, los lectores de códigos QR de las mesas marcarán automáticamente tu voto a favor del PSOE, y lo presenta como un «pucherazo». Es falso: la Junta Electoral Central ha confirmado a Newtral que el lector solo comprueba la identidad del votante; no registra ni cambia el voto, que sigue siendo una papeleta de papel que eliges y metes tú en el sobre.",
+    "verificador": "Newtral",
+    "url": "https://www.newtral.es/dni-digital-voto/20261117/",
+    "nota": "Desde el 5 de noviembre se puede votar identificándose con la app MiDNI; cada mesa tendrá un lector de QR"
   }
 }

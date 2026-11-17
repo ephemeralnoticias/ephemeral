@@ -608,9 +608,88 @@ async function bulos() {
   }
 }
 
+/* ---------- ephemeral economía ---------- */
+// Cada día, un archivo en /economia/AAAA-MM-DD.json con diez noticias económicas largas.
+// El índice (/economia/index.json) lista los días, del más reciente al más antiguo.
+function tarjetaEconomia(n, i) {
+  const s = seccion("economia");
+  const id = "e" + (i + 1);
+  const d = n.detalle || {};
+  const parrafos = d.parrafos || [];
+  const minFrente = Math.max(1, minutosDe([n.resumen, n.porque, n.teAfecta || ""]));
+  const minMas = n.minutosMas || minutosDe(parrafos);
+  let html = '<article class="tarjeta noticia eco" style="' + varsSeccion(s) + '">';
+  html += '<div class="cara">' +
+    '<div class="cabeza"><span>' + String(i + 1).padStart(2, "0") + " · " + esc(n.tema || "Economía") + "</span><span>" + minFrente + " min</span></div>" +
+    (n.cifra ? '<div class="eco-cifra"><span class="valor">' + esc(n.cifra.valor) + '</span><span class="texto">' + esc(n.cifra.texto) + "</span></div>" : "") +
+    "<h2>" + esc(n.titulo) + "</h2>" +
+    '<p class="resumen">' + esc(n.resumen) + "</p>" +
+    '<p class="porque"><em>Por qué importa: </em>' + esc(n.porque) + "</p>" +
+    (n.teAfecta ? '<p class="te-afecta"><em>Cómo te afecta: </em>' + esc(n.teAfecta) + "</p>" : "") +
+    '<div class="pie">' + (parrafos.length ? botonAbrir("Abrir · +" + minMas + " min", "rev-" + id) : "<span></span>") + "</div>" +
+    "</div>";
+  if (parrafos.length) {
+    html += '<div class="reverso" id="rev-' + id + '" hidden>' +
+      '<div class="cabeza"><span>A fondo · ' + esc(n.tema || "Economía") + "</span>" + botonVolver() + "</div>" +
+      '<h3 tabindex="-1">' + esc(n.titulo) + "</h3>" +
+      '<div class="cuerpo">' + parrafos.map(parrafoConEntrada).join("") + "</div>" +
+      (d.claves && d.claves.length ? '<div class="claves"><span class="etiqueta">Claves</span><ul>' + d.claves.map((c) => "<li>" + esc(c) + "</li>").join("") + "</ul></div>" : "") +
+      (d.glosario && d.glosario.length ? '<div class="glosario"><span class="etiqueta">Para entenderlo</span><dl>' +
+        d.glosario.map((g) => "<div><dt>" + esc(g.termino) + "</dt><dd>" + esc(g.definicion) + "</dd></div>").join("") + "</dl></div>" : "") +
+      (d.ahora ? '<p class="ahora"><em>Qué pasa ahora: </em>' + esc(d.ahora) + "</p>" : "") +
+      '<div class="pie"><span class="fuentes">' + enlacesFuentes(n.fuentes) + "</span>" + botonVolver() + "</div>" +
+      "</div>";
+  }
+  return html + "</article>";
+}
+
+async function economia() {
+  const zona = $("#economia");
+  try {
+    const indice = await cargarJSON("economia/index.json");
+    const params = new URLSearchParams(location.search);
+    let fecha = params.get("fecha");
+    if (!fecha || !/^\d{4}-\d{2}-\d{2}$/.test(fecha)) fecha = indice.ediciones[0].fecha;
+    const ed = await cargarJSON("economia/" + fecha + ".json");
+    document.title = "ephemeral economía · " + fechaLarga(ed.fecha);
+    const s = seccion("economia");
+    const noticias = ed.noticias || [];
+    const dato = ed.dato;
+    let html = '<section class="portada">' +
+      '<div class="portada-texto">' +
+        '<span class="meta"><span class="marca-eco">ephemeral economía</span> · ' + esc(fechaLarga(ed.fecha)) + "</span>" +
+        '<h1 class="gran">' + esc(ed.titular) + "</h1>" +
+        '<p class="entradilla">' + esc(ed.entradilla || "") + "</p>" +
+        '<div class="barra-pie"><span>' + noticias.length + " noticias · " + esc(ed.minutos || 10) + " min de lectura</span></div>" +
+      "</div>";
+    if (dato) {
+      html += '<aside class="caja dato" style="background:' + s.fondo + '">' +
+        '<span class="etiqueta" style="color:' + s.tinta + '">El dato económico del día</span>' +
+        '<span class="cifra">' + esc(dato.cifra) + "</span>" +
+        '<span class="frase">' + esc(dato.frase) + "</span>" +
+        '<span class="detalle">' + esc(dato.detalle) + "</span>" +
+        "</aside>";
+    }
+    html += "</section>";
+    html += '<section class="noticias eco-lista">' + noticias.map(tarjetaEconomia).join("") + "</section>";
+    const otras = indice.ediciones.filter((e) => e.fecha !== ed.fecha);
+    if (otras.length) {
+      html += '<section class="eco-archivo"><h2>Días anteriores</h2><ul class="lista-archivo">' + otras.map((e) =>
+        '<li><a href="economia.html?fecha=' + esc(e.fecha) + '"><span class="fecha">' + esc(fechaLarga(e.fecha)) + '</span><span class="tit">' + esc(e.titular || "") + "</span></a></li>").join("") +
+        "</ul></section>";
+    }
+    zona.innerHTML = html;
+    activarGiros(zona);
+  } catch (err) {
+    zona.innerHTML = '<p class="vacio">No hemos podido cargar ephemeral economía. Vuelve a intentarlo en unos minutos.</p>';
+    console.error(err);
+  }
+}
+
 const pagina = document.body.dataset.pagina;
 if (pagina === "portada") { portada(); prepararNewsletter(); }
 if (pagina === "anual") anual();
 if (pagina === "29n") especial29n();
 if (pagina === "archivo") archivo();
 if (pagina === "bulos") bulos();
+if (pagina === "economia") economia();

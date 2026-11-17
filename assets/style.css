@@ -305,4 +305,20 @@ h1.gran {
 .zona-beehiiv[data-bloqueado="si"] .form-beehiiv { opacity: .4; filter: grayscale(1); transition: opacity .2s; }
 .zona-beehiiv .form-velo { position: absolute; inset: 0; width: 100%; height: 100%; padding: 0; border: 0; border-radius: 10px; background: transparent; cursor: not-allowed; }
 .zona-beehiiv[data-bloqueado="no"] .form-velo { display: none; }
+/* ephemeral economía */
+.marca-eco { font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 18px; color: #9A4A0C; }
+.eco-cifra { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border-radius: 0 16px 16px 16px; background: var(--fondo-s, #FEEBDA); box-shadow: inset 0 0 0 1.5px var(--linea-s); }
+.eco .cara { background: var(--reverso-s); }
+.eco-cifra .valor { font-family: var(--serif); font-size: 52px; line-height: 0.9; color: var(--tinta-s); font-variant-numeric: tabular-nums; }
+.eco-cifra .texto { font-size: 13.5px; font-weight: 600; color: var(--tinta-s); }
+.tarjeta .te-afecta { font-size: 15px; line-height: 1.45; color: var(--tinta); border-left: 3px solid var(--punto-s, #F0964A); padding-left: 10px; }
+.tarjeta .te-afecta em { font-family: var(--serif); font-size: 19px; color: var(--tinta-s); }
+.glosario { border-top: 1px dashed var(--linea-s); padding-top: 12px; }
+.glosario .etiqueta { color: var(--tinta-s); }
+.glosario dl { margin: 8px 0 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 10px 24px; }
+.glosario dt { font-weight: 700; font-size: 14.5px; }
+.glosario dd { margin: 2px 0 0; font-size: 14.5px; line-height: 1.5; color: #3B3F48; }
+.eco-lista { margin-top: 36px; }
+.eco-archivo { margin-top: 48px; display: flex; flex-direction: column; gap: 10px; }
+.eco-archivo h2 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 30px; }
 [hidden] { display: none !important; }

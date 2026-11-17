@@ -1,0 +1,576 @@
+{
+  "fecha": "2026-11-17",
+  "numero": 1,
+  "minutos": 14,
+  "titular": "Bruselas mejora el crecimiento de España, pero sube su previsión de inflación al 3,9%.",
+  "entradilla": "Las diez noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "2,6%",
+    "frase": "crecerá la economía española en 2026, según las previsiones de otoño de la Comisión Europea.",
+    "detalle": "Es más del doble de lo que crecerá la eurozona (1,2%). Fuente: Comisión Europea, vía EFE."
+  },
+  "noticias": [
+    {
+      "tema": "Europa",
+      "titulo": "Bruselas sube al 2,6% el crecimiento de España, pero también la inflación, al 3,9%",
+      "cifra": {
+        "valor": "2,6%",
+        "texto": "crecimiento previsto del PIB español en 2026"
+      },
+      "resumen": "La Comisión Europea ha publicado hoy sus previsiones de otoño. España crecerá un 2,6% este año, dos décimas más de lo que esperaba en mayo, y seguirá siendo la gran economía del euro que más crece. A cambio, Bruselas eleva casi un punto su previsión de inflación, por la subida de la energía ligada a la guerra en Oriente Medio.",
+      "porque": "estas previsiones son el termómetro oficial de la UE: miden cómo va la economía, cuánto suben los precios y si las cuentas públicas están en orden.",
+      "teAfecta": "Si la inflación media del año es del 3,9%, lo que compras cuesta casi un 4% más que el año pasado. Si tu sueldo no ha subido al menos eso, has perdido poder de compra.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Crecimiento. La Comisión prevé que el PIB español crezca un 2,6% en 2026, un 2,1% en 2027 y un 1,9% en 2028. La media de la UE será del 1,4% y la de la eurozona, del 1,2%. Alemania crecerá un 1,3%, Italia un 1% y Francia un 0,4%.",
+          "Inflación. Es la mala noticia: Bruselas prevé que los precios suban de media un 3,9% este año (en mayo esperaba un 3,0%) y un 3,3% en 2027. Es más que en la eurozona (3,2%). La causa es la energía: el encarecimiento del petróleo y el gas se ha ido trasladando a los alimentos y a otros productos.",
+          "Empleo y paro. El empleo crecerá un 2,3% este año y un 1,8% el que viene, en parte gracias a la llegada de inmigrantes y a la regularización extraordinaria. El paro bajará del 10,5% de 2025 al 9,9% este año y al 9,6% en 2027, pero seguirá siendo el segundo más alto de la eurozona, solo por detrás de Finlandia.",
+          "Cuentas públicas. El déficit (lo que el Estado gasta de más sobre lo que ingresa) será del 2,6% del PIB este año, más de lo previsto, por las ayudas contra la crisis energética (un 0,5% del PIB) y por las inundaciones (un 0,3%). La deuda pública bajará al 99,2% del PIB: sería la primera vez por debajo del 100% desde 2019. Como hay elecciones y no hay Presupuestos para 2027, Bruselas calcula las cifras de los próximos años suponiendo que no cambia ninguna política.",
+          "Los riesgos. La Comisión avisa de cuatro: la falta de vivienda, que puede frenar la movilidad de los trabajadores; los salarios que suben más que la productividad, que restan competitividad; el fin de los fondos europeos Next Generation, que frenará la economía en 2027 y 2028; y que la inflación se contagie a más sectores."
+        ],
+        "claves": [
+          "PIB: 2,6% (2026), 2,1% (2027)",
+          "Inflación: 3,9% (2026)",
+          "Paro: 9,9% (2026)",
+          "Deuda: 99,2% del PIB"
+        ],
+        "glosario": [
+          {
+            "termino": "PIB",
+            "definicion": "El valor de todo lo que produce un país en un año. Si crece, la economía se expande."
+          },
+          {
+            "termino": "Inflación",
+            "definicion": "Cuánto suben los precios de media respecto al año anterior."
+          },
+          {
+            "termino": "Déficit público",
+            "definicion": "Lo que el Estado gasta por encima de lo que ingresa en un año. Se cubre pidiendo prestado."
+          },
+          {
+            "termino": "Next Generation",
+            "definicion": "Los fondos que la UE repartió tras la pandemia para invertir en cada país. Se acaban en 2026."
+          }
+        ],
+        "ahora": "Estas previsiones sirven de base para que Bruselas revise los planes fiscales de cada país en las próximas semanas."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/17/bruselas-eleva-dos-decimas-su-prevision-de-crecimiento-este-ano-para-espana-al-26/"
+        },
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/17/ue-eleva-2-coma-6-por-ciento-crecimiento-previsto-para-espana-2026-dispara-inflacion-a"
+        },
+        {
+          "nombre": "El Independiente",
+          "url": "https://www.elindependiente.com/economia/2026/11/17/bruselas-eleva-26-crecimiento-espana-2026-dispara-prevision-inflacion-39/"
+        }
+      ]
+    },
+    {
+      "tema": "Trabajo",
+      "titulo": "Aprobado: el salario mínimo será de 1.286 euros en 2027 y seguirá sin pagar IRPF",
+      "cifra": {
+        "valor": "1.286 €",
+        "texto": "salario mínimo al mes en 2027, en 14 pagas"
+      },
+      "resumen": "El Consejo de Ministros ha aprobado hoy subir el salario mínimo interprofesional (SMI) un 5,3% para 2027: de 1.221 a 1.286 euros brutos al mes en catorce pagas. Son 65 euros más al mes y 910 al año, hasta 18.004 euros anuales. Además, ha aprobado una deducción para que quien cobra el mínimo siga sin pagar IRPF.",
+      "porque": "el salario mínimo marca el suelo de lo que se puede pagar a cualquier trabajador a jornada completa, y muchos primeros empleos están cerca de esa cifra.",
+      "teAfecta": "Si trabajas a jornada completa, desde el 1 de enero no te pueden pagar menos de 1.286 euros brutos en 14 pagas (unos 1.500 euros si cobras en 12). Si trabajas a media jornada, la parte proporcional.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Cuánto sube. Un 5,3%: 65 euros más al mes. Según la vicepresidenta y ministra de Trabajo, Yolanda Díaz, con esta subida el salario mínimo ha crecido un 75% desde 2018. Díaz lo definió como «la mejor herramienta para reducir la pobreza laboral» y pidió a las empresas que también suban los sueldos.",
+          "Lo que pedía cada uno. La comisión de expertos que asesora al Gobierno recomendaba un 4,9%, en línea con la inflación. CCOO y UGT pedían un 7%, que lo habría llevado a unos 1.306 euros. Es la mayor subida en porcentaje desde 2022, cuando subió un 8%.",
+          "El IRPF. El Gobierno sube la deducción para quienes cobran el mínimo de 590 a 1.033 euros al año. En la práctica, a estos trabajadores se les puede seguir reteniendo algo en la nómina, pero lo recuperan en la declaración de la renta del año siguiente. La novedad es que se aprueba a la vez que el salario mínimo, y no al empezar la campaña de la renta, como otros años.",
+          "Cómo se aprueba. El salario mínimo lo fija el Gobierno por real decreto después de consultar a sindicatos y empresarios. No necesita acuerdo con ellos ni pasar por el Congreso. El Gobierno lo aprueba a doce días de las elecciones del 29N."
+        ],
+        "claves": [
+          "1.286 € al mes en 14 pagas",
+          "18.004 € al año",
+          "+5,3% (65 € más al mes)",
+          "Deducción para no pagar IRPF"
+        ],
+        "glosario": [
+          {
+            "termino": "SMI",
+            "definicion": "Salario mínimo interprofesional: lo mínimo que puede cobrar por ley un trabajador a jornada completa."
+          },
+          {
+            "termino": "Bruto",
+            "definicion": "El sueldo antes de descontar impuestos y cotizaciones. Lo que llega a tu cuenta es el neto."
+          },
+          {
+            "termino": "IRPF",
+            "definicion": "El impuesto sobre lo que ganas. Se va descontando cada mes en la nómina (la retención) y se ajusta en la declaración de la renta."
+          }
+        ],
+        "ahora": "El nuevo salario mínimo se aplica desde el 1 de enero de 2027."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Última Hora)",
+          "url": "https://www.ultimahora.es/noticias/nacional/2026/11/17/2751735/gobierno-aprueba-subida-del-del-salario-minimo-hasta-1286-euros-mes.html"
+        },
+        {
+          "nombre": "The Objective",
+          "url": "https://theobjective.com/espana/politica/2026-11-17/gobierno-elecciones-salario-minimo-funcionarios/"
+        },
+        {
+          "nombre": "Artículo14 (lo que pedían los sindicatos)",
+          "url": "https://www.articulo14.es/economia/el-gobierno-propone-subir-el-salario-minimo-un-53-en-2027-hasta-los-1-286-euros-20261105.html"
+        },
+        {
+          "nombre": "Diari de Tarragona (comparación histórica)",
+          "url": "https://www.diaridetarragona.com/economia/274930/ministerio-trabajo-plantea-subir-5-3-salario-minimo-2027-1-286-euros-mes.html"
+        }
+      ]
+    },
+    {
+      "tema": "Pensiones",
+      "titulo": "Las pensiones apuntan a subir alrededor de un 3,5% en 2027",
+      "cifra": {
+        "valor": "≈3,5%",
+        "texto": "subida estimada de las pensiones en 2027"
+      },
+      "resumen": "Las pensiones contributivas suben cada enero según la inflación media de los doce meses anteriores. Con la inflación de octubre en el 4,9%, los cálculos del Instituto BBVA de Pensiones y de Funcas apuntan a una subida cercana al 3,5% en 2027. En 2026 subieron un 2,7%.",
+      "porque": "es la principal fuente de ingresos de casi nueve millones y medio de personas, y una de las mayores partidas del gasto público.",
+      "teAfecta": "Si tienes abuelos o padres jubilados: con la pensión media (unos 1.375 euros), una subida del 3,5% serían unos 48 euros más al mes.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Cómo se calcula. La ley de pensiones fija que suban según la media de la inflación interanual entre diciembre del año anterior y noviembre del año en curso. Para 2027 cuentan los meses de diciembre de 2025 a noviembre de 2026. Ya se conocen once de los doce.",
+          "Dónde estamos. Con los datos hasta octubre, la media va por el 3,47%, según el Instituto BBVA de Pensiones. Funcas y BBVA Research esperan que la inflación siga por encima del 4% en los últimos meses del año, lo que deja la subida en torno al 3,5%.",
+          "Cuándo se sabrá. El 27 de noviembre, dos días antes de las elecciones, el INE publica el dato adelantado de inflación de noviembre. Con él, la subida queda casi cerrada. El dato definitivo llega el 15 de diciembre.",
+          "Quién la aprueba. Como no hay Presupuestos para 2027, el Gobierno tendrá que aprobarla por decreto. El ministro de Economía, Carlos Cuerpo, ha garantizado que se aplicará."
+        ],
+        "claves": [
+          "2026: +2,7%",
+          "2027: alrededor de +3,5%",
+          "Dato clave: IPC de noviembre (27 nov)"
+        ],
+        "glosario": [
+          {
+            "termino": "Revalorización",
+            "definicion": "La subida anual de las pensiones para que no pierdan poder de compra."
+          },
+          {
+            "termino": "IPC",
+            "definicion": "Índice de precios de consumo: el indicador oficial de la inflación, que publica el INE cada mes."
+          },
+          {
+            "termino": "Pensión contributiva",
+            "definicion": "La que se cobra por haber cotizado a la Seguridad Social mientras se trabajaba."
+          }
+        ],
+        "ahora": "La subida se cobrará en la nómina de enero; si el decreto se retrasa, con atrasos."
+      },
+      "fuentes": [
+        {
+          "nombre": "Corresponsables (Instituto BBVA de Pensiones)",
+          "url": "https://www.corresponsables.com/actualidad/la-evolucion-del-ipc-situa-en-torno-al-35-la-prevision-de-subida-de-las-pensiones-para-2027/"
+        },
+        {
+          "nombre": "Mi Jubilación BBVA: escenarios",
+          "url": "https://www.bbvamijubilacion.es/blog/la-paradoja-de-la-actualizacion-de-las-pensiones-por-jose-antonio-herce/"
+        },
+        {
+          "nombre": "Finect: pensión media",
+          "url": "https://www.finect.com/usuario/davidcarmona/articulos/subida-pensiones-2027-ipc"
+        },
+        {
+          "nombre": "Guía Fiscal: calendario del INE",
+          "url": "https://guiafiscal.es/laboral/subida-pensiones/"
+        },
+        {
+          "nombre": "Demócrata: Cuerpo garantiza la subida",
+          "url": "https://www.democrata.es/economia/subida-pensiones-en-2027-carlos-cuerpo-garantiza-revalorizacion-con-ipc-pero-falta-conocer-porcentaje/"
+        }
+      ]
+    },
+    {
+      "tema": "Trabajo",
+      "titulo": "Los empleados públicos cobrarán un 4,5% más desde enero",
+      "cifra": {
+        "valor": "+4,5%",
+        "texto": "subida de sueldo de los empleados públicos en 2027"
+      },
+      "resumen": "El Consejo de Ministros ha aprobado hoy que el sueldo de los empleados públicos subirá un 4,5% el 1 de enero de 2027. Es el tramo más grande del acuerdo firmado hace un año con CCOO, UGT y CSIF, que suma un 11% entre 2025 y 2028 para más de tres millones de trabajadores.",
+      "porque": "afecta a más de tres millones de personas: funcionarios, interinos y personal laboral, incluidos médicos, enfermeras y profesores de la sanidad y la educación públicas.",
+      "teAfecta": "Si trabajas en una administración pública, tu nómina de enero sube un 4,5%. Además, puede que recibas en el primer trimestre de 2027 un 0,5% extra de 2026 con atrasos, si se cumple la condición ligada a la inflación.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El calendario del acuerdo. Un 2,5% en 2025, un 1,5% en 2026 más otro 0,5% si la inflación de ese año iguala o supera el 1,5%, un 4,5% en 2027 y un 2% en 2028. En total, alrededor de un 11%, que puede llegar al 11,4% por el efecto de sumar unas subidas sobre otras.",
+          "Cuánto es en euros. Según los cálculos publicados cuando se firmó el acuerdo, la subida de 2027 supone unos 2.145 euros más al año para el sueldo medio de la administración.",
+          "Por qué ahora. El sindicato CSIF había pedido que se aprobara antes de las elecciones, porque un Gobierno en funciones tiene más limitado lo que puede aprobar. Pedro Sánchez lo anunció anoche en una entrevista en Telecinco.",
+          "Qué es «consolidable». La subida se queda en el sueldo para siempre y sobre ella se calculan las siguientes. No se puede compensar ni absorber con otros complementos."
+        ],
+        "claves": [
+          "+4,5% desde el 1 de enero",
+          "Más de 3 millones de empleados",
+          "11% entre 2025 y 2028"
+        ],
+        "glosario": [
+          {
+            "termino": "Empleado público",
+            "definicion": "Quien trabaja para una administración: funcionarios, interinos y personal laboral."
+          },
+          {
+            "termino": "Gobierno en funciones",
+            "definicion": "El que sigue tras unas elecciones hasta que se forma uno nuevo. Solo puede gestionar el día a día y asuntos urgentes."
+          }
+        ],
+        "ahora": "Cada administración (Estado, comunidades, ayuntamientos) aplicará la subida en su nómina de enero."
+      },
+      "fuentes": [
+        {
+          "nombre": "The Objective",
+          "url": "https://theobjective.com/espana/politica/2026-11-17/gobierno-elecciones-salario-minimo-funcionarios/"
+        },
+        {
+          "nombre": "CSIF",
+          "url": "https://www.csif.es/es/articulo/nacional/general/98679"
+        },
+        {
+          "nombre": "Genbeta (el acuerdo de 2025)",
+          "url": "https://www.genbeta.com/laboral/gobierno-aprueba-subida-salarial-para-empleados-publicos-decada-sueldos-aumentaran-11-2028"
+        },
+        {
+          "nombre": "Diario de León (efecto arrastre)",
+          "url": "https://www.diariodeleon.es/economia/251127/2067547/funcion-publica-sindicatos-acuerdan-subida-salarial-11-4-2028.html"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Nvidia presenta resultados esta noche, sin Jensen Huang al mando",
+      "cifra": {
+        "valor": "108.000 M$",
+        "texto": "ingresos que la propia Nvidia prevé para el trimestre"
+      },
+      "resumen": "Nvidia, la empresa que fabrica los chips que hacen funcionar la inteligencia artificial, publica hoy sus resultados del trimestre hacia las 22:20, hora peninsular. Son los primeros desde que su fundador, Jensen Huang, dimitió como consejero delegado el 12 de noviembre. Ahora dirige la empresa de forma interina su directora financiera, Colette Kress.",
+      "porque": "Nvidia es una de las empresas más valiosas del mundo y su evolución se toma como termómetro de todo el negocio de la inteligencia artificial.",
+      "teAfecta": "Si tienes un fondo indexado o un plan de pensiones que invierte en bolsa de EE. UU., Nvidia pesa mucho en él: lo que pase con sus acciones mañana se nota en tu fondo.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Qué ha pasado. Huang dejó el cargo tras varias informaciones de prensa sobre su vida privada que el consejo de administración está investigando. La comunicación oficial de la empresa no da el motivo. Kress mantiene también su puesto de directora financiera mientras se busca un sustituto definitivo.",
+          "La caída en bolsa. Las acciones cerraron el viernes en 162,85 dólares, tras perder un 12,75% en la semana. A principios de noviembre estaban por encima de los 200 dólares: en un mes la empresa ha perdido en torno a una cuarta parte de su valor.",
+          "Qué se espera. La propia Nvidia prevé ingresar unos 108.000 millones de dólares en el trimestre; los analistas esperan algo más, unos 109.000 millones, casi el doble que hace un año. Además de las cifras, el mercado estará pendiente de lo que diga Kress sobre la sucesión y la estrategia.",
+          "El contexto. EE. UU. ha anunciado una norma que limita el acceso a chips y servidores de IA avanzados a algunos países, como China. Y tres presidentes republicanos de comisiones de la Cámara de Representantes han pedido a Huang que acuda mañana, día 18, a una reunión a puerta cerrada."
+        ],
+        "claves": [
+          "Resultados: hoy, hacia las 22:20 (hora peninsular)",
+          "CEO interina: Colette Kress",
+          "Acciones: −25% en un mes"
+        ],
+        "glosario": [
+          {
+            "termino": "Consejero delegado (CEO)",
+            "definicion": "La persona que dirige la empresa en el día a día."
+          },
+          {
+            "termino": "Resultados trimestrales",
+            "definicion": "Las cuentas que las empresas cotizadas publican cada tres meses: cuánto venden y cuánto ganan."
+          },
+          {
+            "termino": "Fondo indexado",
+            "definicion": "Un fondo que copia un índice de bolsa (como el S&P 500) y compra todas sus empresas en proporción a su tamaño."
+          }
+        ],
+        "ahora": "La reacción de la bolsa llegará mañana miércoles, cuando abran los mercados."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nvidia (convocatoria oficial)",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873"
+        },
+        {
+          "nombre": "RoboForex: fechas y escenarios",
+          "url": "https://roboforex.com/es/blog/2026/11/13/nvidia-earnings-date-interim-ceo-scenarios/"
+        },
+        {
+          "nombre": "AskTraders: cierre del viernes",
+          "url": "https://www.asktraders.com/?p=259019"
+        },
+        {
+          "nombre": "Pepperstone: previsión de los analistas",
+          "url": "https://pepperstone.com/es-la/analisis/previa-resultados-nvidia-la-salida-de-jensen-huang/"
+        },
+        {
+          "nombre": "TIKR: caída en un mes y Congreso",
+          "url": "https://www.tikr.com/es/blog/nvidia-slides-5-5-as-board-hires-wachtell-to-investigate-jensen-huang"
+        },
+        {
+          "nombre": "EFE (vía Infobae): la norma de EE. UU.",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/la-bolsa-espanola-abre-con-caida-del-049-pendiente-de-eeuu-china-y-resultados-de-nvidia/"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex 35 se queda por debajo de los 20.000 puntos a la espera de Nvidia",
+      "cifra": {
+        "valor": "+14,7%",
+        "texto": "lo que sube el Ibex en lo que va de año"
+      },
+      "resumen": "La Bolsa española ha abierto hoy con una caída del 0,49%, hasta los 19.848,9 puntos, y a mediodía seguía por debajo de los 20.000. Las dudas sobre los fabricantes de chips y la espera de los resultados de Nvidia pesan en toda Europa.",
+      "porque": "el Ibex 35 reúne a las 35 mayores empresas cotizadas de España y es la referencia de cómo ven los inversores la economía y las empresas del país.",
+      "teAfecta": "Si inviertes en un fondo de bolsa española o tienes acciones, el valor de tu inversión sube y baja con el índice. Aun así, en lo que va de año va claramente en positivo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Cómo va el día. A mediodía el Ibex perdía alrededor de un 0,4%, en torno a los 19.860 puntos. Entre las que más caían estaban Solaria, Endesa, Iberdrola, Indra y Mapfre; Repsol y Merlin subían alrededor de un 1%.",
+          "Por qué. Los inversores están pendientes de los resultados de Nvidia, que salen esta noche, y de la norma de EE. UU. que limita el acceso de algunos países, como China, a chips de inteligencia artificial avanzados. Las dudas sobre el sector de los chips han llevado caídas a las bolsas europeas.",
+          "En perspectiva. Pese a la caída de hoy, el Ibex acumula una subida del 14,7% en lo que va de 2026. El 12 de noviembre llegó a cotizar por encima de los 20.000 puntos."
+        ],
+        "claves": [
+          "Apertura: −0,49% (19.848,9 puntos)",
+          "En el año: +14,7%",
+          "Pendientes de Nvidia"
+        ],
+        "glosario": [
+          {
+            "termino": "Ibex 35",
+            "definicion": "El índice que reúne a las 35 empresas más negociadas de la Bolsa española."
+          },
+          {
+            "termino": "Punto",
+            "definicion": "La unidad en la que se mide un índice. Lo importante es cuánto sube o baja en porcentaje."
+          }
+        ],
+        "ahora": "Mañana la bolsa reaccionará a las cuentas de Nvidia."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la apertura",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/la-bolsa-espanola-abre-con-caida-del-049-pendiente-de-eeuu-china-y-resultados-de-nvidia/"
+        },
+        {
+          "nombre": "elEconomista: en directo",
+          "url": "https://www.eleconomista.es/flash/20261117/"
+        },
+        {
+          "nombre": "Bolsamanía: 12 de noviembre",
+          "url": "https://www.bolsamania.com/noticias_print/cronica-ibex/ibex-europa-mas-alzas-tormenta-nvidia-huang--24136388.html"
+        }
+      ]
+    },
+    {
+      "tema": "Energía",
+      "titulo": "El petróleo baja a 92 dólares por la esperanza de un acuerdo con Irán, que nadie confirma",
+      "cifra": {
+        "valor": "91,97 $",
+        "texto": "precio del barril de Brent esta mañana"
+      },
+      "resumen": "El barril de Brent, el petróleo de referencia en Europa, bajaba esta mañana un 0,52%, hasta los 91,97 dólares. Desde finales de octubre ha caído alrededor de un 17%, por la esperanza de que EE. UU. e Irán lleguen a un acuerdo de paz. Pero ni Washington ni Teherán lo confirman.",
+      "porque": "el precio del petróleo influye en la gasolina, en el transporte de todo lo que compramos y, por tanto, en la inflación.",
+      "teAfecta": "Si el petróleo sigue bajando, la gasolina y el diésel deberían abaratarse, aunque más despacio que el crudo. Si el conflicto se recrudece, pasaría lo contrario.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "De dónde viene. El 30 de octubre el contrato de diciembre cerró en 117,64 dólares. Desde entonces el contrato de enero cayó un 17,3% hasta el 9 de noviembre. Aun así, el barril sigue un 30% más caro que antes de la guerra: el 27 de febrero costaba 71,32 dólares.",
+          "Por qué baja. Hubo informaciones de que Irán aceptaría un plan de Catar: reabrir el estrecho de Ormuz y dejar de atacar petroleros a cambio de que EE. UU. levante el bloqueo naval y se liberen 8.000 millones de dólares iraníes congelados. Catar lo ha negado, y el secretario de Estado de EE. UU., Marco Rubio, dijo que no tenía avances que anunciar.",
+          "Lo que puede frenar la bajada. Irán ha atacado estos días una base en Baréin y EE. UU. ya tiene tres portaaviones en la zona. Además, los países del Golfo exportan mucho menos combustible refinado que antes de la guerra (1,9 millones de barriles al día en septiembre, frente a 4,7), por lo que la gasolina y el diésel pueden tardar más en bajar que el crudo."
+        ],
+        "claves": [
+          "Brent: 91,97 $ (−0,52% hoy)",
+          "−17% desde el 30 de octubre",
+          "+30% sobre antes de la guerra"
+        ],
+        "glosario": [
+          {
+            "termino": "Brent",
+            "definicion": "El petróleo del mar del Norte que sirve de referencia de precio en Europa."
+          },
+          {
+            "termino": "Barril",
+            "definicion": "La unidad del petróleo: unos 159 litros."
+          },
+          {
+            "termino": "Estrecho de Ormuz",
+            "definicion": "El paso marítimo entre Irán y Omán por el que sale buena parte del petróleo del Golfo."
+          }
+        ],
+        "ahora": "Se espera que Irán sea uno de los temas de la cumbre Trump-Xi-Putin del jueves."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): precio de hoy",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/la-bolsa-espanola-abre-con-caida-del-049-pendiente-de-eeuu-china-y-resultados-de-nvidia/"
+        },
+        {
+          "nombre": "Rankia: por qué cae el petróleo",
+          "url": "https://www.rankia.com/blog/bolsa-al-dia/7545124-por-que-cae-petroleo-17-diez-dias-acuerdo-iran-nadie-confirma"
+        },
+        {
+          "nombre": "Democracy Now!: el ataque en Baréin",
+          "url": "https://www.democracynow.org/2026/11/16/headlines"
+        }
+      ]
+    },
+    {
+      "tema": "Vivienda",
+      "titulo": "El euríbor sube y noviembre va camino de ser el mes más caro del año para las hipotecas",
+      "cifra": {
+        "valor": "3,328%",
+        "texto": "euríbor a 12 meses del viernes 13, máximo del mes"
+      },
+      "resumen": "El euríbor, el índice al que va ligada la mayoría de las hipotecas variables en España, cerró el viernes en el 3,328%, su nivel más alto de noviembre tras cuatro subidas seguidas. La media del mes va por el 3,272%, por encima de la de octubre y más de un punto por encima de hace un año.",
+      "porque": "la media mensual del euríbor decide cuánto pagan las familias con hipoteca variable cuando se revisa su cuota.",
+      "teAfecta": "Si tu hipoteca variable se revisa en diciembre, se usará la media de noviembre: tu cuota subirá respecto a hace un año. Si vas a pedir una hipoteca, las fijas y mixtas también se han encarecido.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Con diez de las 21 sesiones del mes, la media provisional de noviembre está en el 3,272%. La de octubre fue del 3,239%, y la de noviembre de 2025, de alrededor del 2,2%. El máximo diario del año fue el 3,379%, el 25 de septiembre.",
+          "Cuánto se nota. Según los cálculos de Rankia, una hipoteca que se revise en diciembre pagaría casi 100 euros más al mes que hace un año, dependiendo del importe y del plazo.",
+          "Por qué sube. El euríbor refleja lo que el mercado espera que haga el Banco Central Europeo con los tipos de interés. Ha subido desde marzo, a la vez que la guerra con Irán encarecía la energía y disparaba la inflación."
+        ],
+        "claves": [
+          "Viernes 13: 3,328%",
+          "Media de noviembre: 3,272%",
+          "+1 punto respecto a hace un año"
+        ],
+        "glosario": [
+          {
+            "termino": "Euríbor",
+            "definicion": "El tipo de interés al que se prestan dinero los bancos europeos. Sirve de referencia para las hipotecas variables."
+          },
+          {
+            "termino": "Hipoteca variable",
+            "definicion": "Aquella cuya cuota se recalcula cada seis o doce meses según el euríbor más un diferencial fijo."
+          },
+          {
+            "termino": "BCE",
+            "definicion": "El Banco Central Europeo, que fija los tipos de interés en la eurozona."
+          }
+        ],
+        "ahora": "La próxima reunión del BCE sobre tipos de interés es el 17 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Rankia: euríbor del 13 de noviembre",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7551958-euribor-hoy-15-noviembre-2026"
+        },
+        {
+          "nombre": "Kelisto: euríbor de octubre",
+          "url": "https://www.kelisto.es/hipotecas/actualidad/euribor-octubre-2026"
+        },
+        {
+          "nombre": "Rankia: máximo del año",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7544841-euribor-hoy-10-noviembre-2026"
+        },
+        {
+          "nombre": "HelpMyCash: por qué ha subido",
+          "url": "https://www.helpmycash.com/blog/el-euribor-cierra-julio-con-un-nuevo-record-negativo-0283"
+        },
+        {
+          "nombre": "Rankia: la reunión del BCE",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7489773-euribor-hoy-30-septiembre-2026"
+        },
+        {
+          "nombre": "Rankia: escalada desde marzo",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7540804-euribor-hoy-6-noviembre-2026"
+        }
+      ]
+    },
+    {
+      "tema": "Consumo",
+      "titulo": "Black Friday: gastaremos menos que el año pasado y desconfiamos de las ofertas",
+      "cifra": {
+        "valor": "196 €",
+        "texto": "gasto medio previsto por comprador, según la OCU"
+      },
+      "resumen": "Según la encuesta anual de la Organización de Consumidores y Usuarios (OCU), el 76% de los españoles piensa comprar en el Black Friday, que este año cae el 27 de noviembre. El gasto medio previsto baja a 196 euros, frente a los 219 de 2025. Siete de cada diez creen que algunas tiendas suben los precios antes para luego «rebajarlos».",
+      "porque": "el Black Friday concentra buena parte de las compras de fin de año y muchas tiendas ya han empezado sus ofertas.",
+      "teAfecta": "Antes de comprar, mira el historial de precios: por ley, el descuento debe calcularse sobre el precio más bajo de los 30 días anteriores.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué vamos a comprar. Moda (58%), electrónica (39%) y pequeños electrodomésticos (23%). El 58% comprará por internet, y seis de cada diez adelantarán compras de Navidad.",
+          "Menos impulsivos. El 36% reconoce compras impulsivas, frente al 42% del año pasado. Un 16% de quienes piensan comprar calcula que gastará más de 500 euros. Quienes compraron en 2025 calculan que ahorraron de media 123 euros.",
+          "La vigilancia. La OCU seguirá 14.000 precios de electrónica y electrodomésticos, porque dice que los descuentos rara vez se calculan sobre el precio más bajo de los 30 días anteriores, como exige la ley. Pide denunciar irregularidades en redes con la etiqueta #timofertasBF."
+        ],
+        "claves": [
+          "76% piensa comprar",
+          "Gasto medio: 196 €",
+          "Black Friday: viernes 27"
+        ],
+        "glosario": [
+          {
+            "termino": "Precio de referencia",
+            "definicion": "El precio más bajo que ha tenido un producto en los 30 días anteriores. Es el que hay que usar para anunciar un descuento."
+          }
+        ],
+        "ahora": "Muchas tiendas ya han adelantado sus ofertas a estos días."
+      },
+      "fuentes": [
+        {
+          "nombre": "Demócrata (encuesta de la OCU)",
+          "url": "https://www.democrata.es/economia/el-gasto-medio-previsto-en-black-friday-cae-a-196-euros-y-la-intencion-de-compra-baja-al-76-segun-la-ocu/"
+        },
+        {
+          "nombre": "FashionUnited: fecha del Black Friday",
+          "url": "https://fashionunited.es/noticias/retail/los-espanoles-elevaran-su-gasto-un-2-por-ciento-este-black-friday-con-la-moda-como-categoria-estrella/2026110951173"
+        }
+      ]
+    },
+    {
+      "tema": "Cripto",
+      "titulo": "Bitcoin pierde los 70.000 dólares por primera vez desde agosto",
+      "cifra": {
+        "valor": "<70.000 $",
+        "texto": "precio de bitcoin desde el viernes 13"
+      },
+      "resumen": "Bitcoin cayó el viernes por debajo de los 70.000 dólares por primera vez desde agosto. En 24 horas se liquidaron posiciones apalancadas por más de 1.300 millones de dólares, y los grandes fondos que invierten en bitcoin llevan días registrando salidas de dinero.",
+      "porque": "las criptomonedas se han popularizado entre los jóvenes como inversión, y su caída muestra lo volátiles que son.",
+      "teAfecta": "Si tienes criptomonedas, su valor puede moverse un 5% o más en un solo día. Invierte solo lo que puedas permitirte perder.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué ha pasado. El viernes 13 bitcoin bajó a unos 68.600 dólares. El valor de todo el mercado de criptomonedas se quedó en torno a 2,3 billones de dólares.",
+          "Los fondos. Los fondos cotizados (ETF) de bitcoin en EE. UU. encadenaron varias sesiones de salidas de dinero. El de BlackRock, el mayor, perdió más de 2.000 millones de dólares en nueve sesiones seguidas.",
+          "Las liquidaciones. Mucha gente invierte en cripto «con apalancamiento», es decir, con dinero prestado. Cuando el precio cae por debajo de cierto nivel, la plataforma vende automáticamente sus posiciones, lo que empuja el precio aún más abajo."
+        ],
+        "claves": [
+          "Por debajo de 70.000 $ (viernes 13)",
+          "1.300 M$ en liquidaciones en 24 h",
+          "Salidas de dinero de los ETF"
+        ],
+        "glosario": [
+          {
+            "termino": "ETF",
+            "definicion": "Un fondo que cotiza en bolsa como una acción. Los de bitcoin compran bitcoin con el dinero de sus inversores."
+          },
+          {
+            "termino": "Apalancamiento",
+            "definicion": "Invertir con dinero prestado. Multiplica las ganancias, pero también las pérdidas."
+          },
+          {
+            "termino": "Liquidación",
+            "definicion": "La venta forzosa de una inversión apalancada cuando las pérdidas superan la garantía depositada."
+          }
+        ],
+        "ahora": "Los resultados de Nvidia de esta noche también pueden mover a las criptomonedas, que suelen ir de la mano de las tecnológicas."
+      },
+      "fuentes": [
+        {
+          "nombre": "CryptoTicker: la caída del viernes",
+          "url": "https://cryptoticker.io/es/precio-bitcoin-bajo-70000-dolares-liquidaciones-miedo-extremo/"
+        },
+        {
+          "nombre": "iProUP: precio del 13 de noviembre",
+          "url": "https://www.iproup.com/economia-digital/73123-cuanto-vale-bitcoin-hoy-13-de-noviembre-de-2026"
+        },
+        {
+          "nombre": "CryptoTicker: salidas de los ETF",
+          "url": "https://cryptoticker.io/es/caida-bitcoin-liquidaciones-etf-dolar-13-noviembre-2026/"
+        }
+      ]
+    }
+  ]
+}
