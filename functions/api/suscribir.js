@@ -48,7 +48,7 @@ export async function onRequestPost({ request, env }) {
         send_welcome_email: true,
         utm_source: "web",
         utm_medium: "formulario",
-        referring_site: "ephemeral-5aj.pages.dev",
+        referring_site: "ephemeralnoticias.com",
       }),
     });
   } catch {

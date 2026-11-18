@@ -54,7 +54,8 @@ Orden de prioridad: España y Economía (unas tres noticias cada una), Internaci
 
 - `robots.txt` y `sitemap.xml` indican a Google qué páginas indexar.
 - Cada página lleva en `<!-- seo -->` su dirección canónica y la imagen para compartir (`assets/compartir.png`).
-- Si cambiáis de dominio (por ejemplo a un .es), sustituid `https://ephemeral-5aj.pages.dev` por el nuevo en `robots.txt`, `sitemap.xml` y los bloques `<!-- seo -->` de cada página.
+- Dominio principal: `https://ephemeralnoticias.com` (comprado en Cloudflare el 17 nov 2026). La dirección antigua `ephemeral-5aj.pages.dev` sigue funcionando.
+- Si cambiáis de dominio, sustituid el actual por el nuevo en `robots.txt`, `sitemap.xml`, los bloques `<!-- seo -->` de cada página y `referring_site` en `functions/api/suscribir.js`.
 
 ## Fuentes y veda electoral
 

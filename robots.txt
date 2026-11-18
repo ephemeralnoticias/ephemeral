@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ephemeral-5aj.pages.dev/sitemap.xml
+Sitemap: https://ephemeralnoticias.com/sitemap.xml
