@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -32,6 +32,10 @@
     {
       "fecha": "2026-11-19",
       "texto": "Último día para pedir el voto por correo"
+    },
+    {
+      "fecha": "2026-11-23",
+      "texto": "Debate a ocho (RTVE)"
     },
     {
       "fecha": "2026-11-24",
@@ -858,6 +862,26 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-18",
+      "titulo": "Día sin mítines de Sánchez y Feijóo",
+      "partidos": [
+        "pp",
+        "psoe",
+        "fa"
+      ],
+      "texto": "Sánchez y Feijóo vacían su agenda para preparar el cara a cara de mañana. Colau da el único gran mitin, en Gijón. La Diputación Permanente vota siete decretos del Gobierno, con el PNV como voto decisivo.",
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+        },
+        {
+          "nombre": "Press Digital",
+          "url": "https://www.pressdigital.es/articulo/politica/2026-11-18/6095902-diputacion-permanente-congreso-vota-hoy-siete-ultimos-decretos-ley-gobierno"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-17",
       "titulo": "Agresión en Hernani y subida del salario mínimo",

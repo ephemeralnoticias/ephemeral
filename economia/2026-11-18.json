@@ -1,0 +1,505 @@
+{
+  "fecha": "2026-11-18",
+  "numero": 2,
+  "minutos": 14,
+  "titular": "Nvidia supera lo esperado, pero las bolsas siguen con dudas y la inflación del euro se confirma en el 4%.",
+  "entradilla": "Las diez noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "4%",
+    "frase": "es la inflación de la zona euro en octubre: la más alta desde septiembre de 2023.",
+    "detalle": "Eurostat lo ha confirmado hoy. La energía está un 21% más cara que hace un año. Fuente: Eurostat, vía Europa Press."
+  },
+  "noticias": [
+    {
+      "tema": "Empresas",
+      "titulo": "Nvidia ingresa 115.800 millones y supera lo esperado en sus primeras cuentas sin Huang",
+      "cifra": {
+        "valor": "115.800 M$",
+        "texto": "ingresos de Nvidia en el trimestre, un 103% más"
+      },
+      "resumen": "Nvidia presentó anoche sus resultados: ingresó 115.800 millones de dólares entre agosto y octubre, un 103% más que hace un año y unos 7.000 millones más de lo que esperaban los analistas. Ganó 65.300 millones, el doble que hace un año, y prevé ingresar 130.000 millones el próximo trimestre.",
+      "porque": "Nvidia fabrica los chips que hacen funcionar la inteligencia artificial: sus cuentas indican si las grandes empresas siguen invirtiendo en IA.",
+      "teAfecta": "Si tienes un fondo indexado global o de EE. UU., Nvidia es una de las empresas que más pesa en él: lo que hagan hoy sus acciones se notará en tu fondo.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "El motor. Casi todo viene de los centros de datos, que ingresaron 107.600 millones (+110%). La empresa ha empezado a entregar su nueva plataforma, Vera Rubin. La previsión no incluye ventas de centros de datos a China.",
+          "Sin Huang. Es la primera presentación desde que su fundador, Jensen Huang, dimitió el 12 de noviembre. La consejera delegada interina, Colette Kress, dijo: «Nuestro impulso es real». El presidente del consejo, Harvey Jones, afirmó que aceptaron la dimisión por unanimidad y que no piensan devolverle el puesto. Huang tiene alrededor del 3,5% de la empresa.",
+          "La reacción. La acción cerró el martes en 155,46 dólares y subió hasta 157,74 (+1,47%) en las operaciones posteriores al cierre. La subida es moderada porque hay otras dudas: según The Wall Street Journal, la SEC, el regulador de la bolsa de EE. UU., investiga si la empresa dio información engañosa a sus inversores.",
+          "Qué dicen los analistas. Juan Tuesta, de Bankinter, calcula que la acción cotiza a unas 10,5 veces los beneficios esperados para 2027, lo que ve atractivo a dos o tres años. Seaport es la única firma que recomienda vender."
+        ],
+        "claves": [
+          "Ingresos: 115.800 M$ (+103%)",
+          "Beneficio: 65.300 M$",
+          "Previsión: 130.000 M$",
+          "Acción: +1,5% tras el cierre"
+        ],
+        "glosario": [
+          {
+            "termino": "Resultados trimestrales",
+            "definicion": "Las cuentas que publican cada tres meses las empresas que cotizan en bolsa."
+          },
+          {
+            "termino": "Previsión (guidance)",
+            "definicion": "Lo que la propia empresa espera ingresar en el siguiente trimestre. A veces mueve más la acción que el resultado."
+          },
+          {
+            "termino": "SEC",
+            "definicion": "La Comisión de Bolsa y Valores de EE. UU., el organismo que vigila los mercados."
+          }
+        ],
+        "ahora": "Hoy, a las 15:30 (hora peninsular), Wall Street abre su primera sesión completa tras las cuentas."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nvidia (comunicado oficial, SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
+        },
+        {
+          "nombre": "Investing.com",
+          "url": "https://es.investing.com/news/stock-market-news/nvidia-supera-expectativas-y-ahora-que-3933402"
+        },
+        {
+          "nombre": "Expansión (México)",
+          "url": "https://expansion.mx/mercados/2026/11/17/nvidia-supera-expectativas-con-sus-resultados-financieros-y-acciones-suben"
+        }
+      ]
+    },
+    {
+      "tema": "Europa",
+      "titulo": "Confirmado: la inflación del euro sube al 4%, la más alta en tres años",
+      "cifra": {
+        "valor": "4%",
+        "texto": "inflación interanual de la zona euro en octubre"
+      },
+      "resumen": "Eurostat ha confirmado hoy que los precios en la zona euro subieron en octubre un 4% respecto a hace un año, dos décimas más que en septiembre. Es la cifra más alta desde septiembre de 2023, y lo mismo ocurre en el conjunto de la UE. La causa principal es la energía, un 21% más cara.",
+      "porque": "la inflación decide cuánto valen tus ahorros y tu sueldo, y es lo que vigila el Banco Central Europeo para decidir los tipos de interés.",
+      "teAfecta": "Con precios que suben un 4%, 100 euros compran hoy lo que hace un año costaba unos 96. Si tu sueldo ha subido menos, has perdido poder de compra.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué sube. La energía (+21% interanual) por la guerra en Oriente Medio. Los alimentos frescos suben un 4,6%. En el dato adelantado de principios de mes, sin contar la energía, la inflación se quedaba en el 2,3%.",
+          "España. La inflación armonizada española (la que se usa para comparar entre países) bajó una décima, al 4,9%, pero sigue por encima de la media del euro.",
+          "El BCE. Según El Español, el Banco Central Europeo subió los tipos al 2,5% en septiembre. Su próxima reunión es el 17 de diciembre."
+        ],
+        "claves": [
+          "Eurozona: 4%",
+          "Energía: +21%",
+          "España: 4,9%"
+        ],
+        "glosario": [
+          {
+            "termino": "Inflación interanual",
+            "definicion": "Cuánto han subido los precios respecto al mismo mes del año anterior."
+          },
+          {
+            "termino": "Inflación armonizada",
+            "definicion": "La que calcula cada país con el mismo método europeo, para poder compararlas."
+          },
+          {
+            "termino": "Tipos de interés",
+            "definicion": "El precio del dinero. Si el BCE los sube, los préstamos y las hipotecas se encarecen y se frena la inflación."
+          }
+        ],
+        "ahora": "Eurostat publicará el dato adelantado de noviembre el 1 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-18/6096259-inflacion-eurozona-ue-repunto-octubre-4-maximos-desde-2023"
+        },
+        {
+          "nombre": "Noticias de Álava",
+          "url": "https://www.noticiasdealava.eus/economia/2026/11/18/inflacion-eurozona-ue-repunta-4-11769833.html"
+        },
+        {
+          "nombre": "Eurostat: dato adelantado y calendario",
+          "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+        },
+        {
+          "nombre": "Moncloa.com: España",
+          "url": "https://www.moncloa.com/2026/11/04/inflacion-eurozona-eurostat-4-octubre-3461530/"
+        },
+        {
+          "nombre": "El Español: los tipos del BCE",
+          "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20261118/tormenta-perfecta-acerca-mercado-vivienda-no-casas-hipotecas-maximos/1003744461638_0.html"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex borra en un día las subidas de la semana pasada y sigue por debajo de 19.600",
+      "cifra": {
+        "valor": "−1,61%",
+        "texto": "lo que cayó ayer el Ibex 35"
+      },
+      "resumen": "El Ibex 35 cerró ayer con una caída del 1,61%, en 19.625,3 puntos, y perdió todo lo que había ganado la semana pasada. Solo cuatro valores acabaron en positivo. Hoy ha abierto con otra bajada del 0,22%, por debajo de los 19.600 puntos, pendiente de cómo reaccione Wall Street a las cuentas de Nvidia.",
+      "porque": "el Ibex reúne a las grandes empresas españolas, y su evolución refleja cómo ven los inversores la economía.",
+      "teAfecta": "Si tienes un fondo de bolsa española, esta semana ha bajado. En lo que va de año sigue claramente en positivo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Ayer. Solo subieron Solaria (+1,21%), Repsol, Acciona Energía y Merlin. Indra se hundió un 6,41%, y también cayeron con fuerza Mapfre (−3,23%), Aena, Cellnex, Amadeus y ACS.",
+          "Hoy. A primera hora subían IAG (+0,9%) y ACS; bajaban Indra (−2,2%), Solaria, Acerinox y Telefónica. El euro se cambiaba a 1,0966 dólares y el interés del bono español a 10 años bajaba al 3,917%.",
+          "En perspectiva. El Ibex había subido con fuerza desde los 18.643 puntos hasta los 20.100, y algunos analistas esperaban una corrección antes de nuevas compras."
+        ],
+        "claves": [
+          "Ayer: −1,61% (19.625 puntos)",
+          "Hoy: −0,22% en la apertura",
+          "Indra: −6,41% ayer"
+        ],
+        "glosario": [
+          {
+            "termino": "Bono a 10 años",
+            "definicion": "Deuda que emite el Estado a diez años. Su interés indica cuánto le cuesta financiarse."
+          },
+          {
+            "termino": "Corrección",
+            "definicion": "Una caída de la bolsa después de una subida fuerte."
+          }
+        ],
+        "ahora": "Hoy a las 20:00 se publican las actas de la Reserva Federal de EE. UU."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital: cierre de ayer",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-17/6095453-ibex-35-cede-161-cierre-situa-19625-puntos-indra-cayendo-64"
+        },
+        {
+          "nombre": "Press Digital: apertura de hoy",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-18/6096200-ibex-35-abre-caida-02-pierde-19600-puntos-petroleo-cayendo-casi-2"
+        },
+        {
+          "nombre": "elEconomista (directo)",
+          "url": "https://eleconomista.es/flash/20261118"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Indra se hunde un 6,4% tras informaciones sobre una investigación de Anticorrupción",
+      "cifra": {
+        "valor": "−6,41%",
+        "texto": "caída de Indra en bolsa ayer, hasta 54 euros"
+      },
+      "resumen": "Indra, la empresa española de tecnología y defensa, cerró ayer con una caída del 6,41%, hasta los 54 euros por acción. Según El Independiente, la Fiscalía Anticorrupción investiga posibles irregularidades en contratos del Ministerio de Defensa adjudicados a empresas vinculadas a Indra y a Escribano. Hoy sigue cayendo.",
+      "porque": "los contratos investigados suman más de 6.000 millones de euros de dinero público.",
+      "teAfecta": "Si tienes acciones o un fondo de empresas españolas, Indra está entre las que más han bajado esta semana.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué contratos. Según la información publicada, la investigación afectaría, entre otros, al programa del vehículo blindado 8x8 Dragón, de más de 2.000 millones, y al sistema lanzacohetes Silam, de unos 576 millones. En total, contratos de más de 6.000 millones de euros.",
+          "Qué se cuestiona. Algunos plazos de licitación, cómo se configuraron ciertos concursos y el uso de financiación pública en estos programas.",
+          "Qué dicen los analistas. Banco Sabadell considera que el riesgo es «principalmente reputacional»."
+        ],
+        "claves": [
+          "Ayer: −6,41% (54 €)",
+          "Contratos de más de 6.000 M€",
+          "Hoy: −2,2% en la apertura"
+        ],
+        "glosario": [
+          {
+            "termino": "Fiscalía Anticorrupción",
+            "definicion": "La parte del Ministerio Fiscal que investiga delitos económicos y de corrupción. Investigar no significa que haya delito."
+          },
+          {
+            "termino": "Riesgo reputacional",
+            "definicion": "El daño a la imagen de una empresa, que puede costarle clientes o contratos aunque no haya condena."
+          }
+        ],
+        "ahora": "Hoy la acción ha abierto con otra caída, de alrededor del 2%."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Independiente (la exclusiva)",
+          "url": "https://www.elindependiente.com/economia/2026/11/17/indra-cae-un-4-en-bolsa-en-plena-investigacion-de-anticorrupcion-sobre-los-contratos-de-defensa/"
+        },
+        {
+          "nombre": "Europa Press (vía Diario Siglo XXI)",
+          "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261117180804/indra-cae-641-ante-noticias-investigacion-posibles-irregularidades-contratos-defensa"
+        },
+        {
+          "nombre": "Capital: la opinión de Sabadell",
+          "url": "https://capital.es/economia/mercados-e-inversion/indra-cae-un-641-tras-las-noticias-sobre-una-investigacion-de-contratos-de-defensa/236111"
+        }
+      ]
+    },
+    {
+      "tema": "Mundo",
+      "titulo": "La Reserva Federal publica hoy sus actas: el mercado busca pistas de una subida de tipos",
+      "cifra": {
+        "valor": "3,75–4%",
+        "texto": "rango de los tipos de interés en EE. UU."
+      },
+      "resumen": "Hoy a las 20:00 (hora peninsular), la Reserva Federal de EE. UU. publica las actas de su reunión de octubre, en la que mantuvo los tipos de interés entre el 3,75% y el 4%. Dos de sus doce miembros con voto pidieron subirlos. Con la inflación al alza, el mercado empieza a barajar una subida en diciembre.",
+      "porque": "lo que decide la Fed mueve el dólar, las bolsas de todo el mundo y el precio al que se endeudan gobiernos y empresas.",
+      "teAfecta": "Si los tipos suben en EE. UU., suelen caer las bolsas y las criptomonedas, y se encarece el dólar: un viaje a EE. UU. o una compra en dólares te costaría más.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La reunión de octubre. La votación fue 10 a 2: Lisa Cook y Beth Hammack querían una subida de un cuarto de punto. Las actas explicarán con más detalle el debate.",
+          "Lo que dicen los miembros. Alberto Musalem, presidente de la Fed de St. Louis, que este año no vota, dijo ayer que podrían hacer falta varias subidas para controlar la inflación.",
+          "La deuda de EE. UU. El interés del bono estadounidense a 10 años está en el 5,08%."
+        ],
+        "claves": [
+          "Actas: hoy a las 20:00",
+          "Tipos: 3,75–4%",
+          "Próxima reunión: 9 de diciembre"
+        ],
+        "glosario": [
+          {
+            "termino": "Reserva Federal (Fed)",
+            "definicion": "El banco central de EE. UU. Fija los tipos de interés del dólar."
+          },
+          {
+            "termino": "Actas",
+            "definicion": "El resumen escrito de lo que se debatió en una reunión, que se publica tres semanas después."
+          }
+        ],
+        "ahora": "La próxima decisión de la Fed sobre tipos es el 9 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Español (directo)",
+          "url": "https://www.elespanol.com/invertia/mercados/20261118/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744462326_10.html"
+        },
+        {
+          "nombre": "The Coin Republic: la votación",
+          "url": "https://www.thecoinrepublic.com/es/2026/11/17/actas-de-la-fed-resultados-de-nvidia-tres-acontecimientos-que-van-a-sacudir-el-mercado-de-las-criptomonedas/"
+        },
+        {
+          "nombre": "Capital Radio: Musalem y el bono",
+          "url": "https://www.capitalradio.es/noticias/bolsa/bolsas-europeas-planas-resaca-nvidia-examen-anthropic_144681739.html"
+        },
+        {
+          "nombre": "CM Elite: el calendario",
+          "url": "https://www.cmelitegroup.com/es/knowledge-hub/fed-minutes/"
+        }
+      ]
+    },
+    {
+      "tema": "Vivienda",
+      "titulo": "Se venden menos casas porque no hay: la compraventa cae un 13,4% en septiembre",
+      "cifra": {
+        "valor": "−13,4%",
+        "texto": "caída de la compraventa de viviendas en septiembre"
+      },
+      "resumen": "En septiembre se vendieron 54.548 viviendas, un 13,4% menos que hace un año: la mayor caída desde mayo de 2024, según el INE. No faltan compradores, faltan casas. La hipoteca media ronda ya los 180.000 euros, la cifra más alta desde 2007, según la Asociación Española de Valoración (AEV).",
+      "porque": "comprar o alquilar casa es el gran problema económico de los jóvenes en España.",
+      "teAfecta": "Si buscas casa, hay menos oferta y precios más altos: comprar una vivienda equivale ya a 8,4 años de sueldo bruto.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los datos del INE. 12.145 viviendas nuevas (−11,6%) y 42.403 usadas (−14%), que son más del 77% del total. Respecto a agosto, las ventas suben un 10,6%; en lo que va de año, caen un 3,6%.",
+          "La falta de oferta. Según la AEV, cada año se forman en España unos 250.000 hogares, pero en 2025 se terminaron unas 94.000 viviendas libres: unas 38 casas por cada 100 hogares nuevos. La vivienda usada sube hasta un 15% en algunos sitios, y la AEV no espera que se estabilice antes de 2028.",
+          "Lo que pesa la hipoteca. Comprar una casa se lleva en torno al 38% de los ingresos de un hogar. Descontando la inflación, la hipoteca media es un 25% menor que en 2007.",
+          "Previsión. Fotocasa calcula que 2026 cerrará con unas 660.000 compraventas, un 7,6% menos que el año pasado."
+        ],
+        "claves": [
+          "54.548 ventas en septiembre",
+          "Hipoteca media: cerca de 180.000 €",
+          "38 casas por cada 100 hogares nuevos"
+        ],
+        "glosario": [
+          {
+            "termino": "Compraventa",
+            "definicion": "Cada operación de venta de una vivienda que se inscribe en el registro."
+          },
+          {
+            "termino": "Vivienda libre",
+            "definicion": "La que se vende a precio de mercado, sin limitaciones públicas de precio."
+          }
+        ],
+        "ahora": "La vivienda será uno de los temas del cara a cara de mañana."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): datos del INE",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/la-compra-de-viviendas-cae-un-134-en-septiembre-su-mayor-descenso-desde-mayo-de-2024/"
+        },
+        {
+          "nombre": "El Español (datos de la AEV)",
+          "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20261118/tormenta-perfecta-acerca-mercado-vivienda-no-casas-hipotecas-maximos/1003744461638_0.html"
+        }
+      ]
+    },
+    {
+      "tema": "Política económica",
+      "titulo": "Lo que se juegan hoy en el Congreso: ayudas de Urda, dependencia y familias monoparentales",
+      "cifra": {
+        "valor": "7",
+        "texto": "decretos que vota hoy la Diputación Permanente"
+      },
+      "resumen": "La Diputación Permanente del Congreso vota hoy siete decretos ley del Gobierno, muchos con dinero público detrás: indemnizaciones para las víctimas de Urda, ayudas por la DANA Adam, 45 millones para Ceuta, más fondos para la dependencia y un título oficial para familias monoparentales. El PNV tiene el voto decisivo.",
+      "porque": "si un decreto no se convalida, decae, y las ayudas que incluye dejan de aplicarse.",
+      "teAfecta": "Si cuidas de una persona dependiente o eres madre o padre en solitario, dos de estos decretos te afectan directamente.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Urda. Indemnizaciones para las víctimas del accidente del 28 de octubre de entre 2.404 y 84.141 euros, según la gravedad. También protege a los consumidores frente a precios abusivos en el transporte durante emergencias.",
+          "DANA Adam. Ayudas a personas y empresas afectadas por los temporales del 17 al 19 de octubre, con exenciones del IBI y rebajas del impuesto de actividades económicas.",
+          "Dependencia. Fija importes mensuales de referencia de 90 euros (dependencia moderada), 260 (severa) y 660 (gran dependencia), y más financiación para las comunidades.",
+          "Familias y Seguridad Social. Crea un título estatal de familia monoparental con acceso a ayudas y becas, y amplía la baja por incapacidad temporal a algunos trastornos asociados a la menopausia y a lesiones por violencia de género."
+        ],
+        "claves": [
+          "Urda: 2.404–84.141 €",
+          "Ceuta: 45,32 M€",
+          "Dependencia: 90/260/660 € al mes"
+        ],
+        "glosario": [
+          {
+            "termino": "Decreto ley",
+            "definicion": "Una norma con rango de ley que aprueba el Gobierno por urgencia. El Congreso debe convalidarla en 30 días."
+          },
+          {
+            "termino": "Diputación Permanente",
+            "definicion": "El órgano del Congreso que sigue funcionando cuando las Cortes están disueltas por elecciones."
+          }
+        ],
+        "ahora": "Los resultados se conocerán a lo largo del día."
+      },
+      "fuentes": [
+        {
+          "nombre": "Demócrata: los siete decretos",
+          "url": "https://www.democrata.es/politica/congreso-y-senado/siete-decretos-diputacion-permanente-18-noviembre-2026/"
+        },
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/politica/2026-11-18/6095902-diputacion-permanente-congreso-vota-hoy-siete-ultimos-decretos-ley-gobierno"
+        }
+      ]
+    },
+    {
+      "tema": "Energía",
+      "titulo": "El petróleo baja casi un 2%: el Brent, en 91,5 dólares",
+      "cifra": {
+        "valor": "91,5 $",
+        "texto": "precio del barril de Brent esta mañana"
+      },
+      "resumen": "El barril de Brent, la referencia en Europa, bajaba esta mañana un 1,8%, hasta los 91,5 dólares, y el WTI estadounidense un 2,4%, hasta los 84. El petróleo acumula una fuerte caída desde finales de octubre por la esperanza de un acuerdo entre EE. UU. e Irán, aunque ninguna de las dos partes lo ha confirmado.",
+      "porque": "el petróleo es la principal causa de la inflación actual en Europa: si baja de forma sostenida, los precios deberían moderarse.",
+      "teAfecta": "Si el crudo se mantiene más barato, la gasolina y el diésel deberían bajar, aunque con retraso.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "De dónde viene. A finales de octubre, el Brent llegó a superar los 117 dólares. El 27 de febrero, antes de la guerra con Irán, costaba unos 71.",
+          "La relación con la inflación. La energía está un 21% más cara que hace un año en la zona euro, según Eurostat."
+        ],
+        "claves": [
+          "Brent: 91,5 $ (−1,8%)",
+          "WTI: 84 $ (−2,4%)",
+          "Antes de la guerra: 71 $"
+        ],
+        "glosario": [
+          {
+            "termino": "Brent y WTI",
+            "definicion": "Los dos petróleos de referencia: el Brent, del mar del Norte, para Europa; el WTI, de Texas, para EE. UU."
+          }
+        ],
+        "ahora": "Se espera que Irán sea uno de los temas de la cumbre Trump-Xi-Putin de mañana."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-18/6096200-ibex-35-abre-caida-02-pierde-19600-puntos-petroleo-cayendo-casi-2"
+        },
+        {
+          "nombre": "Rankia: la caída desde octubre",
+          "url": "https://www.rankia.com/blog/bolsa-al-dia/7545124-por-que-cae-petroleo-17-diez-dias-acuerdo-iran-nadie-confirma"
+        }
+      ]
+    },
+    {
+      "tema": "Consumo",
+      "titulo": "La luz baja hoy, pero el frío de mañana puede disparar el gasto en calefacción",
+      "cifra": {
+        "valor": "52,13 €/MWh",
+        "texto": "precio mayorista de la luz hoy"
+      },
+      "resumen": "El precio de la electricidad en el mercado mayorista baja hoy a 52,13 euros por megavatio hora. Pero la AEMET prevé que el frío llegue mañana, y con él más consumo de calefacción. En octubre, la factura de la tarifa regulada ya subió un 7,2%, según la OCU.",
+      "porque": "la calefacción es uno de los mayores gastos de los hogares en invierno.",
+      "teAfecta": "Si tienes tarifa regulada (PVPC), las horas más baratas suelen ser de madrugada, y las más caras, al final de la tarde.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La factura de octubre. Según la OCU, el precio medio del kWh de la tarifa regulada subió a unos 0,20 euros antes de impuestos, un 9,3% más que en septiembre, empujado por el gas.",
+          "Cómo se fija. Red Eléctrica publica cada día hacia las 20:15 el precio de cada hora del día siguiente. El precio mayorista es solo una parte: a la factura se suman peajes, cargos e impuestos."
+        ],
+        "claves": [
+          "Mayorista hoy: 52,13 €/MWh",
+          "Factura de octubre: +7,2%",
+          "Mañana: llega el frío"
+        ],
+        "glosario": [
+          {
+            "termino": "PVPC",
+            "definicion": "La tarifa regulada de la luz, cuyo precio cambia cada hora."
+          },
+          {
+            "termino": "Precio mayorista",
+            "definicion": "Lo que cuesta la electricidad en el mercado donde la compran las comercializadoras, antes de peajes e impuestos."
+          }
+        ],
+        "ahora": "Esta noche, hacia las 20:15, se conocerá el precio de la luz de mañana."
+      },
+      "fuentes": [
+        {
+          "nombre": "Tarifa Luz Hora: precio de hoy",
+          "url": "https://tarifaluzhora.es/precio-luz-diario/2026-11-18"
+        },
+        {
+          "nombre": "Tarifa Luz Hora: llega el frío",
+          "url": "https://tarifaluzhora.es/noticias/tiempo-2026-lluvias-30-grados-bajon-jueves-luz"
+        },
+        {
+          "nombre": "OCU: factura de octubre",
+          "url": "https://www.ocu.org/vivienda-y-energia/gas-luz/informe/precio-luz"
+        }
+      ]
+    },
+    {
+      "tema": "Cripto",
+      "titulo": "Bitcoin, en 64.500 dólares: la mitad que en su máximo, y el oro también cae",
+      "cifra": {
+        "valor": "≈64.500 $",
+        "texto": "precio de bitcoin esta mañana"
+      },
+      "resumen": "Bitcoin cotiza esta mañana en torno a los 64.500 dólares, aproximadamente la mitad que en su máximo y un 12,6% menos que hace una semana. Los fondos que invierten en bitcoin siguen perdiendo dinero, y el oro ha bajado de los 3.800 dólares por onza por primera vez desde septiembre de 2025.",
+      "porque": "muchos jóvenes han invertido en cripto, y la caída muestra lo volátil que es.",
+      "teAfecta": "Si tienes criptomonedas, en una semana pueden perder más de un 10%. Invierte solo lo que puedas permitirte perder.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los fondos. Los fondos cotizados de bitcoin en EE. UU. registraron ayer salidas de 239,9 millones de dólares; el de BlackRock, 209,5 millones.",
+          "Los metales. Además del oro, la plata cae por debajo de los 46 dólares, un 62% menos que su máximo de enero."
+        ],
+        "claves": [
+          "Bitcoin: ≈64.500 $",
+          "−12,6% en una semana",
+          "Oro: por debajo de 3.800 $"
+        ],
+        "glosario": [
+          {
+            "termino": "Onza",
+            "definicion": "La unidad en la que se mide el precio del oro: unos 31 gramos."
+          }
+        ],
+        "ahora": "Las actas de la Fed de esta noche pueden mover también a las criptomonedas."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Nación: precio de hoy",
+          "url": "https://www.lanacion.com.ar/economia/IA/precio-del-bitcoin-hoy-actualizacion-en-tiempo-real-al-18-de-noviembre-nid18112026/"
+        },
+        {
+          "nombre": "KuCoin: oro y plata",
+          "url": "https://www.kucoin.com/es/news/flash/gold-price-drops-below-3-800-oz-as-over-50b-evaporates-from-precious-metals-market"
+        },
+        {
+          "nombre": "KuCoin: salidas de los ETF",
+          "url": "https://www.kucoin.com/es/news/flash/bitcoin-etfs-lose-240m-as-btc-price-struggles-below-65k"
+        }
+      ]
+    }
+  ]
+}

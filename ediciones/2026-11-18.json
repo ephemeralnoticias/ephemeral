@@ -1,0 +1,408 @@
+{
+  "fecha": "2026-11-18",
+  "numero": 8,
+  "minutos": 6,
+  "titular": "Sánchez y Feijóo preparan el cara a cara, Trump llega a China y el Congreso vota los decretos de Urda.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "35",
+    "frase": "votos hacen falta hoy en la Diputación Permanente para aprobar cada decreto. Los dos bloques suman 34 cada uno: decide el PNV.",
+    "detalle": "De un lado, PSOE, Sumar, ERC, EH Bildu y Podemos; del otro, PP, Vox y Junts. Fuente: Europa Press, vía Press Digital."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Sexto día de campaña: Sánchez y Feijóo, sin mítines para preparar el cara a cara",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "resumen": "Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP) no tienen hoy actos de partido: se dedican a preparar el debate de mañana. Sánchez ha dado una entrevista en Antena 3 y Feijóo aparece en un pódcast grabado. Ada Colau (Frente Amplio) da en Gijón el único mitin de los grandes partidos.",
+      "porque": "el cara a cara es el momento con más audiencia de la campaña, y los dos candidatos han vaciado su agenda para llegar preparados.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que dijo Sánchez. En Espejo Público dijo, sobre la vivienda, que el PP y Vox son «el perro del hortelano. Ni regulan ni dejan regular». Preguntado por los accidentes de Adamuz y Urda y por la imputación de su hermano y de su mujer, aseguró que ha asumido «la responsabilidad política» y recordó que el PSOE no pidió la dimisión de Rajoy tras el accidente de Angrois. Dijo que espera gobernar con «una mayoría progresista más amplia».",
+          "Feijóo. Hoy se publica su entrevista en el pódcast El sentido de la birra. No dará entrevistas ni hoy ni mañana para preparar el debate. Su candidata por Madrid, Cayetana Álvarez de Toledo, participa en un acto con la opositora venezolana María Corina Machado.",
+          "Los demás. Colau da un mitin en Gijón por la tarde. Irene Montero (Podemos) se reúne con empleados públicos interinos y da entrevistas en RNE y Telecinco. La agenda de EFE no recoge actividades públicas de Santiago Abascal (Vox).",
+          "Mañana. Además del debate, es el último día para pedir el voto por correo, en la web de Correos o en cualquier oficina."
+        ],
+        "claves": [
+          "Sin mítines de Sánchez ni Feijóo",
+          "Colau: mitin en Gijón",
+          "Mañana: cara a cara"
+        ],
+        "ahora": "Esta mañana, el Colegio de la Abogacía de Madrid ha reunido a representantes de PP, PSOE, Vox y Frente Amplio en un debate sobre Justicia."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): agenda del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/18/sexto-dia-de-campana-sanchez-y-feijoo-sin-mitines-se-centran-en-preparar-el-cara-a-cara/"
+        },
+        {
+          "nombre": "Público (directo)",
+          "url": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo-2.html"
+        },
+        {
+          "nombre": "Infobae (directo)",
+          "url": "https://www.infobae.com/espana/2026/11/18/elecciones-generales-29-n-en-directo-ultima-hora-de-la-campana-los-candidatos-y-los-sondeos/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-plato.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Mañana, el cara a cara: a las 22:00 en La 1, moderado por María Casado",
+      "partidos": [
+        "pp",
+        "psoe"
+      ],
+      "resumen": "Pedro Sánchez y Alberto Núñez Feijóo se enfrentan mañana, jueves 19, a las 22:00 en el primer debate de la campaña. Lo organiza la Academia de Televisión, lo modera su presidenta, María Casado, y se emite en La 1, el Canal 24 Horas y RNE.",
+      "porque": "de los debates anunciados, es el único en el que estarán solo Sánchez y Feijóo, los dos candidatos con más opciones de gobernar.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El formato. La Academia ha pactado con PSOE y PP los bloques temáticos y el desarrollo del debate. Habrá cinco bloques.",
+          "Cómo se llegó aquí. Al principio se barajó el lunes 16, pero las partes acordaron finalmente el jueves 19.",
+          "Lo que viene después. RTVE emitirá el lunes 23, también a las 22:00, un debate con ocho formaciones."
+        ],
+        "claves": [
+          "Jueves 19, 22:00",
+          "La 1, Canal 24 Horas y RNE",
+          "Moderadora: María Casado"
+        ],
+        "ahora": "Mañana también acaba el plazo para pedir el voto por correo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Última Hora",
+          "url": "https://www.ultimahora.es/noticias/elecciones-29n/2026/11/14/2749825/rtve-emitira-cara-cara-entre-sanchez-feijoo-noviembre-debate-ocho-formaciones-dia-23.html"
+        },
+        {
+          "nombre": "Demócrata: dónde verlo",
+          "url": "https://www.democrata.es/actualidad/debate-sanchez-feijoo-hora-donde-ver-19-noviembre/"
+        },
+        {
+          "nombre": "Moncloa.com: los bloques",
+          "url": "https://www.moncloa.com/2026/11/14/debate-sanchez-feijoo-rtve-19-noviembre-3468037/"
+        },
+        {
+          "nombre": "OKDiario: el cambio de fecha",
+          "url": "https://okdiario.com/cool/television/cara-cara-sanchez-feijoo-sera-19-noviembre-vera-varios-canales-lo-moderara-maria-casado-20895240"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-atriles.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El Congreso vota hoy siete decretos, entre ellos los de Urda: decide el PNV",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "podemos",
+        "sumar",
+        "erc",
+        "junts"
+      ],
+      "resumen": "Con las Cortes disueltas, la Diputación Permanente del Congreso vota hoy siete decretos ley aprobados por el Gobierno en el último mes. Dos son por el accidente de tren de Urda (Toledo), que causó 69 muertos el 28 de octubre: uno de ayudas a las víctimas y otro de seguridad ferroviaria.",
+      "porque": "si un decreto no se convalida en 30 días, decae, y las ayudas y medidas que incluye dejan de aplicarse.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los siete decretos. Ayudas a Ceuta por la crisis migratoria del verano (45,32 millones de euros); ayudas por la DANA Adam de octubre; indemnizaciones a las víctimas de Urda (de 2.404 a 84.141 euros, según el caso); seguridad ferroviaria (tiempos de conducción, jubilación del personal y más poder para la Agencia Estatal de Seguridad Ferroviaria); cambios en la Seguridad Social; un título oficial para las familias monoparentales; y nuevas cuantías para la dependencia.",
+          "La aritmética. La Diputación Permanente tiene 69 miembros. PSOE, Sumar, ERC, EH Bildu y Podemos suman 34 votos; PP, Vox y Junts, otros 34. El voto del PNV decide si hay mayoría (35).",
+          "En plena huelga. La votación llega después de la huelga ferroviaria de ayer, convocada para pedir más seguridad en la red."
+        ],
+        "claves": [
+          "7 decretos ley",
+          "34 contra 34: decide el PNV",
+          "Urda: indemnizaciones de 2.404 a 84.141 €"
+        ],
+        "ahora": "El resultado de cada votación se conocerá a lo largo del día."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/politica/2026-11-18/6095902-diputacion-permanente-congreso-vota-hoy-siete-ultimos-decretos-ley-gobierno"
+        },
+        {
+          "nombre": "Demócrata: los siete decretos",
+          "url": "https://www.democrata.es/politica/congreso-y-senado/siete-decretos-diputacion-permanente-18-noviembre-2026/"
+        },
+        {
+          "nombre": "Las Voces del Pueblo (EFE)",
+          "url": "https://www.lasvocesdelpueblo.com/el-congreso-vota-hoy-los-decretos-de-seguridad-ferroviaria-y-ayudas-tras-la-tragedia-de-urda/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-hemiciclo.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Canarias: el Gobierno anuncia 5 millones para El Hierro y Clavijo critica su «falta de previsión»",
+      "resumen": "Tras la segunda reunión de la Comisión Interministerial de Inmigración, el presidente canario, Fernando Clavijo, acusó al Gobierno central de «falta de previsión» y dijo que en El Hierro «no se ha avanzado nada». Después, el Gobierno anunció cinco millones de euros más para la isla, que incluirá en un real decreto ley.",
+      "porque": "en la primera mitad de noviembre han llegado a Canarias más de 11.000 personas, con El Hierro como la isla más afectada.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que dijo Clavijo. Reconoció «avances» en el traslado de migrantes a otras islas y a la Península, que «alivia» la presión en El Hierro, pero los ve «insuficientes». Dijo que «lo más sangrante» es la atención sanitaria.",
+          "Lo que anuncia el Gobierno. Tres millones para el Servicio Canario de la Salud y dos para el Cabildo de El Hierro, que se suman a los 15,18 millones ya destinados a acogida, atención en costa y traslados. Además, ha enviado más embarcaciones de vigilancia y unos 30 agentes desde el 10 de noviembre.",
+          "La situación. Según el Gobierno, gracias a los traslados quedan unas 500 personas en El Hierro."
+        ],
+        "claves": [
+          "+5 millones para El Hierro",
+          "Más de 11.000 llegadas en medio mes",
+          "Clavijo: «falta de previsión»"
+        ],
+        "ahora": "Las medidas se incluirán en un real decreto ley urgente."
+      },
+      "fuentes": [
+        {
+          "nombre": "Europa Press (vía Infobae): Clavijo",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/clavijo-afea-al-gobierno-su-falta-de-prevision-con-la-inmigracion-y-dice-que-no-se-ha-avanzado-nada-en-el-hierro/"
+        },
+        {
+          "nombre": "La Gaceta de Canarias: las medidas",
+          "url": "https://lagacetadecanarias.com/de-la-reunion-sin-acuerdos-que-denuncio-clavijo-al-anuncio-de-cinco-millones-el-gobierno-comunica-nuevas-ayudas-para-el-hierro/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): la reunión",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/el-gobierno-aborda-con-clavijo-mas-refuerzos-ante-el-repunte-de-llegadas-a-el-hierro/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-muelle.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Trump llega a China: Xi lo recibe con un abrazo y mañana se reúne con él y con Putin",
+      "resumen": "Donald Trump aterrizó hoy en Shenzhen, en el sur de China, donde Xi Jinping lo recibió en el aeropuerto con un abrazo. Es el primer presidente de EE. UU. que visita la ciudad durante su mandato. Antes, Xi se reunió con Vladímir Putin. Mañana los tres celebran su primera cumbre juntos.",
+      "porque": "son los líderes de las tres mayores potencias nucleares, y la cumbre llega con las guerras de Ucrania e Irán abiertas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "De qué hablarán. Según la Casa Blanca, de no proliferación y de reducción de armas nucleares. Trump ha sugerido que podría alcanzarse un nuevo acuerdo estratégico global: el último tratado de este tipo entre EE. UU. y Rusia, el New START, expiró en febrero.",
+          "Lo que dice China. Pekín confirmó la reunión el lunes y dijo que servirá para hablar del «mantenimiento de la paz mundial» y de la estabilidad entre grandes potencias. Entre los posibles temas están Ucrania y Oriente Medio.",
+          "Xi y Putin. Antes de reunirse con Xi, Putin dijo que espera que el encuentro a tres «sea de gran utilidad». Las tres reuniones se celebran al margen de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC)."
+        ],
+        "claves": [
+          "Trump, en Shenzhen",
+          "Xi y Putin ya se han reunido",
+          "Mañana: cumbre a tres"
+        ],
+        "ahora": "La cumbre a tres es mañana, jueves 19."
+      },
+      "fuentes": [
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/18/trump-llega-a-china-de-cara-a-su-cumbre-trilateral-de-manana-con-xi-y-putin-en-shenzhen/"
+        },
+        {
+          "nombre": "Euronews: Xi y Putin",
+          "url": "https://es.euronews.com/2026/11/18/xi-jinping-putin-mantienen-conversaciones-shenzhen-antes-cumbre-trilateral-trump"
+        },
+        {
+          "nombre": "El Intransigente: la frase de Putin",
+          "url": "https://elintransigente.com/2026/11/18/previo-cumbre-donald-trump-xi-jinping-vladimir-putin-mantuvieron-reunion/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-pista.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Ucrania vuelve a atacar el puente de Crimea y Rusia reconoce «daños estructurales»",
+      "resumen": "El ejército ucraniano golpeó de nuevo el puente que une Crimea con Rusia, en su segundo ataque masivo en 24 horas. Las autoridades rusas reconocieron «daños estructurales». Imágenes de medios independientes muestran un arco de la carretera hundido y un tramo caído al agua.",
+      "porque": "es la principal conexión por tierra entre Rusia y la península de Crimea, que Moscú se anexionó en 2014.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las consecuencias. El tráfico por carretera está cortado y los conductores tienen que cruzar el estrecho de Kerch en ferri. El tren volvió a circular pocas horas después del ataque. Las autoridades de Crimea informaron de dos muertos en un ataque contra uno de los distritos de la península.",
+          "Lo que dice cada uno. Volodímir Zelenski dijo que usaron drones Palianitsa y Ruta y misiles Neptune y Flamingo y presentó el ataque como respuesta a la destrucción de la infraestructura energética ucraniana por parte de Rusia. El vice primer ministro ruso Andréi Nikitin aseguró que Rusia tiene «todas las tecnologías y la experiencia necesarias» para reparar el puente rápido.",
+          "Entre los aliados. En la reunión de apoyo militar a Ucrania en la sede de la OTAN, el número dos del Pentágono, Elbridge Colby, dijo que los ataques de largo alcance contra Rusia «no sirven para acabar la guerra». Alemania y Reino Unido los respaldaron."
+        ],
+        "claves": [
+          "Segundo ataque en 24 horas",
+          "Tráfico por carretera cortado",
+          "EE. UU. cuestiona estos ataques"
+        ],
+        "ahora": "Rusia ha puesto la reparación bajo control directo del Gobierno."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía ABC Color)",
+          "url": "https://www.abc.com.py/internacionales/2026/11/18/rusia-dice-que-puede-restaurar-puente-de-crimea-en-tiempo-reducido-tras-ataque-ucraniano/"
+        },
+        {
+          "nombre": "Agencias (vía Aporrea): segundo ataque",
+          "url": "https://www.aporrea.org/internacionales/n426278.html"
+        },
+        {
+          "nombre": "BioBioChile (Europa Press): la posición de EE. UU.",
+          "url": "https://www.biobiochile.cl/noticias/internacional/europa/2026/11/18/eeuu-cuestiona-los-ataques-ucranianos-de-largo-alcance-contra-rusia-no-sirven-para-acabar-la-guerra.shtml"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-puente.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Nvidia gana más de lo esperado en sus primeras cuentas sin Jensen Huang",
+      "resumen": "Nvidia, la empresa que fabrica los chips de la inteligencia artificial, ingresó 115.800 millones de dólares en su último trimestre, un 103% más que hace un año y por encima de lo que esperaban los analistas. Son sus primeras cuentas desde que su fundador, Jensen Huang, dimitió como consejero delegado.",
+      "porque": "Nvidia se toma como termómetro de todo el negocio de la inteligencia artificial, y pesa mucho en los fondos de inversión.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Los ingresos de centros de datos, su gran negocio, llegaron a 107.600 millones (+110%). El beneficio neto fue de 65.300 millones, el doble que hace un año. Para el próximo trimestre prevé ingresar 130.000 millones.",
+          "La dirección. La consejera delegada interina, Colette Kress, dijo: «Nuestro impulso es real». El presidente del consejo, Harvey Jones, explicó que aceptaron por unanimidad la dimisión de Huang y que no piensan devolverle el puesto. Una empresa de selección busca a un sustituto.",
+          "La reacción. Las acciones subieron alrededor de un 1,5% en las operaciones posteriores al cierre de Wall Street. Pesan las dudas: según The Wall Street Journal, el regulador de la bolsa de EE. UU. investiga si la empresa dio información engañosa a los inversores."
+        ],
+        "claves": [
+          "Ingresos: 115.800 M$ (+103%)",
+          "Previsión: 130.000 M$",
+          "Huang no volverá, según el consejo"
+        ],
+        "ahora": "Wall Street abre hoy a las 15:30 (hora peninsular) con la primera sesión completa tras las cuentas."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nvidia (comunicado oficial, SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
+        },
+        {
+          "nombre": "Investing.com",
+          "url": "https://es.investing.com/news/stock-market-news/nvidia-supera-expectativas-y-ahora-que-3933402"
+        },
+        {
+          "nombre": "Expansión (México)",
+          "url": "https://expansion.mx/mercados/2026/11/17/nvidia-supera-expectativas-con-sus-resultados-financieros-y-acciones-suben"
+        },
+        {
+          "nombre": "Rankia: horarios",
+          "url": "https://www.rankia.com/blog/bolsa-al-dia/7531571-nvidia-presenta-resultados-17-noviembre-huang-que-prometido-debes-vigilar"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-chip.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "La compraventa de viviendas cae un 13,4% y la hipoteca media roza máximos de 2007",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ],
+      "resumen": "En septiembre se vendieron 54.548 viviendas, un 13,4% menos que hace un año: la mayor caída desde mayo de 2024, según el INE. No es por falta de compradores, sino de casas: la hipoteca media roza ya los 180.000 euros, la cifra más alta desde 2007, según la Asociación Española de Valoración.",
+      "porque": "la vivienda es la principal preocupación de muchos jóvenes y uno de los grandes temas de la campaña.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los datos del INE. Se vendieron 12.145 viviendas nuevas (−11,6%) y 42.403 usadas (−14%), que son más del 77% del total. En lo que va de año, las ventas caen un 3,6%.",
+          "Por qué. Según la Asociación Española de Valoración, cada año se crean en España unos 250.000 hogares, pero en 2025 se terminaron unas 94.000 viviendas libres. Comprar una casa ya equivale a 8,4 años de sueldo bruto y absorbe en torno al 38% de los ingresos de un hogar.",
+          "En campaña. EFE resume el choque así: de los 100.000 pisos públicos que promete Sánchez a la eliminación de impuestos y la derogación de la Ley de Vivienda que propone Feijóo. Hoy Sánchez acusó al PP y a Vox de no regular «ni dejar regular»."
+        ],
+        "claves": [
+          "Septiembre: −13,4%",
+          "Hipoteca media: cerca de 180.000 €",
+          "Casa = 8,4 años de sueldo"
+        ],
+        "ahora": "Mañana, en el cara a cara, la vivienda será uno de los temas."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): datos del INE",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/la-compra-de-viviendas-cae-un-134-en-septiembre-su-mayor-descenso-desde-mayo-de-2024/"
+        },
+        {
+          "nombre": "El Español (datos de la AEV)",
+          "url": "https://www.elespanol.com/invertia/observatorios/vivienda/20261118/tormenta-perfecta-acerca-mercado-vivienda-no-casas-hipotecas-maximos/1003744461638_0.html"
+        },
+        {
+          "nombre": "EFE (vía Infobae): las propuestas",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/17/hoy-sera-noticia-miercoles-18-de-noviembre/"
+        },
+        {
+          "nombre": "Público: la frase de Sánchez",
+          "url": "https://www.publico.es/politica/ultima-hora-campana-electoral-29n-directo-2.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-llaves.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Temporal: avisos en once comunidades y mañana llega el frío",
+      "resumen": "La Agencia Estatal de Meteorología (AEMET) mantiene hoy avisos por lluvia, viento u oleaje en once comunidades. Galicia, Asturias, Cantabria y el País Vasco tienen aviso naranja en la costa. Las lluvias serán casi generalizadas, salvo en el extremo sureste, y a partir de mañana bajan las temperaturas.",
+      "porque": "el aviso naranja significa riesgo importante: conviene evitar paseos marítimos y zonas expuestas al oleaje.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Dónde. Aviso naranja por fenómenos costeros en el Cantábrico y Galicia, donde se esperaban olas de cuatro a cinco metros. Aviso amarillo por lluvia, viento o mala mar en otras zonas. En Aragón hay avisos por rachas de hasta 80 km/h.",
+          "El cambio. Hoy todavía hará calor para la época en algunos puntos (Zaragoza llegará a 24 grados), pero mañana jueves entra aire frío y las temperaturas bajan."
+        ],
+        "claves": [
+          "11 comunidades con aviso",
+          "Naranja en la costa norte",
+          "Mañana: llega el frío"
+        ],
+        "ahora": "Consulta los avisos de tu zona en aemet.es."
+      },
+      "fuentes": [
+        {
+          "nombre": "Estrella Digital",
+          "url": "https://www.estrelladigital.es/sociedad/avisos-aemet-hoy-18-noviembre-once-comunidades-lluvia-viento-oleaje/20261118101211453533.html"
+        },
+        {
+          "nombre": "Tarifa Luz Hora (predicción de la AEMET)",
+          "url": "https://tarifaluzhora.es/noticias/tiempo-2026-lluvias-30-grados-bajon-jueves-luz"
+        },
+        {
+          "nombre": "Aragón Digital",
+          "url": "https://aragondigital.es/articulo/medio-ambiente/frio-lluvias-tienen-fecha-regreso-aragon-avisos-viento-80-km-h/202611181011461022630.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-temporal.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Alcaraz se juega hoy ante Medvedev el pase a semifinales de las ATP Finals",
+      "resumen": "Carlos Alcaraz se enfrenta hoy, no antes de las 14:00, a Daniil Medvedev en el segundo partido del grupo Ivan Lendl de las ATP Finals de Turín. Los dos ganaron su primer partido el lunes: quien gane hoy se asegura un puesto en las semifinales.",
+      "porque": "las ATP Finals son el único gran título que le falta a Alcaraz, y Medvedev ya lo ganó en el pasado.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El precedente. Alcaraz gana 7-3 en los enfrentamientos entre ambos.",
+          "Dónde verlo. En Movistar Plus+."
+        ],
+        "claves": [
+          "Hoy, no antes de las 14:00",
+          "Alcaraz 7-3 Medvedev (historial)",
+          "El que gane, a semifinales"
+        ],
+        "ahora": "En el mismo grupo juegan hoy Cobolli y Tiafoe, que perdieron su primer partido."
+      },
+      "fuentes": [
+        {
+          "nombre": "ATP Tour",
+          "url": "https://www.atptour.com/en/news/alcaraz-medvedev-cobolli-tiafoe-nitto-atp-finals-2026-day-4-preview"
+        },
+        {
+          "nombre": "VAVEL (directo)",
+          "url": "https://www.vavel.com/es/tenis/2026/11/18/1279679-carlos-alcaraz-vs-daniil-medvedev-en-vivo-resultado-set-a-set-y-directo-en-las-atp-finals.html"
+        },
+        {
+          "nombre": "Metro Ecuador",
+          "url": "https://www.metroecuador.com.ec/deportes/2026/11/17/atp-finals-2026-alcaraz-y-medvedev-se-juegan-un-paso-hacia-las-semifinales-conoce-donde-y-cuando-ver-los-partidos/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-18-raqueta.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, Correos no tritura ni cambia los votos por correo: son vídeos hechos con IA",
+    "texto": "A un día de que acabe el plazo para pedir el voto por correo, circulan en TikTok, Instagram, Facebook y X más de una decena de vídeos que muestran supuestos empleados que reparten papeletas, cambian votos o los tiran a una trituradora. Son escenas generadas con inteligencia artificial y quienes las difunden no aportan ninguna prueba de fraude.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261113/bulos-desinformaciones-elecciones-29-noviembre-2026/",
+    "nota": "El plazo para pedir el voto por correo acaba mañana: en la web de Correos o en cualquier oficina"
+  }
+}

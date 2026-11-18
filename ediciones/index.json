@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-18",
+      "numero": 8,
+      "resumen": "El cara a cara de mañana, Trump en China y los decretos de Urda",
+      "secciones": [
+        "espana",
+        "sociedad",
+        "internacional",
+        "ciencia",
+        "economia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-17",
       "numero": 7,
       "resumen": "Huelga de trenes, el salario mínimo de 2027 y la retirada de Díaz de la OIT",
