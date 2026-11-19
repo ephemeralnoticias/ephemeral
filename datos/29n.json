@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,25 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-19",
+      "titulo": "Noche del cara a cara",
+      "partidos": [
+        "pp",
+        "psoe"
+      ],
+      "texto": "Sánchez y Feijóo debaten a las 22:00 en su único cara a cara, organizado por la Academia de Televisión. Ayer, la Diputación Permanente convalidó los siete decretos del Gobierno con el apoyo del PP. Hoy es el último día para pedir el voto por correo.",
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/19/dia-7-sanchez-y-feijoo-debaten-cara-a-cara-y-el-resto-de-candidatos-continuan-su-campana/"
+        },
+        {
+          "nombre": "Press Digital",
+          "url": "https://www.pressdigital.es/articulo/politica/2026-11-18/6096908-diputacion-permanente-congreso-convalida-siete-decretos-ley-aprobados-precampana-apoyo-pp"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-18",
       "titulo": "Día sin mítines de Sánchez y Feijóo",

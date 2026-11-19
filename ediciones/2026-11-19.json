@@ -1,0 +1,472 @@
+{
+  "fecha": "2026-11-19",
+  "numero": 9,
+  "minutos": 6,
+  "titular": "Sánchez y Feijóo, cara a cara esta noche; Trump, Xi y Putin se reúnen en China y Anthropic sale a bolsa.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "economia",
+    "cifra": "25",
+    "frase": "puntos básicos (un cuarto de punto) es la subida de tipos que los mercados esperan de la Reserva Federal de EE. UU. en diciembre.",
+    "detalle": "Las actas de su última reunión muestran que «casi todos» sus miembros ven probables nuevas subidas. Algunos contemplan incluso medio punto. Fuentes: XTB y Diario Crítico."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Esta noche, el único cara a cara entre Sánchez y Feijóo",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos",
+        "erc"
+      ],
+      "resumen": "Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP) debaten hoy a las 22:00 en su único cara a cara antes del 29N. Lo organiza la Academia de Televisión, lo modera su presidenta, María Casado, y lo emiten a la vez las principales cadenas. Hoy también es el último día para pedir el voto por correo.",
+      "porque": "es la cita con más audiencia de la campaña y llega a diez días de las elecciones, cuando muchos indecisos aún no han elegido.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El formato. Dura unas dos horas y tiene cinco bloques: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración democrática; y migración y política exterior. Cada candidato cerrará con un minuto final. Se verá en La 1, La 2, Antena 3, Cuatro, Telecinco, laSexta y otras cadenas, con la señal de la Academia.",
+          "Por qué la Academia. PSOE y PP no se pusieron de acuerdo sobre qué cadena debía organizarlo, así que lo hace la Academia de Televisión, que también organizará el debate a cuatro del 26 de noviembre. Antes, el 23, RTVE emite un debate con portavoces de ocho partidos.",
+          "Qué dicen los partidos. Según EFE, el PSOE asegura que Sánchez llega «con respuestas para todo» y con la intención de movilizar a sus votantes. El PP avanza que Feijóo combinará el «sentido de Estado» con un «examen exigente» al presidente.",
+          "El resto de la campaña. Santiago Abascal (Vox) atiende a la prensa en Benavente (Zamora) y da un mitin en Gijón. Ada Colau (Frente Amplio) se reúne con víctimas de la dana en Catarroja (Valencia). Irene Montero (Podemos) tiene un mitin en Bilbao y Gabriel Rufián (ERC) participa en un acto de Compromís-Front Valencià en Vila-real."
+        ],
+        "claves": [
+          "22:00, en varias cadenas",
+          "Modera María Casado",
+          "Último día para pedir el voto por correo"
+        ],
+        "ahora": "El voto por correo se puede pedir hasta hoy en la web de Correos o en cualquier oficina. Quien ya lo tenga puede depositarlo hasta el 25 de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae: formato y bloques",
+          "url": "https://www.infobae.com/espana/2026/11/19/debate-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo-ultima-hora-sobre-las-elecciones-generales-29-n-en-espana/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): el cara a cara",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/19/sanchez-y-feijoo-se-citan-en-un-cara-a-cara-que-se-preve-aspero-y-en-busca-del-indeciso/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): día 7 de campaña",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/19/dia-7-sanchez-y-feijoo-debaten-cara-a-cara-y-el-resto-de-candidatos-continuan-su-campana/"
+        },
+        {
+          "nombre": "El Debate: cadenas que lo emiten",
+          "url": "https://www.eldebate.com/cine-tv-series/20261119/izquierdas-derechas-respuesta-maria-casado-moderadora-debate-entre-sanchez-feijoo_482448.html"
+        },
+        {
+          "nombre": "EFE (vía Infobae): agenda del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/18/temas-del-dia-de-efe-espana-del-jueves-19-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "RTVC: plazos del voto por correo",
+          "url": "https://rtvc.es/correos-abre-el-plazo-para-solicitar-el-voto-por-correo-6-octubre-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-microfonos.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El Congreso aprueba los siete decretos, incluidas las ayudas por Urda",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "sumar",
+        "erc",
+        "podemos",
+        "junts"
+      ],
+      "resumen": "La Diputación Permanente del Congreso convalidó ayer los siete decretos ley que el Gobierno aprobó en precampaña. El PP votó a favor de todos, así que salieron adelante con holgura. Vox votó en contra de seis y apoyó solo el de ayudas a las víctimas del accidente ferroviario de Urda, que se aprobó por unanimidad.",
+      "porque": "con el Congreso disuelto, si no se convalidaban ahora, estas medidas habrían decaído.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué se aprueba. Además de las ayudas a las víctimas de Urda, los decretos incluyen medidas para reforzar la seguridad en los trenes, apoyo financiero a Ceuta, ayudas por la dana Adam, cambios en la Seguridad Social y medidas para las familias monoparentales y para la atención a la dependencia.",
+          "Las cuentas. Antes de votar, PSOE, Sumar, ERC, EH Bildu y Podemos sumaban 34 votos, y PP, Vox y Junts otros 34, así que el único voto del PNV parecía decisivo. Al final, el apoyo del PP hizo que ningún decreto dependiera de ese voto.",
+          "Por qué ahora. Con las Cortes disueltas, la Diputación Permanente es el único órgano del Congreso que sigue activo, y los decretos ley deben convalidarse en un plazo de 30 días o decaen."
+        ],
+        "claves": [
+          "7 de 7 convalidados",
+          "PP: sí a todos",
+          "Urda: por unanimidad"
+        ],
+        "ahora": "La Diputación Permanente celebrará su última reunión antes de las elecciones el 26 de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/politica/2026-11-18/6096908-diputacion-permanente-congreso-convalida-siete-decretos-ley-aprobados-precampana-apoyo-pp"
+        },
+        {
+          "nombre": "Aquí Madrid: el voto de Vox",
+          "url": "https://aqui.madrid/diputacion-permanente-convalida-siete-decretos-sociales-emergencia"
+        },
+        {
+          "nombre": "Law&Trends: los dos bloques",
+          "url": "https://www.lawandtrends.com/noticias/alquiler/la-diputacion-permanente-convalida-el-decreto-que-prohibe-los-desahucios-y-tumba-el-que-hacia-indefinidos-los-alquileres-1.html"
+        },
+        {
+          "nombre": "Demócrata: qué incluyen",
+          "url": "https://www.democrata.es/politica/congreso-y-senado/congreso-aprueba-siete-decretos-gobierno-ayudas-urda-medidas-sociales/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): próxima reunión",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/18/la-diputacion-permanente-celebrara-su-ultima-reunion-el-proximo-26-de-noviembre/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-sello.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Trump, Xi y Putin, juntos por primera vez en una cumbre en China",
+      "partidos": [],
+      "resumen": "Los presidentes de EE. UU., China y Rusia celebran hoy en Shenzhen su primera reunión a tres, al margen de la cumbre de Asia-Pacífico (APEC). Antes, Trump se reunió por separado con Putin y con Xi y dijo que hablarán del fin de la guerra de Ucrania. EE. UU. ha rebajado las expectativas de un acuerdo nuclear.",
+      "porque": "son las tres mayores potencias nucleares, y lo que acuerden sobre armas, Ucrania o Irán afecta a Europa, que no está en la mesa.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "De qué hablan. La Casa Blanca ha situado en el centro el desarme nuclear. El último tratado entre EE. UU. y Rusia para limitar sus arsenales, el New START, caducó en febrero. También está en la agenda la guerra de Irán.",
+          "Lo que han dicho. Al empezar la reunión, Putin dijo que los tres países tienen un «interés» común en cerrar la guerra de Ucrania. Trump dijo que están «haciendo historia» y Xi habló de una reunión de importancia sin precedentes.",
+          "Las dudas. Según Al Jazeera, Xi es reacio a entrar en la guerra de Ucrania, que considera un asunto europeo, y no quiere sumarse a un tratado nuclear que China no ha negociado. En Kiev y en Europa se teme un reparto de influencias sin ellos, al que algunos llaman «Yalta 2.0»."
+        ],
+        "claves": [
+          "Primera reunión a tres",
+          "Nuclear, Irán y Ucrania",
+          "Sin acuerdo previsto"
+        ],
+        "ahora": "China quiere cerrar la cumbre con una «Declaración de Shenzhen» sobre comercio, economía digital e inteligencia artificial."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Español: reuniones por separado",
+          "url": "https://www.elespanol.com/mundo/asia/20261119/trump-reune-putin-xi-separado-cumbre-avanza-abordaran-fin-guerra-ucrania/1003744463890_0.html"
+        },
+        {
+          "nombre": "France 24 (directo)",
+          "url": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting"
+        },
+        {
+          "nombre": "Estrella Digital: expectativas y New START",
+          "url": "https://www.estrelladigital.es/mundo/trump-xi-putin-shenzhen-cumbre-trilateral-nuclear-ucrania-europa-espana/20261119060000453568.html"
+        },
+        {
+          "nombre": "Al Jazeera: qué quiere cada uno",
+          "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting"
+        },
+        {
+          "nombre": "BioBioChile: la Declaración de Shenzhen",
+          "url": "https://www.biobiochile.cl/noticias/internacional/mundo/2026/11/18/agenda-nuclear-factor-nvidia-iran-y-ucrania-marcaran-historica-cita-de-xi-trump-y-putin-en-shenzen.shtml"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-mesa.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Ucrania ataca por tercera vez esta semana el puente de Crimea",
+      "partidos": [],
+      "resumen": "El ejército ucraniano ha vuelto a golpear esta madrugada el puente que une Crimea con Rusia, por tercera vez en una semana. El líder prorruso de la península, Serguéi Axiónov, dice que el tráfico está cortado de forma provisional. Según fuentes independientes, el ataque ha alcanzado la vía del tren.",
+      "porque": "el puente es la principal conexión entre Rusia y la Crimea que se anexionó en 2014, y el ataque llega horas antes de la cumbre de Putin con Trump y Xi.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La semana. El martes, Ucrania destruyó unos 270 metros de la carretera del puente. El de hoy afecta a la parte ferroviaria. En 2022, otro ataque dejó el puente sin tráfico de coches durante más de cuatro meses.",
+          "Por qué ahora. El presidente ucraniano, Volodímir Zelenski, ha reconocido que el objetivo es castigar a Rusia por negarse a declarar una tregua energética (dejar de atacar centrales y redes eléctricas) en las últimas negociaciones de Abu Dabi, con mediación de EE. UU.",
+          "La otra parte. Rusia ataca a diario infraestructuras ucranianas, incluidos puentes, según Zelenski. Moscú ha abierto una investigación por terrorismo por el primer ataque de la semana."
+        ],
+        "claves": [
+          "Tercer ataque en 7 días",
+          "Tráfico cortado",
+          "Zelenski: respuesta a la falta de tregua"
+        ],
+        "ahora": "Los servicios de emergencia están evaluando los daños, según Axiónov."
+      },
+      "fuentes": [
+        {
+          "nombre": "elDiario.es (EFE)",
+          "url": "https://www.eldiario.es/internacional/ucrania-golpea-tercera-vez-puente-crimea-trump-putin-xi-reunen-china_1_13675832.html"
+        },
+        {
+          "nombre": "Infobae: vía férrea y daños",
+          "url": "https://www.infobae.com/america/mundo/2026/11/19/ucrania-ataco-por-tercera-vez-en-la-semana-el-puente-de-crimea-y-forzo-la-suspension-del-transito-ferroviario/"
+        },
+        {
+          "nombre": "Metro (EFE): la investigación rusa",
+          "url": "https://www.metro.pr/noticias/2026/11/17/ucrania-ataca-puente-de-crimea-previo-a-cumbre-de-putin-con-trump-y-xi/"
+        },
+        {
+          "nombre": "Diario Estrategia: Zelenski",
+          "url": "https://www.diarioestrategia.cl/texto-diario/mostrar/6095019/zelenski-reivindica-nuevo-ataque-ucrania-contra-puente-crimea-asegura-causo-danos-importantes"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-vias.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Anthropic sale hoy a bolsa en la mayor operación de la historia",
+      "partidos": [],
+      "resumen": "Anthropic, la empresa que desarrolla el asistente de inteligencia artificial Claude, empieza a cotizar hoy en el Nasdaq. Ha fijado el precio en 83 dólares por acción, por encima del rango previsto (70-78), y ha ampliado la oferta a 980 millones de acciones: unos 81.340 millones de dólares, más una colocación privada de 26.000 millones.",
+      "porque": "es la primera gran empresa de IA de frontera que sale a bolsa, y se ve como un termómetro del interés de los inversores por la inteligencia artificial.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Con ese precio, la empresa vale alrededor de 1,5 billones de dólares, según AFP. Sumando la colocación privada, supera los 86.200 millones que captó SpaceX en junio.",
+          "La demanda. Cuando una empresa fija el precio por encima del rango previsto suele ser porque hay muchas más peticiones que acciones. En un mercado previo vinculado a criptomonedas, un contrato ligado a Anthropic llegó a cotizar en torno a 98 dólares.",
+          "El contexto. Llega en una mala semana para la tecnología: Nvidia lleva siete semanas de caídas. La casa de valores Renta 4 cree que la salida a bolsa será «el mejor test» del apetito por la IA."
+        ],
+        "claves": [
+          "83 $ por acción",
+          "≈1,5 billones de valoración",
+          "Símbolo: ANT"
+        ],
+        "ahora": "Las acciones empiezan a negociarse hoy en Wall Street, que abre a las 15:30, hora peninsular."
+      },
+      "fuentes": [
+        {
+          "nombre": "Forbes México (Reuters)",
+          "url": "https://forbes.com.mx/anthropic-fija-precio-de-su-salida-a-bolsa-en-83-dolares-por-accion/"
+        },
+        {
+          "nombre": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/"
+        },
+        {
+          "nombre": "Excélsior (AFP): valoración",
+          "url": "https://www.excelsior.com.mx/internacional/anthropic-saldra-bolsa-83-dolares-por-accion-mercados-asia-siguen-baja"
+        },
+        {
+          "nombre": "Bitcoin.com: 980 millones de acciones",
+          "url": "https://news.bitcoin.com/es/market-updates/anthropic-fija-su-ipo-en-83-dolares-tras-apuestas-cripto-cerca-de-98/"
+        },
+        {
+          "nombre": "CoinDesk: comparación con SpaceX",
+          "url": "https://www.coindesk.com/es/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+        },
+        {
+          "nombre": "Reuters (vía GBM): Renta 4",
+          "url": "https://gbm.com/media/noticia/el-ibex-35-rebota-tras-tres-sesiones-de-caidas-con-la-mirada-en-anthropic"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-campana.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "La Reserva Federal avisa: vienen más subidas de tipos en EE. UU.",
+      "partidos": [],
+      "resumen": "Las actas de la última reunión de la Reserva Federal, publicadas anoche, muestran que «casi todos» sus miembros creen que harán falta nuevas subidas de tipos para frenar la inflación. En octubre los dejó entre el 3,75% y el 4%. Algunos contemplan subir medio punto en diciembre si la inflación no cede.",
+      "porque": "lo que decide la Fed mueve el dólar, las bolsas y el precio del dinero en todo el mundo, también en Europa.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué dicen las actas. La mayoría apoyó no tocar los tipos en octubre, pero para varios fue una decisión ajustada. Algunos advirtieron de que la inflación podría durar más de lo previsto.",
+          "La reacción. El dólar ha subido a su nivel más alto en 19 meses frente a las principales monedas, y el oro ha caído a su precio más bajo en 14 meses. Los mercados ya descuentan una subida de un cuarto de punto en diciembre.",
+          "Wall Street y Madrid. Ayer, el S&P 500 bajó un 0,23% y el Nasdaq subió un 0,42%. El Ibex 35 cerró con una caída del 1,28%, en 19.373 puntos, y esta mañana abre al alza."
+        ],
+        "claves": [
+          "«Casi todos»: más subidas",
+          "Tipos: 3,75%-4%",
+          "Dólar: máximo de 19 meses"
+        ],
+        "ahora": "La próxima reunión de la Fed es en diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "XTB: las actas",
+          "url": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/actas-de-la-fed-casi-todos-apoyan-nuevas-subidas-de-tasas-es-posible-un-aumento-de-50-puntos-basicos-en-diciembre-1"
+        },
+        {
+          "nombre": "FXStreet: decisión ajustada",
+          "url": "https://www.fxstreet.es/news/las-minutas-de-la-fed-ofreceran-mas-pistas-sobre-el-ritmo-de-subidas-del-banco-central-202611181500"
+        },
+        {
+          "nombre": "Diario Crítico",
+          "url": "https://www.diariocritico.com/economia/la-fed-sube-el-tono"
+        },
+        {
+          "nombre": "Investing.com: el dólar",
+          "url": "https://es.investing.com/news/forex-news/el-dolar-alcanza-maximos-de-19-meses-por-la-fed-el-dolar-australiano-cae-3935351"
+        },
+        {
+          "nombre": "KuCoin: cierre de Wall Street",
+          "url": "https://www.kucoin.com/es/news/articles/crypto-daily-market-report-november-19-2026"
+        },
+        {
+          "nombre": "Bolsamanía: cierre del Ibex",
+          "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-bolsas-mundiales-historico-debut-anthropic--24226952.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-tipos.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Sale GTA VI, el videojuego más esperado, tras dos retrasos",
+      "partidos": [],
+      "resumen": "Grand Theft Auto VI, de Rockstar Games, sale hoy a la venta para PlayStation 5 y Xbox Series X|S después de dos retrasos. Llega de forma escalonada según la zona horaria. No hay versión para PC confirmada, y las copias «físicas» traen un código de descarga en lugar de un disco.",
+      "porque": "es uno de los lanzamientos más esperados de la historia de los videojuegos, más de una década después de GTA V.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Precio. La edición estándar cuesta 79,99 € y la más completa, 99,99 €, solo en digital.",
+          "Cómo llega. Quien lo reservó en digital pudo precargarlo desde el 12 de noviembre: los archivos ya estaban en la consola, bloqueados hasta la hora de lanzamiento. Las tiendas de PlayStation muestran un lanzamiento escalonado por regiones.",
+          "Sin PC. Take-Two, la empresa matriz de Rockstar, no ha dado fecha para ordenadores."
+        ],
+        "claves": [
+          "PS5 y Xbox Series",
+          "Desde 79,99 €",
+          "Sin disco: código de descarga"
+        ],
+        "ahora": "Quien lo reservó en digital ya lo tiene en la consola: solo falta que se desbloquee a la hora de lanzamiento de su región."
+      },
+      "fuentes": [
+        {
+          "nombre": "PlayStation Store",
+          "url": "https://www.playstation.com/es-ec/games/grand-theft-auto-vi"
+        },
+        {
+          "nombre": "Vodafone: precios y ediciones",
+          "url": "https://www.vodafone.es/c/conectate/dispositivos/gta-vi-cuando-sale-precio-novedades/"
+        },
+        {
+          "nombre": "Outlook Respawn: sin disco",
+          "url": "https://respawn.outlookindia.com/gaming/gaming-news/rockstar-confirms-gta-vi-will-launch-without-a-game-disc"
+        },
+        {
+          "nombre": "GTABase: precarga y lanzamiento escalonado",
+          "url": "https://www.gtabase.com/es/articulos/gta-6/guia-de-preparacion-para-el-lanzamiento-de-gta-6-fecha-de-precarga-ediciones-de-almacenamiento"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-mando.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Páginas de Facebook desde Vietnam se cuelan en la campaña del 29N",
+      "partidos": [
+        "psoe"
+      ],
+      "resumen": "Dos investigaciones separadas de Newtral y Maldita.es han encontrado decenas de páginas de Facebook, gestionadas sobre todo desde Vietnam, que difunden noticias falsas y sensacionalistas en español. Su objetivo principal es ganar dinero llevando tráfico a webs llenas de anuncios, pero algunas ya publican contenido sobre las elecciones.",
+      "porque": "en plena campaña, estas páginas pueden hacer circular bulos políticos entre miles de personas sin que se sepa quién está detrás.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Lo que encontró Newtral. 39 páginas implicadas, con artículos alojados en siete webs. De las 19 páginas con datos de ubicación, 16 se gestionan desde Vietnam. Entre sus publicaciones hay anuncios con la imagen de Pedro Sánchez (PSOE) pagados por la empresa de un parque infantil vietnamita.",
+          "Lo que encontró Maldita.es. Analizó 30 páginas: 23 de las 24 que muestran ubicación están en Vietnam, y cinco se crearon después de convocarse las elecciones.",
+          "¿Injerencia? Los expertos consultados por Maldita creen que el objetivo es económico, pero no descartan que en un contexto electoral haya también intención de influir. No hay pruebas de quién encarga los contenidos políticos."
+        ],
+        "claves": [
+          "Newtral: 39 páginas",
+          "Maldita: 23 de 24 en Vietnam",
+          "Negocio: anuncios"
+        ],
+        "ahora": "Si ves una página de «noticias» que no conoces, revisa en Facebook la sección «Transparencia de la página»: ahí aparece desde qué país se gestiona."
+      },
+      "fuentes": [
+        {
+          "nombre": "Newtral: la red «VietSpam»",
+          "url": "https://www.newtral.es/vietscam-red-paginas-facebook-vietnam-propaganda-desinformacion-investigacion/20261118/"
+        },
+        {
+          "nombre": "Maldita.es: granjas vietnamitas",
+          "url": "https://maldita.es/investigaciones/20261118/granja-vietnamita-paginas-facebook/"
+        },
+        {
+          "nombre": "Onda Cero (vía Shango): el «chiquipark»",
+          "url": "https://www.shango.media/onda-cero-el-chiquipark-vietnamita-que-paga-anuncios-en-facebook-a-favor-de-pedro-sanchez-en-plena-campana-electoral-12065051"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-granjas.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Llega el frío: bajan las temperaturas en casi toda España",
+      "partidos": [],
+      "resumen": "Tras varios días con un calor poco habitual para noviembre, con máximas de hasta 30 grados en el este, un frente atlántico cruza hoy la península y deja detrás aire más frío. Según la AEMET, las temperaturas bajan de forma generalizada. Llueve sobre todo en Galicia, Asturias y el norte de León.",
+      "porque": "es el primer cambio de tiempo claramente otoñal en semanas, con lluvia, viento y nieve en las montañas del norte.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las máximas. León y Lugo no pasarán de 11 grados; Burgos, Palencia, Salamanca y Soria se quedarán en 12, y Ávila, Segovia, Valladolid y Zamora, en 13. En Madrid no se superarán los 15.",
+          "Nieve. La cota de nieve baja hasta unos 1.500 metros en la cordillera Cantábrica. En León, por ejemplo, la AEMET prevé lluvia débil y una máxima de 11 grados.",
+          "Antes del frío. El paso del frente ha venido acompañado de viento fuerte y de olas de más de seis metros en el mar."
+        ],
+        "claves": [
+          "11 °C de máxima en León y Lugo",
+          "Nieve desde 1.500 m",
+          "Lluvia en el norte"
+        ],
+        "ahora": "Consulta los avisos de tu zona en aemet.es antes de viajar."
+      },
+      "fuentes": [
+        {
+          "nombre": "Europa Press (vía Infobae): AEMET",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/18/lluvias-viento-y-olas-de-mas-de-6-metros-antes-de-un-notable-bajon-de-las-temperaturas/"
+        },
+        {
+          "nombre": "El Cronista: zonas más afectadas",
+          "url": "https://www.cronista.com/espana/actualidad-es/se-acerca-un-frente-frio-que-traera-lluvias-y-bajara-las-temperaturas-este-jueves-19-de-noviembre-las-zonas-mas-afectadas/"
+        },
+        {
+          "nombre": "Diario de León: previsión en León",
+          "url": "https://www.diariodeleon.es/leon/261119/2103643/prevision-leon-jornada-lluvia-debil-temperaturas-baja.html"
+        },
+        {
+          "nombre": "OKDiario",
+          "url": "https://okdiario.com/sociedad/aemet-alerta-del-tiempo-que-llega-este-jueves-espana-lluvias-fuertes-rachas-viento-desplome-temperaturas-21105474"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-nieve.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Alcaraz gana a Medvedev y ya está en semifinales en Turín",
+      "partidos": [],
+      "resumen": "Carlos Alcaraz venció ayer a Daniil Medvedev por 6-2 y 6-4, en algo más de una hora, en las Finales ATP de Turín. Horas después, la victoria de Frances Tiafoe sobre Flavio Cobolli le dio el pase matemático a semifinales. Alcaraz terminó el partido con molestias en el muslo izquierdo.",
+      "porque": "las Finales ATP reúnen a los ocho mejores del año, y es uno de los pocos grandes títulos que Alcaraz aún no ha ganado.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El partido. Alcaraz no cedió ningún set, igual que en su estreno, cuando ganó a Tiafoe por 6-2 y 6-2.",
+          "El grupo. Tiafoe ganó a Cobolli por 7-6 y 6-0. Eso dejó eliminado al italiano y certificó el pase de Alcaraz.",
+          "La duda física. La agencia EFE informa de que acabó con molestias en el muslo izquierdo. Habrá que ver cómo evoluciona antes de las semifinales."
+        ],
+        "claves": [
+          "6-2, 6-4 a Medvedev",
+          "Semifinales aseguradas",
+          "Molestias en el muslo"
+        ],
+        "ahora": "El viernes cierra la fase de grupos contra Cobolli."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/18/el-tenista-espanol-carlos-alcaraz-sigue-arrollador-y-se-mete-en-semifinales-en-turin/"
+        },
+        {
+          "nombre": "ABC Noticias (EFE): molestias",
+          "url": "https://abcnoticias.mx/deportes/2026/11/18/carlos-alcaraz-vence-a-medvedev-y-clasifica-a-semifinales-de-las-finales-atp-2026-295872.html"
+        },
+        {
+          "nombre": "El Argentino: el estreno ante Tiafoe",
+          "url": "https://elargentinodiario.com.ar/deportes/18/11/2026/alcaraz-le-gano-a-medvedev-y-quedo-a-un-paso-de-las-semifinales-en-turin/"
+        },
+        {
+          "nombre": "Tenis al Máximo: duración",
+          "url": "https://www.tenisalmaximo.pe/atp-finals-alcaraz-clasifica-a-semifinales-y-tiafoe-elimina-a-cobolli/"
+        },
+        {
+          "nombre": "Mundiario: próximo rival",
+          "url": "https://www.mundiario.com/deportes/alcaraz-vence-daniil-medvedev-roza-semifinales-turin/20261118215723453644.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-19-red.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, meter dos papeletas de partidos distintos en el sobre no da dos votos: lo anula",
+    "texto": "Circulan en redes mensajes que animan a los indecisos a meter en el mismo sobre dos papeletas de candidaturas diferentes para el 29N. Es falso que eso sirva para votar a dos partidos: según la ley electoral, el voto se considera nulo y no cuenta para nadie. Si las dos papeletas son del mismo partido, el voto sí vale, pero cuenta una sola vez.",
+    "verificador": "Newtral",
+    "url": "https://www.newtral.es/dos-papeletas-sobre-29n/20261118/",
+    "nota": "Para que tu voto al Congreso cuente: una sola papeleta en el sobre, sin escribir ni tachar nada"
+  }
+}

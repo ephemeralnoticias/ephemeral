@@ -1,0 +1,542 @@
+{
+  "fecha": "2026-11-19",
+  "numero": 3,
+  "minutos": 14,
+  "titular": "Anthropic sale a bolsa, la Fed avisa de más subidas de tipos y la gasolina vuelve a precios de julio.",
+  "entradilla": "Las diez noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "1,624 €",
+    "frase": "cuesta de media un litro de gasolina en España: séptima semana seguida de bajadas y el precio más bajo desde julio.",
+    "detalle": "Ha bajado un 16,3% desde finales de septiembre. Fuente: Boletín Petrolero de la UE, vía Europa Press."
+  },
+  "noticias": [
+    {
+      "tema": "Empresas",
+      "titulo": "Anthropic debuta hoy en bolsa con la mayor salida de la historia",
+      "cifra": {
+        "valor": "83 $",
+        "texto": "precio por acción, por encima del rango previsto de 70-78 $"
+      },
+      "resumen": "Anthropic, la empresa que desarrolla el asistente de inteligencia artificial Claude, empieza a cotizar hoy en el Nasdaq con el símbolo ANT. Vende 980 millones de acciones a 83 dólares: unos 81.340 millones. Con una colocación privada de 26.000 millones más, la operación supera los 86.200 millones que captó SpaceX en junio.",
+      "porque": "es la primera vez que la bolsa pone precio a una gran empresa de IA de frontera, y su resultado se verá como un examen del interés por la inteligencia artificial.",
+      "teAfecta": "Si tienes fondos tecnológicos, el estreno puede mover su valor. Y si piensas comprar acciones, recuerda que las salidas a bolsa muy esperadas suelen tener días de mucha volatilidad al principio.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Por qué subió el precio. La empresa había propuesto un rango de 70 a 78 dólares por acción. Fijarlo en 83 y ampliar el número de acciones indica que hubo muchas más peticiones de compra que acciones disponibles.",
+          "Cuánto vale. Con ese precio, Anthropic vale alrededor de 1,5 billones de dólares, según la agencia AFP. En mayo, en su última ronda privada, se la valoró en 965.000 millones.",
+          "El mercado previo. En un mercado ligado a criptomonedas que permite apostar por empresas antes de que coticen, un contrato vinculado a Anthropic llegó a cotizar en torno a 98 dólares, un 18% por encima del precio de salida. La casa de valores Renta 4 cree que será «el mejor test» del apetito inversor por la IA.",
+          "El contexto. Llega en una semana difícil para la tecnología: Nvidia encadena siete semanas de caídas y el Nasdaq entró en corrección tras las elecciones de mitad de mandato en EE. UU."
+        ],
+        "claves": [
+          "980 millones de acciones",
+          "≈1,5 billones de valoración",
+          "Símbolo: ANT"
+        ],
+        "glosario": [
+          {
+            "termino": "Salida a bolsa (OPV u OPI)",
+            "definicion": "Cuando una empresa vende por primera vez sus acciones al público y empieza a cotizar en un mercado."
+          },
+          {
+            "termino": "Rango de precios",
+            "definicion": "La horquilla de precio por acción que la empresa propone antes de fijar el definitivo, según la demanda."
+          },
+          {
+            "termino": "Colocación privada",
+            "definicion": "Venta de acciones a inversores concretos (fondos, grandes empresas) fuera de la oferta pública."
+          }
+        ],
+        "ahora": "Las acciones empiezan a negociarse hoy en Wall Street, que abre a las 15:30, hora peninsular."
+      },
+      "fuentes": [
+        {
+          "nombre": "Forbes México (Reuters)",
+          "url": "https://forbes.com.mx/anthropic-fija-precio-de-su-salida-a-bolsa-en-83-dolares-por-accion/"
+        },
+        {
+          "nombre": "Bitcoin.com: acciones y mercado previo",
+          "url": "https://news.bitcoin.com/es/market-updates/anthropic-fija-su-ipo-en-83-dolares-tras-apuestas-cripto-cerca-de-98/"
+        },
+        {
+          "nombre": "CoinDesk: comparación con SpaceX",
+          "url": "https://www.coindesk.com/es/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+        },
+        {
+          "nombre": "Excélsior (AFP): valoración",
+          "url": "https://www.excelsior.com.mx/internacional/anthropic-saldra-bolsa-83-dolares-por-accion-mercados-asia-siguen-baja"
+        },
+        {
+          "nombre": "Bloomberg Línea: colocación privada",
+          "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/"
+        },
+        {
+          "nombre": "Revista Mercado: rango y contexto",
+          "url": "https://revistamercado.do/market-brief/finanzas/anthropic-precio-accion-salida-bolsa-nasdaq/"
+        },
+        {
+          "nombre": "Vozpópuli: ronda de mayo",
+          "url": "https://www.vozpopuli.com/economia/el-primer-gigante-de-la-inteligencia-artificial-en-bolsa-anthropic-pide-paso-en-wall-street-y-le-gana-el-pulso-a-openai.html"
+        }
+      ]
+    },
+    {
+      "tema": "Mundo",
+      "titulo": "La Reserva Federal prepara más subidas de tipos",
+      "cifra": {
+        "valor": "3,75-4%",
+        "texto": "tipos de interés de la Fed, que «casi todos» sus miembros ven subir"
+      },
+      "resumen": "Las actas de la reunión de octubre de la Reserva Federal (Fed), publicadas anoche, muestran que casi todos sus miembros creen que harán falta nuevas subidas de tipos si la economía evoluciona como prevén. En octubre los mantuvo entre el 3,75% y el 4%, pero para varios fue una decisión ajustada. Algunos contemplan subir medio punto en diciembre.",
+      "porque": "la Fed es el banco central más influyente del mundo: cuando sube tipos, el dólar se fortalece y el dinero se encarece en todas partes.",
+      "teAfecta": "Un dólar más caro encarece lo que se paga en dólares, como un viaje a EE. UU. o el petróleo. Además, si el BCE sigue a la Fed, las hipotecas variables podrían subir.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las actas. Son el resumen de lo que se debatió en la reunión y se publican tres semanas después. Esta vez reflejan preocupación porque la inflación sea más persistente de lo esperado.",
+          "La reacción. El índice del dólar llegó a 104, su nivel más alto en 19 meses, y el oro cayó a mínimos de 14 meses. Los mercados descuentan una subida de un cuarto de punto en diciembre.",
+          "El gobernador Waller. Christopher Waller ya había dicho que se inclina por subir un cuarto de punto en diciembre y que, si la inflación no afloja, habría que plantearse medio punto."
+        ],
+        "claves": [
+          "«Casi todos»: más subidas",
+          "Medio punto, sobre la mesa",
+          "Dólar: máximo de 19 meses"
+        ],
+        "glosario": [
+          {
+            "termino": "Tipos de interés",
+            "definicion": "El precio del dinero. Si suben, los préstamos son más caros y se frena el consumo y la inflación."
+          },
+          {
+            "termino": "Punto básico",
+            "definicion": "Una centésima de punto porcentual. 25 puntos básicos = 0,25%."
+          },
+          {
+            "termino": "Actas",
+            "definicion": "El documento que resume las discusiones de una reunión del banco central."
+          }
+        ],
+        "ahora": "La próxima reunión de la Fed es en diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "XTB: las actas",
+          "url": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/actas-de-la-fed-casi-todos-apoyan-nuevas-subidas-de-tasas-es-posible-un-aumento-de-50-puntos-basicos-en-diciembre-1"
+        },
+        {
+          "nombre": "FXStreet: decisión ajustada",
+          "url": "https://www.fxstreet.es/news/las-minutas-de-la-fed-ofreceran-mas-pistas-sobre-el-ritmo-de-subidas-del-banco-central-202611181500"
+        },
+        {
+          "nombre": "FXStreet: el índice del dólar",
+          "url": "https://www.fxstreet.es/news/10400-el-indice-del-dolar-alcanza-un-nuevo-maximo-de-19-meses-por-el-tono-de-linea-dura-de-la-fed-202611190505"
+        },
+        {
+          "nombre": "Diario Crítico: lo que descuenta el mercado",
+          "url": "https://www.diariocritico.com/economia/la-fed-sube-el-tono"
+        },
+        {
+          "nombre": "Demócrata: Waller",
+          "url": "https://www.democrata.es/economia/waller-fed-se-inclina-por-subir-tipos-en-diciembre-y-no-descarta-medio-punto-si-la-inflacion-persiste/"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex rebota tras tres días de caídas, pendiente de Anthropic",
+      "cifra": {
+        "valor": "19.373",
+        "texto": "puntos al cierre de ayer (−1,28%)"
+      },
+      "resumen": "El Ibex 35 cerró ayer con una caída del 1,28%, en 19.373 puntos, su tercera sesión seguida en rojo, que lo aleja de los 20.000. Esta mañana abre al alza: según Estrategias de Inversión, sube un 0,62% al inicio, con ACS (+1,70%) y Acerinox (+1,39%) a la cabeza. Las demás bolsas europeas también suben.",
+      "porque": "el Ibex es el termómetro de las grandes empresas españolas, y su evolución refleja cómo ven los inversores la economía.",
+      "teAfecta": "Si tienes un plan de pensiones o un fondo con acciones españolas, estas oscilaciones se notan en su valor, aunque lo importante es la tendencia a largo plazo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Las cifras de apertura. Varían según la hora de cada medio: Europa Press da un +0,32% y Estrategias de Inversión, un +0,62%. El Euro Stoxx 50, que agrupa a las mayores empresas de la zona euro, avanza un 0,75%.",
+          "Wall Street. Ayer, el S&P 500 bajó un 0,23% y el Nasdaq subió un 0,42%.",
+          "La agenda. Además del estreno de Anthropic, hoy se publican en EE. UU. las peticiones semanales de subsidio por desempleo y una encuesta industrial de la Fed de Filadelfia."
+        ],
+        "claves": [
+          "Ayer: −1,28%",
+          "Hoy abre al alza",
+          "ACS y Acerinox, al frente"
+        ],
+        "glosario": [
+          {
+            "termino": "Ibex 35",
+            "definicion": "El índice que reúne a las 35 empresas con más peso de la bolsa española."
+          },
+          {
+            "termino": "Sesión",
+            "definicion": "Cada día de negociación en bolsa, de la apertura al cierre."
+          }
+        ],
+        "ahora": "La bolsa española cierra a las 17:30."
+      },
+      "fuentes": [
+        {
+          "nombre": "Bolsamanía: cierre y agenda",
+          "url": "https://www.bolsamania.com/noticias/cronica-ibex/ibex-bolsas-mundiales-historico-debut-anthropic--24226952.html"
+        },
+        {
+          "nombre": "Estrategias de Inversión: apertura",
+          "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/el-ibex-35-rebota-de-la-mano-de-acs-y-acerinox-n-971519"
+        },
+        {
+          "nombre": "Capital (Europa Press): apertura",
+          "url": "https://capital.es/economia/mercados-e-inversion/el-ibex-35-abre-con-un-alza-del-03-y-supera-los-19-400-puntos/236622/"
+        },
+        {
+          "nombre": "El Boletín: Europa",
+          "url": "https://www.elboletin.com/las-bolsas-europeas-rebotan-en-la-apertura-y-el-ibex-35-se-asoma-a-los-19-500-puntos-por-el-impulso-tecnologico/"
+        },
+        {
+          "nombre": "KuCoin: Wall Street",
+          "url": "https://www.kucoin.com/es/news/articles/crypto-daily-market-report-november-19-2026"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Nvidia, en su peor racha en bolsa desde 2008",
+      "cifra": {
+        "valor": "−35%",
+        "texto": "lo que ha perdido Nvidia en bolsa desde principios de octubre"
+      },
+      "resumen": "Las acciones de Nvidia bajaron ayer un 2,9%, hasta 150,96 dólares, pese a que sus resultados del martes superaron lo esperado. El valor va camino de su séptima semana seguida de caídas, la racha más larga desde julio de 2008, y ha perdido cerca de un 35% desde principios de octubre.",
+      "porque": "Nvidia fabrica los chips con los que se entrena la mayoría de la inteligencia artificial, y su caída arrastra a todo el sector tecnológico.",
+      "teAfecta": "Nvidia es una de las empresas con más peso en los índices mundiales: si tienes un fondo indexado global o del S&P 500, su caída se nota.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La dimisión. La caída se aceleró después de que Nvidia anunciara el 12 de noviembre la dimisión de su fundador y consejero delegado, Jensen Huang, tras informaciones sobre su vida privada que habían llevado a una investigación interna.",
+          "Más restricciones. El lunes, el Departamento de Comercio de EE. UU. empezó a exigir licencia para enviar chips avanzados de IA a centros de datos en Singapur, Malasia, Tailandia, Indonesia y Brasil. Quiere evitar que empresas chinas accedan a ellos de forma indirecta.",
+          "El sector. Las nuevas reglas afectan a todos los fabricantes de chips, no solo a Nvidia, por lo que también caen sus competidores."
+        ],
+        "claves": [
+          "Ayer: −2,9%",
+          "7 semanas de caídas",
+          "Nuevas licencias para 5 países"
+        ],
+        "glosario": [
+          {
+            "termino": "Consejero delegado (CEO)",
+            "definicion": "La persona que dirige el día a día de una empresa."
+          },
+          {
+            "termino": "Control de exportaciones",
+            "definicion": "Normas de un Gobierno que limitan qué productos pueden venderse a otros países."
+          }
+        ],
+        "ahora": "El mercado vigila si la salida a bolsa de Anthropic devuelve el interés por las empresas de IA."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews",
+          "url": "https://es.euronews.com/2026/11/19/anthropic-lanza-una-historica-opv-mientras-nvidia-sufre-su-peor-racha-desde-2008"
+        },
+        {
+          "nombre": "FXStreet: la norma de Comercio",
+          "url": "https://www.fxstreet.es/analysis/los-rivales-de-nvidia-estan-cayendo-con-ella-ahora-y-esa-es-la-verdadera-senal-de-alerta-202611171839"
+        },
+        {
+          "nombre": "MarketScreener: acceso indirecto de China",
+          "url": "https://es.marketscreener.com/noticias/ayer-en-wall-street-otro-desplome-con-nvidia-y-los-semiconductores-como-protagonistas-ce785edfd189f027"
+        }
+      ]
+    },
+    {
+      "tema": "Materias primas",
+      "titulo": "El oro cae a su precio más bajo en 14 meses",
+      "cifra": {
+        "valor": "3.726 $",
+        "texto": "precio de la onza de oro tras caer un 3,2%"
+      },
+      "resumen": "El oro bajó ayer un 3,2%, hasta 3.726 dólares por onza, y llegó a tocar los 3.719 dólares: su nivel más bajo desde septiembre de 2025. La causa es la perspectiva de nuevas subidas de tipos en EE. UU. y un dólar más fuerte.",
+      "porque": "el oro se considera un valor refugio: muchos ahorradores y bancos centrales lo compran para protegerse en tiempos de crisis.",
+      "teAfecta": "Si compraste oro o un fondo de oro en los últimos meses, probablemente está en pérdidas. Las joyas y monedas de oro también bajan de precio.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué cae. El oro no paga intereses. Cuando los tipos suben, otras inversiones que sí los pagan, como los bonos, se vuelven más atractivas. Además, el oro se cotiza en dólares, así que un dólar fuerte lo encarece para el resto del mundo.",
+          "Las previsiones. Goldman Sachs rebajó la semana pasada su previsión para finales de 2026 a 4.150 dólares, aunque cree que el oro se recuperará a largo plazo."
+        ],
+        "claves": [
+          "−3,2% en un día",
+          "Mínimo desde septiembre de 2025",
+          "Presión: tipos y dólar"
+        ],
+        "glosario": [
+          {
+            "termino": "Onza",
+            "definicion": "La unidad en la que se mide el precio del oro: unos 31 gramos."
+          },
+          {
+            "termino": "Valor refugio",
+            "definicion": "Una inversión que se considera segura cuando hay incertidumbre."
+          }
+        ],
+        "ahora": "La evolución del dólar y de las expectativas sobre la Fed marcará el precio en los próximos días."
+      },
+      "fuentes": [
+        {
+          "nombre": "Yahoo Noticias",
+          "url": "https://es-us.noticias.yahoo.com/oro-cay%C3%B3-nivel-14-meses-034519453.html"
+        },
+        {
+          "nombre": "XTB: por qué cae",
+          "url": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/el-oro-pierde-los-us-3-800-y-toca-minimos-de-14-meses-por-que-sigue-cayendo"
+        },
+        {
+          "nombre": "Invezz: Goldman Sachs",
+          "url": "https://invezz.com/es/noticias/2026/11/18/el-oro-cae-bajo-su-minimo-anual-pero-goldman-sachs-preve-recuperacion/"
+        }
+      ]
+    },
+    {
+      "tema": "Divisas",
+      "titulo": "El euro, por debajo de 1,10 dólares por primera vez en 19 meses",
+      "cifra": {
+        "valor": "1,0985 $",
+        "texto": "mínimo del euro frente al dólar esta semana"
+      },
+      "resumen": "El euro ha caído esta semana por debajo de 1,10 dólares, hasta unos 1,0985, su nivel más bajo en 19 meses. Las actas de la Fed han reforzado al dólar, que sube frente a casi todas las monedas.",
+      "porque": "el tipo de cambio decide cuánto cuesta todo lo que se compra en dólares: petróleo, tecnología, viajes o compras en webs extranjeras.",
+      "teAfecta": "Si vas a viajar a EE. UU. o compras online en dólares, ahora te sale más caro que hace unos meses. Al revés, a los turistas estadounidenses les sale más barato venir a España.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué cae el euro. Si la Fed sube tipos y el BCE no al mismo ritmo, invertir en dólares da más rentabilidad, y el dinero se mueve hacia esa moneda.",
+          "El petróleo. Como se paga en dólares, un euro débil hace que a Europa le cueste más, aunque el precio en dólares no cambie."
+        ],
+        "claves": [
+          "Euro: ≈1,0985 $",
+          "Mínimo de 19 meses",
+          "Dólar fuerte tras la Fed"
+        ],
+        "glosario": [
+          {
+            "termino": "Tipo de cambio",
+            "definicion": "Cuántas unidades de una moneda hacen falta para comprar una de otra."
+          }
+        ],
+        "ahora": "El tipo de cambio de referencia lo publica cada día el Banco Central Europeo hacia las 16:00."
+      },
+      "fuentes": [
+        {
+          "nombre": "FXStreet: mínimo de 19 meses",
+          "url": "https://fxstreet.com/news/euro-trades-close-to-19-month-low-below-11000-against-us-dollar-us-data-in-focus-202611170839"
+        },
+        {
+          "nombre": "FXEmpire: tras las actas",
+          "url": "https://www.fxempire.es/forecasts/article/prevision-del-precio-del-dolar-el-dxy-se-mantiene-en-10376-mientras-las-actas-de-la-fed-respaldan-subidas-eur-usd-y-gbp-usd-siguen-debiles-305543"
+        }
+      ]
+    },
+    {
+      "tema": "Deuda pública",
+      "titulo": "El Tesoro busca hasta 5.500 millones con un nuevo bono a siete años",
+      "cifra": {
+        "valor": "3,75%",
+        "texto": "interés anual (cupón) del nuevo bono del Estado a siete años"
+      },
+      "resumen": "El Tesoro Público celebra hoy su última subasta de bonos y obligaciones de noviembre, con la que espera colocar entre 4.500 y 5.500 millones de euros. Estrena una referencia a siete años, que vence en julio de 2034 y paga un cupón del 3,75%.",
+      "porque": "así se financia el Estado: el interés que pide el mercado para prestarle dinero indica la confianza en la economía española.",
+      "teAfecta": "Cualquier persona puede comprar deuda del Estado en la web del Tesoro. Si los intereses suben, los bonos nuevos pagan más, pero los antiguos pierden valor si se venden antes de tiempo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué se subasta. Bonos a cinco años, con cupón del 2,60% y vencimiento en mayo de 2031; la nueva obligación a siete años al 3,75%; y obligaciones que vencen en octubre de 2035, al 3,20%.",
+          "Los tipos de referencia. Para los bonos a cinco años, el tipo de referencia de la subasta es del 3,49%: es la rentabilidad aproximada que se espera, no el cupón.",
+          "Para todo el año. El Tesoro calcula que en 2026 necesitará 55.000 millones de euros de financiación neta."
+        ],
+        "claves": [
+          "4.500-5.500 millones",
+          "Nuevo bono a 7 años",
+          "Vence en 2034"
+        ],
+        "glosario": [
+          {
+            "termino": "Bono / obligación",
+            "definicion": "Un préstamo al Estado. Los bonos son a 2-5 años y las obligaciones, a más plazo."
+          },
+          {
+            "termino": "Cupón",
+            "definicion": "El interés fijo que paga cada año un bono sobre su valor nominal."
+          },
+          {
+            "termino": "Rentabilidad",
+            "definicion": "Lo que gana de verdad quien compra el bono, según el precio que paga por él."
+          }
+        ],
+        "ahora": "El Tesoro publica el resultado hoy, poco después de cerrar la subasta."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-16/6093384-tesoro-preve-colocar-jueves-hasta-5500-millones-ultima-subasta-noviembre"
+        },
+        {
+          "nombre": "El Boletín: vencimientos",
+          "url": "https://www.elboletin.com/el-cara-a-cara-sanchez-feijoo-y-la-subasta-del-tesoro-marcan-la-agenda-del-jueves/"
+        },
+        {
+          "nombre": "BOE (resumen de BOE Hoy)",
+          "url": "https://www.boehoy.es/boe/BOE-A-2026-23993"
+        },
+        {
+          "nombre": "Demócrata: necesidades de 2026",
+          "url": "https://www.democrata.es/economia/el-tesoro-aspira-a-captar-hasta-5-500-millones-en-la-ultima-subasta-de-noviembre/"
+        },
+        {
+          "nombre": "Tesoro Público",
+          "url": "https://www.tesoro.es/"
+        }
+      ]
+    },
+    {
+      "tema": "Energía",
+      "titulo": "La gasolina encadena siete semanas de bajadas y vuelve a precios de julio",
+      "cifra": {
+        "valor": "1,624 €/l",
+        "texto": "precio medio de la gasolina 95 esta semana"
+      },
+      "resumen": "El litro de gasolina cuesta de media 1,624 euros, un 3,7% menos que hace una semana, según el Boletín Petrolero de la UE publicado hoy. Es la séptima semana seguida de bajadas: acumula un abaratamiento del 16,3% desde finales de septiembre. El diésel está en 1,837 euros.",
+      "porque": "el precio de los carburantes pesa en el bolsillo de quien conduce y en el coste de transportar casi todo lo que compramos.",
+      "teAfecta": "Llenar un depósito de 55 litros de diésel cuesta unos 101 euros, unos 22,66 euros más que hace un año. La gasolina, en cambio, vuelve a los niveles de julio.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Comparado con Europa. El diésel en España sigue por debajo de la media de la UE (2,049 euros) y de la zona euro (2,104 euros).",
+          "Por qué baja. Influye la cotización de cada carburante, el precio del petróleo, los impuestos, los costes de logística y los márgenes de las empresas. Desde finales de septiembre, la tendencia de ambos es a la baja."
+        ],
+        "claves": [
+          "Gasolina: 1,624 €",
+          "Diésel: 1,837 €",
+          "−16,3% desde septiembre"
+        ],
+        "glosario": [
+          {
+            "termino": "Boletín Petrolero",
+            "definicion": "El informe semanal de la Comisión Europea con el precio medio de los carburantes en cada país, impuestos incluidos."
+          }
+        ],
+        "ahora": "El próximo boletín se publica el jueves 26 de noviembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-19/6097707-precio-gasolina-acumula-abaratamiento-163-cae-niveles-julio"
+        },
+        {
+          "nombre": "Diario Financiero: comparación con la UE",
+          "url": "https://diariofinanciero.com/el-precio-de-la-gasolina-cae-a-niveles-de-julio"
+        },
+        {
+          "nombre": "Noticias Trabajo: precio del diésel",
+          "url": "https://www.noticiastrabajo.es/economia/consumo/el-precio-de-la-gasolina-se-desploma-un-61-esta-semana-hasta-los-1624-euros-y-el-diesel-baja-a-1837-euros/"
+        }
+      ]
+    },
+    {
+      "tema": "Política económica",
+      "titulo": "Qué cambia con los siete decretos aprobados en el Congreso",
+      "cifra": {
+        "valor": "7",
+        "texto": "decretos ley convalidados ayer por la Diputación Permanente"
+      },
+      "resumen": "La Diputación Permanente del Congreso convalidó ayer siete decretos ley del Gobierno con el apoyo del PP, así que sus medidas siguen en vigor. Incluyen ayudas a las víctimas del accidente ferroviario de Urda, la reforma del sistema de dependencia, medidas para familias monoparentales y prestaciones de la Seguridad Social.",
+      "porque": "son medidas que afectan directamente a pensionistas, familias, personas dependientes y víctimas de catástrofes, y habrían decaído si no se convalidaban.",
+      "teAfecta": "Si tú o tu familia recibís prestaciones de dependencia o de la Seguridad Social, o sois una familia monoparental, estas normas pueden afectaros. Consulta con tu comunidad autónoma o la Seguridad Social.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Urda. Dos decretos responden al accidente ferroviario del 28 de octubre: uno con medidas de seguridad en el transporte por tren y protección para sus trabajadores, y otro con ayudas económicas para las víctimas y sus familias.",
+          "Social. Tres decretos reconocen y protegen a las familias monoparentales, prorrogan algunas prestaciones de la Seguridad Social y ponen en marcha la reforma del sistema de dependencia.",
+          "Ceuta y la dana. Un decreto da apoyo financiero a Ceuta por la entrada masiva de migrantes de julio, y otro aprueba ayudas por los daños de la dana Adam de octubre.",
+          "La votación. El PP apoyó los siete. Vox votó en contra de seis y solo apoyó el de las ayudas por Urda, que salió por unanimidad."
+        ],
+        "claves": [
+          "7 de 7 convalidados",
+          "Dependencia y familias",
+          "Ayudas por Urda y la dana"
+        ],
+        "glosario": [
+          {
+            "termino": "Decreto ley",
+            "definicion": "Una norma con rango de ley que aprueba el Gobierno por urgencia. El Congreso debe convalidarla en 30 días o decae."
+          },
+          {
+            "termino": "Diputación Permanente",
+            "definicion": "El órgano reducido del Congreso que sigue funcionando cuando las Cortes están disueltas."
+          }
+        ],
+        "ahora": "Los detalles y cuantías de cada medida están publicados en el BOE."
+      },
+      "fuentes": [
+        {
+          "nombre": "Demócrata: qué incluye cada decreto",
+          "url": "https://www.democrata.es/politica/congreso-y-senado/congreso-aprueba-siete-decretos-gobierno-ayudas-urda-medidas-sociales/"
+        },
+        {
+          "nombre": "Press Digital (Europa Press): votaciones",
+          "url": "https://www.pressdigital.es/articulo/politica/2026-11-18/6096908-diputacion-permanente-congreso-convalida-siete-decretos-ley-aprobados-precampana-apoyo-pp"
+        },
+        {
+          "nombre": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/11/18/congreso-decretos-sociales-convalidados-3470545"
+        }
+      ]
+    },
+    {
+      "tema": "Cripto",
+      "titulo": "Bitcoin ronda los 63.000 dólares, cerca de mínimos de cuatro meses",
+      "cifra": {
+        "valor": "≈63.000 $",
+        "texto": "precio de bitcoin esta mañana"
+      },
+      "resumen": "Bitcoin ha vuelto a caer por debajo de los 63.000 dólares y llegó a acercarse a los 62.000 tras las actas de la Fed. Esta mañana rebota un poco, por encima de 63.500. El 15 de noviembre tocó los 61.000, su nivel más bajo en cuatro meses.",
+      "porque": "muchos jóvenes han invertido en criptomonedas, y la caída muestra lo volátiles que son.",
+      "teAfecta": "Si tienes criptomonedas, su valor puede cambiar más de un 2% en un solo día. Invierte solo lo que puedas permitirte perder.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué cae. Influyen las expectativas de subidas de tipos en EE. UU. y la debilidad de las acciones tecnológicas. Según Investing.com, la expectativa por el debut de Anthropic también ha sacado dinero de las criptomonedas, aunque algunos analistas creen que pesa más la salida de dinero de los fondos de bitcoin.",
+          "El ánimo del mercado. El índice de «miedo y codicia», que mide el sentimiento de los inversores en cripto, está en 10 sobre 100: miedo extremo."
+        ],
+        "claves": [
+          "≈63.000 $",
+          "Mínimo de 4 meses: 61.000 $",
+          "Miedo extremo"
+        ],
+        "glosario": [
+          {
+            "termino": "Índice de miedo y codicia",
+            "definicion": "Un indicador de 0 a 100 que resume si los inversores están asustados (cerca de 0) o eufóricos (cerca de 100)."
+          }
+        ],
+        "ahora": "La salida a bolsa de Anthropic y las peticiones de subsidio por desempleo en EE. UU. pueden mover hoy el precio."
+      },
+      "fuentes": [
+        {
+          "nombre": "CoinDesk",
+          "url": "https://www.coindesk.com/es/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
+        },
+        {
+          "nombre": "Cointelegraph: el rebote",
+          "url": "https://cointelegraph.es/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut"
+        },
+        {
+          "nombre": "KuCoin: índice de miedo",
+          "url": "https://www.kucoin.com/es/news/articles/crypto-daily-market-report-november-19-2026"
+        },
+        {
+          "nombre": "Investing.com",
+          "url": "https://mx.investing.com/news/cryptocurrency-news/bitcoin-cae-a-63500-ante-temores-por-alza-de-tasas-3855373"
+        }
+      ]
+    }
+  ]
+}

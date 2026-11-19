@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-19",
+      "numero": 9,
+      "resumen": "El cara a cara Sánchez-Feijóo, la cumbre Trump-Xi-Putin y la salida a bolsa de Anthropic",
+      "secciones": [
+        "espana",
+        "internacional",
+        "economia",
+        "ciencia",
+        "sociedad",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-18",
       "numero": 8,
       "resumen": "El cara a cara de mañana, Trump en China y los decretos de Urda",
