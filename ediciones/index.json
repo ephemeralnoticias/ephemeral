@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-20",
+      "numero": 10,
+      "resumen": "La audiencia del cara a cara, la declaración de Shenzhen y el ataque ruso contra Kiev",
+      "secciones": [
+        "espana",
+        "internacional",
+        "economia",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-19",
       "numero": 9,
       "resumen": "El cara a cara Sánchez-Feijóo, la cumbre Trump-Xi-Putin y la salida a bolsa de Anthropic",

@@ -1,0 +1,457 @@
+{
+  "fecha": "2026-11-20",
+  "numero": 10,
+  "minutos": 6,
+  "titular": "Más de 10 millones ven el cara a cara; la cumbre de Shenzhen acaba sin acuerdo sobre Ucrania y Rusia ataca Kiev.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "10,15 M",
+    "frase": "de espectadores de media vieron anoche el cara a cara entre Sánchez y Feijóo: el 70,8% de la audiencia de ese momento.",
+    "detalle": "En total, casi 16 millones de personas lo vieron al menos un minuto. El de 2023 tuvo unos 5,9 millones. Fuentes: El Español y Diario de La Mancha."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Más de 10 millones vieron el cara a cara: qué pasó y qué dijeron los verificadores",
+      "partidos": [
+        "pp",
+        "psoe"
+      ],
+      "resumen": "El debate entre Pedro Sánchez (PSOE) y Alberto Núñez Feijóo (PP) reunió anoche a una media de 10,15 millones de espectadores, casi el doble que el de 2023. Según EFE, fue tenso: Feijóo se presentó como un gestor fiable y Sánchez advirtió de los riesgos de un Gobierno del PP. Los dos partidos dicen que ganó su candidato.",
+      "porque": "es el momento de la campaña que más gente ha seguido, y los datos que dieron los candidatos pueden influir en quienes aún no han decidido su voto.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Los temas. El debate tuvo cinco bloques: vivienda; economía y fiscalidad; política social y servicios públicos; corrupción y regeneración democrática; y migración y política exterior. Al final, cada candidato tuvo un «minuto de oro».",
+          "Las reacciones. La portavoz de campaña del PP, Ester Muñoz, dijo que Feijóo «ganó cinco a cero». El PSOE sostiene que el ganador fue Sánchez. Varias votaciones de lectores en medios dieron ventaja a Feijóo, pero no son encuestas con muestra representativa.",
+          "Lo que dijo Sánchez, verificado. Según Maldita.es, es verdad que la Comisión Europea prevé que España sea la gran economía de la UE que más crezca en 2026 (2,6%). Es falso que haya subido la pensión «6.000 euros al año»: la pensión media anual ha subido unos 6.145 euros en todo el periodo 2018-2026, no cada año.",
+          "Lo que dijo Feijóo, verificado. Según Maldita.es, es verdad que España tiene la tasa de pobreza infantil más alta de la UE y que la cesta de la compra ha subido en torno a un 43% desde 2018. Es falso que la ley del «solo sí es sí» excarcelara a 1.400 agresores sexuales: hubo al menos 1.233 rebajas de condena, de las que al menos 126 supusieron salidas de prisión."
+        ],
+        "claves": [
+          "10,15 millones de media",
+          "Ambos partidos se dan por ganadores",
+          "Datos verdaderos y falsos en los dos"
+        ],
+        "ahora": "El próximo debate es el lunes 23 en RTVE, con portavoces de ocho partidos. El jueves 26 habrá un debate a cuatro."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Español: audiencia",
+          "url": "https://www.elespanol.com/espana/politica/20261120/cara-sanchez-feijoo-arrasa-parrilla-audiencia-media-espectadores/1003744465708_0.html"
+        },
+        {
+          "nombre": "Diario de La Mancha: comparación con 2023",
+          "url": "https://diariodelamancha.com/casi-10-millones-de-espectadores-siguen-el-cara-a-cara-entre-sanchez-y-feijoo/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): el tono del debate",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/20/hoy-sera-noticia-viernes-20-de-noviembre/"
+        },
+        {
+          "nombre": "elDiario.es: los bloques",
+          "url": "https://www.eldiario.es/politica/cara-cara-sanchez-feijoo-nueve-videos_1_13679028.html"
+        },
+        {
+          "nombre": "El Español: reacción del PP",
+          "url": "https://www.elespanol.com/espana/20261120/elecciones-generales-directo-ultima-hora-pedro-sanchez-feijoo-reacciones-debate-campana-encuestas-sondeos-voto-correo/1003744465426_10.html"
+        },
+        {
+          "nombre": "Maldita.es: verificaciones",
+          "url": "https://maldita.es/desinfo/20261120/verificacion-cara-a-cara-sanchez-feijoo-29n/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-tele.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Feijóo viaja a El Hierro, la isla que ha recibido más migrantes que habitantes",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "resumen": "En el octavo día de campaña, Feijóo (PP) visita El Hierro, donde han llegado más de 10.000 migrantes en la primera mitad de noviembre, casi tantos como sus unos 12.000 habitantes. Por la tarde estará en Tenerife. Sánchez (PSOE) hace campaña en Santiago de Compostela.",
+      "porque": "la llegada de cayucos a Canarias se ha disparado este mes y la inmigración es uno de los temas centrales de la campaña.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué está pasando en El Hierro. En las dos primeras semanas de noviembre llegaron unos 97 cayucos, más que en los diez meses anteriores juntos. El 14 de noviembre se batió el récord de llegadas a Canarias en un solo día: 1.580 personas. En Canarias se ha declarado la emergencia migratoria.",
+          "La respuesta. El Gobierno central asegura que ya ha trasladado a otras comunidades a unas 9.500 de las personas llegadas. Agentes de la Guardia Civil en la isla denuncian que no tienen suficiente personal.",
+          "El resto de la agenda. Santiago Abascal (Vox) atiende a la prensa en Salamanca. Ada Colau (Frente Amplio) participa en Tarragona en un encuentro en defensa de los servicios públicos. El PNV tiene un acto en San Sebastián."
+        ],
+        "claves": [
+          "Más de 10.000 llegadas en noviembre",
+          "Isla de unos 12.000 habitantes",
+          "Día 8 de campaña"
+        ],
+        "ahora": "La campaña termina el viernes 27 a medianoche. El 28 es jornada de reflexión."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): agenda del día 8",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/20/octavo-dia-de-campana-sanchez-a-santiago-y-feijoo-a-canarias-tras-su-debate-cara-a-cara/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): temas del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/19/temas-del-dia-de-efe-espana-del-viernes-20-de-noviembre/"
+        },
+        {
+          "nombre": "Mundiario: récord de llegadas",
+          "url": "https://www.mundiario.com/sociedad/crisis-migratoria-desborda-capacidad-canarias/20261116130956453159.html"
+        },
+        {
+          "nombre": "Espiral21: cayucos en el año",
+          "url": "https://espiral21.com/crisis-migratoria-en-el-hierro-se-agudiza/"
+        },
+        {
+          "nombre": "Diario de Avisos: emergencia migratoria",
+          "url": "https://diariodeavisos.elespanol.com/2026/11/llegan-a-canarias-3-684-migrantes-en-tres-dias-la-mayoria-a-el-hierro/"
+        },
+        {
+          "nombre": "El Español: traslados",
+          "url": "https://www.elespanol.com/reportajes/20261120/hierro-carabanchel-valencia-horas-ruta-mouhamed-ndeye-salir-canarias-ferri-avion/1003744465001_0.html"
+        },
+        {
+          "nombre": "El Español: la Guardia Civil",
+          "url": "https://www.elespanol.com/reportajes/20261117/guardias-civiles-hierro-estallan-interior-llegan-cayucos-dia-solo-pareja-turno/1003744460600_0.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-isla.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Trump, Xi y Putin firman una «declaración de paz» que no menciona Ucrania",
+      "partidos": [],
+      "resumen": "La primera cumbre a tres entre EE. UU., China y Rusia terminó ayer en Shenzhen con una declaración de cuatro puntos sobre armas nucleares, petróleo, la reforma de la ONU y la Corte Penal Internacional. No incluye ningún acuerdo para acabar con las guerras de Ucrania o Irán, que ni siquiera se mencionan.",
+      "porque": "son las tres mayores potencias nucleares, y Europa teme que decidan el futuro de Ucrania sin contar con ella.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los cuatro puntos. Repiten que una guerra nuclear no se puede ganar y se comprometen a dialogar para reducir riesgos, pero sin límites ni plazos. Prometen aumentar la producción de productos derivados del petróleo, sin cifras. Piden reformar la ONU. Y reclaman que se respete la inmunidad de los líderes y que la Corte Penal Internacional no se exceda en sus funciones.",
+          "Qué dijeron. Trump calificó el resultado con un «12 sobre 10» en declaraciones a la cadena NBC. Putin destacó el «interés común» en resolver el conflicto. Xi propuso cumbres periódicas, pero no se acordaron.",
+          "La reacción en Europa. A la vez, representantes de más de 30 países aliados de Ucrania se reunieron en Berlín. El canciller alemán, Friedrich Merz, dijo que un formato tipo «Yalta 2.0», es decir, un reparto de zonas de influencia entre grandes potencias, no traerá la paz."
+        ],
+        "claves": [
+          "Declaración de 4 puntos",
+          "Ni Ucrania ni Irán",
+          "Europa se reúne en Berlín"
+        ],
+        "ahora": "El Kremlin sigue rechazando que Europa participe en la próxima ronda de negociaciones sobre Ucrania."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Nación (AFP): la declaración",
+          "url": "https://www.lanacion.com.ar/el-mundo/que-ganaron-trump-putin-y-xi-con-la-cumbre-y-la-omision-que-genero-inquietud-en-el-resto-del-mundo-nid19112026/"
+        },
+        {
+          "nombre": "El Tribuno: los cuatro acuerdos",
+          "url": "https://eltribuno.com/internacionales/2026-11-19-22-24-0-trump-xi-jinping-y-putin-se-reunieron-en-una-cumbre-historica-los-cuatro-acuerdos-las-tensiones-y-que-paso-con-ucrania-e-iran"
+        },
+        {
+          "nombre": "Mundiario: sin mecanismos",
+          "url": "https://www.mundiario.com/internacional/trump-putin-xi-cierran-cumbre-historica-acuerdos-concretos/20261120065710453938.html"
+        },
+        {
+          "nombre": "Euronews: Merz y «Yalta 2.0»",
+          "url": "https://es.euronews.com/2026/11/20/lideres-europeos-rechazan-formato-yalta-2-0-sobre-ucrania-reunion-trump-putin-xi"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-declaracion.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Rusia lanza un ataque masivo contra Kiev y golpea tres puentes",
+      "partidos": [],
+      "resumen": "Rusia atacó anoche Kiev y otras regiones de Ucrania con misiles y drones. Murieron al menos tres personas y resultaron dañados tres puentes sobre el río Dniéper, que cruza la ciudad. Llega un día después de que Putin amenazara con represalias por los ataques ucranianos al puente de Crimea.",
+      "porque": "marca una escalada en los ataques contra infraestructuras justo cuando se habla de negociaciones de paz.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los daños. Según el alcalde, Vitali Klitschko, los puentes afectados son el Podilsko-Voskresenskyi, el Darnytskyi y el Sur, y el tráfico entre orillas está restringido. Hay vecinos sin calefacción, luz ni agua, e incendios en edificios residenciales.",
+          "La amenaza previa. Putin dijo el jueves que la respuesta rusa sería «mucho más dolorosa» que el daño causado al puente de Crimea. Zelenski defendió esos ataques y afirmó que Crimea es ucraniana.",
+          "Berlín. Los aliados de Ucrania pidieron a Rusia una «tregua energética» durante el invierno y trabajaron en garantías de seguridad para después de un alto el fuego. Bruselas ha propuesto un nuevo préstamo de 45.000 millones de euros para Ucrania."
+        ],
+        "claves": [
+          "Al menos 3 muertos",
+          "3 puentes dañados",
+          "Cortes de luz, agua y calefacción"
+        ],
+        "ahora": "Los equipos de emergencia siguen evaluando los daños."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (Reuters): el ataque",
+          "url": "https://www.infobae.com/america/mundo/2026/11/20/rusia-lanzo-un-ataque-con-misiles-contra-ucrania-y-bombardeo-puentes-e-infraestructura-critica-de-kiev-al-menos-tres-muertos/"
+        },
+        {
+          "nombre": "Ukrinform: tregua energética",
+          "url": "https://www.ukrinform.es/rubric-polytics/4186627-lideres-de-la-coalicion-de-los-voluntarios-instan-a-rusia-a-aceptar-una-tregua-energetica-durante-el-invierno.html"
+        },
+        {
+          "nombre": "Notiespartano: garantías de seguridad",
+          "url": "https://notiespartano.com/aliados-de-ucrania-en-berlin-definen-garantias-de-seguridad-tras-cumbre-de-trump-putin-y-xi/"
+        },
+        {
+          "nombre": "Bolsamanía: préstamo de la UE",
+          "url": "https://www.bolsamania.com/noticias/internacional/esperar-mercado-historica-reunion-xi-trump-putin--24228864.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-kiev.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Anthropic sube un 17% en su estreno, pero Wall Street cae más de un 2%",
+      "partidos": [],
+      "resumen": "Las acciones de Anthropic, la empresa de inteligencia artificial que desarrolla Claude, cerraron su primer día en bolsa a 97,17 dólares, un 17% más que su precio de salida (83). Llegaron a abrir a 111,50 dólares. Mientras, los tres grandes índices de Wall Street cayeron más de un 2% por las dudas sobre el negocio de la IA.",
+      "porque": "muestra que hay mucho interés por la inteligencia artificial, pero también miedo a que las empresas del sector estén sobrevaloradas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El día de Anthropic. Abrió con una subida del 34% y llegó a rozar los 115 dólares, pero fue perdiendo parte de la ganancia. Al cierre, la empresa valía entre 1,3 y 1,8 billones de dólares, según se cuenten o no todas sus acciones.",
+          "Wall Street. El Dow Jones bajó un 2,19% y cayó por debajo de los 50.000 puntos por primera vez desde junio. El S&P 500 encadena seis sesiones de caídas, su peor racha desde 2024, y el Nasdaq cedió un 2,25%. Más del 90% de las empresas del S&P 500 terminaron en rojo.",
+          "Hoy. En la bolsa alemana Tradegate, las acciones de Anthropic cotizaban cerca de un 6% por debajo del cierre en EE. UU. El Ibex 35 abrió con una caída del 0,87%, en torno a los 19.000 puntos."
+        ],
+        "claves": [
+          "Anthropic: +17% (97,17 $)",
+          "Dow Jones: −2,19%",
+          "Ibex abre: −0,87%"
+        ],
+        "ahora": "Wall Street abre hoy a las 15:30, hora peninsular, en su último día de la semana."
+      },
+      "fuentes": [
+        {
+          "nombre": "CNN en Español: el cierre",
+          "url": "https://cnnespanol.cnn.com/2026/11/19/economia/live-news/ultima-hora-anthropic-debut-bolsa-ia-trax"
+        },
+        {
+          "nombre": "CNN Chile (EFE): un día volátil",
+          "url": "https://www.cnnchile.com/negocios/anthropic-debuta-nasdaq-alza-17-volatil-primer-dia/"
+        },
+        {
+          "nombre": "Infobae (AP): Wall Street",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/19/wall-street-cayo-y-registra-su-racha-de-perdidas-mas-larga-desde-2024-pese-al-impactante-debut-de-anthropic/"
+        },
+        {
+          "nombre": "El Boletín: cierre de los índices",
+          "url": "https://www.elboletin.com/wall-street-se-hunde-mas-de-un-2-por-las-dudas-sobre-la-inteligencia-artificial-pese-al-historico-debut-de-anthropic/"
+        },
+        {
+          "nombre": "Bloomberg Línea: Tradegate",
+          "url": "https://bloomberglinea.com/mercados/anthropic-se-encamina-a-caer-en-su-segundo-dia-de-cotizacion-ante-ventas-generalizadas-en-el-sector-de-ia"
+        },
+        {
+          "nombre": "Press Digital: apertura del Ibex",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-20/6101532-ibex-35-deja-casi-09-apertura-pone-peligro-19000-puntos"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-grafica.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Huelga de estudiantes en España y en media Europa",
+      "partidos": [],
+      "resumen": "El Sindicato de Estudiantes ha convocado hoy huelga durante toda la jornada lectiva, desde 3.º de ESO hasta la universidad, con manifestaciones a las 12:00 en ciudades de 11 comunidades. Forma parte de una protesta estudiantil europea, con convocatorias en Italia, Francia, Alemania, Grecia, Reino Unido, Suiza y Portugal.",
+      "porque": "reclama más inversión en educación, sanidad y vivienda, temas que afectan directamente a los jóvenes.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué piden. El lema es «Por la enseñanza pública, basta de represión, por nuestro futuro». Los convocantes reclaman más dinero para educación, sanidad y vivienda en lugar de para defensa, y rechazan el servicio militar.",
+          "No es una huelga laboral. Es un paro de alumnos: no afecta a profesores ni a otros trabajadores.",
+          "Más protestas el fin de semana. La Confederación de Sindicatos de Inquilinas se suma a las movilizaciones europeas por la vivienda entre hoy y el domingo."
+        ],
+        "claves": [
+          "Desde 3.º de ESO",
+          "Manifestaciones a las 12:00",
+          "Convocatoria en 8 países"
+        ],
+        "ahora": "Consulta en la web del Sindicato de Estudiantes el punto de encuentro de tu ciudad."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): temas del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/19/temas-del-dia-de-efe-espana-del-viernes-20-de-noviembre/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): países convocados",
+          "url": "https://infobae.com/america/agencias/2026/11/20/viernes-20-de-noviembre-de-2026-0200-gmt"
+        },
+        {
+          "nombre": "Catalunya Info: no es huelga laboral",
+          "url": "https://www.catalunyainfo.com/es/guias/huelga-20-noviembre/"
+        },
+        {
+          "nombre": "El Constitucional: qué piden",
+          "url": "https://www.elconstitucional.es/es/ecm/encuentra/huelga-estudiantes-este-20-noviembre-en-madrid-horario-recorrido-por-se-convoca_10409_102.html"
+        },
+        {
+          "nombre": "Noticias Obreras: vivienda",
+          "url": "https://noticiasobreras.es/2026/11/las-movilizaciones-europeas-por-la-vivienda-y-contra-el-coste-de-la-vida-llegan-a-espana/"
+        },
+        {
+          "nombre": "Sindicato de Estudiantes: manifiesto",
+          "url": "https://www.sindicatodeestudiantes.net/index.php/noticias/internacional/luchemos-por-nuestro-futuro-no-por-sus-guerras-20-de-noviembre-de-2026-huelga-y-movilizacion-internacional-de-jovenes-y-estudiantes"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-pancartas.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Día de la Infancia: España, el país de la UE con más pobreza infantil",
+      "partidos": [],
+      "resumen": "Hoy es el Día Universal del Niño. En España, el 33,8% de los menores de 18 años está en riesgo de pobreza o exclusión social, según los datos de Eurostat de 2025. Es la tasa más alta de la Unión Europea, cuya media es del 24,3%. El dato salió anoche en el debate y los verificadores lo dan por bueno.",
+      "porque": "uno de cada tres niños en España vive en hogares con dificultades económicas, algo que afecta a su salud, sus estudios y su futuro.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué mide. El indicador cuenta a quienes viven en hogares con ingresos bajos, con privaciones materiales graves (no poder pagar la calefacción o un imprevisto) o con muy poco empleo.",
+          "Por qué hoy. El 20 de noviembre se conmemora la aprobación por la ONU de la Convención sobre los Derechos del Niño, en 1989."
+        ],
+        "claves": [
+          "España: 33,8%",
+          "Media de la UE: 24,3%",
+          "La más alta de la UE"
+        ],
+        "ahora": "El dato completo, por países, se puede consultar en la web de Eurostat."
+      },
+      "fuentes": [
+        {
+          "nombre": "Maldita.es: verificación del dato",
+          "url": "https://maldita.es/desinfo/20261120/verificacion-cara-a-cara-sanchez-feijoo-29n/"
+        },
+        {
+          "nombre": "ONU: Día Mundial del Niño",
+          "url": "https://www.un.org/es/observances/world-childrens-day"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-infancia.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Ven por primera vez a una estrella gigante «comerse» a su compañera",
+      "partidos": [],
+      "resumen": "Un equipo internacional de astrónomos ha observado por primera vez, de principio a fin, cómo una estrella gigante engulle a otra más pequeña que giraba a su alrededor. Ocurrió en la galaxia de Andrómeda, a unos 2,5 millones de años luz. Han participado telescopios de La Palma. El estudio se ha publicado en la revista Nature.",
+      "porque": "es un proceso que hasta ahora solo se conocía en teoría, y ayuda a entender cómo se forman sistemas que acaban produciendo ondas gravitacionales.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Cómo fue. La estrella principal tenía unas siete veces la masa del Sol y su compañera, unas diez veces menos. Durante unos siete años, la pequeña orbitó dentro de la atmósfera de la grande, frenándose por el rozamiento, mientras la gigante se hinchaba hasta 2,5 veces su tamaño.",
+          "Quién lo ha hecho. El estudio lo lidera Viraj Karambelkar, de la Universidad de Columbia. Han participado el Gran Telescopio Canarias y el Telescopio Óptico Nórdico, ambos en el Observatorio del Roque de los Muchachos (La Palma).",
+          "Cómo se llama. Los astrónomos lo llaman «evolución de envoltura común», y el evento observado tiene el nombre de AT 2025abao."
+        ],
+        "claves": [
+          "Galaxia de Andrómeda",
+          "7 años de proceso",
+          "Telescopios de La Palma"
+        ],
+        "ahora": "El estudio completo está publicado en la revista Nature."
+      },
+      "fuentes": [
+        {
+          "nombre": "Canarias en Pleno: La Palma",
+          "url": "https://www.canariasenpleno.com/estrella-gigante-engulle-companera/"
+        },
+        {
+          "nombre": "Ecuador Universitario: el proceso",
+          "url": "https://ecuadoruniversitario.com/ciencia-y-tecnologia/observan-por-primera-vez-como-una-estrella-gigante-engulle-a-su-companera-en-andromeda/"
+        },
+        {
+          "nombre": "Chihuahua en Red: AT 2025abao",
+          "url": "https://www.chihuahuaenred.com/archivos/143411"
+        },
+        {
+          "nombre": "Nature (PubMed)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/43052551"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-estrellas.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Fin de semana pasado por agua: llega otro frente atlántico",
+      "partidos": [],
+      "resumen": "Un nuevo frente atlántico dejará lluvia el sábado en buena parte de la península, más intensa en Galicia y el oeste, según la AEMET. En Madrid, la probabilidad de lluvia el sábado llega al 100%. El domingo bajan las temperaturas. En Canarias, en cambio, el fin de semana será seco.",
+      "porque": "si tienes planes al aire libre o vas a viajar, conviene mirar la previsión de tu zona.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Sábado. Lluvia generalizada, que puede ser localmente fuerte en Galicia, el oeste de Asturias y el de Castilla y León. Nevadas débiles en las montañas del norte a partir de 1.700 o 1.800 metros. En Cantabria se esperan rachas de viento muy fuertes en zonas altas.",
+          "Domingo. Menos lluvia en el norte, pero más frío. En Cádiz, en cambio, será el día más lluvioso del fin de semana.",
+          "Algunas ciudades. Madrid, entre 10 y 14 grados el sábado. León, entre 8 y 11. En Canarias puede haber algo de calima en las islas occidentales."
+        ],
+        "claves": [
+          "Sábado: lluvia casi general",
+          "Nieve desde 1.700 m",
+          "Domingo: más frío"
+        ],
+        "ahora": "Consulta los avisos actualizados en aemet.es antes de salir."
+      },
+      "fuentes": [
+        {
+          "nombre": "Qué! (AEMET): el frente",
+          "url": "https://www.que.es/2026/11/20/alerta-aemet-lluvias-nevadas"
+        },
+        {
+          "nombre": "Madrid Informa: Madrid",
+          "url": "https://madridinforma.es/el-tiempo-da-un-respiro-a-madrid-este-viernes-pero-aemet-anuncia-un-sabado-pasado-por-agua/"
+        },
+        {
+          "nombre": "El Diario Alerta: Cantabria",
+          "url": "https://www.eldiarioalerta.com/articulo/tiempo-cantabria/cantabria-afronta-fin-semana-lluvias-viento-aemet-preve-rachas-muy-fuertes-domingo-mas-frio/20261120091808586645.html"
+        },
+        {
+          "nombre": "León 24 Horas: León",
+          "url": "https://www.leon24horas.net/tiempo/lluvia-vuelve-leon-viernes-cielos-cubiertos-chubascos-temperaturas-12-grados/20261120075808214832.html"
+        },
+        {
+          "nombre": "Cádiz Directo: Cádiz",
+          "url": "https://www.cadizdirecto.com/cadiz/el-frio-se-deja-notar-en-la-provincia-de-cadiz-antes-de-un-fin-de-semana-que-traera-lluvia"
+        },
+        {
+          "nombre": "Cita News: Canarias",
+          "url": "https://cita.news/es/canarias-tiempo-calima-fin-de-semana-aemet.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-paraguas.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Alcaraz cierra hoy la fase de grupos ante Cobolli, ya clasificado como primero",
+      "partidos": [],
+      "resumen": "Carlos Alcaraz juega hoy, no antes de las 14:00, su último partido de grupos de las Finales ATP de Turín contra el italiano Flavio Cobolli. El español ya tiene asegurado el primer puesto de su grupo y Cobolli está eliminado, así que el partido no cambia la clasificación. Se verá en Movistar Plus+.",
+      "porque": "la duda es cómo está Alcaraz de las molestias en el muslo izquierdo que sufrió ante Medvedev, con la semifinal mañana.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué se juega. Puntos para el ranking y el premio en dinero por victoria, pero no el pase: Alcaraz ya está en semifinales como primero del grupo Ivan Lendl.",
+          "La semifinal. Será el sábado, contra el segundo clasificado del otro grupo."
+        ],
+        "claves": [
+          "Hoy, no antes de las 14:00",
+          "Ya primero de grupo",
+          "Semifinal el sábado"
+        ],
+        "ahora": "La final de Turín se juega el domingo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Sport Aragón: horario y TV",
+          "url": "https://www.sportaragon.com/mas-deporte/tenis/que-hora-juega-alcaraz-cobolli-hoy-atp-finals-donde-verlo-tv/20261120101809163395.html"
+        },
+        {
+          "nombre": "Betbrothers: situación del grupo",
+          "url": "https://betbrothers.es/pronosticos-deportivos/alcaraz-cobolli-atp-finals-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-20-trofeo.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, los empadronamientos de migrantes no sirven para un «pucherazo» el 29N",
+    "texto": "Circulan en redes mensajes que alertan de empadronamientos de inmigrantes en distintos municipios para «dar el pucherazo» en las elecciones. Maldita.es y Newtral explican que, aunque ha habido casos reales de padrones irregulares, para votar en unas generales hay que tener la nacionalidad española: estar empadronado no basta. Según Newtral, la red rusa de desinformación Pravda ha difundido este mensaje.",
+    "verificador": "Maldita.es y Newtral",
+    "url": "https://maldita.es/prebunking/20261119/migrantes-elecciones-voto-pucherazo/",
+    "nota": "En las elecciones generales solo votan quienes tienen nacionalidad española y están en el censo electoral"
+  }
+}

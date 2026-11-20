@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,27 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-20",
+      "titulo": "La resaca del cara a cara",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "texto": "Más de 10 millones de personas vieron el debate entre Sánchez y Feijóo, y los dos partidos se dan por ganadores. En el octavo día de campaña, Feijóo visita El Hierro y Tenerife, Sánchez está en Santiago, Abascal en Salamanca y Colau en Tarragona.",
+      "fuentes": [
+        {
+          "nombre": "El Español: audiencia",
+          "url": "https://www.elespanol.com/espana/politica/20261120/cara-sanchez-feijoo-arrasa-parrilla-audiencia-media-espectadores/1003744465708_0.html"
+        },
+        {
+          "nombre": "EFE (vía Infobae): día 8",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/20/octavo-dia-de-campana-sanchez-a-santiago-y-feijoo-a-canarias-tras-su-debate-cara-a-cara/"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-19",
       "titulo": "Noche del cara a cara",

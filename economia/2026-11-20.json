@@ -1,0 +1,478 @@
+{
+  "fecha": "2026-11-20",
+  "numero": 4,
+  "minutos": 15,
+  "titular": "Anthropic sube un 17% en su estreno mientras Wall Street se hunde, y alquilar un piso ya cuesta 1.154 euros al mes.",
+  "entradilla": "Las diez noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "1.154 €",
+    "frase": "cuesta de media al mes alquilar un piso de 80 metros cuadrados en España: un 28% más que hace tres años.",
+    "detalle": "En octubre de 2023 costaba 898 euros. El precio por metro cuadrado sube un 3% en un año. Fuente: Índice Inmobiliario Fotocasa."
+  },
+  "noticias": [
+    {
+      "tema": "Empresas",
+      "titulo": "Anthropic cierra su primer día en bolsa con una subida del 17%",
+      "cifra": {
+        "valor": "97,17 $",
+        "texto": "precio de cierre, frente a los 83 $ de la salida a bolsa"
+      },
+      "resumen": "Anthropic, la empresa que desarrolla el asistente de IA Claude, terminó su primer día en el Nasdaq a 97,17 dólares por acción, un 17,07% más que su precio de salida. Abrió a 111,50 dólares (+34%) y llegó a rozar los 115, pero fue perdiendo parte de la subida a lo largo de la sesión, en un día muy negativo para Wall Street.",
+      "porque": "era la mayor salida a bolsa de la historia y el primer gran laboratorio de IA que cotiza: su estreno se veía como un examen del interés de los inversores por la inteligencia artificial.",
+      "teAfecta": "Si inviertes en fondos tecnológicos, el estreno y los primeros días de Anthropic pueden mover su valor. Las acciones recién estrenadas suelen ser muy volátiles.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Cuánto vale. Al precio de cierre, Anthropic valía unos 1,28 billones de dólares según la agencia EFE, o 1,76 billones si se cuentan todas las acciones posibles (incluidas opciones de empleados), según CNN.",
+          "El «dinero sobre la mesa». Con el cierre del jueves, los 980 millones de acciones vendidas a 83 dólares valían unos 13.900 millones más de lo que la empresa recaudó. Es la diferencia entre lo que pagaron los primeros inversores y lo que el mercado estaba dispuesto a pagar.",
+          "Hoy. Antes de abrir Wall Street, las acciones caían cerca de un 6% en la bolsa alemana Tradegate respecto al cierre en EE. UU. Tras el cierre del jueves, también bajaron cerca de un 4% en las operaciones fuera de hora."
+        ],
+        "claves": [
+          "Cierre: +17,07%",
+          "Apertura: 111,50 $",
+          "Máximo: cerca de 115 $"
+        ],
+        "glosario": [
+          {
+            "termino": "Capitalización",
+            "definicion": "Lo que vale una empresa en bolsa: el precio de la acción multiplicado por el número de acciones."
+          },
+          {
+            "termino": "Operaciones fuera de hora",
+            "definicion": "Compras y ventas que se hacen antes de la apertura o después del cierre oficial de la bolsa."
+          }
+        ],
+        "ahora": "Wall Street abre hoy a las 15:30, hora peninsular."
+      },
+      "fuentes": [
+        {
+          "nombre": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/11/19/economia/live-news/ultima-hora-anthropic-debut-bolsa-ia-trax"
+        },
+        {
+          "nombre": "CNN Chile (EFE)",
+          "url": "https://www.cnnchile.com/negocios/anthropic-debuta-nasdaq-alza-17-volatil-primer-dia/"
+        },
+        {
+          "nombre": "XTB: fuera de hora",
+          "url": "https://www.xtb.com/es/analisis-de-mercado/las-acciones-de-anthropic-debutan-con-una-subida-del-17-que-viene-ahora"
+        },
+        {
+          "nombre": "KuCoin: máximo y cierre",
+          "url": "https://www.kucoin.com/es/news/flash/anthropic-stock-surges-34-on-ipo-debut-but-closes-at-97-17"
+        },
+        {
+          "nombre": "Bloomberg Línea: Tradegate",
+          "url": "https://bloomberglinea.com/mercados/anthropic-se-encamina-a-caer-en-su-segundo-dia-de-cotizacion-ante-ventas-generalizadas-en-el-sector-de-ia"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "Wall Street encadena su peor racha de caídas desde 2024",
+      "cifra": {
+        "valor": "−2,02%",
+        "texto": "caída del S&P 500 el jueves, su sexta sesión seguida en rojo"
+      },
+      "resumen": "Las tres grandes bolsas de EE. UU. cayeron ayer más de un 2%. El Dow Jones perdió 1.101 puntos y bajó de los 50.000 por primera vez desde junio; el Nasdaq cedió un 2,25%. El S&P 500 suma seis sesiones de caídas, su peor racha en dos años y medio, y está un 8,2% por debajo de su récord de octubre.",
+      "porque": "las bolsas de EE. UU. marcan el ánimo de los mercados de todo el mundo, incluido el español.",
+      "teAfecta": "Si tienes un fondo indexado al S&P 500 o al MSCI World, habrá bajado esta semana. A largo plazo, estas caídas son habituales.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué cae. Pesan las dudas sobre si la inteligencia artificial dará los beneficios que se esperan, la caída de Nvidia y la previsión de que la Reserva Federal suba los tipos.",
+          "Caída general. Más del 90% de las empresas del S&P 500 terminaron en rojo. AMD, otro fabricante de chips, cayó un 7,72%.",
+          "En la semana. El Dow Jones acumula una caída del 6,2% desde el viernes pasado; el S&P 500, del 5,1%, y el Nasdaq, de un 5% aproximadamente."
+        ],
+        "claves": [
+          "Dow Jones: −2,19%",
+          "Nasdaq: −2,25%",
+          "6 sesiones de caídas"
+        ],
+        "glosario": [
+          {
+            "termino": "S&P 500",
+            "definicion": "Índice que agrupa a las 500 mayores empresas cotizadas de EE. UU."
+          },
+          {
+            "termino": "Corrección",
+            "definicion": "Una caída de más del 10% desde el último máximo. Si supera el 20%, se habla de mercado bajista."
+          }
+        ],
+        "ahora": "Los inversores estarán pendientes de cómo cierra la semana Wall Street esta noche."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (AP)",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/19/wall-street-cayo-y-registra-su-racha-de-perdidas-mas-larga-desde-2024-pese-al-impactante-debut-de-anthropic/"
+        },
+        {
+          "nombre": "El Boletín: datos de cierre y semana",
+          "url": "https://www.elboletin.com/wall-street-se-hunde-mas-de-un-2-por-las-dudas-sobre-la-inteligencia-artificial-pese-al-historico-debut-de-anthropic/"
+        },
+        {
+          "nombre": "Expansión México: 8,2% bajo el récord",
+          "url": "https://expansion.mx/mercados/2026/11/19/acciones-anthropic-sube-17-en-su-debut-pero-wall-street-cae"
+        },
+        {
+          "nombre": "Columna Digital: AMD",
+          "url": "https://columnadigital.com/wall-street-cierra-caidas-s-p-500-baja-2-02-dow-jones-2-19-19/"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex abre en rojo y pone en peligro los 19.000 puntos",
+      "cifra": {
+        "valor": "−0,87%",
+        "texto": "caída del Ibex 35 en la apertura, hasta 19.018 puntos"
+      },
+      "resumen": "El Ibex 35 abrió hoy con una caída del 0,87%, hasta los 19.018 puntos, arrastrado por el desplome de Wall Street. Llegaba con cuatro sesiones seguidas de caídas. ACS, ArcelorMittal, Indra y Acerinox eran los valores que más bajaban; Telefónica y Redeia, de los pocos que subían.",
+      "porque": "el Ibex refleja cómo les va en bolsa a las grandes empresas españolas, y una mala semana se nota en fondos y planes de pensiones.",
+      "teAfecta": "Si tienes acciones o fondos de empresas españolas, esta semana habrán perdido valor. Un mal día no cambia una inversión pensada a largo plazo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La semana. Según Investing.com, el Ibex había perdido más de un 4% desde sus máximos del lunes antes de la apertura de hoy.",
+          "Europa. Fráncfort, Milán, París y Londres también abrieron en rojo."
+        ],
+        "claves": [
+          "Apertura: 19.018 puntos",
+          "4 días de caídas",
+          "Bajan ACS e Indra"
+        ],
+        "glosario": [
+          {
+            "termino": "Ibex 35",
+            "definicion": "Índice con las 35 empresas de más peso de la bolsa española."
+          }
+        ],
+        "ahora": "La bolsa española cierra a las 17:30."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital: apertura",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-20/6101532-ibex-35-deja-casi-09-apertura-pone-peligro-19000-puntos"
+        },
+        {
+          "nombre": "Estrategias de Inversión: valores",
+          "url": "https://estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/el-ibex-35-cae-por-debajo-de-los-19000-puntos-n-972027"
+        },
+        {
+          "nombre": "Investing.com: la semana",
+          "url": "https://es.investing.com/news/stock-market-news/la-bolsa-hoy-ibex-35-euro-dolar-vix-ia-y-oro-3937391"
+        }
+      ]
+    },
+    {
+      "tema": "Política económica",
+      "titulo": "Los datos económicos del cara a cara, uno a uno",
+      "cifra": {
+        "valor": "6.145 €",
+        "texto": "lo que ha subido la pensión media anual entre 2018 y 2026 (en total, no cada año)"
+      },
+      "resumen": "En el debate de anoche, Sánchez (PSOE) y Feijóo (PP) cruzaron muchos datos económicos. Maldita.es comprobó varios. Algunos eran ciertos, otros falsos y otros necesitan contexto. Aquí tienes los de pensiones, crecimiento, cesta de la compra, impuestos y vivienda.",
+      "porque": "son cifras que se van a repetir en lo que queda de campaña, y conviene saber cuáles son exactas.",
+      "teAfecta": "Te ayudan a valorar las propuestas de los partidos con datos comprobados.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Pensiones (Sánchez). Dijo que ha subido la pensión «6.000 euros al año». Falso: la pensión media anual ha pasado de unos 13.121 euros en 2018 a unos 19.266 en 2026. Son unos 6.145 euros más en total, no cada año.",
+          "Crecimiento (Sánchez). Dijo que la Comisión Europea prevé que España sea la gran economía de la UE que más crezca en 2026. Verdadero: un 2,6%, por delante de Países Bajos (1,8%), Alemania (1,3%), Italia (1%) y Francia (0,4%).",
+          "Cesta de la compra (Feijóo). Dijo que lo que costaba 100 euros en 2018 cuesta ahora 143. Verdadero: los alimentos han subido un 42,8%, frente a un 28,6% del IPC general.",
+          "Impuestos y vivienda. Feijóo dijo que España es el tercer país de la UE donde más ha subido la presión fiscal: verdadero (38,1% del PIB en 2025), aunque sigue por debajo de la media de la UE (40,7%). Sánchez dijo que se han construido «un millón de viviendas» en ocho años; los datos muestran unas 720.000."
+        ],
+        "claves": [
+          "Pensiones: falso «cada año»",
+          "Crecimiento: verdadero",
+          "Cesta: +43%, verdadero"
+        ],
+        "glosario": [
+          {
+            "termino": "Presión fiscal",
+            "definicion": "Lo que se recauda en impuestos y cotizaciones sociales, en porcentaje del PIB."
+          },
+          {
+            "termino": "IPC",
+            "definicion": "Índice de Precios de Consumo: mide cuánto suben los precios de lo que compran los hogares."
+          }
+        ],
+        "ahora": "Los verificadores seguirán revisando los datos de los próximos debates: el lunes 23 en RTVE y el jueves 26."
+      },
+      "fuentes": [
+        {
+          "nombre": "Maldita.es: verificaciones del debate",
+          "url": "https://maldita.es/desinfo/20261120/verificacion-cara-a-cara-sanchez-feijoo-29n/"
+        }
+      ]
+    },
+    {
+      "tema": "Vivienda",
+      "titulo": "El alquiler sube un 3% en un año y se dispara un 28% en tres",
+      "cifra": {
+        "valor": "14,42 €/m²",
+        "texto": "precio medio del alquiler en octubre, según Fotocasa"
+      },
+      "resumen": "El precio medio del alquiler en España llegó en octubre a 14,42 euros por metro cuadrado al mes, un 2,3% más que en septiembre y un 3% más que hace un año, según Fotocasa. Un piso de 80 metros cuadrados cuesta 1.154 euros al mes de media, un 28% más que en octubre de 2023, cuando costaba 898.",
+      "porque": "el alquiler es el mayor gasto para muchos jóvenes y una de las principales preocupaciones de los españoles.",
+      "teAfecta": "Si buscas piso, prepárate para precios más altos que hace unos años, sobre todo en las grandes ciudades. Compara bien y revisa si tu zona está declarada «tensionada», porque allí hay límites a las subidas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Dónde sube. El precio aumentó en 42 de las 50 provincias con datos. Las comunidades más baratas son Extremadura (7,66 €/m²), Castilla-La Mancha (8,82) y La Rioja (9,46).",
+          "Menos oferta. Según The Objective, a la subida de precios se suma una reducción de la oferta de pisos en alquiler en varias capitales."
+        ],
+        "claves": [
+          "+3% en un año",
+          "1.154 € por 80 m²",
+          "+28% en tres años"
+        ],
+        "glosario": [
+          {
+            "termino": "Zona tensionada",
+            "definicion": "Área declarada por una comunidad autónoma donde el alquiler es muy caro en relación con los ingresos. Allí se pueden limitar las subidas."
+          }
+        ],
+        "ahora": "Fotocasa publica su índice de precios cada mes."
+      },
+      "fuentes": [
+        {
+          "nombre": "Press Digital (Europa Press)",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-19/6097789-alquilar-vivienda-espana-cuestaun-3-hace-ano-segun-fotocasa"
+        },
+        {
+          "nombre": "Bolsamanía: comparación con 2023",
+          "url": "https://www.bolsamania.com/noticias/economia/alquilar-una-vivienda-en-espana-es-un-3-mas-caro-que-hace-un-ano--24229990.html"
+        },
+        {
+          "nombre": "The Objective: menos oferta",
+          "url": "https://theobjective.com/economia/2026-11-20/cuatro-capitales-con-zonas-tensionadas-entre-10-con-menos-alquiler/"
+        }
+      ]
+    },
+    {
+      "tema": "Empleo",
+      "titulo": "La Seguridad Social roza los 22,6 millones de afiliados",
+      "cifra": {
+        "valor": "+788.965",
+        "texto": "afiliados más que hace un año (serie desestacionalizada)"
+      },
+      "resumen": "La Seguridad Social sumó 58.186 afiliados entre mediados de octubre y mediados de noviembre, hasta 22.596.757, en datos desestacionalizados. En el último año hay 788.965 ocupados más, una cifra superior a la de cualquier año desde la pandemia, según el Ministerio de Inclusión.",
+      "porque": "el número de afiliados es el termómetro más rápido del empleo en España: dice cuánta gente está trabajando y cotizando.",
+      "teAfecta": "Más afiliados significa más cotizaciones para pagar las pensiones y, en general, un mercado laboral más activo para quien busca trabajo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El matiz. En la serie diaria, sin ajustar, hay 22.568.373 afiliados, 55.792 menos que a mediados de octubre: es habitual que en otoño se pierdan empleos de temporada.",
+          "Desde 2021. Se han sumado 2,8 millones de ocupados desde finales de 2021."
+        ],
+        "claves": [
+          "22.596.757 afiliados",
+          "+58.186 en un mes",
+          "+788.965 en un año"
+        ],
+        "glosario": [
+          {
+            "termino": "Desestacionalizado",
+            "definicion": "Dato corregido para quitar los efectos de las temporadas (verano, Navidad), que permite comparar meses distintos."
+          }
+        ],
+        "ahora": "El dato completo de noviembre se publica a principios de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Ministerio de Inclusión",
+          "url": "https://www.inclusion.gob.es/w/la-afiliacion-a-la-seguridad-social-gana-788.965-ocupados-en-el-ultimo-ano%C2%A0"
+        },
+        {
+          "nombre": "El Boletín: serie sin ajustar",
+          "url": "https://www.elboletin.com/la-seguridad-social-suma-58-186-afiliados-y-alcanza-los-226-millones-de-ocupados-en-noviembre/"
+        },
+        {
+          "nombre": "Revista de la Seguridad Social",
+          "url": "https://revista.seg-social.es/-/la-afiliacion-a-la-seguridad-social-gana-788.965-ocupados-en-el-%C3%BAltimo-ano"
+        }
+      ]
+    },
+    {
+      "tema": "Mundo",
+      "titulo": "Un miembro de la Fed pide un «golpe de efecto» contra la inflación",
+      "cifra": {
+        "valor": "50 pb",
+        "texto": "subida de tipos que defiende Christopher Waller para diciembre"
+      },
+      "resumen": "Christopher Waller, gobernador de la Reserva Federal de EE. UU., ha vuelto a pedir subidas de tipos fuertes. En una entrevista con la CNBC dijo que «puede que sea necesario un golpe de efecto para sorprender a los mercados», porque la inflación va «en la dirección equivocada». Ya había defendido subir medio punto en diciembre.",
+      "porque": "si la Fed sube los tipos con fuerza, el dólar se encarece y el dinero se vuelve más caro en todo el mundo, también en Europa.",
+      "teAfecta": "Un dólar fuerte encarece los viajes a EE. UU. y lo que compras en dólares. Si el BCE siguiera ese camino, subirían las hipotecas variables.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué dijo. Waller se mostró «muy preocupado» por la evolución de los precios y defendió que, si se quiere bajar la inflación, hay que «adoptar medidas más contundentes». Advirtió de que limitarse a un cuarto de punto podría poner en riesgo la credibilidad de la Fed.",
+          "Qué espera el mercado. Según la herramienta FedWatch, el consenso apunta a subidas en diciembre y a nuevas subidas en enero y marzo de 2027, aunque algunos analistas lo dudan."
+        ],
+        "claves": [
+          "Pide medio punto",
+          "«Golpe de efecto»",
+          "Inflación «en la dirección equivocada»"
+        ],
+        "glosario": [
+          {
+            "termino": "pb (puntos básicos)",
+            "definicion": "Centésimas de punto porcentual: 50 pb = 0,5%."
+          },
+          {
+            "termino": "Credibilidad",
+            "definicion": "Que el mercado crea que el banco central hará lo que dice para controlar los precios."
+          }
+        ],
+        "ahora": "La Fed decide los tipos en su reunión de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Bolsamanía: entrevista en la CNBC",
+          "url": "https://www.bolsamania.com/noticias/economia/waller-fed-vuelve-pedir-grandes-subidas-tipos-puede-sea-necesario-golpe-efecto--24218380.html"
+        },
+        {
+          "nombre": "Bolsamanía: la credibilidad",
+          "url": "https://www.bolsamania.com/noticias/criptodivisas/bitcoin-criptos-caidas-fed-mas-dura--24230740.html"
+        },
+        {
+          "nombre": "Examedia: FedWatch",
+          "url": "https://examedia.com.ar/portada/post/88269971"
+        }
+      ]
+    },
+    {
+      "tema": "Consumo",
+      "titulo": "Los españoles prevén gastar un 10% más entre Black Friday y Reyes",
+      "cifra": {
+        "valor": "1.067 €",
+        "texto": "gasto medio previsto por persona de noviembre a enero"
+      },
+      "resumen": "Los consumidores españoles prevén gastar de media 1.067 euros entre noviembre y enero, un 10,1% más que en la campaña anterior, según el Barómetro del Golden Quarter de KPMG y Appinio. El periodo incluye el Black Friday (27 de noviembre), la Navidad y las rebajas de enero.",
+      "porque": "estos tres meses concentran una parte enorme de las ventas del año para muchos comercios.",
+      "teAfecta": "Planifica: comparar precios antes del Black Friday ayuda a saber si un descuento es real. Maldita.es ha publicado una guía para comprar online sin caer en timos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué se compra. Ropa, calzado y complementos: el 70,6% de los encuestados prevé comprarlos.",
+          "La encuesta. Se hizo a 1.200 consumidores en España. El año pasado, el gasto previsto era de 969 euros."
+        ],
+        "claves": [
+          "1.067 € por persona",
+          "+10,1%",
+          "Moda, lo más comprado"
+        ],
+        "glosario": [
+          {
+            "termino": "Golden quarter",
+            "definicion": "El «trimestre dorado» del comercio: de noviembre a enero, con Black Friday, Navidad y rebajas."
+          }
+        ],
+        "ahora": "El Black Friday es el viernes 27, aunque muchas tiendas ya han empezado sus ofertas."
+      },
+      "fuentes": [
+        {
+          "nombre": "Modaes: el barómetro",
+          "url": "https://www.modaes.com/entorno/la-moda-lidera-las-compras-de-black-friday-y-navidad-con-la-ia-como-nueva-aliada"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/agricultura-alimentacion/el-gasto-de-los-espanoles-en-navidad-subira-un-10-hasta-1-067-euros-con-el-black-friday-como-gran-protagonista/"
+        },
+        {
+          "nombre": "Maldita.es (portada, guía de compras)",
+          "url": "https://maldita.es/"
+        }
+      ]
+    },
+    {
+      "tema": "Mundo",
+      "titulo": "Bruselas propone prestar 45.000 millones más a Ucrania",
+      "cifra": {
+        "valor": "45.000 M€",
+        "texto": "nuevo préstamo propuesto por la Comisión Europea"
+      },
+      "resumen": "La Comisión Europea ha propuesto un nuevo préstamo de 45.000 millones de euros para Ucrania. Ucrania afronta un agujero de financiación de unos 70.000 millones para 2027. La propuesta se discutió en la cumbre de aliados de Ucrania en Berlín, horas después del encuentro de Trump, Xi y Putin.",
+      "porque": "Ucrania depende de la ayuda exterior para sostener su Estado y su defensa, y parte de ese dinero sale de la UE, de la que forma parte España.",
+      "teAfecta": "De forma indirecta: la ayuda a Ucrania forma parte del presupuesto y de la deuda de la UE.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Para qué. Ucrania necesita dinero para mantener el Estado, pagar salarios y sostener la defensa.",
+          "En Berlín. Los aliados también trabajaron en garantías de seguridad que entrarían en vigor tras un alto el fuego."
+        ],
+        "claves": [
+          "45.000 millones propuestos",
+          "Agujero de 70.000 millones",
+          "Garantías tras un alto el fuego"
+        ],
+        "glosario": [
+          {
+            "termino": "Garantías de seguridad",
+            "definicion": "Compromisos de otros países para ayudar a defender a Ucrania si Rusia vuelve a atacar después de un acuerdo."
+          }
+        ],
+        "ahora": "La propuesta tiene que ser aprobada por los países de la UE."
+      },
+      "fuentes": [
+        {
+          "nombre": "Bolsamanía",
+          "url": "https://www.bolsamania.com/noticias/internacional/esperar-mercado-historica-reunion-xi-trump-putin--24228864.html"
+        },
+        {
+          "nombre": "La Nación (AFP): el agujero de 2027",
+          "url": "https://www.lanacion.com.ar/el-mundo/que-ganaron-trump-putin-y-xi-con-la-cumbre-y-la-omision-que-genero-inquietud-en-el-resto-del-mundo-nid19112026/"
+        },
+        {
+          "nombre": "Ukrinform: garantías",
+          "url": "https://www.ukrinform.es/rubric-polytics/4186627-lideres-de-la-coalicion-de-los-voluntarios-instan-a-rusia-a-aceptar-una-tregua-energetica-durante-el-invierno.html"
+        }
+      ]
+    },
+    {
+      "tema": "Cripto",
+      "titulo": "Bitcoin baja de 64.000 dólares ante una Fed más dura",
+      "cifra": {
+        "valor": "< 64.000 $",
+        "texto": "nivel que perdió bitcoin el jueves"
+      },
+      "resumen": "Bitcoin perdió el jueves los 64.000 dólares y sigue en la parte baja de los últimos meses. Según Bolsamanía, las criptomonedas caen por la expectativa de que la Reserva Federal suba los tipos con más fuerza de lo previsto.",
+      "porque": "muchos jóvenes tienen criptomonedas, y su caída muestra lo sensibles que son a los tipos de interés.",
+      "teAfecta": "Cuando suben los tipos, los activos de más riesgo, como las criptomonedas, suelen perder atractivo. Invierte solo lo que puedas permitirte perder.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué. Cuando el dinero «seguro» (depósitos, bonos) da más rentabilidad, los inversores reducen su exposición a activos que no pagan intereses, como bitcoin.",
+          "Contexto. El 13 de noviembre, bitcoin cotizaba en torno a 68.600 dólares."
+        ],
+        "claves": [
+          "Por debajo de 64.000 $",
+          "Presión: la Fed",
+          "Volatilidad alta"
+        ],
+        "glosario": [
+          {
+            "termino": "Activo de riesgo",
+            "definicion": "Inversión cuyo precio puede subir o bajar mucho, como las acciones o las criptomonedas."
+          }
+        ],
+        "ahora": "Las próximas señales de la Fed seguirán marcando su precio."
+      },
+      "fuentes": [
+        {
+          "nombre": "Bolsamanía",
+          "url": "https://www.bolsamania.com/noticias/criptodivisas/bitcoin-criptos-caidas-fed-mas-dura--24230740.html"
+        },
+        {
+          "nombre": "Examedia",
+          "url": "https://examedia.com.ar/portada/post/88269971"
+        },
+        {
+          "nombre": "iProUP: precio del 13 de noviembre",
+          "url": "https://www.iproup.com/economia-digital/73123-cuanto-vale-bitcoin-hoy-13-de-noviembre-de-2026"
+        }
+      ]
+    }
+  ]
+}
