@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-21",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,28 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-21",
+      "titulo": "Último fin de semana: la plaza de toros de Valencia y Canarias",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "texto": "En el noveno día de campaña, Feijóo celebra su mitin más grande en la plaza de toros de Valencia, Sánchez está en Tenerife y Gran Canaria, Abascal en Sevilla y Alicante, Colau y Yolanda Díaz en Barcelona y Belarra en Murcia. El lunes 23 es el último día en que se pueden publicar encuestas.",
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): agenda del día 9",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/21/dia-9-de-campana-sanchez-a-canarias-feijoo-a-valencia-y-yolanda-diaz-reaparece-con-colau/"
+        },
+        {
+          "nombre": "Infobae: directo de la campaña",
+          "url": "https://www.infobae.com/espana/2026/11/21/elecciones-generales-29-n-en-directo-comienza-el-voto-presencial-en-consulados-para-los-espanoles-que-viven-en-el-extranjero/"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-20",
       "titulo": "La resaca del cara a cara",

@@ -1,0 +1,498 @@
+{
+  "fecha": "2026-11-21",
+  "numero": 5,
+  "minutos": 15,
+  "titular": "Viernes negro en las bolsas: el Nasdaq borra su año, Nvidia cae un 14% y el Ibex firma su segunda peor semana de 2026.",
+  "entradilla": "Las diez noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "−23%",
+    "frase": "cayó Nvidia en una sola semana, su peor semana en bolsa desde 2008.",
+    "detalle": "Solo el viernes perdió un 14,01%, hasta 125,53 dólares. Fuentes: The Motley Fool y DiarioBitcoin."
+  },
+  "noticias": [
+    {
+      "tema": "Mercados",
+      "titulo": "El Nasdaq borra todo lo ganado en 2026 en su peor semana desde la pandemia",
+      "cifra": {
+        "valor": "−5,3%",
+        "texto": "caída del Nasdaq el viernes, hasta 22.618 puntos"
+      },
+      "resumen": "Wall Street vivió el viernes su peor sesión en años. El Nasdaq, el índice de las tecnológicas, cayó un 5,3% y perdió más de un 10% en la semana, con lo que ya no gana nada en el año. El S&P 500 y el Dow Jones entraron en «corrección»: están más de un 10% por debajo de sus máximos.",
+      "porque": "el motor de la bolsa en los últimos años ha sido la inteligencia artificial, y los inversores dudan ahora de que las enormes valoraciones de esas empresas estén justificadas.",
+      "teAfecta": "Si tienes un fondo indexado al S&P 500, al Nasdaq o al MSCI World, habrá bajado esta semana. Vender en plena caída convierte una pérdida temporal en una real.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué la provocó. La caída de Nvidia por la noticia de una investigación del regulador y las dudas sobre el gasto en IA arrastraron a todo el sector de los chips. Broadcom y Micron cayeron más de un 12%.",
+          "El Dow Jones. El índice de las 30 grandes empresas de EE. UU. perdió durante la semana los 50.000 puntos por primera vez desde junio."
+        ],
+        "claves": [
+          "Nasdaq: −5,3%",
+          "Más de −10% en la semana",
+          "S&P 500 y Dow, en corrección"
+        ],
+        "glosario": [
+          {
+            "termino": "Corrección",
+            "definicion": "Cuando un índice cae más de un 10% desde su último máximo. Si cae más de un 20%, se habla de mercado bajista."
+          },
+          {
+            "termino": "Fondo indexado",
+            "definicion": "Fondo que copia un índice, como el S&P 500, en lugar de elegir acciones una a una."
+          }
+        ],
+        "ahora": "Wall Street reabre el lunes a las 15:30, hora peninsular. El jueves 26 cierra por Acción de Gracias."
+      },
+      "fuentes": [
+        {
+          "nombre": "Yahoo Finanzas",
+          "url": "https://es-us.finanzas.yahoo.com/noticias/wall-street-desploma-s-p-043626753.html"
+        },
+        {
+          "nombre": "Infobae: peor semana desde la pandemia",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/20/wall-street-cerro-con-fuertes-caidas-por-las-preocupaciones-sobre-la-ia-el-nasdaq-tuvo-su-peor-semana-desde-la-pandemia/"
+        },
+        {
+          "nombre": "Expansión MX: los chips",
+          "url": "https://expansion.mx/mercados/2026/11/20/viernes-negro-acciones-tecnologicas-wall-street-peor-racha"
+        },
+        {
+          "nombre": "Press Digital: el Dow Jones",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-20/6102575-ibex-35-desploma-57-semana-pierde-19000-puntos-ante-ajuste-tecnologico"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Nvidia se hunde un 14% tras saberse que la SEC examina su contabilidad",
+      "cifra": {
+        "valor": "125,53 $",
+        "texto": "precio de cierre de Nvidia el viernes (−14,01%)"
+      },
+      "resumen": "Nvidia, el mayor fabricante de chips para inteligencia artificial, cayó un 14,01% el viernes. Reuters informó, citando a dos personas conocedoras del asunto, de que el personal de la SEC, el regulador de la bolsa de EE. UU., examina posibles problemas en su contabilidad. No hay acusaciones formales y la SEC no ha confirmado el alcance.",
+      "porque": "Nvidia es una de las empresas más grandes del mundo en bolsa y la que más se asocia al auge de la IA: lo que le pasa mueve a todo el mercado.",
+      "teAfecta": "Muchos fondos tecnológicos y globales tienen una parte importante en Nvidia. Si inviertes en ellos, esta caída se nota en tu cartera.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La semana. Nvidia acumuló siete sesiones seguidas de caídas y perdió un 23% en la semana, su peor semana desde 2008. Según 24/7 Wall St., se dejó unos 900.000 millones de dólares de valor en cinco sesiones.",
+          "El detonante. Según StreetInsider, la acción ya caía un 7% antes de la noticia de Reuters, que amplió la caída. The Wall Street Journal había informado de que la revisión incluye si la información que dio la empresa pudo confundir a los inversores.",
+          "Qué falta. Las investigaciones de este tipo suelen durar meses y no implican, por sí solas, que haya irregularidades."
+        ],
+        "claves": [
+          "Viernes: −14,01%",
+          "Semana: −23%",
+          "Sin acusaciones formales"
+        ],
+        "glosario": [
+          {
+            "termino": "SEC",
+            "definicion": "Comisión de Bolsa y Valores de EE. UU.: vigila que las empresas cotizadas informen de forma veraz a los inversores."
+          },
+          {
+            "termino": "Capitalización",
+            "definicion": "Lo que vale una empresa en bolsa: precio de la acción por número de acciones."
+          }
+        ],
+        "ahora": "Habrá que ver si Nvidia o la SEC confirman la investigación en los próximos días."
+      },
+      "fuentes": [
+        {
+          "nombre": "KuCoin: la noticia de Reuters",
+          "url": "https://www.kucoin.com/es/news/flash/nvidia-stock-crashes-14-amid-sec-accounting-probe"
+        },
+        {
+          "nombre": "DiarioBitcoin: cierre y WSJ",
+          "url": "https://www.diariobitcoin.com/regulacion/nvidia-pierde-usd-27-billones-mientras-la-sec-examina-posibles-problemas-contables/"
+        },
+        {
+          "nombre": "The Motley Fool: peor semana desde 2008",
+          "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+        },
+        {
+          "nombre": "Archyde: 900.000 millones",
+          "url": "https://www.archyde.com/nvidia-shares-fall-14-after-reuters-reports-sec-accounting-probe-24-7-wall-st-says-900b-erased-in-worst-week-since-2008/"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Anthropic cae un 8,5% en su segundo día, pero sigue por encima de su precio de salida",
+      "cifra": {
+        "valor": "88,91 $",
+        "texto": "cierre del viernes, frente a los 83 $ de la salida a bolsa"
+      },
+      "resumen": "Las acciones de Anthropic, la empresa que desarrolla el asistente Claude, bajaron un 8,5% el viernes, en su segundo día en el Nasdaq, hasta 88,91 dólares. El jueves habían cerrado a 97,17. Siguen un 7% por encima de los 83 dólares de su salida a bolsa.",
+      "porque": "su estreno se veía como un termómetro del apetito por la inteligencia artificial, y el segundo día coincidió con la peor sesión del sector en años.",
+      "teAfecta": "Las acciones recién estrenadas suelen moverse mucho en sus primeras semanas. Comprar por impulso tras una subida o una bajada fuerte es arriesgado.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Contexto. El jueves, en su estreno, había cerrado con una subida del 17% sobre el precio de salida.",
+          "El día. Cayó en una sesión en la que el Nasdaq perdió un 5,3% y Nvidia, un 14%."
+        ],
+        "claves": [
+          "Viernes: −8,5%",
+          "Cierre: 88,91 $",
+          "Salida: 83 $"
+        ],
+        "glosario": [
+          {
+            "termino": "Precio de salida",
+            "definicion": "El precio al que la empresa vendió sus acciones a los primeros inversores antes de empezar a cotizar."
+          }
+        ],
+        "ahora": "El lunes será su tercera sesión en bolsa."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía MVS)",
+          "url": "https://mvsnoticias.com/economia/2026/11/20/anthropic-baja-85-en-su-segundo-dia-en-la-bolsa-de-wall-street-754251.html"
+        },
+        {
+          "nombre": "Yahoo Finanzas",
+          "url": "https://es-us.finanzas.yahoo.com/noticias/wall-street-desploma-s-p-043626753.html"
+        }
+      ]
+    },
+    {
+      "tema": "Bolsa española",
+      "titulo": "El Ibex 35 pierde los 19.000 puntos tras su segunda peor semana del año",
+      "cifra": {
+        "valor": "−5,73%",
+        "texto": "caída del Ibex 35 en la semana, hasta 18.873,1 puntos"
+      },
+      "resumen": "La Bolsa española cerró el viernes con una caída del 1,63%, la quinta sesión seguida en rojo, y terminó en 18.873,1 puntos. En la semana se dejó un 5,73%, su segunda peor semana de 2026, y pierde los 19.000 puntos. Aun así, en lo que va de año sigue ganando un 9,04%.",
+      "porque": "el Ibex no tiene apenas tecnológicas, pero las caídas de Wall Street y el miedo de los inversores se contagian a todas las bolsas.",
+      "teAfecta": "Los fondos de bolsa española o europea también han bajado esta semana. Si tu plan de pensiones invierte en acciones, notarás la caída en el próximo extracto.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los que más cayeron. ArcelorMittal, Rovi y ACS lideraron las caídas del viernes.",
+          "Europa. El DAX alemán bajó un 2,60%; el FTSE MIB italiano, un 2,48%; el CAC 40 francés, un 1,89%, y el FTSE 100 británico, un 1,02%.",
+          "La semana. El viernes anterior el Ibex había cerrado en 20.020,1 puntos. El viernes llegó a marcar 18.831, su nivel más bajo desde el 3 de noviembre."
+        ],
+        "claves": [
+          "Viernes: −1,63%",
+          "Semana: −5,73%",
+          "En el año: +9,04%"
+        ],
+        "glosario": [
+          {
+            "termino": "Ibex 35",
+            "definicion": "El índice que reúne a las 35 empresas con más peso de la Bolsa española."
+          }
+        ],
+        "ahora": "La Bolsa de Madrid abre el lunes a las 9:00."
+      },
+      "fuentes": [
+        {
+          "nombre": "ON Economía",
+          "url": "https://www.elnacional.cat/oneconomia/es/mercados/ibex-35-desploma-57-segunda-peor-semana-ano_1728947_102.html"
+        },
+        {
+          "nombre": "El Boletín: valores y Europa",
+          "url": "https://www.elboletin.com/el-ibex-35-firma-su-peor-semana-desde-marzo-con-una-caida-del-573-y-cinco-sesiones-en-rojo/"
+        },
+        {
+          "nombre": "El Diario de Madrid: mínimo de la sesión",
+          "url": "https://www.eldiariodemadrid.es/economia/ibex-35-cae-5-7-semana-pierde-19000-puntos-noviembre-2026/20261120185620147571.html"
+        }
+      ]
+    },
+    {
+      "tema": "Hipotecas",
+      "titulo": "El euríbor marca su máximo del mes: las hipotecas variables que se revisen subirán",
+      "cifra": {
+        "valor": "3,300%",
+        "texto": "media provisional del euríbor en noviembre"
+      },
+      "resumen": "El euríbor a 12 meses, el índice al que están ligadas la mayoría de las hipotecas variables en España, marcó el viernes un 3,372%, su dato más alto del mes. La media provisional de noviembre sube al 3,300%, por encima del 3,239% de octubre y más de un punto por encima de la de noviembre de 2025.",
+      "porque": "cuando una hipoteca variable se revisa, su cuota se recalcula con la media mensual del euríbor, no con el dato diario.",
+      "teAfecta": "Ejemplo calculado por ephemeral: con 150.000 euros pendientes a 25 años y euríbor + 1%, pasar de la media de noviembre de 2025 (2,217%) a la actual (3,300%) sube la cuota de unos 728 a unos 817 euros al mes: casi 90 euros más.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Cómo funciona. Las hipotecas variables se revisan cada seis o doce meses. En la revisión, el banco suma al euríbor un diferencial fijo pactado (por ejemplo, un 1%) y recalcula la cuota.",
+          "Por qué sube. El euríbor refleja lo que los bancos esperan que hagan los tipos de interés del Banco Central Europeo en los próximos meses."
+        ],
+        "claves": [
+          "Viernes: 3,372%",
+          "Media de noviembre: 3,300%",
+          "Octubre: 3,239%"
+        ],
+        "glosario": [
+          {
+            "termino": "Euríbor",
+            "definicion": "Tipo de interés al que los bancos europeos se prestan dinero a un año. Es la referencia de casi todas las hipotecas variables."
+          },
+          {
+            "termino": "Diferencial",
+            "definicion": "Porcentaje fijo que el banco suma al euríbor para calcular el interés de una hipoteca variable."
+          }
+        ],
+        "ahora": "La media definitiva de noviembre se conocerá a principios de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Economía Responsable: dato del viernes",
+          "url": "https://www.economiaresponsablefinanzas.com/euribor/euribor-hoy-20-noviembre-2026/"
+        },
+        {
+          "nombre": "Euríbor Diario: media de octubre",
+          "url": "https://www.euribordiario.es/"
+        },
+        {
+          "nombre": "Hipotecas y Euríbor: comparación con 2025",
+          "url": "https://hipotecasyeuribor.com/euriborhoy.php"
+        }
+      ]
+    },
+    {
+      "tema": "Consumo",
+      "titulo": "Black Friday: el gasto previsto baja y 7 de cada 10 sospechan de los descuentos",
+      "cifra": {
+        "valor": "209 €",
+        "texto": "gasto medio previsto en el Black Friday, según la OCU"
+      },
+      "resumen": "El Black Friday es el viernes 27. Según la OCU, el 76% de los españoles piensa comprar algo y el gasto medio previsto es de 209 euros, diez menos que el año pasado. Otros estudios apuntan en la misma dirección: NTT Data calcula 175 euros por comprador, frente a 182 en 2025, y Webloyalty prevé que el gasto online baje un 9%.",
+      "porque": "es la campaña de compras que más vende antes de Navidad, y este año coincide con el final de la campaña electoral.",
+      "teAfecta": "La ley obliga a que el precio «antes» de una rebaja sea el más bajo de los 30 días previos. Si dudas, compara con el historial de precios del producto antes de comprar.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La sospecha. El 70% de los encuestados por la OCU cree que las tiendas suben los precios antes del Black Friday para que el descuento parezca mayor.",
+          "Qué se compra. Ropa, calzado o complementos (58%) y electrónica (39%), según la OCU. Un 16% planea gastar 500 euros o más.",
+          "Las empresas. Según NTT Data, las tiendas venden más, pero solo un 27% mejora su rentabilidad. Prevé 127 millones de envíos hasta Navidad."
+        ],
+        "claves": [
+          "Viernes 27",
+          "OCU: 209 €",
+          "NTT Data: 175 €"
+        ],
+        "glosario": [
+          {
+            "termino": "Precio de referencia",
+            "definicion": "El precio anterior que una tienda muestra junto a una rebaja. En España debe ser el más bajo de los últimos 30 días."
+          }
+        ],
+        "ahora": "El Cyber Monday es el lunes 30."
+      },
+      "fuentes": [
+        {
+          "nombre": "OCU",
+          "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/gasto-black-friday"
+        },
+        {
+          "nombre": "El Cronista: la sospecha",
+          "url": "https://www.cronista.com/espana/economia-finanzas/el-70-de-los-espanoles-sospecha-que-las-tiendas-suben-los-precios-antes-del-black-friday-que-revela-la-nueva-encuesta-de-la-ocu/"
+        },
+        {
+          "nombre": "La7TV: NTT Data",
+          "url": "https://www.la7tv.es/economia-y-empresas/economia/consumidores-recortan-175-E-gasto-previsto-black-friday/20261121093542076018.html"
+        },
+        {
+          "nombre": "Revista Empresarial: Webloyalty",
+          "url": "https://revistaempresarial.com/marketing/e-commerce/black-friday-2026-en-espana-el-efecto-29-n-modera-el-gasto/"
+        },
+        {
+          "nombre": "BOE: Ley de Comercio Minorista",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1072"
+        }
+      ]
+    },
+    {
+      "tema": "Energía",
+      "titulo": "La gasolina y el diésel siguen bajando y ya rondan los 1,6 euros",
+      "cifra": {
+        "valor": "1,577 €",
+        "texto": "precio medio del litro de diésel (14-20 de noviembre)"
+      },
+      "resumen": "El precio de los carburantes ha seguido bajando esta semana, según el Boletín Petrolero de la UE. El litro de gasolina cuesta de media 1,60 euros, un 1,17% menos, y el de diésel, 1,577 euros, casi un 1,9% menos. La bajada dura ya unos dos meses.",
+      "porque": "llenar el depósito es un gasto fijo para millones de personas, y el precio había subido mucho con la guerra de Irán.",
+      "teAfecta": "Con un depósito de 55 litros, cada céntimo menos por litro son 55 céntimos de ahorro. Los precios varían mucho entre gasolineras: compara en la web del Ministerio.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Comparación con Europa. En la UE, la media está en torno a 1,72 euros el litro de gasolina y 1,70 el de diésel, así que en España siguen siendo más baratos.",
+          "De dónde viene. Según Demócrata, con datos del Boletín de semanas anteriores, la gasolina se ha abaratado más de un 16% desde finales de septiembre."
+        ],
+        "claves": [
+          "Gasolina: 1,60 €/l",
+          "Diésel: 1,577 €/l",
+          "Más baratos que la media de la UE"
+        ],
+        "glosario": [
+          {
+            "termino": "Boletín Petrolero de la UE",
+            "definicion": "Informe semanal de la Comisión Europea con el precio medio de los carburantes en cada país."
+          }
+        ],
+        "ahora": "El próximo Boletín se publica el jueves 26."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Cronista (EFE): Boletín Petrolero",
+          "url": "https://www.cronista.com/espana/actualidad-es/retrocede-el-precio-del-combustible-cuanto-cuesta-el-litro-de-gasolina-y-gasoleo-desde-ahora"
+        },
+        {
+          "nombre": "Demócrata: bajada desde septiembre",
+          "url": "https://www.democrata.es/economia/la-gasolina-se-abarata-un-16-3-desde-septiembre-y-vuelve-a-precios-de-julio/"
+        }
+      ]
+    },
+    {
+      "tema": "Materias primas",
+      "titulo": "El oro, en mínimos de 14 meses: ha perdido un tercio desde su récord",
+      "cifra": {
+        "valor": "≈ 3.733 $",
+        "texto": "precio de la onza de oro el jueves"
+      },
+      "resumen": "El oro, considerado un valor refugio, cotizaba el jueves cerca de 3.733 dólares la onza, alrededor de su cierre más bajo desde septiembre de 2025. Ha perdido aproximadamente un 33% desde su récord, cercano a los 5.600 dólares. La plata y el platino también han caído a mínimos.",
+      "porque": "muestra que ni los activos considerados más seguros están escapando de la ola de ventas.",
+      "teAfecta": "Si compraste oro en lo más alto, la caída es fuerte. Los «refugios» también pueden bajar mucho: diversificar reduce el riesgo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué cae. Según Bloomberg Línea, el dólar fuerte y la expectativa de que la Reserva Federal suba los tipos presionan al oro: cuando los depósitos y los bonos pagan más, el oro, que no da intereses, pierde atractivo.",
+          "La previsión. UBS reconoce que el oro podría mantenerse por debajo de 4.000 dólares a corto plazo, aunque mantiene una previsión de 5.000 dólares para diciembre de 2027."
+        ],
+        "claves": [
+          "≈ 3.733 $ la onza",
+          "−33% desde el récord",
+          "Mínimo desde septiembre de 2025"
+        ],
+        "glosario": [
+          {
+            "termino": "Valor refugio",
+            "definicion": "Inversión a la que se acude en momentos de miedo porque se supone que pierde menos, como el oro."
+          },
+          {
+            "termino": "Onza",
+            "definicion": "Unidad con la que se cotiza el oro: unos 31,1 gramos."
+          }
+        ],
+        "ahora": "Las próximas señales de la Reserva Federal marcarán su precio."
+      },
+      "fuentes": [
+        {
+          "nombre": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/mercados/del-record-al-desplome-el-oro-pierde-33-y-enfrenta-nuevas-amenazas-de-la-fed/"
+        },
+        {
+          "nombre": "Reporte Minero: mínimo de 14 meses",
+          "url": "https://reporteminero.cl/noticia/noticias/2026/11/oro-cae-minimo-14-meses-dolar-tasas-fed-hawkish"
+        },
+        {
+          "nombre": "iProUP: plata y platino",
+          "url": "https://www.iproup.com/finanzas/73258-el-oro-se-desploma-2-y-toca-su-nivel-mas-bajo-en-14-meses"
+        }
+      ]
+    },
+    {
+      "tema": "Campo",
+      "titulo": "La retirada obligatoria del 12% del aceite frena la caída de precios en origen",
+      "cifra": {
+        "valor": "+2,65%",
+        "texto": "subida del aceite de oliva virgen en origen (9-15 de noviembre)"
+      },
+      "resumen": "Por primera vez, el Gobierno obliga a las almazaras a guardar el 12% de su producción de aceite de oliva, unas 188.000 toneladas, para frenar la caída de precios por una cosecha muy grande. Una semana después, los precios en origen han subido: un 2,65% el virgen, un 1,49% el lampante y un 1,34% el virgen extra, según PoolRed.",
+      "porque": "España es el mayor productor de aceite de oliva del mundo, y el precio en origen decide si el campo gana o pierde dinero.",
+      "teAfecta": "En el súper el efecto tarda en llegar. La medida busca que el precio no se hunda en origen, así que no esperes grandes bajadas en el lineal.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué. La cosecha 2026/27 será la cuarta mayor de la historia, unos 1,6 millones de toneladas, un 23% más, y el precio en origen había caído a unos 3 euros el kilo.",
+          "Quién está a favor y en contra. Cooperativas Agro-alimentarias defiende la medida porque, dice, ha revertido la caída. La industria envasadora la rechaza.",
+          "Cómo funciona. Cada almazara debe tener almacenado el 12% de lo que produce desde el 1 de noviembre. Ella decide de qué categoría, pero no puede no retirar."
+        ],
+        "claves": [
+          "12% de la producción",
+          "Unas 188.000 toneladas",
+          "Primera vez que se aplica"
+        ],
+        "glosario": [
+          {
+            "termino": "Precio en origen",
+            "definicion": "Lo que cobra el productor por su producto, antes de envasarlo, transportarlo y venderlo en tienda."
+          },
+          {
+            "termino": "Lampante",
+            "definicion": "Aceite de oliva que no se puede consumir sin refinar."
+          }
+        ],
+        "ahora": "La campaña de recogida de aceituna se generaliza estos días."
+      },
+      "fuentes": [
+        {
+          "nombre": "Agronews Castilla y León: PoolRed",
+          "url": "https://www.agronewscastillayleon.com/aceite-oliva-precios-retirada-12-por-ciento"
+        },
+        {
+          "nombre": "Plataforma Tierra: la medida",
+          "url": "https://www.plataformatierra.es/actualidad/retirada-12-aceite-oliva-2026-27"
+        },
+        {
+          "nombre": "Distribución Actualidad: rechazo de envasadores",
+          "url": "https://distribucionactualidad.com/gobierno-ordena-retirar-produccion-aceite-de-oliva/"
+        },
+        {
+          "nombre": "Don Porqué: la cosecha",
+          "url": "https://donporque.com/retirada-aceite-oliva-mercado/"
+        },
+        {
+          "nombre": "AgroCLM: Cooperativas",
+          "url": "https://www.agroclm.com/2026/11/19/la-retirada-obligatoria-del-aceite-de-oliva-ya-frena-la-caida-de-precios-en-origen/"
+        }
+      ]
+    },
+    {
+      "tema": "Economía circular",
+      "titulo": "El negocio de la ropa usada se rompe: Humana y Cáritas retiran contenedores",
+      "cifra": {
+        "valor": "≈ 80%",
+        "texto": "del textil recogido en España se exportaba"
+      },
+      "resumen": "Cáritas Diocesana de Toledo está retirando sus contenedores de Toledo y Talavera de la Reina, y Humana, con más de 5.000 puntos de recogida en España, ya se ha ido de Galicia y Asturias. Ambas explican que recoger ropa usada ha dejado de ser sostenible.",
+      "porque": "el modelo dependía de vender fuera la ropa en buen estado, y la moda ultrarrápida y la caída de los precios de exportación lo han hecho inviable.",
+      "teAfecta": "Comprar menos ropa y de más calidad alarga su vida y facilita que pueda reutilizarse. Antes de tirarla, comprueba qué contenedores siguen activos en tu municipio.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los números. Humana gestionó en 2025 unas 20.381 toneladas de ropa en España. Según el informe sectorial de Moda re-, el 87% de la ropa usada acabó en el vertedero.",
+          "Quién paga. La ley de residuos de 2022 obliga a los ayuntamientos a organizar la recogida separada de textil. El sector espera un decreto que haga pagar a las marcas por la gestión de la ropa que venden."
+        ],
+        "claves": [
+          "Humana: más de 5.000 puntos",
+          "Fuera de Galicia y Asturias",
+          "87% al vertedero"
+        ],
+        "glosario": [
+          {
+            "termino": "Moda ultrarrápida",
+            "definicion": "Ropa muy barata que se produce en grandes cantidades y cambia de colección continuamente («ultra fast fashion»)."
+          },
+          {
+            "termino": "Responsabilidad ampliada del productor",
+            "definicion": "Sistema que obliga a las marcas a pagar la recogida y el reciclaje de lo que venden."
+          }
+        ],
+        "ahora": "El decreto sobre residuos textiles sigue pendiente de aprobación."
+      },
+      "fuentes": [
+        {
+          "nombre": "Xataka",
+          "url": "https://www.xataka.com/magnet/crisis-contenedores-ropa-humana-caritas-toledo-reducen-su-recogida-porque-ha-dejado-ser-sostenible"
+        },
+        {
+          "nombre": "Ecosistema Startup",
+          "url": "https://ecosistemastartup.com/caritas-y-humana-retiran-contenedores-de-ropa-en-espana/"
+        },
+        {
+          "nombre": "Yacal (Xataka): Moda re-",
+          "url": "https://www.yacal.es/xataka-crisis-en-los-contenedores-de-ropa-humana-y-caritas-toledo-reducen-su-recogida-porque-ha-dejado-de-ser-sostenible/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-21",
+      "numero": 11,
+      "resumen": "El último fin de semana de campaña, el viernes negro de las bolsas y la hipótesis de Riemann",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-20",
       "numero": 10,
       "resumen": "La audiencia del cara a cara, la declaración de Shenzhen y el ataque ruso contra Kiev",

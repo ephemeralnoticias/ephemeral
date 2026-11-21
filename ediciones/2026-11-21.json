@@ -1,0 +1,477 @@
+{
+  "fecha": "2026-11-21",
+  "numero": 11,
+  "minutos": 6,
+  "titular": "Último fin de semana de campaña, viernes negro en las bolsas y un matemático dice haber resuelto con IA la hipótesis de Riemann.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "1.615.127",
+    "frase": "jóvenes que viven en España podrán votar por primera vez en unas generales el 29N: han cumplido 18 años desde las elecciones del 23 de julio de 2023.",
+    "detalle": "En total están llamados a votar 38.728.356 electores: 35.958.711 residen en España y 2.769.645 en el extranjero. Fuente: INE."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Último fin de semana de campaña: Feijóo, en la plaza de toros de Valencia; Sánchez, en Canarias",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "resumen": "Queda una semana para votar y los partidos preparan sus actos más grandes. Feijóo (PP) celebra a mediodía en la plaza de toros de Valencia el mitin más multitudinario de su campaña. Sánchez (PSOE) pasa el día en Tenerife y Gran Canaria. Abascal (Vox) está en Sevilla y Alicante, y el Frente Amplio reúne en Barcelona a Ada Colau y Yolanda Díaz.",
+      "porque": "los actos del último fin de semana sirven para movilizar a los votantes propios, y a partir del martes ya no se podrán publicar encuestas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Feijóo. El PP abre las puertas de la plaza a las 10:30 y aspira a reunir a unas 14.000 personas, según El Debate. Le acompaña el presidente de la Generalitat Valenciana, Juanfran Pérez Llorca. El viernes, en Tenerife, Feijóo criticó «la desgana, la mentira y los silencios» de Sánchez en el cara a cara. El domingo estará en Murcia.",
+          "Sánchez. Tiene un acto en Tenerife por la mañana y otro en Las Palmas de Gran Canaria por la tarde, además de una entrevista en la radio. Ha dicho que salió «satisfecho» del debate porque transcurrió como él quería, y ha calificado de «propaganda electoral» las encuestas que dan mayoría al PP.",
+          "El resto. Santiago Abascal (Vox) da un mitin en Sevilla, en el Muelle de la Sal, y otro en Alicante. Ada Colau (Frente Amplio) comparte acto en Barcelona con Yolanda Díaz, Ernest Urtasun y Emilio Delgado. Ione Belarra (Podemos) está en Murcia. En Las Rozas (Madrid), Isabel Díaz Ayuso y José María Aznar (PP) intervienen en un mitin."
+        ],
+        "claves": [
+          "Queda una semana para el 29N",
+          "Feijóo: plaza de toros de Valencia",
+          "Sánchez: Tenerife y Gran Canaria"
+        ],
+        "ahora": "El lunes 23 hay debate en RTVE con portavoces de ocho partidos. La campaña termina el viernes 27 a medianoche."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): agenda del día 9",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/21/dia-9-de-campana-sanchez-a-canarias-feijoo-a-valencia-y-yolanda-diaz-reaparece-con-colau/"
+        },
+        {
+          "nombre": "Infobae: Feijóo y Sánchez tras el debate",
+          "url": "https://www.infobae.com/espana/2026/11/21/feijoo-critica-la-desgana-la-mentira-y-los-silencios-de-sanchez-en-el-debate-y-este-afirma-que-salio-satisfecho-del-cara-a-cara-porque-transcurrio-como-el-queria/"
+        },
+        {
+          "nombre": "El Debate: horario del mitin de Valencia",
+          "url": "https://www.eldebate.com/espana/comunidad-valenciana/20261120/horario-prevision-tiempo-mitin-feijoo-valencia_483148.html"
+        },
+        {
+          "nombre": "El Español: directo de la campaña",
+          "url": "https://www.elespanol.com/espana/20261121/elecciones-generales-directo-ultima-hora-pedro-sanchez-encuestas-sondeos-actos-psoe-pp-vox-feijoo-voto-correo-2026/1003744467282_10.html"
+        },
+        {
+          "nombre": "Vozpópuli: directo de la campaña",
+          "url": "https://www.vozpopuli.com/espana/elecciones-generales-del-29-n-en-directo-sanchez-feijoo-abascal-encabezan-los-mitines-de-este-sabado.html"
+        },
+        {
+          "nombre": "EFE (vía Infobae): previsiones del sábado",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/20/sabado-21-de-noviembre-de-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-plaza.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Las encuestas entran en su última semana: el lunes es el último día para publicarlas",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa"
+      ],
+      "resumen": "La ley electoral prohíbe publicar sondeos en los cinco días anteriores a la votación, así que el lunes 23 es el último día para hacerlo. La media de encuestas sitúa primero al PP, con el PSOE recortando distancia en algunos estudios, y la suma de PP y Vox en torno a la mayoría absoluta, que está en 176 escaños.",
+      "porque": "las encuestas influyen en cómo vota mucha gente, por ejemplo en el llamado voto útil, y son la última foto pública antes del 29N.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La media. Según el promedio de Demócrata, con 17 institutos y datos a 19 de noviembre, el PP tendría el 31,3% de los votos, el PSOE el 27,5%, Vox el 19% y el Frente Amplio el 6,2%.",
+          "Las diferencias. El sondeo de 40dB para El País daba 131 escaños al PP y 119 al PSOE. Sigma Dos (El Mundo) y GAD3 (ABC) calculaban una media de 199 escaños para PP y Vox juntos. El CIS del 12 de noviembre, en cambio, situaba primero al PSOE, con el 33,3% de los votos.",
+          "Los más jóvenes. Según el CIS, recogido por Infobae, entre los votantes de 18 a 24 años la intención directa de voto es: Vox, 22,1%; PSOE, 19%; PP, 12,2%. Un 17,1% no ha decidido."
+        ],
+        "claves": [
+          "PP, primero en la media",
+          "PP + Vox, en torno a 176 escaños",
+          "Último día para publicar: lunes 23"
+        ],
+        "ahora": "Del martes 24 al domingo 29 no se podrán publicar encuestas en España."
+      },
+      "fuentes": [
+        {
+          "nombre": "Demócrata: media de encuestas",
+          "url": "https://www.democrata.es/encuestas/elecciones-generales/encuesta-encuestas-resultado-elecciones-generales-29n/"
+        },
+        {
+          "nombre": "Público: 40dB, Sigma Dos y GAD3",
+          "url": "https://www.publico.es/politica/partidos/oleada-encuestas-pronostica-victoria-pp-mayoria-absoluta-bloque-derechas.html"
+        },
+        {
+          "nombre": "Maldita.es: el CIS del 12 de noviembre",
+          "url": "https://maldita.es/desinfo/20261117/bulos-desinformaciones-elecciones-29-noviembre-2026/"
+        },
+        {
+          "nombre": "Infobae: último día y voto joven",
+          "url": "https://www.infobae.com/espana/2026/11/21/elecciones-generales-29-n-en-directo-comienza-el-voto-presencial-en-consulados-para-los-espanoles-que-viven-en-el-extranjero/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-sondeo.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Viernes negro en Wall Street: el Nasdaq borra lo ganado en 2026 y Nvidia se hunde un 14%",
+      "partidos": [],
+      "resumen": "El índice tecnológico Nasdaq cayó el viernes un 5,3% y cerró su peor semana desde la pandemia, ya sin nada de lo que había subido este año. El S&P 500 y el Dow Jones entraron en «corrección», es decir, más de un 10% por debajo de sus máximos. Nvidia perdió un 14% tras informar Reuters de que la SEC, el regulador bursátil de EE. UU., examina su contabilidad.",
+      "porque": "las empresas de inteligencia artificial pesan mucho en los fondos de inversión y planes de pensiones, también en los de muchos ahorradores españoles.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Nvidia. Cerró a 125,53 dólares, un 14,01% menos. Según Reuters, que cita a dos personas conocedoras del asunto, la SEC examina posibles problemas contables; no hay acusaciones formales y el regulador no ha confirmado el alcance. En toda la semana, Nvidia cayó un 23%, su peor semana desde 2008. Otros fabricantes de chips, como Broadcom y Micron, perdieron más de un 12% el viernes.",
+          "Anthropic. La empresa que desarrolla el asistente Claude cayó un 8,5% en su segundo día en bolsa, hasta 88,91 dólares. Sigue por encima de los 83 dólares de su salida.",
+          "España. El Ibex 35 bajó un 1,63% el viernes, hasta 18.873,1 puntos, y perdió un 5,73% en la semana, su segunda peor del año. En Europa, el DAX alemán cayó un 2,60% y el CAC 40 francés, un 1,89%."
+        ],
+        "claves": [
+          "Nasdaq: −5,3% el viernes",
+          "Nvidia: −14%",
+          "Ibex: −5,73% en la semana"
+        ],
+        "ahora": "Las bolsas reabren el lunes. El jueves 26, Wall Street cierra por Acción de Gracias."
+      },
+      "fuentes": [
+        {
+          "nombre": "Yahoo Finanzas: el desplome",
+          "url": "https://es-us.finanzas.yahoo.com/noticias/wall-street-desploma-s-p-043626753.html"
+        },
+        {
+          "nombre": "Expansión MX: los chips",
+          "url": "https://expansion.mx/mercados/2026/11/20/viernes-negro-acciones-tecnologicas-wall-street-peor-racha"
+        },
+        {
+          "nombre": "KuCoin: la investigación de la SEC",
+          "url": "https://www.kucoin.com/es/news/flash/nvidia-stock-crashes-14-amid-sec-accounting-probe"
+        },
+        {
+          "nombre": "The Motley Fool: la peor semana desde 2008",
+          "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+        },
+        {
+          "nombre": "EFE (vía MVS): Anthropic",
+          "url": "https://mvsnoticias.com/economia/2026/11/20/anthropic-baja-85-en-su-segundo-dia-en-la-bolsa-de-wall-street-754251.html"
+        },
+        {
+          "nombre": "El Boletín: Ibex y Europa",
+          "url": "https://www.elboletin.com/el-ibex-35-firma-su-peor-semana-desde-marzo-con-una-caida-del-573-y-cinco-sesiones-en-rojo/"
+        },
+        {
+          "nombre": "ON Economía: segunda peor semana",
+          "url": "https://www.elnacional.cat/oneconomia/es/mercados/ibex-35-desploma-57-segunda-peor-semana-ano_1728947_102.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-desplome.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "El ataque ruso del viernes alcanzó las embajadas de Austria y Países Bajos en Kiev",
+      "partidos": [],
+      "resumen": "El ataque con más de 400 drones y 110 misiles que Rusia lanzó en la madrugada del viernes contra Ucrania dejó al menos ocho muertos, seis en Kiev y dos en Leópolis, y unos 24 heridos. Francia ha pedido una reunión urgente del Consejo de Seguridad de la ONU y ha confirmado que las embajadas de Austria y Países Bajos resultaron alcanzadas.",
+      "porque": "es uno de los mayores ataques de la guerra y llega justo después de la cumbre de China en la que Trump, Xi y Putin hablaron de paz.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué dice Rusia. El Ministerio de Defensa ruso habla de un «ataque masivo» contra instalaciones militares y energéticas, puertos de la región de Odesa e infraestructuras de transporte de Kiev. Lo presenta como respuesta a los ataques ucranianos contra el puente que une Crimea con Rusia.",
+          "Qué dice Ucrania. Volodímir Zelenski aseguró que 27 de los misiles eran balísticos y vinculó el ataque a las reuniones de Putin en China, que calificó de poco fructíferas. Pidió que se cumplan los acuerdos de defensa antiaérea.",
+          "Qué dice Europa. El ministro francés de Exteriores, Jean-Noël Barrot, afirmó que Rusia tendrá que rendir cuentas ante el Consejo de Seguridad. Por su parte, la embajada rusa en Países Bajos pidió a La Haya que se tome en serio su recomendación de que los diplomáticos extranjeros salgan de Kiev.",
+          "Y Trump. El presidente de EE. UU. dijo el viernes en la Casa Blanca que hay una posibilidad considerable de acuerdo y que Putin está dispuesto a terminar la guerra, pero evitó hablar de garantías de seguridad para Ucrania."
+        ],
+        "claves": [
+          "Al menos 8 muertos",
+          "Más de 400 drones y 110 misiles",
+          "Francia pide reunir a la ONU"
+        ],
+        "ahora": "No hay fecha para la próxima ronda de negociaciones mediadas por EE. UU."
+      },
+      "fuentes": [
+        {
+          "nombre": "Proceso (France 24): embajadas y ONU",
+          "url": "https://www.proceso.com.mx/internacional/2026/11/20/francia-pide-reunion-consejo-seguridad-ataques-rusos-kiev-384048.html"
+        },
+        {
+          "nombre": "CNN en Español: Rusia y Zelenski",
+          "url": "https://cnnespanol.cnn.com/2026/11/20/mundo/trump-putin-rusia-ataca-ucrania-trax"
+        },
+        {
+          "nombre": "Puranoticia: drones y misiles",
+          "url": "https://puranoticia.pnt.cl/internacional/ataque-ruso-con-mas-de-400-drones-y-110-misiles-deja-al-menos-ocho-muertos"
+        },
+        {
+          "nombre": "Acento Noticias: Trump",
+          "url": "https://acentonoticias.com.mx/principal/trump-ve-posible-acuerdo-con-putin-pero-evita-hablar-de-seguridad-para-ucrania/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-embajadas.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Protestas por la vivienda en media Europa: hoy, en Madrid, Barcelona y Alicante",
+      "partidos": [],
+      "resumen": "Los sindicatos de inquilinas se suman este fin de semana a una jornada europea de protestas con el lema «La vida por encima del beneficio». En Madrid, la marcha sale a las 12:00 de Cibeles hacia la Puerta del Sol, junto a la Marea de Residencias. Hoy hay también manifestaciones en Barcelona y Alicante, y el domingo, una concentración en Valencia.",
+      "porque": "el precio de la vivienda es una de las grandes preocupaciones de los jóvenes, y la protesta llega diez días después de la huelga general por la vivienda del 11 de noviembre.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "En Europa. Las protestas se acordaron el 3 de noviembre en París y, según los organizadores, suman más de 600 acciones en siete países: España, Francia, Italia, Grecia, Portugal, Bélgica y Reino Unido.",
+          "En España. Empezaron el viernes en Zaragoza y también hay convocatoria en Castellón. Los sindicatos defienden su programa «Casas para vivir», una reforma del modelo de vivienda, y piden derogar la Ley de Seguridad Ciudadana, conocida como «ley mordaza». Denuncian además que cuatro personas siguen en prisión provisional tras la huelga del 11N.",
+          "En Madrid. La Marea de Residencias, que agrupa a residentes, familias y trabajadoras, recuerda a las 7.291 personas que, según la plataforma, murieron en residencias sin asistencia sanitaria en la primera ola de la pandemia, y reclama residencias 100% públicas."
+        ],
+        "claves": [
+          "Madrid: 12:00, de Cibeles a Sol",
+          "Más de 600 acciones en 7 países",
+          "Domingo: Valencia"
+        ],
+        "ahora": "El domingo 22 cierra la jornada europea con una concentración en Valencia."
+      },
+      "fuentes": [
+        {
+          "nombre": "Noticias de Navarra: calendario",
+          "url": "https://www.noticiasdenavarra.com/politica/2026/11/19/sindicatos-inquilinas-suman-semana-protesta-11776237.html"
+        },
+        {
+          "nombre": "Press Digital: seis ciudades",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-19/6100545-sindicatos-inquilinas-movilizan-seis-ciudades-protesta-europea-contra-especulacion"
+        },
+        {
+          "nombre": "El Constitucional: países",
+          "url": "https://www.elconstitucional.es/es/nacional/protesta-por-vivienda-vuelve-calles-seis-ciudades-espanolas-se-suman-movilizacion-europea_10398_102.html"
+        },
+        {
+          "nombre": "El Boletín: prisión provisional",
+          "url": "https://www.elboletin.com/los-sindicatos-de-inquilinos-convocan-movilizaciones-en-toda-europa/"
+        },
+        {
+          "nombre": "infoLibre: Marea de Residencias",
+          "url": "https://www.infolibre.es/economia-y-sociedad/residencias/marea-residencias-vuelve-calle-madrid-7-291-victimas-residencias-100-publicas_1_2240583.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-vivienda.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Humana y Cáritas retiran contenedores de ropa: recogerla «ha dejado de ser sostenible»",
+      "partidos": [],
+      "resumen": "Cáritas Diocesana de Toledo está quitando desde finales de octubre sus contenedores rojos de Toledo y Talavera de la Reina. Humana, que tiene más de 5.000 puntos de recogida en España, ya se ha ido de Galicia y Asturias. Las dos organizaciones explican lo mismo: recoger ropa usada ha dejado de ser sostenible.",
+      "porque": "cambia dónde puedes dejar la ropa que ya no usas y muestra el coste oculto de la moda barata.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué. Según Xataka, el sistema funcionaba mientras la ropa donada era de calidad y exportarla salía rentable: cerca del 80% del textil recogido salía de España. La moda ultrarrápida ha llenado los contenedores de prendas peores y los precios de exportación se han hundido.",
+          "Quién debería pagar. La ley de residuos de 2022 obliga a los ayuntamientos a organizar la recogida separada de ropa, directamente o contratando a otra entidad. El sector espera además un decreto que haga pagar a las marcas la gestión de la ropa que venden, que todavía no se ha aprobado.",
+          "Los datos. Humana gestionó en 2025 unas 20.381 toneladas de ropa en España. Según el informe sectorial de Moda re-, el 87% de la ropa usada acabó en el vertedero."
+        ],
+        "claves": [
+          "Humana: más de 5.000 contenedores",
+          "Ya no recoge en Galicia ni Asturias",
+          "87% de la ropa usada, al vertedero"
+        ],
+        "ahora": "Antes de tirar ropa, consulta en tu ayuntamiento qué contenedores siguen activos en tu zona."
+      },
+      "fuentes": [
+        {
+          "nombre": "Xataka",
+          "url": "https://www.xataka.com/magnet/crisis-contenedores-ropa-humana-caritas-toledo-reducen-su-recogida-porque-ha-dejado-ser-sostenible"
+        },
+        {
+          "nombre": "Ecosistema Startup: Toledo y Talavera",
+          "url": "https://ecosistemastartup.com/caritas-y-humana-retiran-contenedores-de-ropa-en-espana/"
+        },
+        {
+          "nombre": "Yacal (Xataka): ley de residuos y Moda re-",
+          "url": "https://www.yacal.es/xataka-crisis-en-los-contenedores-de-ropa-humana-y-caritas-toledo-reducen-su-recogida-porque-ha-dejado-de-ser-sostenible/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-ropa.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Un matemático de Anthropic dice haber demostrado con IA la hipótesis de Riemann",
+      "partidos": [],
+      "resumen": "Levent Alpöge, matemático de Anthropic, publicó el viernes una nota de cuatro páginas en la que dice creer que, trabajando con Claude, la inteligencia artificial de su empresa, ha encontrado una demostración de la hipótesis de Riemann. Es el problema abierto más famoso de las matemáticas, planteado en 1859. La demostración todavía no ha sido aceptada por la comunidad matemática.",
+      "porque": "si se confirma, sería uno de los mayores hitos de la historia de las matemáticas y un salto en lo que la IA puede hacer en la investigación.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué es. La hipótesis dice que todos los ceros «no triviales» de la función zeta de Riemann están sobre una misma línea, la llamada recta crítica. Tiene que ver con cómo se reparten los números primos y es uno de los siete Problemas del Milenio del Instituto Clay, con un premio de un millón de dólares cada uno.",
+          "Qué ha publicado. No hay un artículo escrito para personas. Alpöge ha publicado la demostración en Lean, un programa que comprueba paso a paso los razonamientos matemáticos: son 175.187 archivos. Asegura que el método resuelve también la versión generalizada de la hipótesis.",
+          "Las primeras reacciones. Según Scientific American, matemáticos externos compilaron el código por su cuenta, y Andrew Sutherland, del MIT, situó en «aproximadamente cero» la probabilidad de que haya algo raro. Otros piden prudencia: falta confirmar que lo que comprueba el código es exactamente la hipótesis de Riemann y contar con una explicación que se pueda revisar.",
+          "El premio. Las normas del Instituto Clay exigen que la solución se publique en una revista con revisión de expertos y que pasen al menos dos años con aceptación general."
+        ],
+        "claves": [
+          "Problema abierto desde 1859",
+          "175.187 archivos de Lean",
+          "Aún sin aceptar oficialmente"
+        ],
+        "ahora": "Especialistas en Lean y en teoría de números están revisando el código."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía MVS)",
+          "url": "https://mvsnoticias.com/mundo/2026/11/20/asegura-matematico-resolver-la-hipotesis-de-riemann-junto-a-claude-ia-754282.html"
+        },
+        {
+          "nombre": "BioBioChile: la nota de Alpöge",
+          "url": "https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2026/11/20/matematico-asegura-que-probo-la-hipotesis-de-riemann-gracias-a-claude-llevaba-167-anos-sin-solucion.shtml"
+        },
+        {
+          "nombre": "CASRAI: los archivos de Lean",
+          "url": "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026"
+        },
+        {
+          "nombre": "Nacionale: qué pasa ahora",
+          "url": "https://www.nacionale.com/en/articles/when-will-we-know-riemann-hypothesis-proof-verified-alpoge-claude-lean-what-happens-next"
+        },
+        {
+          "nombre": "OfficeChai: reacciones de matemáticos",
+          "url": "https://officechai.com/ai/how-mathematicians-have-reacted-to-claimed-riemann-hypothesis-proof-by-anthropics-levent-alpoge/"
+        },
+        {
+          "nombre": "Instituto Clay (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Clay_Mathematics_Institute"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-riemann.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "La Voyager 1 ya está a un «día luz» de la Tierra: nada humano había llegado tan lejos",
+      "partidos": [],
+      "resumen": "La sonda Voyager 1 de la NASA, lanzada en 1977, alcanzó el miércoles 18 de noviembre una distancia de un día luz de la Tierra: unos 25.900 millones de kilómetros, lo que recorre la luz en 24 horas. Es el primer objeto fabricado por el ser humano que llega tan lejos.",
+      "porque": "da una idea de la escala del espacio: un mensaje tarda ahora un día entero en llegar a la sonda y otro en volver.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El momento. Ocurrió a las 10:16:07 UTC, las 11:16 en la España peninsular. Le ha costado 49 años, 2 meses y 11 días.",
+          "La llamada. El jueves 19, los controladores de vuelo recibieron una señal de la sonda enviada exactamente 24 horas antes.",
+          "Su historia. Pasó junto a Júpiter en 1979 y Saturno en 1980, tomó en 1990 la famosa foto de la Tierra como «un punto azul pálido» y entró en el espacio interestelar en 2012.",
+          "Su gemela. La Voyager 2 llegará a un día luz en noviembre de 2035, según la NASA."
+        ],
+        "claves": [
+          "25.900 millones de km",
+          "24 horas de ida y 24 de vuelta",
+          "Lanzada en 1977"
+        ],
+        "ahora": "La sonda sigue enviando datos con los pocos instrumentos que mantiene encendidos."
+      },
+      "fuentes": [
+        {
+          "nombre": "NASA Ciencia: qué es un día luz",
+          "url": "https://ciencia.nasa.gov/universo/que-es-un-dia-luz/"
+        },
+        {
+          "nombre": "Hipertextual: hora en España",
+          "url": "https://hipertextual.com/ciencia/voyager-1-un-dia-luz-distancia-tierra/"
+        },
+        {
+          "nombre": "N+: la llamada del jueves",
+          "url": "https://www.nmas.com.mx/ciencia-tecnologia/nuevo-hito-espacial-nave-voyager-1-llega-a-la-asombrosa-distancia-de-un-dia-luz-y-manda-mensaje/"
+        },
+        {
+          "nombre": "Meteored: la distancia",
+          "url": "https://www.meteored.com.ar/noticias/astronomia/la-voyager-1-se-convierte-en-la-primera-sonda-en-estar-a-un-dia-luz-de-la-tierra.html"
+        },
+        {
+          "nombre": "elDiario.es: el viaje",
+          "url": "https://www.eldiario.es/1_d066eb"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-voyager.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Alcaraz busca hoy la final de Turín ante Ben Shelton",
+      "partidos": [],
+      "resumen": "Carlos Alcaraz juega hoy, hacia las 14:30, la semifinal de las Finales ATP de Turín contra el estadounidense Ben Shelton. Llega invicto y sin haber cedido un set: el viernes ganó a Flavio Cobolli por 6-4 y 6-1 en 65 minutos. El partido se puede ver en Movistar Plus+.",
+      "porque": "es el último torneo del año y solo juegan los ocho mejores de la temporada.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El rival. Alcaraz gana 4-1 en sus enfrentamientos, pero Shelton le ganó en el último gran duelo, en el US Open. Es la tercera vez que se cruzan en diez semanas.",
+          "El físico. Alcaraz ha jugado esta semana con una manga de compresión y se hizo una resonancia por unas molestias en el isquiotibial izquierdo, pero ante Cobolli no mostró problemas.",
+          "La otra semifinal. Alexander Zverev y Daniil Medvedev juegan a las 20:30."
+        ],
+        "claves": [
+          "Hoy, hacia las 14:30",
+          "3-0 en grupos, sin ceder sets",
+          "Cara a cara: 4-1"
+        ],
+        "ahora": "La final se juega el domingo 22."
+      },
+      "fuentes": [
+        {
+          "nombre": "Eurosport: horario y TV",
+          "url": "https://www.eurosport.es/tenis/atp-finals-1/2026/carlos-alcaraz-ben-shelton-previa-cara-a-cara-semifinales-hoy_sto23357175/story.shtml"
+        },
+        {
+          "nombre": "El Periódico de Ceuta: 14:30",
+          "url": "https://www.elperiodicodeceuta.es/alcaraz-y-shelton-reeditaran-en-las-semifinales-de-las-atp-finals-de-turin-la-final-de-paris-horario-y-donde-ver-el-partido/"
+        },
+        {
+          "nombre": "Archyde: resultado ante Cobolli y físico",
+          "url": "https://www.archyde.com/alcaraz-vs-shelton-atp-finals-semifinal-schedule-and-how-to-watch-live/"
+        },
+        {
+          "nombre": "La Nación: cuadro de semifinales",
+          "url": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-el-cuadro-de-semifinales-del-atp-finals-2026-nid20112026/"
+        },
+        {
+          "nombre": "Yahoo Sports: tercer duelo en diez semanas",
+          "url": "https://sports.yahoo.com/articles/carlos-alcaraz-vs-ben-shelton-143018107.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-semifinal.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Black Friday: los españoles prevén gastar algo menos que el año pasado",
+      "partidos": [],
+      "resumen": "El Black Friday es el viernes 27, dos días antes de las elecciones. Según la encuesta de la OCU, el 76% de los españoles piensa comprar algo y el gasto medio previsto es de 209 euros, diez menos que el año pasado. NTT Data calcula 175 euros por comprador para el fin de semana de ofertas, frente a 182 en 2025.",
+      "porque": "es la campaña de compras más fuerte antes de Navidad, y conviene saber cómo detectar descuentos falsos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué se compra. Según la OCU, el 58% piensa comprar ropa, calzado o complementos, y el 39%, electrónica. Un 16% planea gastar 500 euros o más. Webloyalty prevé que el gasto online entre el Black Friday y el Cyber Monday baje un 9%, hasta 370 euros, y lo atribuye en parte a las elecciones.",
+          "La sospecha. El 70% de los encuestados por la OCU cree que las tiendas suben los precios antes del Black Friday para que el descuento parezca mayor.",
+          "Lo que dice la ley. En España, cuando una tienda anuncia una rebaja, el precio anterior que muestra debe ser el más bajo que haya tenido en los 30 días previos.",
+          "Ojo con las previsiones. La propia OCU recuerda que se suele gastar menos de lo previsto: en 2025, el gasto real fue de 196 euros de media."
+        ],
+        "claves": [
+          "Viernes 27 de noviembre",
+          "OCU: 209 € de gasto previsto",
+          "Precio de referencia: el más bajo de 30 días"
+        ],
+        "ahora": "El Cyber Monday, centrado en las compras por internet, es el lunes 30."
+      },
+      "fuentes": [
+        {
+          "nombre": "OCU: encuesta",
+          "url": "https://www.ocu.org/consumo-familia/compras-online/noticias/gasto-black-friday"
+        },
+        {
+          "nombre": "El Cronista: sospecha de subidas",
+          "url": "https://www.cronista.com/espana/economia-finanzas/el-70-de-los-espanoles-sospecha-que-las-tiendas-suben-los-precios-antes-del-black-friday-que-revela-la-nueva-encuesta-de-la-ocu/"
+        },
+        {
+          "nombre": "La7TV: informe de NTT Data",
+          "url": "https://www.la7tv.es/economia-y-empresas/economia/consumidores-recortan-175-E-gasto-previsto-black-friday/20261121093542076018.html"
+        },
+        {
+          "nombre": "Revista Empresarial: Webloyalty",
+          "url": "https://revistaempresarial.com/marketing/e-commerce/black-friday-2026-en-espana-el-efecto-29-n-modera-el-gasto/"
+        },
+        {
+          "nombre": "BOE: Ley de Ordenación del Comercio Minorista",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1072"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-21-blackfriday.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, las papeletas del Senado que llegan a casa ya marcadas no son un fraude",
+    "texto": "Circulan mensajes que alertan de que «están llegando a las casas papeletas con las casillas marcadas» para el Senado, como si fuera una prueba de fraude. Según Newtral, es propaganda electoral: la Junta Electoral Central permite a los candidatos imprimir papeletas ya marcadas y a los votantes usarlas. En el Senado no se vota una lista cerrada, sino que se marcan con una cruz hasta tres candidatos.",
+    "verificador": "Newtral",
+    "url": "https://www.newtral.es/papeleta-marcada-senado/20261118/",
+    "nota": "Puedes usar la papeleta que te llega o marcar tú hasta tres candidatos en la papeleta sepia del colegio (menos en las islas, Ceuta y Melilla)"
+  }
+}
