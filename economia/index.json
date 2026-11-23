@@ -1,6 +1,11 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-23",
+      "numero": 6,
+      "titular": "Las bolsas buscan un respiro tras la peor semana del Nasdaq desde 2020, mientras Asia sigue cayendo y Trump pide a Nvidia que readmita a Huang."
+    },
+    {
       "fecha": "2026-11-21",
       "numero": 5,
       "titular": "Viernes negro en las bolsas: el Nasdaq borra su año, Nvidia cae un 14% y el Ibex firma su segunda peor semana de 2026."

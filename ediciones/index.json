@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-23",
+      "numero": 12,
+      "resumen": "Último día de encuestas, el debate a ocho, Alcaraz maestro y Márquez décimo",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-21",
       "numero": 11,
       "resumen": "El último fin de semana de campaña, el viernes negro de las bolsas y la hipótesis de Riemann",

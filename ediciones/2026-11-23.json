@@ -1,0 +1,444 @@
+{
+  "fecha": "2026-11-23",
+  "numero": 12,
+  "minutos": 6,
+  "titular": "Último día de encuestas y debate a ocho esta noche; Alcaraz, maestro en Turín, y Márquez, campeón por décima vez.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "deportes",
+    "cifra": "28 años",
+    "frase": "llevaba España sin un campeón de la Copa de Maestros: Alcaraz es el tercer español que la gana, tras Manuel Orantes y Àlex Corretja.",
+    "detalle": "Corretja la ganó en 1998. Alcaraz, que perdió la final de 2025 ante Jannik Sinner, ha ganado los cinco partidos que ha jugado esta semana en Turín."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Último día de encuestas: casi todas dan ganador al PP y mayoría a PP y Vox",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox"
+      ],
+      "resumen": "Hoy es el último día en que se pueden publicar sondeos antes del 29N: la ley lo prohíbe del 24 al 28 de noviembre. Las encuestas publicadas esta mañana sitúan primero al PP y dan a PP y Vox juntos más de los 176 escaños de la mayoría absoluta, aunque varían mucho en la distancia entre el PP y el PSOE.",
+      "porque": "es la última foto pública de la intención de voto antes de las elecciones del domingo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "40dB (El País y la SER). El PP queda nueve décimas por delante del PSOE. Le asigna 130 escaños (dos de ellos de la candidatura UPN-PP), 124 al PSOE y 57 a Vox. PP, Vox y UPN sumarían 187.",
+          "Sigma Dos (El Mundo). PP, 31,5%; PSOE, 28%; Vox, 18,3%. PP y Vox sumarían entre 183 y 194 diputados.",
+          "IMOP (El Confidencial). PP, 31,7%; PSOE, 27,4%; Vox, 18,3%. La suma de PP y Vox llega a 195 escaños, y los partidos que apoyaron la investidura de Sánchez en 2023 se quedarían en 152.",
+          "Trackings diarios. DATA10 (OKDIARIO) da 130 escaños al PP, 113 al PSOE y 64 a Vox; el PSOE ha recortado diez escaños de distancia en dos días. NC Report (La Razón) da 127-131 al PP, 108-111 al PSOE y 59-63 a Vox."
+        ],
+        "claves": [
+          "Último día para publicar sondeos",
+          "PP, primero en todos",
+          "PP + Vox, por encima de 176"
+        ],
+        "ahora": "Desde mañana y hasta el domingo no se pueden publicar encuestas en España."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): último día de sondeos",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/hoy-sera-noticia-lunes-23-de-noviembre/"
+        },
+        {
+          "nombre": "Demócrata: 40dB",
+          "url": "https://www.democrata.es/encuestas/elecciones-generales/tracking-encuesta-29n-hoy-40db-23-noviembre-2026/"
+        },
+        {
+          "nombre": "Qué!: Sigma Dos",
+          "url": "https://www.que.es/2026/11/23/encuesta-elecciones-generales-29n/"
+        },
+        {
+          "nombre": "Demócrata: IMOP",
+          "url": "https://www.democrata.es/encuestas/elecciones-generales/imop-pp-vox-195-escanos-29n/"
+        },
+        {
+          "nombre": "Demócrata: DATA10",
+          "url": "https://www.democrata.es/encuestas/elecciones-generales/elecciones-generales-tracking-data10-29n-pp-psoe-194-escanos/"
+        },
+        {
+          "nombre": "Diario Crítico: NC Report",
+          "url": "https://www.diariocritico.com/nacional/ultimo-dia-de-encuestas-antes-de-las-elecciones"
+        },
+        {
+          "nombre": "ElNacional.cat: resumen de sondeos",
+          "url": "https://www.elnacional.cat/es/politica/llega-recta-final-campana-con-mayoria-pp-vox-granitica-segun-ultimas-encuestas_1729472_102.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-hemiciclo.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Debate a ocho esta noche en La 1, tras un domingo de mítines cruzados en Murcia",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "erc",
+        "junts",
+        "podemos"
+      ],
+      "resumen": "RTVE emite hoy a las 22:00 un debate con los portavoces de ocho partidos con grupo en el Congreso, moderado por Xabier Fortes. Sánchez y Feijóo no participan. Ayer, en el último domingo de campaña, los dos dieron mítines en Murcia separados por media hora.",
+      "porque": "es el único debate de la campaña en el que están los partidos nacionalistas, que pueden ser decisivos para formar Gobierno.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Quién participa. Ester Muñoz (PP), Patxi López (PSOE), Pepa Millán (Vox), Emilio Delgado (Frente Amplio), Gabriel Rufián (ERC), Míriam Nogueras (Junts), Oskar Matute (EH Bildu) y Maribel Vaquero (PNV).",
+          "Cómo será. Durará hora y media, con bloques sobre vivienda y estado del bienestar, y sobre economía, empleo e infraestructuras. Se emite en La 1, el Canal 24 Horas, RNE y RTVE Play.",
+          "El domingo en Murcia. Feijóo (PP) dio un mitin a las 12:00 en la plaza del Cardenal Belluga con Fernando López Miras. Sánchez (PSOE) celebró el suyo media hora antes, con mucho público joven: según EFE, el PSOE busca conservar en la Región un escaño que podría ir a parar a Vox.",
+          "El resto. Santiago Abascal (Vox) estuvo en Zaragoza; Ada Colau (Frente Amplio), en Las Palmas de Gran Canaria, e Irene Montero (Podemos) y Gabriel Rufián (ERC), juntos en Barcelona."
+        ],
+        "claves": [
+          "Hoy, 22:00, La 1",
+          "8 portavoces, sin Sánchez ni Feijóo",
+          "Moderador: Xabier Fortes"
+        ],
+        "ahora": "El miércoles 26 hay otro debate, a cuatro. La campaña termina el viernes 27 a medianoche."
+      },
+      "fuentes": [
+        {
+          "nombre": "FormulaTV: hora y cadenas",
+          "url": "https://www.formulatv.com/noticias/rtve-reune-ocho-partidos-debate-electoral-138818/"
+        },
+        {
+          "nombre": "Neeo: participantes y bloques",
+          "url": "https://www.neeo.es/2026/11/21/rtve-organiza-el-debate-a-ocho-de-los-portavoces-parlamentarios-de-las-elecciones-generales/"
+        },
+        {
+          "nombre": "Demócrata: los ocho portavoces",
+          "url": "https://www.democrata.es/elecciones-generales-espana/calendario-debates-electorales-29n-fechas-candidatos-horarios-donde-verlos/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): agenda del día 10",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/dia-10-de-campana-sanchez-y-feijoo-en-murcia-abascal-en-zaragoza-y-colau-en-canarias/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): el PSOE en Murcia",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/dia-10-el-psoe-agita-el-voto-joven-en-murcia-para-consolidar-un-escano-en-juego-con-vox/"
+        },
+        {
+          "nombre": "Vozpópuli: hora y lugar de Feijóo",
+          "url": "https://www.vozpopuli.com/espana/elecciones-generales-del-29-n-en-directo-sanchez-feijoo-abascal-y-colau-afrontan-el-decimo-dia-de-campana-.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-atriles.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Las bolsas intentan rebotar tras la peor semana del Nasdaq desde 2020; Trump pide a Nvidia que readmita a Huang",
+      "partidos": [],
+      "resumen": "Los futuros de Wall Street, que anticipan la apertura, subían esta mañana: un 3% los del Nasdaq 100 y un 2% los del S&P 500. El Ibex 35 abrió con una subida del 0,26%, hasta 18.922 puntos. En Asia, en cambio, la bolsa de Seúl llegó a caer casi un 6% antes de recortar pérdidas.",
+      "porque": "después de una semana de fuertes caídas por las dudas sobre la inteligencia artificial, se mira si el mercado se estabiliza o sigue cayendo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Asia. El Kospi surcoreano llegó a perder un 5,8%, hasta su nivel más bajo en diez meses, y luego moderó la caída a un 2,5%. Corea del Sur reiteró sus planes para estabilizar el mercado; Taiwán endureció las normas sobre ventas en corto y las bolsas chinas suavizaron requisitos de financiación. La bolsa de Tokio estuvo cerrada por festivo.",
+          "Nvidia. Donald Trump pidió en su red social que el consejo de Nvidia vuelva a contratar a Jensen Huang, que dimitió como consejero delegado este mes tras conocerse varias relaciones extramatrimoniales, una de ellas con una mujer vigilada por la inteligencia estadounidense. Días antes, Nvidia había dicho que no tenía intención de readmitirlo. Huang comparecerá voluntariamente el 1 de diciembre ante tres comités de la Cámara de Representantes.",
+          "La investigación. El fiscal general de California ha requerido a Nvidia información para saber si la empresa o Huang facilitaron el paso de chips avanzados o información sensible a China."
+        ],
+        "claves": [
+          "Futuros del Nasdaq: +3%",
+          "Ibex: +0,26% en la apertura",
+          "Kospi: llegó a −5,8%"
+        ],
+        "ahora": "Wall Street abre a las 15:30, hora peninsular. El jueves cierra por Acción de Gracias."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (Reuters): futuros y Asia",
+          "url": "https://www.infobae.com/america/mundo/2026/11/23/los-futuros-estadounidenses-repuntan-mientras-asia-busca-frenar-la-caida-de-las-acciones-vinculadas-a-la-inteligencia-artificial/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): apertura del Ibex",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/el-ibex-35-abre-con-ganancias-del-026-apoyado-en-rebote-de-los-futuros-de-wall-street/"
+        },
+        {
+          "nombre": "Investing.com: el mensaje de Trump",
+          "url": "https://es.investing.com/news/stock-market-news/trump-insta-al-consejo-de-nvidia-a-reincorporar-a-jensen-huang-3939286"
+        },
+        {
+          "nombre": "Demócrata: dimisión e investigaciones",
+          "url": "https://www.democrata.es/economia/trump-reclama-al-consejo-de-nvidia-que-reincorpore-a-jensen-huang/"
+        },
+        {
+          "nombre": "Cointelegraph: la postura de Nvidia",
+          "url": "https://cointelegraph.es/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-rebote.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "La cumbre del clima de Turquía termina sin acuerdo por los combustibles fósiles",
+      "partidos": [],
+      "resumen": "La COP31 de Antalya terminó ayer sin aprobar su acuerdo principal, el llamado Pacto de Antalya. El texto final no mencionaba los combustibles fósiles, la principal causa del calentamiento global, y varios países lo rechazaron. Tras dos días de prórroga, ha sido la cumbre del clima más larga hasta ahora.",
+      "porque": "las cumbres anuales de la ONU marcan el ritmo de la lucha contra el cambio climático, y esta vez casi 200 países no han logrado ponerse de acuerdo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Quién se opuso. La Unión Europea, Panamá, las Islas Marshall y Noruega estuvieron entre quienes rechazaron el texto por no incluir el abandono del carbón, el petróleo y el gas.",
+          "Qué se aprobó. Por separado, los países acordaron tres años más de trabajo sobre la llamada transición justa. Quedó fuera la cifra de 120.000 millones de dólares para adaptación que se había discutido.",
+          "La reacción. El secretario general de la ONU, António Guterres, se mostró «profundamente decepcionado»."
+        ],
+        "claves": [
+          "Sin Pacto de Antalya",
+          "Dos días de prórroga",
+          "La UE rechazó el texto"
+        ],
+        "ahora": "Las cumbres del clima de la ONU se celebran cada año: la próxima será dentro de un año."
+      },
+      "fuentes": [
+        {
+          "nombre": "Noticias ONU",
+          "url": "https://news.un.org/es/story/2026/11/1542199"
+        },
+        {
+          "nombre": "CNN en Español: quién se opuso",
+          "url": "https://cnnespanol.cnn.com/2026/11/22/clima-y-tiempo/cop31-fracaso-acuerdo-climatico-trax"
+        },
+        {
+          "nombre": "Yahoo Noticias (AFP): Guterres",
+          "url": "https://es-us.noticias.yahoo.com/fracasa-cop31-concluy%C3%B3-acuerdo-combustibles-041041267.html"
+        },
+        {
+          "nombre": "Fomoera: transición justa y adaptación",
+          "url": "https://fomoera.com/cop31-sin-pacto-combustibles-fosiles/"
+        },
+        {
+          "nombre": "Reto Diario: la COP más larga",
+          "url": "https://retodiario.com/internacional/2026/11/22/cop31-termina-sin-acuerdo-sobre-combustibles-fosiles-tras-intensas-negociaciones"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-cop31.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Al menos 15 muertos en bombardeos rusos sobre la región de Kiev",
+      "partidos": [],
+      "resumen": "Los bombardeos rusos del domingo sobre localidades cercanas a Kiev dejaron al menos 15 muertos, según Euronews. En Dimer, un ataque destruyó parcialmente un edificio de viviendas de cinco plantas donde murieron siete personas, y los equipos de rescate siguen buscando a vecinos bajo los escombros. El Consejo de Seguridad de la ONU celebra hoy una nueva sesión sobre Ucrania.",
+      "porque": "es el segundo ataque grave en tres días contra la zona de la capital, y llega mientras EE. UU. dice ver posible un acuerdo de paz.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. La agencia alemana DW habló el domingo de al menos 12 muertos; la cifra subió a 15 este lunes, según Euronews.",
+          "Las reacciones. El defensor de los derechos humanos de Ucrania, Dmitro Lubinets, calificó el ataque como parte de la «guerra genocida» de Rusia. El primer ministro ucraniano informó de que Rusia también atacó una subestación eléctrica en la región de Dnipropetrovsk.",
+          "Hoy. Además de la sesión del Consejo de Seguridad, Volodímir Zelenski intervendrá por videoconferencia ante la Asamblea Parlamentaria de la OTAN, reunida en Berlín."
+        ],
+        "claves": [
+          "Al menos 15 muertos",
+          "Edificio derrumbado en Dimer",
+          "Consejo de Seguridad, hoy"
+        ],
+        "ahora": "Los equipos de rescate siguen trabajando en Dimer."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: 15 muertos",
+          "url": "https://es.euronews.com/2026/11/23/al-menos-15-muertos-en-la-region-de-kiev-tras-una-oleada-de-bombardeos-rusos-contra-edific"
+        },
+        {
+          "nombre": "BioBioChile (DW): Dimer",
+          "url": "https://www.biobiochile.cl/noticias/internacional/deutsche-welle/2026/11/23/ucrania-al-menos-12-muertos-en-bombardeos-rusos-sobre-region-de-kiev.shtml"
+        },
+        {
+          "nombre": "EFE (vía Infobae): Consejo de Seguridad",
+          "url": "https://www.infobae.com/america/agencias/2026/11/23/lunes-23-de-noviembre-de-2026-0200-gmt/"
+        },
+        {
+          "nombre": "EFE (vía Unitel): Asamblea de la OTAN",
+          "url": "https://unitel.bo/noticias/agencias/lunes-23-de-noviembre-de-2026-0200-gmt-KH24989201"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-dymer.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Los jueces de Madrid debaten si juntar en una sola causa las muertes en residencias durante la pandemia",
+      "partidos": [],
+      "resumen": "La Audiencia Provincial de Madrid celebra hoy a las 11:00 una junta de jueces para unificar criterios sobre el llamado caso residencias. Debe decidir si las investigaciones se agrupan en una única macrocausa o siguen separadas. La decisión se conocerá en los próximos días.",
+      "porque": "las familias de los fallecidos esperan desde hace más de cinco años saber cómo se investigará lo ocurrido en la primera ola de la pandemia.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "De qué se trata. Según el Tribunal Superior de Justicia de Madrid, hay más de medio centenar de procedimientos abiertos en juzgados madrileños por la posible discriminación en el acceso a la sanidad de residentes mayores y enfermos graves durante la pandemia.",
+          "Criterios distintos. En abril, la Sección Primera de la Audiencia rechazó agrupar más de una veintena de procedimientos en el Juzgado de Instrucción 3 de Madrid. En julio, la Sección Séptima ordenó lo contrario en un caso concreto, para evitar resoluciones contradictorias.",
+          "Qué es una junta de jueces. Es una reunión periódica en la que los jueces de una misma especialidad acuerdan cómo interpretar y aplicar las normas, para dar más seguridad jurídica."
+        ],
+        "claves": [
+          "Hoy, 11:00",
+          "Más de 50 procedimientos",
+          "Una causa o varias"
+        ],
+        "ahora": "La resolución se conocerá en los próximos días."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la junta de hoy",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/hoy-sera-noticia-lunes-23-de-noviembre/"
+        },
+        {
+          "nombre": "Noticias Jurídicas: decisión de julio",
+          "url": "https://noticias.juridicas.com/actualidad/noticias/21141-la-audiencia-de-madrid-ordena-por-primera-vez-unificar-una-investigacion-sobre-las-residencias-durante-la-pandemia/"
+        },
+        {
+          "nombre": "Poder Judicial: decisión de abril",
+          "url": "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Madrid/Noticias-Judiciales-TSJ-Madrid/ci.-La-Audiencia-de-Madrid-rechaza-unificar-las-causas-por-los-fallecimientos-en-residencias-durante-la-pandemia.formato3"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-justicia.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Una tormenta solar dio a la Tierra cuatro cinturones de radiación durante semanas",
+      "partidos": [],
+      "resumen": "La Tierra tiene normalmente dos grandes cinturones de partículas cargadas a su alrededor, los cinturones de Van Allen. Un estudio europeo muestra que, tras la gran tormenta solar de mayo de 2024, llegó a haber cuatro durante varias semanas. Lo detectó el satélite europeo PROBA-V.",
+      "porque": "estas partículas pueden dañar la electrónica de los satélites de los que dependen el GPS, las comunicaciones o la previsión del tiempo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué pasó. La tormenta geomagnética del 10 y 11 de mayo de 2024 fue una de las más intensas de las dos últimas décadas, la de las auroras que se vieron desde España. A finales de mayo apareció la configuración de cuatro cinturones, que duró varias semanas antes de volver a la normalidad.",
+          "Quién lo estudia. El trabajo lo lidera Viviane Pierrard, del Real Instituto Belga de Aeronomía Espacial, y se publicó el 16 de noviembre en la revista npj Space Exploration. Los autores reconocen que aún no se entiende qué mecanismos retienen o eliminan esas partículas.",
+          "¿Es peligroso? No para quienes estamos en la superficie: la atmósfera y el campo magnético nos siguen protegiendo."
+        ],
+        "claves": [
+          "De 2 a 4 cinturones",
+          "Tormenta de mayo de 2024",
+          "Satélite PROBA-V"
+        ],
+        "ahora": "Los cinturones de Van Allen se descubrieron en 1958, y aún dan sorpresas."
+      },
+      "fuentes": [
+        {
+          "nombre": "Gizmodo en Español",
+          "url": "https://es.gizmodo.com/la-tierra-tuvo-cuatro-cinturones-de-radiacion-tras-una-tormenta-solar-2000273749"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-cinturones.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Lo que pueden hacer los abejorros con menos de un millón de neuronas",
+      "partidos": [],
+      "resumen": "Dos investigadores repasan en la revista Science lo que se sabe de la inteligencia de los abejorros. Con un cerebro de menos de un millón de neuronas, resuelven problemas nuevos, aprenden observando a sus compañeras y muestran algo parecido al contagio de emociones positivas.",
+      "porque": "obliga a replantear la idea de que hace falta un cerebro grande para comportamientos complejos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Ejemplos. Algunos abejorros empujaron una bola bajo una flor artificial colgada del techo y se subieron a ella para alcanzarla, sin haber sido entrenados para esa secuencia. En un estudio de 2024, 5 de 15 abejorros aprendieron a abrir una caja en dos pasos solo mirando a otros.",
+          "¿Emociones? En otro estudio, los abejorros que veían a una compañera recibir una recompensa se mostraban más dispuestos a acercarse a flores dudosas. Los autores insisten en que esto no prueba emociones ni empatía como las humanas.",
+          "Quiénes firman. Lars Chittka (Queen Mary, Universidad de Londres) y Stanley Heinze (Universidad de Lund, Suecia). Calculan que cartografiar todas las conexiones del cerebro de un abejorro podría llevar una década."
+        ],
+        "claves": [
+          "Menos de un millón de neuronas",
+          "Aprenden mirando a otros",
+          "Publicado en Science"
+        ],
+        "ahora": "El artículo es una revisión de estudios anteriores, no un experimento nuevo."
+      },
+      "fuentes": [
+        {
+          "nombre": "RexMolón: resumen del artículo",
+          "url": "https://www.rexmolon.es/rexmolon-producciones-noticias-de-generacion-de-contenidos-de-divulgacion-cientifica-y-tecnologica-y-de-innovacion-y-desarrollo/la-inteligencia-de-los-abejorros-desafa-lo-que-sabemos-sobre-el-cerebro"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-abejorro.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Alcaraz gana por primera vez la Copa de Maestros tras vencer al número uno, Zverev",
+      "partidos": [],
+      "resumen": "Carlos Alcaraz ganó ayer las Finales ATP de Turín al derrotar al alemán Alexander Zverev, número uno del mundo, por 6-2 y 7-6 (7) en algo más de dos horas. Es su primer título en el torneo que reúne a los ocho mejores de la temporada, y lo ha ganado sin perder ningún partido.",
+      "porque": "es uno de los pocos grandes títulos que le faltaban, y España llevaba 28 años sin ganarlo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El partido. Alcaraz dominó el primer set. En el segundo ganaba 4-2, Zverev empató a 4 y llegó a tener tres bolas de set en el desempate, con 6-3 a su favor, pero Alcaraz las salvó todas.",
+          "La historia. Es el tercer español que gana el torneo, tras Manuel Orantes y Àlex Corretja. El año pasado había perdido la final ante Jannik Sinner.",
+          "El palmarés. Según la agencia AP, Alcaraz se convierte en el cuarto hombre que tiene a la vez el Grand Slam de carrera, es decir, los cuatro grandes, y la Copa de Maestros."
+        ],
+        "claves": [
+          "6-2 y 7-6 (7)",
+          "5 partidos, 5 victorias",
+          "Primer español campeón desde 1998"
+        ],
+        "ahora": "Las Finales ATP son el último torneo de la temporada del circuito masculino."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: tercer español campeón",
+          "url": "https://es.euronews.com/2026/11/22/alcaraz-se-impone-a-zverev-y-entra-en-la-historia"
+        },
+        {
+          "nombre": "La Nación: duración y ranking",
+          "url": "https://www.lanacion.com.ar/deportes/tenis/carlos-alcaraz-ante-alexander-zverev-en-la-final-del-atp-finals-en-turin-nid22112026/"
+        },
+        {
+          "nombre": "Tennisnerd: el desempate",
+          "url": "https://www.tennisnerd.net/news/alcaraz-conquers-turin-to-win-first-atp-finals-title/70806"
+        },
+        {
+          "nombre": "CNN en Español (AP): el palmarés",
+          "url": "https://cnnespanol.cnn.com/2026/11/22/deportes/alcaraz-campeon-atp-finals-zverev-ap"
+        },
+        {
+          "nombre": "TV Azteca: la final de 2025",
+          "url": "https://www.tvazteca.com/aztecadeportes/otros-deportes/atp-finals-2026-quien-es-el-campeon-del-torneo-de-maestros-en-turin-y-como-se-definio-la-final/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-maestro.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Marc Márquez, campeón del mundo de MotoGP por décima vez",
+      "partidos": [],
+      "resumen": "Marc Márquez (Ducati) se proclamó ayer en Portimão campeón del mundo de MotoGP. Es su décimo título mundial y el octavo en la categoría reina. Le bastó con una carrera prudente, sin subir al podio. Ganó el italiano Marco Bezzecchi, por delante de Jorge Martín y Raúl Fernández, en un triplete de Aprilia.",
+      "porque": "culmina una de las grandes remontadas del deporte: hace pocos años, varias operaciones le hicieron pensar en la retirada.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La historia. Con diez títulos, Márquez es el tercer piloto que llega a los dobles dígitos de mundiales, según Motorpasión Moto.",
+          "Más españoles. En Moto2 el título se decidirá en la última carrera de la temporada, entre Manuel González e Izan Guevara.",
+          "LaLiga. El Barça remontó un 0-2 ante el Villarreal y ganó 3-2, y el Atlético venció 0-3 en Getafe."
+        ],
+        "claves": [
+          "10 títulos mundiales",
+          "8 en MotoGP",
+          "Triplete de Aprilia en Portimão"
+        ],
+        "ahora": "Mañana vuelve la Champions: Real Madrid-PSV, a las 21:00."
+      },
+      "fuentes": [
+        {
+          "nombre": "Motorpasión Moto",
+          "url": "https://www.motorpasionmoto.com/motogp/oficial-marc-marquez-se-proclama-campeon-mundo-motogp-decima-vez-portimao"
+        },
+        {
+          "nombre": "Nueva Tribuna: el triplete de Aprilia",
+          "url": "https://www.nuevatribuna.es/cultura---ocio/moto-gp-portimao-2026-decimo-marc-marquez/20261122185152256653.html"
+        },
+        {
+          "nombre": "EFE (vía Infobae): Moto2",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/lunes-23-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "LaLiga: resultados del domingo",
+          "url": "https://www.laliga.com/es-GB"
+        },
+        {
+          "nombre": "UEFA: calendario de Champions",
+          "url": "https://es.uefa.com/uefachampionsleague/news/02a8-21767f6df81a-a97aaf2bf581-1000--champions-league-2026-27-calendario-fechas-horarios-y-re/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-23-moto.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, no hay ladrones del «Instituto Nacional de Estadísticas y Censos» pidiendo tu foto y tu huella",
+    "texto": "Vuelve a circular por WhatsApp una cadena que avisa de que unos «ladrones» van puerta a puerta haciéndose pasar por empleados del «Instituto Nacional de Estadísticas y Censos» para pedir fotos y huellas. Maldita.es explica que ese organismo no existe en España: es el nombre del instituto de estadística argentino. El INE español dijo a Maldita.es que no hace visitas a domicilio para los censos. La cadena circula en varios países desde al menos 2024.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/malditobulo/20261113/se-hacen-pasar-por-empleados-del-instituto-nacional-de-estadistica-y-censos-para-robar-fotos-y-huellas-digitales/",
+    "nota": "Si alguien te pide datos en nombre de un organismo público, compruébalo antes en su web oficial"
+  }
+}

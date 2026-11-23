@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-23",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,34 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-23",
+      "titulo": "Último día de encuestas y debate a ocho",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "erc",
+        "junts",
+        "podemos"
+      ],
+      "texto": "Hoy es el último día en que se pueden publicar sondeos: todos sitúan primero al PP y dan a PP y Vox más de 176 escaños. A las 22:00, La 1 emite un debate con los portavoces de ocho partidos. El domingo, Sánchez y Feijóo dieron mítines en Murcia separados por media hora; Abascal estuvo en Zaragoza y Colau en Las Palmas.",
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): último día de sondeos",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/hoy-sera-noticia-lunes-23-de-noviembre/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): agenda del día 10",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/22/dia-10-de-campana-sanchez-y-feijoo-en-murcia-abascal-en-zaragoza-y-colau-en-canarias/"
+        },
+        {
+          "nombre": "FormulaTV: el debate a ocho",
+          "url": "https://www.formulatv.com/noticias/rtve-reune-ocho-partidos-debate-electoral-138818/"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-21",
       "titulo": "Último fin de semana: la plaza de toros de Valencia y Canarias",

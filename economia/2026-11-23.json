@@ -1,0 +1,450 @@
+{
+  "fecha": "2026-11-23",
+  "numero": 6,
+  "minutos": 14,
+  "titular": "Las bolsas buscan un respiro tras la peor semana del Nasdaq desde 2020, mientras Asia sigue cayendo y Trump pide a Nvidia que readmita a Huang.",
+  "entradilla": "Las noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "−17,4%",
+    "frase": "cae el Kospi, la bolsa de Corea del Sur, en lo que va de noviembre. La de Taiwán pierde un 18,4%.",
+    "detalle": "Las dos dependen mucho de los fabricantes de chips, como Samsung, SK Hynix o TSMC. Fuente: Investing.com, al cierre de la sesión asiática del lunes."
+  },
+  "noticias": [
+    {
+      "tema": "Mercados",
+      "titulo": "Los futuros de Wall Street rebotan tras la peor semana del Nasdaq desde la pandemia",
+      "cifra": {
+        "valor": "+3%",
+        "texto": "subida de los futuros del Nasdaq 100 durante la sesión asiática"
+      },
+      "resumen": "Los futuros de los índices de Wall Street, que anticipan cómo abrirá la bolsa, subían esta mañana: un 3% los del Nasdaq 100, un 2% los del S&P 500 y un 1,6% los del Dow Jones. Llegan después de una semana en la que el Nasdaq cayó cerca de un 10%, su peor semana desde marzo de 2020.",
+      "porque": "tras una caída tan fuerte, los inversores miran si es el comienzo de una recuperación o solo un respiro.",
+      "teAfecta": "Si tienes fondos indexados, un rebote en los futuros no garantiza que la bolsa suba al abrir. Los movimientos de un solo día dicen poco a largo plazo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El viernes. El S&P 500 cayó un 3,7% y entró en corrección; Nvidia perdió un 14% y el índice de semiconductores de Filadelfia, un 10,7%.",
+          "Refugios. Según Bloomberg, la demanda de activos refugio bajó: los futuros de la deuda estadounidense cayeron y el yen se debilitó."
+        ],
+        "claves": [
+          "Nasdaq 100: +3%",
+          "S&P 500: +2%",
+          "Dow Jones: +1,6%"
+        ],
+        "glosario": [
+          {
+            "termino": "Futuros",
+            "definicion": "Contratos que se negocian antes de que abra la bolsa y sirven como pista de cómo empezará la sesión."
+          },
+          {
+            "termino": "Corrección",
+            "definicion": "Caída de más de un 10% desde el último máximo."
+          }
+        ],
+        "ahora": "Wall Street abre a las 15:30, hora peninsular."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (Reuters)",
+          "url": "https://www.infobae.com/america/mundo/2026/11/23/los-futuros-estadounidenses-repuntan-mientras-asia-busca-frenar-la-caida-de-las-acciones-vinculadas-a-la-inteligencia-artificial/"
+        },
+        {
+          "nombre": "Investing.com: el viernes",
+          "url": "https://es.investing.com/news/stock-market-news/153-54-47-la-caida-de-la-ia-en-asia-se-profundiza-3-acciones-elegidas-por-ia-siguen-muy-por-delante-3939357"
+        },
+        {
+          "nombre": "KuCoin: peor semana desde 2020",
+          "url": "https://www.kucoin.com/es/news/flash/us-stock-futures-rebound-as-asian-markets-cope-with-ai-stock-sell-off"
+        },
+        {
+          "nombre": "Bloomberg: refugios",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap"
+        }
+      ]
+    },
+    {
+      "tema": "Asia",
+      "titulo": "La bolsa de Seúl llega a caer casi un 6% y los Gobiernos asiáticos intentan frenar las ventas",
+      "cifra": {
+        "valor": "−5,8%",
+        "texto": "caída máxima del Kospi en la sesión, hasta su nivel más bajo en diez meses"
+      },
+      "resumen": "El Kospi, el índice de la bolsa de Corea del Sur, llegó a perder un 5,8% este lunes, hasta 4.586,8 puntos, y luego redujo la caída a un 2,5%. Las autoridades de varios países asiáticos han anunciado medidas para frenar la caída de las empresas ligadas a la inteligencia artificial.",
+      "porque": "Asia concentra a los grandes fabricantes de chips, la parte de la economía más expuesta a las dudas sobre la IA.",
+      "teAfecta": "Muchos fondos de mercados emergentes tienen mucho peso en Corea y Taiwán. Si inviertes en ellos, se están moviendo mucho este mes.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las medidas. Corea del Sur reiteró sus planes para estabilizar el mercado si es necesario; el regulador de Taiwán endureció las normas sobre ventas en corto, y las bolsas chinas suavizaron los requisitos para comprar acciones con dinero prestado.",
+          "El resto. El Hang Seng de Hong Kong cayó un 1,8%. La bolsa de Tokio estuvo cerrada por festivo."
+        ],
+        "claves": [
+          "Kospi: llegó a −5,8%",
+          "Hang Seng: −1,8%",
+          "Tokio, cerrada"
+        ],
+        "glosario": [
+          {
+            "termino": "Venta en corto",
+            "definicion": "Apostar a que una acción bajará: se vende una acción prestada para recomprarla después más barata."
+          },
+          {
+            "termino": "Financiación con margen",
+            "definicion": "Comprar acciones con dinero prestado por el bróker."
+          }
+        ],
+        "ahora": "Las bolsas asiáticas vuelven a abrir el martes de madrugada, hora española."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (Reuters)",
+          "url": "https://www.infobae.com/america/mundo/2026/11/23/los-futuros-estadounidenses-repuntan-mientras-asia-busca-frenar-la-caida-de-las-acciones-vinculadas-a-la-inteligencia-artificial/"
+        },
+        {
+          "nombre": "Investing.com: caída en noviembre",
+          "url": "https://es.investing.com/news/stock-market-news/153-54-47-la-caida-de-la-ia-en-asia-se-profundiza-3-acciones-elegidas-por-ia-siguen-muy-por-delante-3939357"
+        }
+      ]
+    },
+    {
+      "tema": "Bolsa española",
+      "titulo": "El Ibex 35 abre en verde y recupera los 18.900 puntos",
+      "cifra": {
+        "valor": "+0,26%",
+        "texto": "subida del Ibex 35 en la apertura, hasta 18.922,1 puntos"
+      },
+      "resumen": "La Bolsa española empezó la semana con una subida del 0,26%, hasta 18.922,1 puntos, apoyada en el rebote de los futuros de Wall Street. La semana pasada perdió un 5,73% y encadenó cinco sesiones en rojo. En lo que va de año gana un 9,29%.",
+      "porque": "el Ibex marca cómo van las grandes empresas españolas, y su caída de la semana pasada fue la segunda peor del año.",
+      "teAfecta": "Si tu plan de pensiones o tu fondo invierte en bolsa española, la semana pasada te restó. Un día de subida no lo compensa.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Quién sube y quién baja. En los primeros minutos lideraban las subidas ArcelorMittal (+2,17%), ACS (+1,45%) y Acerinox (+1,44%). Bajaban Telefónica y Cellnex."
+        ],
+        "claves": [
+          "Apertura: +0,26%",
+          "Semana pasada: −5,73%",
+          "En el año: +9,29%"
+        ],
+        "glosario": [
+          {
+            "termino": "Sesión",
+            "definicion": "Un día de negociación en bolsa. En Madrid, de 9:00 a 17:30."
+          }
+        ],
+        "ahora": "La sesión de la Bolsa de Madrid termina a las 17:30."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae)",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/el-ibex-35-abre-con-ganancias-del-026-apoyado-en-rebote-de-los-futuros-de-wall-street/"
+        },
+        {
+          "nombre": "Estrategias de Inversión: valores",
+          "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/el-ibex-35-rebota-con-timidez-por-encima-de-los-n-972401"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Trump pide a Nvidia que vuelva a contratar a Jensen Huang",
+      "cifra": {
+        "valor": "1 de diciembre",
+        "texto": "día en que Huang comparecerá ante tres comités del Congreso de EE. UU."
+      },
+      "resumen": "Donald Trump pidió este lunes en su red social que el consejo de Nvidia vuelva a contratar como consejero delegado a Jensen Huang, cofundador de la empresa. Huang dimitió este mes tras conocerse varias relaciones extramatrimoniales, una de ellas con una mujer vigilada por la inteligencia de EE. UU. por presuntos vínculos con Pekín. Días antes, Nvidia había dicho que no pensaba readmitirlo.",
+      "porque": "Nvidia es la empresa clave de la inteligencia artificial, y la incertidumbre sobre quién la dirige pesa en las bolsas de todo el mundo.",
+      "teAfecta": "Muchos fondos tecnológicos y globales tienen una parte importante en Nvidia. Las noticias sobre su dirección mueven su valor.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué dijo Trump. Que la vuelta de Huang sería «lo mejor» para la empresa y para Estados Unidos. La semana pasada ya había pedido una «segunda oportunidad» para él y dijo que incluso habló del asunto con Xi Jinping.",
+          "Quién dirige ahora. La directora financiera, Colette Kress, ocupa el cargo de forma interina."
+        ],
+        "claves": [
+          "Huang dimitió en noviembre",
+          "Kress, directora interina",
+          "Comparecencia: 1 de diciembre"
+        ],
+        "glosario": [
+          {
+            "termino": "Consejero delegado",
+            "definicion": "La persona que dirige la empresa en el día a día (en inglés, CEO)."
+          }
+        ],
+        "ahora": "Huang comparecerá de forma voluntaria el 1 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Investing.com",
+          "url": "https://es.investing.com/news/stock-market-news/trump-insta-al-consejo-de-nvidia-a-reincorporar-a-jensen-huang-3939286"
+        },
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/economia/trump-reclama-al-consejo-de-nvidia-que-reincorpore-a-jensen-huang/"
+        },
+        {
+          "nombre": "Cointelegraph: la postura de Nvidia",
+          "url": "https://cointelegraph.es/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo"
+        },
+        {
+          "nombre": "Capital",
+          "url": "https://capital.es/empresas/trump-pide-al-consejo-de-administracion-de-nvidia-que-vuelva-a-contratar-a-jensen-huang/237509"
+        }
+      ]
+    },
+    {
+      "tema": "Tecnología y geopolítica",
+      "titulo": "Las investigaciones sobre Nvidia se centran en los chips vendidos a China",
+      "cifra": {
+        "valor": "≈ 880.000",
+        "texto": "chips de IA cuya exportación a empresas chinas autorizó EE. UU., según documentos del Congreso"
+      },
+      "resumen": "Además de la revisión de la SEC sobre su contabilidad, Nvidia afronta otras investigaciones. El fiscal general de California, Rob Bonta, le ha requerido información para saber si la empresa o Huang facilitaron el paso de chips avanzados o información sensible a China, y si se engañó a los inversores sobre esos riesgos.",
+      "porque": "los chips de IA son una pieza clave en la rivalidad tecnológica y militar entre EE. UU. y China.",
+      "teAfecta": "Si la empresa acaba sancionada o con más límites para vender en China, sus ingresos y su valor en bolsa pueden resentirse.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los documentos. El Comité de Asuntos Exteriores de la Cámara de Representantes publicó documentos del Departamento de Comercio que muestran autorizaciones para exportar unos 880.000 chips de IA a empresas chinas vinculadas al sector militar, entre ellas Alibaba, Tencent, Baidu y BYD.",
+          "Las comparecencias. El asesor jurídico de Nvidia, Tim Teter, comparecerá el 30 de noviembre, y Huang, el 1 de diciembre."
+        ],
+        "claves": [
+          "Requerimiento de California",
+          "880.000 chips autorizados",
+          "Comparecencias: 30 nov y 1 dic"
+        ],
+        "glosario": [
+          {
+            "termino": "Requerimiento",
+            "definicion": "Orden de una autoridad para que una empresa o persona entregue documentos o información."
+          }
+        ],
+        "ahora": "Las comparecencias en el Congreso son la próxima semana."
+      },
+      "fuentes": [
+        {
+          "nombre": "Demócrata",
+          "url": "https://www.democrata.es/economia/trump-reclama-al-consejo-de-nvidia-que-reincorpore-a-jensen-huang/"
+        }
+      ]
+    },
+    {
+      "tema": "Materias primas",
+      "titulo": "El petróleo baja y el oro sube",
+      "cifra": {
+        "valor": "92,10 $",
+        "texto": "precio del barril de Brent (−0,5%) en la sesión asiática"
+      },
+      "resumen": "El barril de Brent, el petróleo de referencia en Europa, bajaba un 0,5% esta mañana, hasta 92,10 dólares. El de Texas cedía un 0,3%, hasta 83,13. El oro, en cambio, subía cerca de un 2% tras caer la semana pasada a mínimos de más de un año.",
+      "porque": "el precio del petróleo se nota en la gasolina, los billetes de avión y la inflación; el oro es un termómetro del miedo de los inversores.",
+      "teAfecta": "Un petróleo más barato ayuda a que los carburantes sigan bajando, como en las últimas semanas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El yen. El dólar se acercaba a los 159 yenes, según InvestingLive."
+        ],
+        "claves": [
+          "Brent: 92,10 $",
+          "Texas: 83,13 $",
+          "Oro: +2%"
+        ],
+        "glosario": [
+          {
+            "termino": "Brent",
+            "definicion": "Tipo de petróleo del mar del Norte que sirve de referencia de precio en Europa."
+          }
+        ],
+        "ahora": "El jueves se publica el Boletín Petrolero de la UE, con los precios de los carburantes."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae (Reuters): petróleo",
+          "url": "https://www.infobae.com/america/mundo/2026/11/23/los-futuros-estadounidenses-repuntan-mientras-asia-busca-frenar-la-caida-de-las-acciones-vinculadas-a-la-inteligencia-artificial/"
+        },
+        {
+          "nombre": "InvestingLive: oro y yen",
+          "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-us-futures-hold-2-bounce/"
+        }
+      ]
+    },
+    {
+      "tema": "Clima",
+      "titulo": "La COP31 fracasa: sin acuerdo para dejar los combustibles fósiles",
+      "cifra": {
+        "valor": "44 horas",
+        "texto": "de prórroga, la cumbre del clima más larga hasta ahora"
+      },
+      "resumen": "La cumbre del clima de la ONU en Antalya (Turquía) terminó el domingo sin aprobar su texto principal. El borrador final no mencionaba los combustibles fósiles y la Unión Europea, entre otros, lo rechazó. Quedó fuera también la cifra de 120.000 millones de dólares para ayudar a los países a adaptarse al cambio climático.",
+      "porque": "sin compromisos comunes, cada país decide por su cuenta el ritmo de la transición energética, y eso afecta a la inversión en renovables.",
+      "teAfecta": "La transición energética influye en el precio de la luz, de los coches y de la calefacción. Las decisiones de la UE seguirán marcando el ritmo en España.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Lo que sí salió. Los países aprobaron por separado tres años más de trabajo sobre la «transición justa», la idea de que el cambio de modelo energético no deje atrás a trabajadores y regiones.",
+          "La reacción. António Guterres, secretario general de la ONU, se dijo «profundamente decepcionado»."
+        ],
+        "claves": [
+          "Sin Pacto de Antalya",
+          "120.000 M$ para adaptación, fuera",
+          "La UE rechazó el texto"
+        ],
+        "glosario": [
+          {
+            "termino": "Adaptación",
+            "definicion": "Medidas para protegerse de los efectos del cambio climático, como diques o sistemas de alerta."
+          },
+          {
+            "termino": "COP",
+            "definicion": "Conferencia de las Partes: la cumbre anual de la ONU sobre cambio climático."
+          }
+        ],
+        "ahora": "La próxima cumbre del clima será dentro de un año."
+      },
+      "fuentes": [
+        {
+          "nombre": "Noticias ONU",
+          "url": "https://news.un.org/es/story/2026/11/1542199"
+        },
+        {
+          "nombre": "KCH Comunicación: 44 horas",
+          "url": "https://kchcomunicacion.com/2026/11/22/cop31-cierra-sin-acuerdo-la-cumbre-climatica-mas-larga-fracasa/"
+        },
+        {
+          "nombre": "Fomoera: adaptación",
+          "url": "https://fomoera.com/cop31-sin-pacto-combustibles-fosiles/"
+        },
+        {
+          "nombre": "Yahoo Noticias (AFP)",
+          "url": "https://es-us.noticias.yahoo.com/fracasa-cop31-concluy%C3%B3-acuerdo-combustibles-041041267.html"
+        }
+      ]
+    },
+    {
+      "tema": "Dividendos",
+      "titulo": "Hoy es el último día para comprar acciones de Mapfre con derecho a su dividendo",
+      "cifra": {
+        "valor": "0,08 €",
+        "texto": "dividendo bruto por acción que Mapfre paga el jueves 26"
+      },
+      "resumen": "La aseguradora Mapfre pagará el jueves 26 un dividendo de 0,08 euros brutos por acción a cuenta de 2026, un 14,3% más que el del año anterior. Para cobrarlo hay que tener las acciones al cierre de hoy: desde mañana cotizan sin ese derecho.",
+      "porque": "es el último dividendo del Ibex 35 programado para noviembre, tras los de Inditex y Santander.",
+      "teAfecta": "Comprar justo antes del dividendo no es dinero gratis: el día en que se descuenta, la acción suele bajar más o menos lo mismo que el pago.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las fechas. El 24 es la fecha ex dividendo (la acción cotiza ya sin el derecho) y el 26, la de pago.",
+          "Noviembre. Inditex y Santander pagaron sus dividendos el 2 de noviembre."
+        ],
+        "claves": [
+          "0,08 € brutos",
+          "+14,3%",
+          "Se cobra el jueves 26"
+        ],
+        "glosario": [
+          {
+            "termino": "Dividendo",
+            "definicion": "Parte de los beneficios que una empresa reparte entre sus accionistas."
+          },
+          {
+            "termino": "Fecha ex dividendo",
+            "definicion": "Día desde el que comprar la acción ya no da derecho a cobrar el dividendo."
+          }
+        ],
+        "ahora": "Desde mañana, las acciones de Mapfre cotizan sin el dividendo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Merca2: calendario de BME",
+          "url": "https://www.merca2.es/2026/10/29/dividendos-ibex-35-noviembre-2487054/"
+        },
+        {
+          "nombre": "Finect: fechas",
+          "url": "https://www.finect.com/usuario/eduardogarcia/articulos/dividendos-noviembre-2026-que-empresas-del-ibex-35-pagan"
+        }
+      ]
+    },
+    {
+      "tema": "Elecciones",
+      "titulo": "La economía y la vivienda, protagonistas del debate a ocho de esta noche",
+      "cifra": {
+        "valor": "22:00",
+        "texto": "hora del debate de RTVE con los portavoces de ocho partidos"
+      },
+      "resumen": "El debate que emite hoy La 1 con los portavoces de ocho partidos dedicará sus bloques a la vivienda y el estado del bienestar, y a la economía, el empleo y las infraestructuras. Durará hora y media y lo modera Xabier Fortes.",
+      "porque": "es una de las últimas ocasiones de escuchar a la vez las propuestas económicas de los partidos antes del 29N.",
+      "teAfecta": "Vivienda, impuestos y empleo son los temas que más pueden cambiar tu día a día según quién gobierne.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Quién participa. Ester Muñoz (PP), Patxi López (PSOE), Pepa Millán (Vox), Emilio Delgado (Frente Amplio), Gabriel Rufián (ERC), Míriam Nogueras (Junts), Oskar Matute (EH Bildu) y Maribel Vaquero (PNV)."
+        ],
+        "claves": [
+          "Hoy, 22:00, La 1",
+          "Hora y media",
+          "8 portavoces"
+        ],
+        "glosario": [
+          {
+            "termino": "Estado del bienestar",
+            "definicion": "Servicios y ayudas públicas como sanidad, educación, pensiones o prestaciones por desempleo."
+          }
+        ],
+        "ahora": "También se puede ver en el Canal 24 Horas, RNE y RTVE Play."
+      },
+      "fuentes": [
+        {
+          "nombre": "Neeo: bloques del debate",
+          "url": "https://www.neeo.es/2026/11/21/rtve-organiza-el-debate-a-ocho-de-los-portavoces-parlamentarios-de-las-elecciones-generales/"
+        },
+        {
+          "nombre": "FormulaTV",
+          "url": "https://www.formulatv.com/noticias/rtve-reune-ocho-partidos-debate-electoral-138818/"
+        }
+      ]
+    },
+    {
+      "tema": "Agenda",
+      "titulo": "La semana económica: Acción de Gracias, Black Friday y Nvidia en el Congreso",
+      "cifra": {
+        "valor": "27 nov",
+        "texto": "Black Friday, dos días antes de las elecciones"
+      },
+      "resumen": "Semana corta en Wall Street y cargada de citas. El jueves 26 la bolsa de Nueva York cierra por Acción de Gracias, el viernes 27 es el Black Friday y el lunes 30 empiezan las comparecencias de Nvidia en el Congreso de EE. UU.",
+      "porque": "conviene saber qué días pueden moverse los mercados y cuándo llegan las ofertas.",
+      "teAfecta": "Si vas a comprar en el Black Friday, recuerda que el precio «antes» de una rebaja debe ser el más bajo de los últimos 30 días.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las fechas. Martes 24: Mapfre cotiza sin dividendo. Jueves 26: Wall Street cerrado y Mapfre paga su dividendo. Viernes 27: Black Friday. Domingo 29: elecciones generales. Lunes 30: comparece el asesor jurídico de Nvidia. Martes 1 de diciembre: comparece Jensen Huang."
+        ],
+        "claves": [
+          "Jueves: Wall Street cerrado",
+          "Viernes: Black Friday",
+          "Domingo: 29N"
+        ],
+        "glosario": [
+          {
+            "termino": "Acción de Gracias",
+            "definicion": "Festivo de EE. UU. que se celebra el cuarto jueves de noviembre."
+          }
+        ],
+        "ahora": "El jueves se publica también el Boletín Petrolero de la UE."
+      },
+      "fuentes": [
+        {
+          "nombre": "Merca2: dividendo de Mapfre",
+          "url": "https://www.merca2.es/2026/10/29/dividendos-ibex-35-noviembre-2487054/"
+        },
+        {
+          "nombre": "Demócrata: comparecencias de Nvidia",
+          "url": "https://www.democrata.es/economia/trump-reclama-al-consejo-de-nvidia-que-reincorpore-a-jensen-huang/"
+        },
+        {
+          "nombre": "BOE: Ley de Comercio Minorista",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1072"
+        }
+      ]
+    }
+  ]
+}
