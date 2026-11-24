@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,33 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-24",
+      "titulo": "Sin encuestas hasta el domingo y el debate a ocho, verificado",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "erc",
+        "junts"
+      ],
+      "texto": "Desde hoy no se pueden publicar sondeos. VerificaRTVE ha revisado los datos del debate a ocho del lunes. Sánchez está en Barcelona y Feijóo en Alicante, y por la noche laSexta emite un cara a cara sobre vivienda entre Colau (Frente Amplio) y Albiol (PP). El plazo para entregar el voto por correo termina el jueves a las 14:00. El Supremo ha aplicado la amnistía a Puigdemont por malversación.",
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la agenda del martes",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/hoy-sera-noticia-martes-24-de-noviembre/"
+        },
+        {
+          "nombre": "El Plural: el recuento de VerificaRTVE",
+          "url": "https://www.elplural.com/politica/espana/bulometro-debate-ocho-pepa-millan-ester-munoz-mintieron-mas-nadie_805147102"
+        },
+        {
+          "nombre": "elEconomista: el auto del Supremo",
+          "url": "https://www.eleconomista.es/legal/noticias/14029965/11/26/el-supremo-aplicar-la-amnistia-a-puigdemont-por-malversacion-y-confirma-la-suspension-de-la-orden-de-detencion.html"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-23",
       "titulo": "Último día de encuestas y debate a ocho",

@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-24",
+      "numero": 13,
+      "resumen": "Puigdemont amnistiado, el debate a ocho verificado, Nvidia dispara las bolsas y el 25N",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-23",
       "numero": 12,
       "resumen": "Último día de encuestas, el debate a ocho, Alcaraz maestro y Márquez décimo",

@@ -1,0 +1,428 @@
+{
+  "fecha": "2026-11-24",
+  "numero": 13,
+  "minutos": 6,
+  "titular": "El Supremo amnistía a Puigdemont por malversación, los verificadores repasan el debate a ocho y Nvidia vuelve a disparar las bolsas con el regreso de Huang.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "economia",
+    "cifra": "≈900.000 M$",
+    "frase": "ganó Nvidia en valor de bolsa en una sola sesión, la del lunes, tras subir un 31,48% con la vuelta de Jensen Huang.",
+    "detalle": "Es la mayor subida diaria de la compañía desde 2003. La acción cerró a 165,05 dólares. Fuente: Investing.com."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "El Supremo aplica la amnistía a Puigdemont por malversación y cierra su causa del procés",
+      "partidos": [
+        "junts",
+        "vox"
+      ],
+      "resumen": "El Tribunal Supremo ha aplicado la ley de amnistía al delito de malversación por el que estaban procesados Carles Puigdemont y los exconsellers Toni Comín y Lluís Puig. El auto, del 20 de noviembre, se conoció el lunes. Con él queda confirmada la retirada de la orden de detención en España contra el expresidente catalán.",
+      "porque": "pone fin, ocho años después, a la causa del procés de 2017 contra Puigdemont en el Supremo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué ha decidido el tribunal. La Sala de lo Penal, con Manuel Marchena como ponente, confirma la decisión del juez instructor Pablo Llarena del 3 de noviembre, que dio por terminada la investigación y dejó sin efecto la orden nacional de detención. El Supremo ya no ve obstáculo para amnistiar la malversación.",
+          "Por qué ha cambiado. Hasta ahora, el Supremo sostenía que la malversación de Puigdemont no encajaba en la ley de amnistía. El 6 de octubre, el Tribunal Constitucional avaló que ese delito sí pueda amnistiarse, y el Supremo ha seguido ese criterio.",
+          "La oposición de Vox. Vox, que actúa como acusación popular, pedía esperar a que se pronunciara la justicia europea. El tribunal ha rechazado esa petición.",
+          "Y ahora. Puigdemont, que vive en Waterloo (Bélgica) desde 2017, ha dicho que no volverá a España antes de las elecciones del domingo."
+        ],
+        "claves": [
+          "Auto del 20 de noviembre",
+          "Incluye a Comín y Puig",
+          "Vox pedía esperar a Europa"
+        ],
+        "ahora": "Sin orden de detención en España, Puigdemont podría volver sin ser arrestado."
+      },
+      "fuentes": [
+        {
+          "nombre": "elEconomista: el auto del Supremo",
+          "url": "https://www.eleconomista.es/legal/noticias/14029965/11/26/el-supremo-aplicar-la-amnistia-a-puigdemont-por-malversacion-y-confirma-la-suspension-de-la-orden-de-detencion.html"
+        },
+        {
+          "nombre": "El Nacional: fin de la causa",
+          "url": "https://www.elnacional.cat/es/politica/puigdemont-amnistiado-supremo-finalmente-acaba-su-persecucion-1-o_1728047_102.html"
+        },
+        {
+          "nombre": "La Nación: no volverá antes del 29N",
+          "url": "https://lanacion.com.ar/el-mundo/la-justicia-espanola-amnistia-definitivamente-al-lider-independentista-catalan-puigdemont-nid23112026"
+        },
+        {
+          "nombre": "KCH Comunicación: Comín y Puig",
+          "url": "https://kchcomunicacion.com/2026/11/23/caso-puigdemont-supremo-aplica-amnistia-y-archiva-proceso/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-mazo.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El debate a ocho, comprobado: qué datos no cuadraban",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "erc",
+        "junts"
+      ],
+      "resumen": "Los portavoces de ocho partidos debatieron el lunes en La 1 sobre vivienda, inmigración, salarios y pensiones. VerificaRTVE, el equipo de verificación de la televisión pública, encontró afirmaciones falsas, engañosas o sin contexto en varias intervenciones.",
+      "porque": "fue el último gran debate con todos los grupos del Congreso antes del domingo, y muchos datos que se dijeron circulan ahora en redes.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Quién estuvo. Ester Muñoz (PP), Patxi López (PSOE), Pepa Millán (Vox), Emilio Delgado (Frente Amplio), Gabriel Rufián (ERC), Míriam Nogueras (Junts), Oskar Matute (EH Bildu) y Maribel Vaquero (PNV). Moderó Xabier Fortes, en los estudios de RTVE en Prado del Rey.",
+          "Un ejemplo verificado. Millán habló de seis millones más de inmigrantes. Según la verificación, el aumento neto de población extranjera fue de unos 2,1 millones, alrededor de un tercio de esa cifra.",
+          "El recuento. Según el resumen que publicó El Plural a partir de las verificaciones de VerificaRTVE, Millán y Muñoz fueron las portavoces con más afirmaciones falsas o engañosas. La verificación revisó también las intervenciones del resto de portavoces.",
+          "Los cruces. Muñoz ironizó sobre el ministro de Economía, Carlos Cuerpo, y se quejó de la crispación. Rufián describió al Gobierno del PSOE como «tutelado» y defendió a López ante un ataque de Vox."
+        ],
+        "claves": [
+          "Ocho portavoces en La 1",
+          "VerificaRTVE revisó los datos",
+          "Inmigración: 2,1 millones netos"
+        ],
+        "ahora": "Esta noche hay otro cara a cara, en este caso sobre vivienda, en laSexta."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Plural: el recuento de VerificaRTVE",
+          "url": "https://www.elplural.com/politica/espana/bulometro-debate-ocho-pepa-millan-ester-munoz-mintieron-mas-nadie_805147102"
+        },
+        {
+          "nombre": "Heraldo de León: participantes",
+          "url": "https://www.heraldodeleon.es/actualidad/nacional/debate-ocho-evidencia-distancia-entre-bloques-29-n/20261124075244119287.html"
+        },
+        {
+          "nombre": "eldiario.es: el debate en directo",
+          "url": "https://www.eldiario.es/politica/ultima-hora-elecciones-generales-actualidad-politica-directo_6_13684896.html"
+        },
+        {
+          "nombre": "Newtral: guía de datos del debate",
+          "url": "https://www.newtral.es/debate-a-ocho-29n/20261123/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-lupa.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Arranca la semana sin encuestas: Sánchez en Barcelona, Feijóo en Alicante y un cara a cara sobre vivienda",
+      "partidos": [
+        "psoe",
+        "pp",
+        "fa"
+      ],
+      "resumen": "Desde hoy y hasta el domingo está prohibido publicar sondeos en España. Pedro Sánchez hace campaña en Barcelona y Alberto Núñez Feijóo en Alicante. Por la noche, laSexta emite un cara a cara sobre vivienda entre Ada Colau (Frente Amplio) y Xavier García Albiol (PP).",
+      "porque": "entramos en los últimos cinco días de campaña, sin nuevas encuestas y con el plazo del voto por correo a punto de cerrar.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Encuestas. La ley electoral impide publicar sondeos durante los cinco días anteriores a la votación, del 24 al 28 de noviembre. Las últimas se publicaron ayer.",
+          "Vivienda. Es uno de los temas que más se repiten en la campaña. Colau fue alcaldesa de Barcelona y Albiol ha sido alcalde de Badalona.",
+          "Voto por correo. Quien lo haya pedido tiene hasta el jueves 26 de noviembre a las 14:00 para entregarlo en Correos. La Junta Electoral Central amplió el plazo."
+        ],
+        "claves": [
+          "Sin encuestas hasta el domingo",
+          "Cara a cara de vivienda en laSexta",
+          "Voto por correo: hasta el jueves a las 14:00"
+        ],
+        "ahora": "El viernes 27 a medianoche termina la campaña. El sábado es jornada de reflexión."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la agenda del martes",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/hoy-sera-noticia-martes-24-de-noviembre/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): temas del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/temas-del-dia-de-efe-espana-del-martes-24-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Maldita.es: la ampliación del voto por correo",
+          "url": "https://maldita.es/desinfo/20261117/bulos-desinformaciones-elecciones-29-noviembre-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-casa.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Nvidia readmite a Jensen Huang y su acción sube un 31%: Asia lo celebra hoy",
+      "partidos": [],
+      "resumen": "El consejo de Nvidia ha devuelto a Jensen Huang los cargos de presidente y consejero delegado, once días después de su salida. La acción subió el lunes un 31,48%, su mayor alza desde 2003. Hoy, las bolsas de Taiwán, Corea del Sur y Japón han cerrado con subidas de entre el 4% y el 9%.",
+      "porque": "Nvidia fabrica los chips que usan casi todas las empresas de inteligencia artificial, y su caída arrastró a las bolsas de medio mundo durante dos semanas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La decisión. El consejo votó por unanimidad y explicó en un documento enviado a la SEC, el regulador bursátil de EE. UU., que había recibido opiniones de «altos niveles» del Gobierno estadounidense. Donald Trump dijo que habló con el consejo «directa e indirectamente».",
+          "Las bolsas el lunes. El Nasdaq subió un 6,51% y el S&P 500 un 4,73%, su mejor sesión desde abril de 2025. El Ibex 35 ganó un 1,63%, hasta 19.181,1 puntos, después de cinco días seguidos de caídas.",
+          "Asia hoy. El Taiex de Taiwán subió un 8,99%, la mayor subida en puntos de su historia; el Kospi coreano, un 6,32%, y el Nikkei japonés, un 3,91%. Las bolsas europeas, en cambio, bajaban esta mañana entre un 0,4% y un 0,6%.",
+          "Lo que sigue abierto. Congresistas republicanos mantienen su investigación sobre Nvidia, y Huang tiene previsto comparecer en el Congreso a principios de diciembre. El fiscal general de California investiga las exportaciones de chips de la empresa."
+        ],
+        "claves": [
+          "Nvidia +31,48%",
+          "Taiwán +8,99%",
+          "Investigaciones abiertas"
+        ],
+        "ahora": "El lunes, EE. UU. añadió siete empresas a su lista de bloqueo por desviar chips avanzados; entre ellas, la singapurense Megaspeed."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nvidia: comunicado a la SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+        },
+        {
+          "nombre": "Expansión: cierre de Wall Street",
+          "url": "https://expansion.mx/mercados/2026/11/23/nvidia-se-dispara-31-48-tras-el-regreso-de-jensen-huang-e-impulsa-a-wall-street"
+        },
+        {
+          "nombre": "EFE (vía Infobae): el Ibex",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/la-bolsa-espanola-sube-un-163-tras-la-vuelta-de-huang-a-nvidia-y-la-caida-del-crudo/"
+        },
+        {
+          "nombre": "EFE (vía Unitel): Taipéi, Seúl y Tokio",
+          "url": "https://unitel.bo/noticias/agencias/el-factor-jensen-huang-como-un-solo-hombre-condiciona-las-bolsas-de-taipei-seul-y-tokio-PF25022519"
+        },
+        {
+          "nombre": "France 24: control de chips",
+          "url": "https://es-us.noticias.yahoo.com/regreso-huang-impulsa-bolsas-asi%C3%A1ticas-084027479.html"
+        },
+        {
+          "nombre": "Europa Press (vía Press Digital): Trump y el consejo",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-23/6105435-ibex-35-sube-16-roza-19200-puntos-ante-impulso-nasdaq-rebote-nvidia"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-velas.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El Gobierno prevé prorrogar el impuesto a la banca en 2027 para financiar vivienda",
+      "partidos": [],
+      "resumen": "El Consejo de Ministros tiene previsto aprobar hoy la prórroga para 2027 del impuesto a la banca, con el que espera recaudar unos 1.400 millones de euros para políticas de vivienda. También está previsto que apruebe reducir el número de bebés por educador en las escuelas infantiles.",
+      "porque": "afecta a lo que pagan los bancos, a cuánto dinero público hay para vivienda y a las familias con hijos pequeños.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El impuesto. Lo pagan los bancos. Se creó a finales de 2024 para sustituir al gravamen extraordinario que se aplicó en 2023 y 2024.",
+          "La recaudación. El Gobierno calcula que aportará unos 1.400 millones de euros, que se destinarían a vivienda.",
+          "Escuelas infantiles. El Gobierno ha anunciado que cada educador tendrá a su cargo como máximo cuatro bebés menores de un año a partir del curso 2027-2028.",
+          "Y después del 29N. Son decisiones del Gobierno actual; el que salga de las urnas podrá mantenerlas o cambiarlas."
+        ],
+        "claves": [
+          "≈1.400 millones para vivienda",
+          "Hasta 4 bebés por educador",
+          "Desde el curso 2027-28"
+        ],
+        "ahora": "Tras el Consejo, los ministros explican las medidas en rueda de prensa."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la agenda del martes",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/hoy-sera-noticia-martes-24-de-noviembre/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-banco.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Zelenski pide negociar «mañana mismo» mientras Ucrania ataca barcos rusos frente a Libia",
+      "partidos": [],
+      "resumen": "El presidente de Ucrania, Volodímir Zelenski, ha pedido que Ucrania, Europa, Estados Unidos y Rusia se sienten «lo antes posible» a negociar el fin de la guerra. El mismo lunes confirmó que Ucrania atacó con drones navales barcos rusos frente a Bengasi, en Libia.",
+      "porque": "es la primera vez que Ucrania reconoce un ataque tan lejos de su territorio, en pleno Mediterráneo, mientras se habla de nuevas negociaciones.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La propuesta. Zelenski habló por videoconferencia ante la Asamblea Parlamentaria de la OTAN, reunida en Berlín. Dijo estar dispuesto a reunirse «literalmente mañana», pero con una agenda acordada antes entre Kiev, Washington y los europeos. También volvió a defender que Ucrania entre en la OTAN.",
+          "El ataque en Libia. Los servicios de seguridad ucranianos difundieron un vídeo de un dron naval golpeando un barco ruso en Bengasi. Euronews informa de que uno de los buques se hundió.",
+          "La guerra en casa. Zelenski avisó de que, según su inteligencia, Rusia prepara nuevos ataques y pidió a EE. UU. garantías de que seguirá enviando defensa antiaérea. El lunes, un ataque en el centro de Kiev dejó cinco heridos.",
+          "La posición rusa. Rusia ha rechazado hasta ahora que los europeos participen en las negociaciones."
+        ],
+        "claves": [
+          "Negociación a cuatro bandas",
+          "Drones navales en Libia",
+          "Pide más defensa antiaérea"
+        ],
+        "ahora": "No hay fecha para ninguna reunión."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): conversaciones a cuatro bandas",
+          "url": "https://www.infobae.com/america/agencias/2026/11/23/zelenski-insta-a-agilizar-conversaciones-a-cuatro-bandas/"
+        },
+        {
+          "nombre": "France 24: el ataque en Libia",
+          "url": "https://www.france24.com/es/europa/20261123-buques-rusos-atacados-en-libia-ucrania-ampl%C3%ADa-el-alcance-de-la-lucha"
+        },
+        {
+          "nombre": "Euronews: el buque hundido",
+          "url": "https://es.euronews.com/2026/11/23/zelenski-confirma-ataque-ucrania-buque-ruso-libia"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae): nuevos ataques",
+          "url": "https://www.infobae.com/america/mundo/2026/11/24/zelensky-advirtio-que-rusia-prepara-nuevos-ataques-contra-ucrania-y-reclamo-a-eeuu-garantias-para-el-suministro-de-armas-antiaereas/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-dron.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Canarias suma casi 13.000 llegadas en cayuco en noviembre y el Gobierno vuelve a reunirse con Clavijo",
+      "partidos": [],
+      "resumen": "La Comisión Interministerial de Inmigración se reúne hoy en La Moncloa, por tercera semana seguida, con el presidente de Canarias, Fernando Clavijo. En lo que va de noviembre han llegado a las islas 12.967 personas en 130 cayucos, 109 de ellos a El Hierro.",
+      "porque": "es la mayor llegada de personas por la ruta atlántica en años, y la isla más pequeña, El Hierro, recibe la mayor parte.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El récord. El 14 de noviembre llegaron a Canarias 1.488 personas en un solo día, 1.235 de ellas en doce cayucos a El Hierro. Superó el récord anterior, de 1.461 personas, del 7 de noviembre de 2020.",
+          "Los datos oficiales. Según el Ministerio del Interior, en la primera quincena de noviembre llegaron 11.037 personas, frente a 6.194 en todo octubre.",
+          "Qué pide Canarias. Clavijo escribió al comisario europeo de Migración, Magnus Brunner, para pedir una intervención urgente de la UE. El Gobierno canario describe la situación como «muy complicada».",
+          "El Hierro. La isla tiene unos 11.800 habitantes. Las personas que llegan pasan primero por un centro de atención temporal, y muchas se trasladan después a Tenerife en barco."
+        ],
+        "claves": [
+          "12.967 personas en noviembre",
+          "109 cayucos a El Hierro",
+          "Tercera reunión con el Gobierno"
+        ],
+        "ahora": "Tras la reunión, el Gobierno y Canarias explicarán qué medidas acuerdan."
+      },
+      "fuentes": [
+        {
+          "nombre": "RTVC: tercera reunión",
+          "url": "https://rtvc.es/tercera-reunion-entre-canarias-y-estado-por-la-crisis-migratoria-24-noviembre-2026/"
+        },
+        {
+          "nombre": "RTVC: datos de Interior",
+          "url": "https://rtvc.es/llegada-de-cayucos-a-canarias-lunes-16-noviembre-2026/"
+        },
+        {
+          "nombre": "Euronews: el día récord",
+          "url": "https://es.euronews.com/2026/11/15/12-cayucos-en-un-dia-en-el-hierro-asi-fue-la-jornada-que-deja-1488-llegadas-a-canarias"
+        },
+        {
+          "nombre": "EFE (vía Infobae): cifras de noviembre",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/hoy-sera-noticia-martes-24-de-noviembre/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-cayuco.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Mañana es el 25N: 47 mujeres asesinadas por violencia de género en España este año",
+      "partidos": [],
+      "resumen": "Mañana, 25 de noviembre, es el Día Internacional de la Eliminación de la Violencia contra la Mujer. El Ministerio de Igualdad ha confirmado 47 mujeres asesinadas por sus parejas o exparejas en 2026, y 1.388 desde 2003, cuando empezó a contarse.",
+      "porque": "detrás de cada número hay una mujer, y muchas veces hijos que se quedan huérfanos.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los últimos casos. El lunes, Igualdad confirmó el asesinato de una mujer de 37 años en Villarrobledo (Albacete) el 19 de noviembre. El 20 había confirmado el de una mujer de 47 años en Parla (Madrid). En ninguno de los dos había denuncias previas contra el presunto agresor.",
+          "Los huérfanos. Con el caso de Parla, 38 menores se han quedado huérfanos por violencia de género este año, y 548 desde 2013.",
+          "En el mundo. Según el último informe de ONU Mujeres y la Oficina de la ONU contra la Droga y el Delito, casi 50.000 mujeres y niñas fueron asesinadas por sus parejas o familiares en 2024: unas 137 al día.",
+          "Si necesitas ayuda. El 016 atiende las 24 horas y no deja rastro en la factura del teléfono. En una emergencia, llama al 112."
+        ],
+        "claves": [
+          "47 asesinadas en 2026",
+          "1.388 desde 2003",
+          "016, las 24 horas"
+        ],
+        "ahora": "Mañana hay manifestaciones y actos en ciudades de toda España."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: Igualdad, caso de Albacete",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/Paginas/2026/231126-feminicidio-albacete.aspx"
+        },
+        {
+          "nombre": "La Moncloa: Igualdad, caso de Madrid",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/Paginas/2026/201126-condena-feminicidio-madrid.aspx"
+        },
+        {
+          "nombre": "Andalucía Información: menores huérfanos",
+          "url": "https://www.andaluciainformacion.es/sociedad/son-46-mujeres-asesinadas-violencia-genero-2026-confirmarse-caso-madrid/202611201048243543100.html"
+        },
+        {
+          "nombre": "ONU Mujeres: informe sobre feminicidios",
+          "url": "https://www.unwomen.org/es/noticias/comunicado-de-prensa/2025/11/cada-dia-137-mujeres-y-ninas-son-asesinadas-por-sus-parejas-o-familiares"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-lazo.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Sacan en Lleida el cuello de un titanosaurio que podría ser el más grande de Europa",
+      "partidos": [],
+      "resumen": "Paleontólogos han extraído en Isona (Lleida) el cuello de un titanosaurio de hace unos 70 millones de años. El bloque de roca con los huesos mide hasta siete metros de largo y pesa más de 15 toneladas. Podría ser una especie nueva y más grande que cualquiera hallada hasta ahora en Europa.",
+      "porque": "los titanosaurios fueron los animales terrestres más grandes que han existido, y en Europa se han encontrado pocos esqueletos completos.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El hallazgo. Lo extrajeron el miércoles pasado en el yacimiento de Molí del Piteu equipos del Museu de la Conca Dellà y del Institut Català de Paleontologia Miquel Crusafont (ICP).",
+          "El precedente. Es el segundo cuello de titanosaurio que este equipo saca en la zona. El primero, de 2014 en Orcau, era de Abditosaurus, una especie que medía entre 15 y 18 metros. El nuevo tiene las costillas más largas.",
+          "Por qué podría ser otra especie. El tamaño de los huesos no encaja con el Abditosaurus. Los investigadores no lo darán por confirmado hasta estudiar los restos.",
+          "Una curiosidad. Hace 70 millones de años, Europa era un archipiélago, y en las islas los animales solían ser más pequeños por falta de comida. Por eso sorprenden los gigantes de esta zona."
+        ],
+        "claves": [
+          "≈70 millones de años",
+          "Bloque de 7 metros",
+          "Posible especie nueva"
+        ],
+        "ahora": "Los restos se preparan en el laboratorio antes de estudiarlos."
+      },
+      "fuentes": [
+        {
+          "nombre": "eldiario.es: posible especie nueva",
+          "url": "https://www.eldiario.es/catalunya/cuello-dinosaurio-18-toneladas-localizado-lleida-abre-puerta-hallazgo-nueva-especie_1_13685971.html"
+        },
+        {
+          "nombre": "SEGRE: la extracción",
+          "url": "https://www.segre.com/es/cultura/261124/extraen-cuello-titanosaurio-pirineo-lleida-dinosaurio-gigante-pallars_1408651.html"
+        },
+        {
+          "nombre": "Infobae: detalles del hallazgo",
+          "url": "https://www.infobae.com/espana/2026/11/23/descubren-en-lleida-el-hueso-de-un-titanosaurio-que-podria-pertenecer-a-una-nueva-especie-hasta-siete-metros-de-largo-y-70-millones-de-anos/"
+        },
+        {
+          "nombre": "EFE (vía Forbes México): el Abditosaurus",
+          "url": "https://forbes.com.mx/?p=941113"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-cuello.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "El Real Madrid recibe al PSV con pleno de victorias en la Champions",
+      "partidos": [],
+      "resumen": "El Real Madrid juega esta noche a las 21:00 contra el PSV Eindhoven en el Santiago Bernabéu, en la quinta jornada de la fase liga de la Champions. Llega con 12 puntos de 12 posibles. El Betis también juega hoy, contra el Slovan Bratislava.",
+      "porque": "una victoria dejaría al Madrid con 15 puntos y muy cerca de clasificarse directamente para octavos sin jugar la eliminatoria previa.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El Madrid. El equipo de José Mourinho ha ganado sus cuatro partidos. No tendrá a Asencio ni a Rodrygo, lesionados, y Vinicius vuelve tras cumplir sanción en la Liga.",
+          "El PSV. Lo entrena Peter Bosz. Es líder de la liga neerlandesa, pero va 24.º en la Champions con 4 puntos, y perdió 1-2 en casa ante el Brujas en la jornada anterior.",
+          "Cómo verlo. Movistar Plus+ y Orange. Arbitra el noruego Espen Eskås."
+        ],
+        "claves": [
+          "21:00, Bernabéu",
+          "Madrid: 12 de 12",
+          "PSV: 24.º"
+        ],
+        "ahora": "Los ocho primeros de la fase liga pasan directamente a octavos."
+      },
+      "fuentes": [
+        {
+          "nombre": "Sport Aragón: horario y previa",
+          "url": "https://www.sportaragon.com/futbol-aragon/real-madrid-psv-horario-donde-ver-hoy-tv-partido-champions-league/20261124093249163516.html"
+        },
+        {
+          "nombre": "Defensa Central: árbitro y horario",
+          "url": "https://defensacentral.com/real-madrid-noticias/horario-real-madrid-psv-hora-juega-donde-ver-quinto-partido-fase-liga-champions-equipo-jose-mourinho_346913_102.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-24-estadio.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, el PSOE no amplió el plazo del voto por correo para hacer «pucherazo»: lo pidió el PP",
+    "texto": "Circulan mensajes que dicen que el PSOE ha alargado el plazo para votar por correo con el fin de manipular el resultado. Es falso. Según Maldita.es, la Junta Electoral Central amplió el plazo hasta el 26 de noviembre a las 14:00, y la petición la hizo el PP, no el PSOE. Ya hubo ampliaciones parecidas en 2019 y 2023.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261117/bulos-desinformaciones-elecciones-29-noviembre-2026/",
+    "nota": "Si has pedido el voto por correo, tienes hasta el jueves a las 14:00 para entregarlo en Correos"
+  }
+}

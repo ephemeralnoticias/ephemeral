@@ -1,0 +1,346 @@
+{
+  "fecha": "2026-11-24",
+  "numero": 7,
+  "minutos": 12,
+  "titular": "Nvidia gana casi 900.000 millones en un día con la vuelta de Huang, Asia se dispara y el Gobierno prevé prorrogar el impuesto a la banca.",
+  "entradilla": "Las noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "+8,99%",
+    "frase": "subió hoy el Taiex, la bolsa de Taiwán: la mayor subida en puntos de su historia en una sola sesión.",
+    "detalle": "Cerró en 40.122,35 puntos. TSMC, MediaTek y Foxconn subieron cerca de un 10%. Fuente: EFE y France 24."
+  },
+  "noticias": [
+    {
+      "tema": "Empresas",
+      "titulo": "Nvidia vuelve a nombrar a Jensen Huang y su acción vive su mejor día desde 2003",
+      "cifra": {
+        "valor": "+31,48%",
+        "texto": "subida de la acción de Nvidia el lunes, hasta 165,05 dólares"
+      },
+      "resumen": "El consejo de administración de Nvidia devolvió el lunes a Jensen Huang los cargos de presidente y consejero delegado, once días después de su salida. La acción llegó a subir un 36% durante la sesión y cerró con un 31,48% más. La empresa ganó cerca de 900.000 millones de dólares de valor en bolsa en un solo día.",
+      "porque": "Nvidia es una de las empresas más grandes del mundo y pesa mucho en los índices que siguen millones de fondos.",
+      "teAfecta": "Si tienes un fondo indexado al S&P 500, al Nasdaq o a la bolsa mundial, una parte relevante de tu dinero está en Nvidia, así que te afectan tanto su caída como su rebote.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "La decisión. El consejo votó por unanimidad. En el documento enviado a la SEC dice que recibió opiniones de «altos niveles» del Gobierno de EE. UU. y que confía en que Huang no supone un riesgo para la seguridad nacional.",
+          "Trump. Dijo que habló con el consejo «directa e indirectamente» para que readmitiera a Huang.",
+          "Lo que queda abierto. Huang tiene que comparecer en el Congreso a principios de diciembre, congresistas republicanos mantienen su investigación y el fiscal general de California investiga las exportaciones de chips y la información dada a los accionistas.",
+          "Los analistas. Unos lo ven como el fin de la crisis; otros, como Charu Chanana (Saxo Markets), creen que resuelve el problema de gobierno inmediato pero no las dudas legales y políticas."
+        ],
+        "claves": [
+          "Votación unánime",
+          "+31,48% en un día",
+          "Investigaciones siguen abiertas"
+        ],
+        "glosario": [
+          {
+            "termino": "Capitalización",
+            "definicion": "Lo que vale una empresa en bolsa: el precio de la acción multiplicado por el número de acciones."
+          },
+          {
+            "termino": "SEC",
+            "definicion": "El regulador de los mercados de valores de EE. UU., equivalente a la CNMV española."
+          },
+          {
+            "termino": "Consejo de administración",
+            "definicion": "El órgano que dirige una empresa en nombre de sus accionistas y nombra a sus directivos."
+          }
+        ],
+        "ahora": "La acción de Nvidia vuelve a cotizar hoy a las 15:30 (hora peninsular)."
+      },
+      "fuentes": [
+        {
+          "nombre": "Nvidia: comunicado a la SEC",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"
+        },
+        {
+          "nombre": "Investing.com: mejor día desde 2003",
+          "url": "https://es.investing.com/news/stock-market-news/bolsas-mixtas-tras-el-rebote-que-vigilar-hoy-3941498"
+        },
+        {
+          "nombre": "Expansión: el cierre",
+          "url": "https://expansion.mx/mercados/2026/11/23/nvidia-se-dispara-31-48-tras-el-regreso-de-jensen-huang-e-impulsa-a-wall-street"
+        },
+        {
+          "nombre": "France 24: investigaciones y analistas",
+          "url": "https://es-us.noticias.yahoo.com/regreso-huang-impulsa-bolsas-asi%C3%A1ticas-084027479.html"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "Wall Street firma su mejor sesión desde abril de 2025",
+      "cifra": {
+        "valor": "+6,51%",
+        "texto": "subida del Nasdaq Composite el lunes"
+      },
+      "resumen": "El Nasdaq Composite subió el lunes un 6,51%, hasta 24.089,56 puntos, y el S&P 500 un 4,73%, hasta 7.237,17. El Dow Jones ganó en torno a un 3%. El S&P recuperó así más de la mitad de lo que había perdido la semana anterior.",
+      "porque": "la semana pasada el Nasdaq vivió su peor semana desde 2020, y el rebote muestra cuánto dependen los índices de unas pocas tecnológicas.",
+      "teAfecta": "Subidas y bajadas tan bruscas en pocos días son normales en momentos de incertidumbre. Si inviertes a largo plazo, lo que cuenta es el resultado de años, no de un día.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Quién tiró. Además de Nvidia, Micron subió un 19%, Dell un 20,5%, Intel un 16,3% y CoreWeave un 23,5%. El índice de semiconductores de Filadelfia ganó cerca de un 14%.",
+          "Otros mercados. El petróleo bajó y el dólar y la rentabilidad de los bonos subieron.",
+          "Los números. Nasdaq 100: +6,86%, hasta 26.746,10. S&P 500: +4,73%. Dow Jones: 49.595,31 puntos."
+        ],
+        "claves": [
+          "Nasdaq +6,51%",
+          "S&P 500 +4,73%",
+          "Mejor día desde abril de 2025"
+        ],
+        "glosario": [
+          {
+            "termino": "S&P 500",
+            "definicion": "Índice con las 500 mayores empresas cotizadas de EE. UU."
+          },
+          {
+            "termino": "Nasdaq",
+            "definicion": "Bolsa de Nueva York donde cotizan muchas tecnológicas. Su índice principal es el Nasdaq Composite."
+          },
+          {
+            "termino": "Semiconductores",
+            "definicion": "Los chips. Las empresas que los diseñan o fabrican forman un sector propio en bolsa."
+          }
+        ],
+        "ahora": "El jueves Wall Street cierra por Acción de Gracias, y el viernes abre media sesión."
+      },
+      "fuentes": [
+        {
+          "nombre": "Expansión: el cierre de Wall Street",
+          "url": "https://expansion.mx/mercados/2026/11/23/nvidia-se-dispara-31-48-tras-el-regreso-de-jensen-huang-e-impulsa-a-wall-street"
+        },
+        {
+          "nombre": "El Boletín: Nasdaq +6,51%",
+          "url": "https://www.elboletin.com/wall-street-se-dispara-por-el-regreso-de-jensen-huang-a-nvidia-y-el-nasdaq-gana-un-651/"
+        },
+        {
+          "nombre": "Economía Responsable: valores del día",
+          "url": "https://economiaresponsablefinanzas.com/inversiones/mercados/mercados-hoy-23-noviembre-2026"
+        },
+        {
+          "nombre": "TradingKey: Dow Jones",
+          "url": "https://www.tradingkey.com/es/analysis/stocks/us-stocks/262318818-dow-jumps-1400-points-nasdaq-rallies-as-jensen-huang-returns-to-nvidia"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex rebota un 1,63% y corta cinco días de caídas",
+      "cifra": {
+        "valor": "19.181,1",
+        "texto": "puntos del Ibex 35 al cierre del lunes"
+      },
+      "resumen": "El Ibex 35 subió el lunes un 1,63% (308 puntos), hasta 19.181,1 puntos, tras cinco sesiones seguidas de caídas y su peor semana desde marzo. En lo que va de año gana un 10,82%. Hoy, las bolsas europeas abrían con caídas de entre el 0,4% y el 0,6%.",
+      "porque": "la bolsa española depende menos de la tecnología que la de EE. UU., pero se movió al ritmo del ánimo general del mercado.",
+      "teAfecta": "Si tienes acciones o fondos de empresas españolas, el lunes recuperaste parte de lo perdido la semana pasada.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los que más subieron. ArcelorMittal (+5,34%), ACS (+3,99%) e Indra (+3,76%).",
+          "El petróleo. La caída del crudo, por debajo de los 89 dólares el barril, también ayudó.",
+          "Hoy. Europa recoge beneficios tras el rebote del lunes."
+        ],
+        "claves": [
+          "+1,63%",
+          "Cinco caídas seguidas cortadas",
+          "+10,82% en el año"
+        ],
+        "glosario": [
+          {
+            "termino": "Ibex 35",
+            "definicion": "Índice con las 35 empresas más negociadas de la Bolsa española."
+          },
+          {
+            "termino": "Recoger beneficios",
+            "definicion": "Vender después de una subida para asegurar la ganancia, lo que suele hacer bajar algo los precios."
+          }
+        ],
+        "ahora": "La sesión de hoy cierra a las 17:30."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el cierre del Ibex",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/la-bolsa-espanola-sube-un-163-tras-la-vuelta-de-huang-a-nvidia-y-la-caida-del-crudo/"
+        },
+        {
+          "nombre": "Economía Responsable: valores del Ibex",
+          "url": "https://economiaresponsablefinanzas.com/inversiones/mercados/mercados-hoy-23-noviembre-2026"
+        },
+        {
+          "nombre": "Investing.com: Europa hoy",
+          "url": "https://es.investing.com/news/stock-market-news/bolsas-mixtas-tras-el-rebote-que-vigilar-hoy-3941498"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "Taiwán, Corea y Japón se disparan: hasta un 9% en un día",
+      "cifra": {
+        "valor": "+6,32%",
+        "texto": "subida del Kospi surcoreano, que vuelve a superar los 5.000 puntos"
+      },
+      "resumen": "Las bolsas asiáticas han cerrado hoy con fuertes subidas por el regreso de Huang. El Taiex de Taiwán ganó un 8,99%; el Kospi de Corea del Sur, un 6,32%, hasta 5.006,03 puntos, y el Nikkei de Japón, un 3,91%, hasta 58.644,63.",
+      "porque": "en estos países están los grandes fabricantes de chips y memorias que venden a Nvidia, como TSMC, Samsung o SK hynix.",
+      "teAfecta": "Muchos fondos de mercados emergentes o de Asia tienen mucho peso en TSMC y Samsung, así que se mueven con ellas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Valores. En Taiwán, TSMC, MediaTek y Foxconn subieron cerca de un 10%. En Corea, Samsung y SK hynix, en torno a un 6,7%. En Japón, Advantest ganó un 12,45%.",
+          "Freno automático. En Seúl se activó un mecanismo que paró las compras automáticas durante cinco minutos para frenar la volatilidad.",
+          "En perspectiva. EFE recuerda que en solo once días la salida y la vuelta de Huang han hundido y disparado estas bolsas."
+        ],
+        "claves": [
+          "Taiex +8,99%",
+          "Kospi +6,32%",
+          "Nikkei +3,91%"
+        ],
+        "glosario": [
+          {
+            "termino": "Volatilidad",
+            "definicion": "Cuánto y qué tan rápido sube y baja el precio de algo."
+          },
+          {
+            "termino": "Kospi",
+            "definicion": "Índice principal de la Bolsa de Corea del Sur."
+          }
+        ],
+        "ahora": "Mañana se verá si el rebote continúa."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Unitel): el factor Huang",
+          "url": "https://unitel.bo/noticias/agencias/el-factor-jensen-huang-como-un-solo-hombre-condiciona-las-bolsas-de-taipei-seul-y-tokio-PF25022519"
+        },
+        {
+          "nombre": "EFE (vía Infobae): el Nikkei",
+          "url": "https://www.infobae.com/america/agencias/2026/11/24/el-nikkei-sube-un-391-por-las-tecnologicas-tras-la-vuelta-de-huang-a-nvidia/"
+        },
+        {
+          "nombre": "France 24: valores y Kospi",
+          "url": "https://es-us.noticias.yahoo.com/regreso-huang-impulsa-bolsas-asi%C3%A1ticas-084027479.html"
+        }
+      ]
+    },
+    {
+      "tema": "Tecnología",
+      "titulo": "EE. UU. veta a siete empresas acusadas de desviar chips avanzados, entre ellas una filial de Alibaba",
+      "cifra": {
+        "valor": "7",
+        "texto": "empresas añadidas a la lista negra del Departamento de Comercio"
+      },
+      "resumen": "El Departamento de Comercio de EE. UU. añadió el lunes siete empresas a su lista de bloqueo, entre ellas la singapurense Megaspeed y sus filiales y Apex, filial de Alibaba en Singapur. No podrán comprar chips de IA ni otra tecnología avanzada sin un permiso especial.",
+      "porque": "Washington sospecha que chips de Nvidia llegan a China a través de terceros países pese a la prohibición.",
+      "teAfecta": "No directamente, pero estas restricciones condicionan cuánto pueden vender Nvidia y otras empresas de chips, y eso se nota en su cotización.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El motivo. Comercio habla de un «riesgo significativo» de que estas empresas desvíen productos de computación avanzada a usuarios no autorizados. Señala a Singapur, Malasia, Indonesia, Tailandia y Brasil como países con un riesgo de desvío mayor de lo habitual.",
+          "Reacciones. Malasia ha ordenado a los centros de datos cortar sus relaciones con las siete empresas. Singapur dice que colabora con EE. UU. Alibaba califica de «errónea» la inclusión de Apex y estudia acciones legales."
+        ],
+        "claves": [
+          "Siete empresas vetadas",
+          "Singapur, en el foco",
+          "Alibaba lo recurrirá"
+        ],
+        "glosario": [
+          {
+            "termino": "Lista de entidades",
+            "definicion": "Lista del Gobierno de EE. UU. con empresas a las que no se puede vender cierta tecnología sin permiso."
+          }
+        ],
+        "ahora": "Las empresas afectadas pueden pedir a EE. UU. que revise su inclusión."
+      },
+      "fuentes": [
+        {
+          "nombre": "France 24: el veto",
+          "url": "https://es-us.noticias.yahoo.com/regreso-huang-impulsa-bolsas-asi%C3%A1ticas-084027479.html"
+        },
+        {
+          "nombre": "CNN en Español: resumen del día",
+          "url": "https://cnnespanol.cnn.com/2026/11/23/economia/live-news/nvidia-jensen-huang-regreso-ceo-en-vivo-trax"
+        }
+      ]
+    },
+    {
+      "tema": "Impuestos",
+      "titulo": "El Gobierno prevé prorrogar el impuesto a la banca para 2027",
+      "cifra": {
+        "valor": "≈1.400 M€",
+        "texto": "recaudación prevista, destinada a vivienda"
+      },
+      "resumen": "El Consejo de Ministros tiene previsto aprobar hoy la prórroga para 2027 del impuesto que pagan los bancos. Espera recaudar unos 1.400 millones de euros y destinarlos a políticas de vivienda.",
+      "porque": "es una de las fuentes de dinero público para vivienda, el problema que más preocupa a muchos jóvenes.",
+      "teAfecta": "Lo pagan los bancos, no los clientes directamente. Hay debate sobre si acaba influyendo en las condiciones de préstamos e hipotecas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "De dónde viene. Sustituye al gravamen extraordinario que se cobró en 2023 y 2024 y se creó a finales de 2024.",
+          "Después del 29N. Es una decisión del Gobierno actual. El que salga de las elecciones podrá mantenerla o cambiarla."
+        ],
+        "claves": [
+          "Prórroga para 2027",
+          "≈1.400 millones",
+          "Para vivienda"
+        ],
+        "glosario": [
+          {
+            "termino": "Gravamen",
+            "definicion": "Otra forma de decir impuesto o carga fiscal."
+          },
+          {
+            "termino": "Consejo de Ministros",
+            "definicion": "La reunión semanal del Gobierno, los martes, donde se aprueban decretos y acuerdos."
+          }
+        ],
+        "ahora": "La rueda de prensa posterior al Consejo confirmará los detalles."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la agenda del martes",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/23/hoy-sera-noticia-martes-24-de-noviembre/"
+        }
+      ]
+    },
+    {
+      "tema": "Agenda",
+      "titulo": "La semana: voto por correo, Acción de Gracias, Black Friday y elecciones",
+      "cifra": {
+        "valor": "5",
+        "texto": "días hasta las elecciones generales"
+      },
+      "resumen": "Quedan cinco días intensos: el plazo del voto por correo, el festivo de EE. UU., el Black Friday y las elecciones del domingo.",
+      "porque": "saber qué viene ayuda a entender por qué se mueven los mercados y los precios.",
+      "teAfecta": "Si compras en el Black Friday, compara el precio con el de las semanas anteriores para comprobar que el descuento es real.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Hoy, martes. Consejo de Ministros. Miércoles 25: Día contra la Violencia de Género. Jueves 26: termina a las 14:00 el plazo para entregar el voto por correo, y Wall Street cierra por Acción de Gracias. Viernes 27: Black Friday y último día de campaña. Domingo 29: elecciones generales."
+        ],
+        "claves": [
+          "Jueves: voto por correo hasta las 14:00",
+          "Viernes: Black Friday",
+          "Domingo: 29N"
+        ],
+        "glosario": [
+          {
+            "termino": "Acción de Gracias",
+            "definicion": "Festivo de EE. UU. que se celebra el cuarto jueves de noviembre."
+          }
+        ],
+        "ahora": "Mañana, más."
+      },
+      "fuentes": [
+        {
+          "nombre": "Maldita.es: plazo del voto por correo",
+          "url": "https://maldita.es/desinfo/20261117/bulos-desinformaciones-elecciones-29-noviembre-2026/"
+        },
+        {
+          "nombre": "BOE: Ley de Comercio Minorista",
+          "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-1072"
+        }
+      ]
+    }
+  ]
+}
