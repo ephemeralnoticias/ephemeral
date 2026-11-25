@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-25",
+      "numero": 14,
+      "resumen": "Permisos de 20 semanas, el 25N, Colau contra Albiol y el Madrid golea al PSV",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-24",
       "numero": 13,
       "resumen": "Puigdemont amnistiado, el debate a ocho verificado, Nvidia dispara las bolsas y el 25N",

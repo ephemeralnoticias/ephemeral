@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,32 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-25",
+      "titulo": "El 25N en campaña y el último Consejo de Ministros",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "junts"
+      ],
+      "texto": "El último Consejo de Ministros antes de las elecciones aprobó ampliar el permiso por nacimiento a 20 semanas y prorrogar el impuesto a la banca y las ayudas al transporte. Anoche, Colau y Albiol debatieron sobre vivienda en laSexta. Hoy, el 25N marca la agenda: Feijóo da un mitin en la Caja Mágica y Puigdemont comparece en Bruselas. Mañana a las 22:00 se celebra el debate a cuatro.",
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: referencia del Consejo",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/241126-rueda-prensa-ministros.aspx"
+        },
+        {
+          "nombre": "EFE (vía Infobae): temas del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "eldiario.es: el cara a cara de vivienda",
+          "url": "https://www.eldiario.es/catalunya/albiol-enzarza-colau-cara-cara-vivienda-cargado-datos-tergiversados_1_13690499.html"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-24",
       "titulo": "Sin encuestas hasta el domingo y el debate a ocho, verificado",

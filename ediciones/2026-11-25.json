@@ -1,0 +1,419 @@
+{
+  "fecha": "2026-11-25",
+  "numero": 14,
+  "minutos": 6,
+  "titular": "El último Consejo de Ministros antes del 29N amplía el permiso por nacimiento a 20 semanas; hoy es el 25N y mañana llega el debate a cuatro.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "20 semanas",
+    "frase": "durará el permiso por nacimiento y cuidado de un hijo para cada progenitor, una más que ahora. Para familias monoparentales, 34.",
+    "detalle": "Lo aprobó ayer el Consejo de Ministros. Al ser un real decreto-ley, tiene que convalidarlo la Diputación Permanente del Congreso. Fuente: La Moncloa."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Último Consejo de Ministros antes del 29N: más permisos, transporte barato en 2027 y menos alumnos por clase",
+      "partidos": [],
+      "resumen": "El Gobierno aprobó ayer un paquete amplio de medidas. Amplía el permiso por nacimiento a 20 semanas y el de fallecimiento de un familiar a 10 días laborables. También prorroga en 2027 el abono único de transporte (60 euros al mes, 30 para jóvenes) y aprueba ratios más bajas en las aulas.",
+      "porque": "son cambios en permisos, transporte y educación que afectan directamente al día a día, aprobados a cuatro días de las elecciones.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Permisos. El de nacimiento pasa de 19 a 20 semanas por progenitor, y de 32 a 34 en familias monoparentales. Por la muerte del cónyuge, la pareja o un familiar de primer grado habrá 10 días laborables, que se podrán usar en las cuatro semanas siguientes. Para familiares de segundo grado pasa de 2 a 3 días, más 2 si hay que desplazarse.",
+          "Cuidados. Se podrá reducir o adaptar la jornada para cuidar a un familiar en cuidados paliativos, y habrá un día de permiso para acompañar a quien haya pedido la eutanasia.",
+          "Transporte. Las ayudas se prorrogan todo 2027, con 1.213 millones de euros. El abono único estatal cuesta 60 euros al mes, o 30 para jóvenes, y sirve en Cercanías, Rodalies, Media Distancia, algunas líneas Avant y autobuses estatales.",
+          "Aulas. Como máximo, 4 bebés de 0 a 1 año por profesional, 6 niños de 1 a 2 años y 8 de 2 a 3. Se aplicará de forma progresiva desde el curso 2027-2028. En Bachillerato, el máximo será de 30 alumnos por clase."
+        ],
+        "claves": [
+          "Nacimiento: 20 semanas",
+          "Abono: 60 €/mes, 30 € jóvenes",
+          "Ratios desde 2027-28"
+        ],
+        "ahora": "Los reales decretos-leyes tienen que pasar por la Diputación Permanente del Congreso, porque las Cortes están disueltas. El Gobierno que salga del 29N podrá mantenerlos o cambiarlos."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: referencia del Consejo de Ministros",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/241126-rueda-prensa-ministros.aspx"
+        },
+        {
+          "nombre": "idealista/news: el último Consejo antes del 29N",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/11/24/925801-el-gobierno-prorroga-el-impuesto-a-la-banca-para-recaudar-1-400-millones-y"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-carrito.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El 25N marca el día de campaña, a la espera del debate a cuatro de mañana",
+      "partidos": [
+        "pp",
+        "psoe",
+        "vox",
+        "fa",
+        "junts"
+      ],
+      "resumen": "La lucha contra la violencia machista centra hoy la agenda de los partidos. Feijóo cierra la tarde con un mitin en la Caja Mágica de Madrid y Sánchez pasa por TVE. Mañana a las 22:00, Sánchez, Feijóo, Abascal y Colau se enfrentan en el último debate de la campaña.",
+      "porque": "el debate a cuatro es la última gran cita televisiva antes de que el sábado empiece la jornada de reflexión.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El mitin del PP. Feijóo interviene a las 19:30 en la Caja Mágica con Isabel Díaz Ayuso, José Luis Martínez-Almeida y Cayetana Álvarez de Toledo, número dos del PP por Madrid.",
+          "El debate de mañana. Lo organiza la Academia de Televisión, igual que el cara a cara del día 19, y lo modera su presidenta, María Casado. Empieza a las 22:00 (las 21:00 en Canarias) y lo emiten varias cadenas, entre ellas RTVE y Telemadrid.",
+          "Puigdemont. El líder de Junts da hoy una rueda de prensa en Bruselas, después de que el Supremo le aplicara la amnistía. No se sabe cuándo volverá a España.",
+          "Cataluña. Esta noche, TV3 emite a las 22:00 un debate entre los candidatos catalanes al Congreso."
+        ],
+        "claves": [
+          "Feijóo, 19:30 en la Caja Mágica",
+          "Debate a cuatro: jueves, 22:00",
+          "Puigdemont habla desde Bruselas"
+        ],
+        "ahora": "Quedan tres días de campaña: termina el viernes a medianoche."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): temas del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "El Folio: agenda electoral del día",
+          "url": "https://elfolio.es/agenda-electoral-25-de-noviembre-2026/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): hoy será noticia",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/hoy-sera-noticia-miercoles-25-de-noviembre/"
+        },
+        {
+          "nombre": "Artículo 14: horario del debate a cuatro",
+          "url": "https://www.articulo14.es/politica/debate-a-cuatro-del-29n-cuando-es-a-que-hora-empieza-y-donde-ver-a-sanchez-feijoo-abascal-y-colau-20261123.html"
+        },
+        {
+          "nombre": "Fuentes Informadas: moderadora y plató",
+          "url": "https://fuentesinformadas.com/debate-a-cuatro-sanchez-feijoo-abascal-colau-jueves"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-atriles.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Colau y Albiol chocan sobre vivienda: suelo frente a okupación",
+      "partidos": [
+        "fa",
+        "pp"
+      ],
+      "resumen": "Ada Colau (Frente Amplio) y Xavier García Albiol (PP) debatieron anoche en laSexta sobre vivienda. Colau culpó al PP de la crisis por liberalizar el suelo; Albiol puso el foco en la okupación ilegal. eldiario.es lo describe como cordial pero con reproches; The Objective, como tenso.",
+      "porque": "la vivienda es uno de los temas que más pesan en esta campaña, sobre todo entre los jóvenes.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El formato. Fue en el Paraninfo de la Universitat de Barcelona y lo moderó Ana Pastor. Lo propuso Albiol, cabeza de lista del PP por Barcelona y alcalde de Badalona.",
+          "Colau. Defendió que el problema se disparó cuando el Gobierno de Aznar liberalizó el suelo, y criticó que el PP vuelva a proponerlo. En el debate salió también la expropiación de viviendas a grandes fondos.",
+          "Albiol. Achacó el problema a la okupación ilegal de viviendas.",
+          "Los datos. eldiario.es titula que el cara a cara estuvo «cargado de datos tergiversados»."
+        ],
+        "claves": [
+          "Paraninfo de la UB",
+          "Suelo frente a okupación",
+          "Moderó Ana Pastor"
+        ],
+        "ahora": "Mañana, Colau participa en el debate a cuatro."
+      },
+      "fuentes": [
+        {
+          "nombre": "eldiario.es: crónica del debate",
+          "url": "https://www.eldiario.es/catalunya/albiol-enzarza-colau-cara-cara-vivienda-cargado-datos-tergiversados_1_13690499.html"
+        },
+        {
+          "nombre": "Metrópoli Abierta: suelo y okupación",
+          "url": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20261125/colau-culpa-pp-crisis-vivienda-problema-disparo-liberalizo-suelo-proponen-ahora/1003742814902_0.html"
+        },
+        {
+          "nombre": "The Objective: fondos y okupación",
+          "url": "https://theobjective.com/espana/politica/2026-11-24/colau-albiol-vivienda-expropiar-fondos-buitre-okupacion/"
+        },
+        {
+          "nombre": "El Nacional: formato",
+          "url": "https://www.elnacional.cat/es/politica/cara-cara-entre-ada-colau-xavier-garcia-albiol-ya-tiene-fecha-hora-vivienda-en-centro-debate_1727015_102.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-llaves.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Hoy es el 25N: manifestaciones en toda España contra la violencia machista",
+      "partidos": [],
+      "resumen": "Hoy, 25 de noviembre, es el Día Internacional para la Eliminación de la Violencia contra la Mujer. Hay actos institucionales y manifestaciones por toda España, este año en plena campaña electoral. En 2026, 47 mujeres han sido asesinadas por sus parejas o exparejas.",
+      "porque": "es la fecha en la que se recuerda a las víctimas y se reclaman medidas, y las políticas de igualdad están en el centro del debate de la campaña.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Según el Ministerio de Igualdad, 47 mujeres han sido asesinadas por violencia de género en 2026, y 1.388 desde 2003, cuando empezó el recuento oficial.",
+          "En campaña. EFE destaca que este año las manifestaciones coinciden con la campaña y que las políticas de igualdad son uno de los temas de enfrentamiento entre partidos.",
+          "Si necesitas ayuda. El 016 atiende las 24 horas y no deja rastro en la factura del teléfono. En una emergencia, llama al 112."
+        ],
+        "claves": [
+          "47 asesinadas en 2026",
+          "Actos en toda España",
+          "016, las 24 horas"
+        ],
+        "ahora": "Las principales marchas son esta tarde."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): temas del día",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/temas-del-dia-de-efe-espana-del-miercoles-25-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "La Moncloa: Igualdad, último caso confirmado",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/igualdad/Paginas/2026/231126-feminicidio-albacete.aspx"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-flores.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Nvidia devuelve parte del rebote y el Dow Jones supera por primera vez los 50.000 puntos",
+      "partidos": [],
+      "resumen": "Tras subir más de un 31% el lunes, Nvidia cayó ayer un 5,86%. El Nasdaq bajó un 1,48% y el S&P 500 un 0,50%, mientras el Dow Jones subió un 0,85% y cerró por primera vez por encima de los 50.000 puntos. Hoy, las bolsas asiáticas caen con fuerza.",
+      "porque": "muestra que la vuelta de Huang no ha despejado las dudas del mercado sobre la inteligencia artificial.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Nvidia. Cerró en 155,38 dólares. Reuters lo atribuye a que los inversores sopesan qué supone la restitución de Huang y a la posibilidad de nuevos aranceles.",
+          "Anthropic. La acción de la empresa de IA cayó un 6,5%, hasta 81,90 dólares, y cerró por primera vez por debajo de los 83 dólares de su salida a bolsa.",
+          "El Ibex. Bajó un 0,86%, hasta 19.015,8 puntos, pero hoy ha abierto con una subida del 0,46%.",
+          "Asia hoy. El Kospi coreano llegó a caer más de un 6% y el Nikkei japonés, en torno a un 2,6%, con Samsung y SK hynix entre los más castigados."
+        ],
+        "claves": [
+          "Nvidia −5,86%",
+          "Dow Jones: 50.000 por primera vez",
+          "Kospi, más de un 6% abajo"
+        ],
+        "ahora": "Mañana Wall Street cierra por Acción de Gracias."
+      },
+      "fuentes": [
+        {
+          "nombre": "TradingKey: resumen de Wall Street",
+          "url": "https://www.tradingkey.com/es/analysis/stocks/us-stocks/262321029-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+        },
+        {
+          "nombre": "Mi Bolsillo: el Dow supera los 50.000",
+          "url": "https://www.mibolsillo.com/noticias/wall-street-hoy-24-de-noviembre-dow-jones-supera-50000-puntos-caen-nasdaq-1.48-y-nvidia-5.86-20261124-0037.html"
+        },
+        {
+          "nombre": "Expansión: Anthropic y Nvidia",
+          "url": "https://expansion.mx/mercados/2026/11/24/anthropic-cae-por-debajo-de-su-precio-de-salida-y-nvidia-arrastra-al-nasdaq"
+        },
+        {
+          "nombre": "Reuters (vía MarketScreener): las causas",
+          "url": "https://es.marketscreener.com/noticias/el-nasdaq-y-el-s-p-500-caen-al-desvanecerse-el-repunte-de-la-ia-impulsado-por-nvidia-ce7851dbda8ff723"
+        },
+        {
+          "nombre": "EFE (vía Infobae): cierre del Ibex",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/la-bolsa-espanola-pierde-un-086-pero-mantiene-el-nivel-de-los-19000-puntos/"
+        },
+        {
+          "nombre": "Estrategias de Inversión: apertura y Asia",
+          "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/25-11-2026"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-bajada.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "Aprobada la prórroga del impuesto a la banca: 1.400 millones más para vivienda",
+      "partidos": [],
+      "resumen": "El Consejo de Ministros aprobó ayer prorrogar el impuesto a la banca durante 2027, un año más de lo previsto. El Gobierno espera recaudar 1.400 millones de euros y destinarlos a vivienda. Desde 2023, este impuesto y el gravamen anterior han recaudado 5.723 millones.",
+      "porque": "es una de las principales fuentes de dinero público para vivienda de los próximos años.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El reparto. El dinero se dividirá entre las comunidades autónomas y el Ministerio de Vivienda.",
+          "El argumento del Gobierno. El ministro de Hacienda, Arcadi España, recordó que los bancos ganaron unos 35.000 millones en 2025 y que se acercan a los 30.000 millones este año.",
+          "Para qué. Según idealista/news, el Gobierno calcula que permitirá construir más de 6.000 viviendas asequibles, rehabilitar unas 52.000 y bonificar a unos 120.000 inquilinos."
+        ],
+        "claves": [
+          "Prórroga a 2027",
+          "≈1.400 millones",
+          "5.723 millones desde 2023"
+        ],
+        "ahora": "Al ser un real decreto-ley, tiene que convalidarlo la Diputación Permanente del Congreso."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la prórroga",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/el-gobierno-aprueba-la-prorroga-del-impuesto-bancario-hasta-2027/"
+        },
+        {
+          "nombre": "La Moncloa: referencia del Consejo",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/241126-rueda-prensa-ministros.aspx"
+        },
+        {
+          "nombre": "idealista/news: destino del dinero",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/11/24/925801-el-gobierno-prorroga-el-impuesto-a-la-banca-para-recaudar-1-400-millones-y"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-casas.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "EE. UU. prepara nuevos aranceles contra 16 economías, entre ellas la UE",
+      "partidos": [],
+      "resumen": "La Administración Trump está a punto de publicar las conclusiones de una investigación sobre exceso de capacidad industrial en 16 grandes socios comerciales, entre ellos la Unión Europea, China, Japón y México. Se esperan nuevos aranceles sobre una amplia lista de productos.",
+      "porque": "la UE es una de las afectadas, así que puede encarecer las exportaciones españolas a EE. UU.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué es. Una investigación de la Oficina del Representante de Comercio, iniciada en marzo bajo la Sección 301 de la Ley de Comercio de 1974. Sostiene que los subsidios industriales de otros países inundan los mercados y perjudican a las empresas estadounidenses.",
+          "Por qué ahora. Según AP, los nuevos aranceles buscan sustituir a los anunciados en abril de 2025, que el Tribunal Supremo de EE. UU. declaró ilegales en febrero.",
+          "Cuánto. Según la BBC, los porcentajes variarán por país en función de los acuerdos que cada uno haya cerrado antes con Trump."
+        ],
+        "claves": [
+          "16 economías",
+          "Incluye a la UE",
+          "Sustituye aranceles anulados"
+        ],
+        "ahora": "El anuncio podría llegar esta misma semana."
+      },
+      "fuentes": [
+        {
+          "nombre": "Reuters (vía GBM): la investigación",
+          "url": "https://gbm.com/media/noticia/gobierno-de-trump-se-dispone-a-anunciar-nuevos-aranceles-tras-investigacion-sobre-exceso-de-capacidad-industrial"
+        },
+        {
+          "nombre": "Quartz: AP y BBC",
+          "url": "https://es.qz.com/us-preparing-new-tariffs-china-eu-16-economies-112426"
+        },
+        {
+          "nombre": "2001 Online: Sección 301",
+          "url": "https://2001online.com/usa/internacionales/trump-prepara-nueva-ofensiva-arancelaria-contra-16-socios-comerciales-incluye-a-china-202611242300"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-contenedores.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Kilmar Abrego García, el salvadoreño deportado por error por EE. UU., vuela a España",
+      "partidos": [],
+      "resumen": "Kilmar Abrego García, deportado por error a El Salvador en 2025 y convertido en símbolo de la política migratoria de Trump, ha salido voluntariamente de EE. UU. rumbo a España. Lo hace tras un acuerdo que evita su deportación a Liberia.",
+      "porque": "su caso llegó al Tribunal Supremo de EE. UU. y ahora tiene a España como destino.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El caso. Tiene 31 años. En 2025 fue deportado por error a El Salvador; después volvió a EE. UU. para enfrentarse a cargos penales. Un tribunal federal los desestimó en mayo de 2026 al ver indicios de persecución selectiva.",
+          "La salida. Voló a Madrid en un vuelo comercial desde un aeropuerto cercano a Washington. Su abogado dijo que «es libre», y el senador demócrata Chris Van Hollen afirmó que viaja al país que ha elegido.",
+          "La reacción de EE. UU. El Gobierno estadounidense dijo que «no es sorprendente» que vaya a España y lo atribuyó a lo que llamó «políticas radicales de fronteras abiertas» del país."
+        ],
+        "claves": [
+          "Deportado por error en 2025",
+          "Evita ir a Liberia",
+          "Washington critica a España"
+        ],
+        "ahora": "No se ha informado de qué situación legal tendrá en España."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Nación: la salida",
+          "url": "https://www.lanacion.com.ar/estados-unidos/el-inmigrante-salvadoreno-kilmar-abrego-sale-voluntariamente-de-eeuu-hacia-espana-nid25112026/"
+        },
+        {
+          "nombre": "Prensa Latina: el caso",
+          "url": "https://www.prensa-latina.cu/2026/11/25/tras-batalla-legal-kilmar-abrego-garcia-deja-eeuu-y-viaja-a-espana/"
+        },
+        {
+          "nombre": "Moncloa.com: Liberia",
+          "url": "https://www.moncloa.com/2026/11/25/abrego-garcia-espana-deportacion-liberia-3474337"
+        },
+        {
+          "nombre": "EFE (vía Yahoo): la reacción de EE. UU.",
+          "url": "https://es-us.noticias.yahoo.com/ee-uu-critica-pol%C3%ADticas-radicales-074740250.html"
+        },
+        {
+          "nombre": "Publimetro: Van Hollen",
+          "url": "https://www.publimetro.com.mx/noticias/2026/11/25/kilmar-abrego-garcia-deja-estados-unidos-y-viaja-a-espana-tras-meses-de-disputa-migratoria/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-avion.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "Descubren el cuásar más lejano: brillaba solo 630 millones de años después del Big Bang",
+      "partidos": [],
+      "resumen": "Un equipo liderado por astrónomos alemanes ha encontrado el cuásar más lejano conocido. Su luz salió cuando el universo tenía solo 630 millones de años. Es el núcleo de una galaxia con un agujero negro gigante que, curiosamente, se alimenta despacio.",
+      "porque": "ayuda a entender cómo crecieron tan rápido los primeros agujeros negros del universo.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué es un cuásar. El centro de una galaxia que brilla muchísimo porque un agujero negro enorme está tragando materia a su alrededor.",
+          "El récord. Supone retroceder casi 40 millones de años respecto al anterior récord, según Julien Wolf, astrónomo del Observatorio Europeo Austral que dirige el estudio.",
+          "Comprobado. Los telescopios espaciales Hubble y Webb y otros observatorios confirmaron el hallazgo, publicado en la revista Astronomy & Astrophysics."
+        ],
+        "claves": [
+          "630 millones de años tras el Big Bang",
+          "Confirmado por Hubble y Webb",
+          "Astronomy & Astrophysics"
+        ],
+        "ahora": "El universo tiene unos 13.800 millones de años; este cuásar es del 5% inicial de su historia."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: el cuásar más lejano",
+          "url": "https://es.euronews.com/2026/11/24/cientificos-descubren-cuasar-mas-lejano-formado-630-millones-de-anos-tras-el-big-bang"
+        },
+        {
+          "nombre": "NX Noticias: el récord",
+          "url": "https://nxnoticias.com/descubren-cuasar-mas-distante-antiguo-universo/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-cuasar.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "El Madrid remonta y golea 5-1 al PSV; hoy juegan Barça, Villarreal y Atlético",
+      "partidos": [],
+      "resumen": "El Real Madrid perdía al descanso, pero marcó cinco goles en la segunda parte y ganó 5-1 al PSV. Suma 15 puntos de 15 en la Champions. El Betis ganó 0-2 en Bratislava. Hoy juegan el Barça y el Villarreal a las 18:45, y el Atlético a las 21:00.",
+      "porque": "el Madrid queda muy cerca de clasificarse directamente para octavos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El partido. Ivan Perišić adelantó al PSV de penalti en el minuto 32. En la segunda parte marcaron Valverde (50'), Bellingham (60'), Mbappé (64' y 84') y Vinícius (87').",
+          "La racha. El equipo de José Mourinho ha ganado sus cinco partidos de la fase liga y suma diez victorias oficiales seguidas.",
+          "Hoy. Sabah-Barcelona y Slavia de Praga-Villarreal, a las 18:45. Atlético de Madrid-Viking, a las 21:00."
+        ],
+        "claves": [
+          "Madrid 5-1 PSV",
+          "15 de 15",
+          "Betis gana en Bratislava"
+        ],
+        "ahora": "Los ocho primeros pasan directos a octavos."
+      },
+      "fuentes": [
+        {
+          "nombre": "Real Madrid: crónica",
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-psv-j5-champions-league-24-11-2026"
+        },
+        {
+          "nombre": "Milenio: goles y minutos",
+          "url": "https://www.milenio.com/deportes/futbol-internacional/real-madrid-vs-psv-en-vivo-partido-jornada-5-champions-league-2026-hoy"
+        },
+        {
+          "nombre": "UEFA: resultados y horarios",
+          "url": "https://es.uefa.com/uefachampionsleague/news/02a8-21767f6df81a-a97aaf2bf581-1000--champions-league-2026-27-calendario-fechas-horarios-y-re/"
+        },
+        {
+          "nombre": "Gaceta Mexicana: los españoles hoy",
+          "url": "https://gacetamexicana.com/barcelona-atletico-cierre-quinta-jornada-champions-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-25-marcador.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, las papeletas que llegan por correo con pequeñas diferencias de impresión no son nulas",
+    "texto": "Circulan capturas de papeletas de Alicante que, según los mensajes, serían nulas porque no son idénticas a las del colegio. Es falso. Maldita.es explica que las papeletas enviadas por correo pueden tener ligeras diferencias de impresión sin que el voto sea nulo, según un acuerdo de la Junta Electoral Central de 2007.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261122/bulos-desinformaciones-elecciones-29-noviembre-2026/",
+    "nota": "Lo que sí anula el voto es tachar o escribir en la papeleta, o meter papeletas de partidos distintos en el sobre"
+  }
+}

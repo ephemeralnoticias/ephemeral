@@ -1,0 +1,387 @@
+{
+  "fecha": "2026-11-25",
+  "numero": 8,
+  "minutos": 12,
+  "titular": "Nvidia devuelve parte del rebote, el Dow Jones supera los 50.000 y el Gobierno aprueba rebajas para autónomos y la prórroga del impuesto a la banca.",
+  "entradilla": "Las noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "50.000",
+    "frase": "puntos: el Dow Jones cerró ayer por primera vez por encima de esta cifra, con una subida del 0,85%.",
+    "detalle": "Lo empujaron la sanidad y el consumo básico, mientras el Nasdaq caía por los chips. Fuente: TradingKey y Mi Bolsillo."
+  },
+  "noticias": [
+    {
+      "tema": "Mercados",
+      "titulo": "Nvidia cae un 5,86% tras su mayor subida en 23 años",
+      "cifra": {
+        "valor": "155,38 $",
+        "texto": "cierre de la acción de Nvidia el martes"
+      },
+      "resumen": "Un día después de subir más de un 31%, Nvidia cayó ayer un 5,86%. El Nasdaq perdió un 1,48%, hasta 23.733,54 puntos, y el S&P 500 un 0,50%. Otras empresas de chips, como Micron y AMD, también bajaron.",
+      "porque": "muestra que la vuelta de Huang no ha resuelto las dudas sobre si las grandes inversiones en IA darán beneficios.",
+      "teAfecta": "Después de subidas tan bruscas es habitual que una parte se devuelva. Para quien invierte a largo plazo, un día suelto dice poco.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las causas. Reuters lo atribuye a que los inversores sopesan qué supone la restitución de Huang y a la posibilidad de nuevos aranceles de EE. UU.",
+          "El contraste. El Dow Jones, con menos peso tecnológico, subió un 0,85% gracias a la sanidad y el consumo básico."
+        ],
+        "claves": [
+          "Nvidia −5,86%",
+          "Nasdaq −1,48%",
+          "Dow +0,85%"
+        ],
+        "glosario": [
+          {
+            "termino": "Recogida de beneficios",
+            "definicion": "Ventas de quienes aprovechan una subida para asegurar ganancias."
+          }
+        ],
+        "ahora": "Mañana Wall Street cierra por Acción de Gracias, y el viernes abre media sesión."
+      },
+      "fuentes": [
+        {
+          "nombre": "TradingKey: resumen del mercado",
+          "url": "https://www.tradingkey.com/es/analysis/stocks/us-stocks/262321029-market-recap-nasdaq-slips-nvidia-anthropic-breaks-ipo-price-dell-tradingkey"
+        },
+        {
+          "nombre": "KCH: Nasdaq y S&P",
+          "url": "https://kchcomunicacion.com/2026/11/24/nvidia-cae-casi-6-y-arrastra-al-nasdaq-y-s-dow-jones-sube/"
+        },
+        {
+          "nombre": "Reuters (vía MarketScreener)",
+          "url": "https://es.marketscreener.com/noticias/el-nasdaq-y-el-s-p-500-caen-al-desvanecerse-el-repunte-de-la-ia-impulsado-por-nvidia-ce7851dbda8ff723"
+        }
+      ]
+    },
+    {
+      "tema": "Empresas",
+      "titulo": "Anthropic cae por debajo de su precio de salida a bolsa",
+      "cifra": {
+        "valor": "81,90 $",
+        "texto": "cierre de Anthropic, frente a los 83 $ de su salida a bolsa"
+      },
+      "resumen": "La acción de Anthropic, la empresa de inteligencia artificial, cayó ayer un 6,5%, hasta 81,90 dólares. Es la primera vez desde su debut que cierra por debajo de los 83 dólares a los que salió a bolsa.",
+      "porque": "cotizar por debajo del precio de salida suele leerse como una señal de que el mercado ha moderado sus expectativas sobre la empresa.",
+      "teAfecta": "Quien compró en la salida a bolsa y mantiene sus acciones va perdiendo dinero, por ahora solo sobre el papel.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El contexto. Cayó el mismo día que Nvidia y otras tecnológicas ligadas a la IA.",
+          "Qué significa. Una acción por debajo del precio de salida no implica pérdidas para la empresa, sino para los inversores que compraron a ese precio y venden ahora."
+        ],
+        "claves": [
+          "−6,5% en un día",
+          "Por debajo de 83 $",
+          "Primera vez desde el debut"
+        ],
+        "glosario": [
+          {
+            "termino": "Salida a bolsa (OPV)",
+            "definicion": "Cuando una empresa vende por primera vez sus acciones al público, a un precio fijado de antemano."
+          }
+        ],
+        "ahora": "Hoy se verá si recupera ese nivel."
+      },
+      "fuentes": [
+        {
+          "nombre": "Expansión: Anthropic y Nvidia",
+          "url": "https://expansion.mx/mercados/2026/11/24/anthropic-cae-por-debajo-de-su-precio-de-salida-y-nvidia-arrastra-al-nasdaq"
+        },
+        {
+          "nombre": "TradingKey: precio de emisión",
+          "url": "https://www.tradingkey.com/es/analysis/stocks/us-stocks/262320761-us-stock-dow-rises-nasdaq-falls-as-nvidia-and-chip-slide-tradingkey"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex pierde un 0,86% pero aguanta los 19.000 puntos; hoy abre en verde",
+      "cifra": {
+        "valor": "19.015,8",
+        "texto": "puntos del Ibex 35 al cierre del martes"
+      },
+      "resumen": "El Ibex 35 bajó ayer un 0,86% (165,3 puntos), hasta 19.015,8, tras las subidas del lunes. En lo que va de año gana un 9,87%. Hoy ha abierto con una subida del 0,46%, hasta 19.104,1 puntos.",
+      "porque": "la bolsa española se movió al ritmo de Wall Street y de las dudas sobre la IA.",
+      "teAfecta": "Si tienes fondos de bolsa española, la semana va de subidas y bajadas sin una dirección clara.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué cayó. EFE habla de recogida de beneficios tras las subidas de Wall Street del lunes. Las siderúrgicas estuvieron entre las que más bajaron.",
+          "Hoy. Los futuros apuntaban a una apertura ligeramente positiva, pese a las fuertes caídas de Asia."
+        ],
+        "claves": [
+          "−0,86% el martes",
+          "+9,87% en el año",
+          "+0,46% en la apertura de hoy"
+        ],
+        "glosario": [
+          {
+            "termino": "Futuros",
+            "definicion": "Contratos que anticipan el precio de un índice o activo y dan pistas sobre cómo abrirá la bolsa."
+          }
+        ],
+        "ahora": "La sesión cierra a las 17:30."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el cierre",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/la-bolsa-espanola-pierde-un-086-pero-mantiene-el-nivel-de-los-19000-puntos/"
+        },
+        {
+          "nombre": "Estrategias de Inversión: siderúrgicas",
+          "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/el-ibex-35-salva-por-la-minima-los-19000-puntos-n-973171"
+        },
+        {
+          "nombre": "Estrategias de Inversión: la apertura",
+          "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/25-11-2026"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "Asia se da la vuelta: el Kospi se hunde más de un 6%",
+      "cifra": {
+        "valor": "−6,16%",
+        "texto": "caída del Kospi surcoreano esta mañana"
+      },
+      "resumen": "Las bolsas asiáticas caen hoy con fuerza tras sus grandes subidas de ayer. El Kospi coreano se hundía un 6,16% y el Nikkei japonés un 2,62%. En China, Shanghái bajaba un 2,03% y Hong Kong un 1,25%.",
+      "porque": "en estas bolsas pesan mucho los fabricantes de chips, que se mueven con Nvidia.",
+      "teAfecta": "Los fondos de mercados emergentes o de Asia, con mucho peso en Samsung o TSMC, notan estos vaivenes.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los más castigados. Samsung Electronics y SK hynix cayeron más de un 8%, según investingLive.",
+          "Por qué. Vuelven las dudas sobre la IA, además de la posibilidad de nuevos aranceles de EE. UU."
+        ],
+        "claves": [
+          "Kospi −6,16%",
+          "Nikkei −2,62%",
+          "Samsung y SK hynix, más de −8%"
+        ],
+        "glosario": [
+          {
+            "termino": "Kospi",
+            "definicion": "Índice principal de la Bolsa de Corea del Sur."
+          }
+        ],
+        "ahora": "Los datos son de la sesión de esta mañana; el cierre puede variar."
+      },
+      "fuentes": [
+        {
+          "nombre": "Estrategias de Inversión: Asia",
+          "url": "https://www.estrategiasdeinversion.com/actualidad/la-bolsa-hoy-en-directo/25-11-2026"
+        },
+        {
+          "nombre": "investingLive: Samsung y SK hynix",
+          "url": "https://investinglive.com/stock-market-update/asian-stocks-slide-as-ai-doubts-return-kospi-down-nearly-6-and-nikkei-more-than-3/"
+        }
+      ]
+    },
+    {
+      "tema": "Impuestos",
+      "titulo": "Rebajas fiscales para 2,6 millones de autónomos y un IVA más sencillo",
+      "cifra": {
+        "valor": "465 M€",
+        "texto": "coste de las rebajas fiscales para autónomos"
+      },
+      "resumen": "El Consejo de Ministros aprobó ayer rebajas en el IRPF para autónomos. La deducción por gastos difíciles de justificar pasa del 5% al 10% en 2026, con un tope de 3.000 euros en lugar de 2.000. Quienes facturen menos de 85.000 euros podrán hacer una sola declaración de IVA al año.",
+      "porque": "muchos jóvenes trabajan como autónomos o freelance, y estas medidas cambian lo que pagan y cuánto papeleo tienen.",
+      "teAfecta": "Si eres autónomo en estimación directa, podrás deducirte más por gastos difíciles de justificar en la declaración de la renta de 2026.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Módulos. La reducción del rendimiento neto también sube del 5% al 10% en 2026.",
+          "Pagos fraccionados. Quien factura menos de 85.000 euros en estimación directa no tendrá que hacerlos en algunos casos.",
+          "IVA simplificado. Es voluntario para quien facture menos de 85.000 euros. Se presenta una declaración anual y se paga en abril, julio y octubre una cuarta parte de la cuota del año anterior. Pueden beneficiarse hasta 1,1 millones de personas.",
+          "Verifactu. El sistema obligatorio de facturación verificable se retrasa a octubre de 2028."
+        ],
+        "claves": [
+          "Deducción: del 5% al 10%",
+          "IVA anual por debajo de 85.000 €",
+          "Verifactu, a 2028"
+        ],
+        "glosario": [
+          {
+            "termino": "Estimación directa",
+            "definicion": "Forma de tributar en la que el autónomo declara sus ingresos y gastos reales."
+          },
+          {
+            "termino": "Módulos",
+            "definicion": "Sistema en el que se paga según indicadores fijos (metros del local, empleados…) en vez de los ingresos reales."
+          },
+          {
+            "termino": "Verifactu",
+            "definicion": "Sistema de Hacienda para que las facturas se registren de forma que no se puedan manipular."
+          }
+        ],
+        "ahora": "Al ser un real decreto-ley, tiene que convalidarlo la Diputación Permanente del Congreso."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: referencia del Consejo",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/241126-rueda-prensa-ministros.aspx"
+        }
+      ]
+    },
+    {
+      "tema": "Impuestos",
+      "titulo": "El impuesto a la banca se prorroga en 2027: 1.400 millones para vivienda",
+      "cifra": {
+        "valor": "5.723 M€",
+        "texto": "recaudado por los gravámenes a la banca desde 2023"
+      },
+      "resumen": "El Gobierno aprobó ayer prorrogar un año, hasta 2027, el impuesto sobre el margen de intereses y comisiones de los bancos. Espera recaudar 1.400 millones de euros más, que repartirá entre las comunidades autónomas y el Ministerio de Vivienda.",
+      "porque": "es dinero público para vivienda en la próxima legislatura.",
+      "teAfecta": "Lo pagan los bancos, no los clientes directamente. Hay debate sobre si acaba influyendo en las condiciones de préstamos e hipotecas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El argumento. El ministro de Hacienda, Arcadi España, recordó que los bancos ganaron unos 35.000 millones en 2025 y se acercan a los 30.000 este año.",
+          "Para qué. Según idealista/news, servirá para construir más de 6.000 viviendas asequibles, rehabilitar unas 52.000 y bonificar a unos 120.000 inquilinos."
+        ],
+        "claves": [
+          "Prórroga hasta 2027",
+          "≈1.400 millones",
+          "Para vivienda"
+        ],
+        "glosario": [
+          {
+            "termino": "Margen de intereses",
+            "definicion": "La diferencia entre lo que un banco cobra por sus préstamos y lo que paga por los depósitos."
+          }
+        ],
+        "ahora": "El próximo Gobierno podrá mantenerlo o cambiarlo."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la prórroga",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/24/el-gobierno-aprueba-la-prorroga-del-impuesto-bancario-hasta-2027/"
+        },
+        {
+          "nombre": "La Moncloa: referencia del Consejo",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/241126-rueda-prensa-ministros.aspx"
+        },
+        {
+          "nombre": "idealista/news: destino",
+          "url": "https://www.idealista.com/news/inmobiliario/vivienda/2026/11/24/925801-el-gobierno-prorroga-el-impuesto-a-la-banca-para-recaudar-1-400-millones-y"
+        }
+      ]
+    },
+    {
+      "tema": "Comercio",
+      "titulo": "EE. UU. prepara aranceles a 16 economías, entre ellas la UE",
+      "cifra": {
+        "valor": "16",
+        "texto": "socios comerciales afectados por la investigación"
+      },
+      "resumen": "La Oficina del Representante de Comercio de EE. UU. está a punto de publicar una investigación sobre el exceso de capacidad industrial de 16 socios, entre ellos la UE, China, Japón y México. Se esperan nuevos aranceles sobre una amplia lista de productos.",
+      "porque": "sustituirían a los aranceles de abril de 2025 que el Tribunal Supremo de EE. UU. tumbó en febrero, según AP.",
+      "teAfecta": "Si se aplican a productos europeos, las empresas españolas que exportan a EE. UU. venderán más caro allí.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Cómo. Se basa en la Sección 301 de la Ley de Comercio de 1974, que permite castigar prácticas comerciales consideradas injustas.",
+          "Cuánto. Según la BBC, los porcentajes variarán por país en función de los acuerdos firmados antes con Trump."
+        ],
+        "claves": [
+          "16 economías",
+          "Sección 301",
+          "Podría anunciarse esta semana"
+        ],
+        "glosario": [
+          {
+            "termino": "Arancel",
+            "definicion": "Impuesto que paga un producto al entrar en un país."
+          }
+        ],
+        "ahora": "La UE no ha reaccionado todavía porque no hay anuncio oficial."
+      },
+      "fuentes": [
+        {
+          "nombre": "Reuters (vía GBM)",
+          "url": "https://gbm.com/media/noticia/gobierno-de-trump-se-dispone-a-anunciar-nuevos-aranceles-tras-investigacion-sobre-exceso-de-capacidad-industrial"
+        },
+        {
+          "nombre": "Quartz: AP y BBC",
+          "url": "https://es.qz.com/us-preparing-new-tariffs-china-eu-16-economies-112426"
+        }
+      ]
+    },
+    {
+      "tema": "Tu bolsillo",
+      "titulo": "El abono de transporte de 60 euros (30 para jóvenes) seguirá en 2027",
+      "cifra": {
+        "valor": "30 €",
+        "texto": "al mes, el abono único estatal para jóvenes"
+      },
+      "resumen": "El Gobierno prorrogó ayer todo 2027 las ayudas al transporte público, con 1.213 millones de euros. El abono único estatal cuesta 60 euros al mes, o 30 para jóvenes.",
+      "porque": "para muchos estudiantes y trabajadores jóvenes, el transporte es uno de los gastos fijos más importantes.",
+      "teAfecta": "Si usas Cercanías, Rodalies, Media Distancia, algunas líneas Avant o autobuses estatales, mantienes el descuento todo el año que viene.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Comunidades y ayuntamientos. Recibirán 470 y 240 millones, respectivamente, para mantener sus descuentos.",
+          "Islas. En Canarias y Baleares, el transporte terrestre sigue siendo gratuito con abono."
+        ],
+        "claves": [
+          "60 €/mes",
+          "30 € jóvenes",
+          "Todo 2027"
+        ],
+        "glosario": [
+          {
+            "termino": "Abono único",
+            "definicion": "Un único pase mensual para varios transportes públicos de titularidad estatal."
+          }
+        ],
+        "ahora": "Al ser un real decreto-ley, tiene que convalidarlo la Diputación Permanente."
+      },
+      "fuentes": [
+        {
+          "nombre": "La Moncloa: referencia del Consejo",
+          "url": "https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/241126-rueda-prensa-ministros.aspx"
+        }
+      ]
+    },
+    {
+      "tema": "Agenda",
+      "titulo": "Lo que queda de semana",
+      "cifra": {
+        "valor": "4",
+        "texto": "días hasta las elecciones generales"
+      },
+      "resumen": "Jueves 26: termina a las 14:00 el plazo para entregar el voto por correo, Wall Street cierra por Acción de Gracias y por la noche hay debate a cuatro. Viernes 27: Black Friday y fin de campaña. Domingo 29: elecciones.",
+      "porque": "saber qué viene ayuda a entender por qué se mueven los mercados.",
+      "teAfecta": "Si compras en el Black Friday, compara con el precio de semanas anteriores para comprobar que el descuento es real.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Esta semana, además, EE. UU. podría anunciar nuevos aranceles contra 16 economías, entre ellas la UE."
+        ],
+        "claves": [
+          "Jueves: voto por correo y debate",
+          "Viernes: Black Friday",
+          "Domingo: 29N"
+        ],
+        "glosario": [
+          {
+            "termino": "Black Friday",
+            "definicion": "Día de descuentos tras Acción de Gracias, el último viernes de noviembre."
+          }
+        ],
+        "ahora": "Mañana, más."
+      },
+      "fuentes": [
+        {
+          "nombre": "Maldita.es: plazo del voto por correo",
+          "url": "https://maldita.es/desinfo/20261122/bulos-desinformaciones-elecciones-29-noviembre-2026/"
+        },
+        {
+          "nombre": "Artículo 14: debate a cuatro",
+          "url": "https://www.articulo14.es/politica/debate-a-cuatro-del-29n-cuando-es-a-que-hora-empieza-y-donde-ver-a-sanchez-feijoo-abascal-y-colau-20261123.html"
+        }
+      ]
+    }
+  ]
+}
