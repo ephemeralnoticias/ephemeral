@@ -322,3 +322,18 @@ h1.gran {
 .eco-archivo { margin-top: 48px; display: flex; flex-direction: column; gap: 10px; }
 .eco-archivo h2 { margin: 0; font-family: var(--serif); font-weight: 400; font-size: 30px; }
 [hidden] { display: none !important; }
+
+/* Banner de evento (noche electoral 29N) */
+.evento-29n { margin: 22px 0 6px; padding: 20px 24px; border-radius: var(--radio); background: #1C1E24; color: #FFFEF4; display: flex; flex-wrap: wrap; gap: 16px 28px; align-items: center; justify-content: space-between; }
+.evento-texto { display: flex; flex-direction: column; gap: 6px; flex: 1 1 420px; }
+.evento-etiqueta { font-size: 13px; font-weight: 700; color: #F4C542; letter-spacing: .02em; }
+.evento-titulo { font-family: var(--serif); font-size: 30px; line-height: 1.1; }
+.evento-sub { font-size: 15px; color: #C9CCD3; }
+.evento-datos { list-style: none; margin: 4px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.evento-datos li { font-size: 14px; font-weight: 600; background: rgba(255,255,255,.08); border-radius: 999px; padding: 4px 12px; }
+.evento-botones { display: flex; flex-direction: column; gap: 10px; align-items: flex-start; }
+.evento-boton { font-family: var(--serif); font-size: 21px; background: #F4C542; color: #1C1E24; text-decoration: none; padding: 10px 20px; border-radius: 999px; }
+.evento-boton:hover { color: #1C1E24; background: #FFD866; }
+.evento-enlace { color: #C9CCD3; font-size: 14px; }
+.evento-enlace:hover { color: #FFFEF4; }
+@media (max-width: 600px) { .evento-titulo { font-size: 25px; } .evento-29n { padding: 18px; } }
