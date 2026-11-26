@@ -1,0 +1,294 @@
+{
+  "fecha": "2026-11-26",
+  "numero": 9,
+  "minutos": 11,
+  "titular": "El Ibex cae un 2% por los aranceles de Trump, la UE se enfrenta a un 15% y el Congreso vota la subida a funcionarios y el IRPF del salario mínimo.",
+  "entradilla": "Las noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "18.635,8",
+    "frase": "puntos: el Ibex 35 cerró ayer en su nivel más bajo desde junio tras caer un 2%.",
+    "detalle": "Es su mayor caída en más de un mes. En el año aún gana un 7,67%. Fuente: EFE."
+  },
+  "noticias": [
+    {
+      "tema": "Comercio",
+      "titulo": "EE. UU. propone un 15% de arancel a productos de la UE",
+      "cifra": {
+        "valor": "15%",
+        "texto": "arancel propuesto a productos europeos"
+      },
+      "resumen": "La Oficina del Representante de Comercio de EE. UU. propuso ayer aranceles a algunos productos de 14 socios. Para la UE, un 15% que se sumaría a los aranceles generales actuales. China tendría un 20% más, hasta un total cercano al 45%.",
+      "porque": "puede encarecer productos españoles en EE. UU. y frenar las exportaciones.",
+      "teAfecta": "Si trabajas en un sector exportador, como el aceite, el vino, el azulejo o la maquinaria, tu empresa podría vender menos en EE. UU.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Qué no suma. No se acumularía con los aranceles que ya pesan sobre coches, acero o aluminio, ni con los del 10% o 12,5% anunciados en julio.",
+          "Cuándo. Habrá un periodo de comentarios y una audiencia. Según Reuters, eso podría retrasar su aplicación hasta enero.",
+          "México. Fue investigado, pero por ahora queda fuera, igual que Noruega."
+        ],
+        "claves": [
+          "UE: 15%",
+          "China: +20%",
+          "Posible aplicación en enero"
+        ],
+        "glosario": [
+          {
+            "termino": "Sección 301",
+            "definicion": "Ley de EE. UU. de 1974 que permite castigar con aranceles prácticas comerciales que considera desleales."
+          },
+          {
+            "termino": "Nación más favorecida (NMF)",
+            "definicion": "El arancel general que un país aplica a todos sus socios de la Organización Mundial del Comercio."
+          }
+        ],
+        "ahora": "La UE estudia cómo responder."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: la propuesta",
+          "url": "https://es.euronews.com/2026/11/25/eeuu-propone-nuevos-aranceles-a-14-grandes-socios-comerciales-incluida-la-ue"
+        },
+        {
+          "nombre": "Moncloa.com: sectores españoles",
+          "url": "https://www.moncloa.com/2026/11/25/aranceles-trump-ue-exportaciones-espanolas-3474673/"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex pierde un 2% y vuelve a niveles de junio",
+      "cifra": {
+        "valor": "−2%",
+        "texto": "caída del Ibex 35 el miércoles"
+      },
+      "resumen": "El Ibex 35 perdió ayer 380 puntos, un 2%, y cerró en 18.635,8, su nivel más bajo desde junio. Pesaron los nuevos aranceles de Trump, la inflación más alta en EE. UU. y las dudas sobre la IA.",
+      "porque": "los bancos, que pesan mucho en el Ibex, fueron los que más cayeron.",
+      "teAfecta": "Si tienes un fondo indexado al Ibex, ayer perdió alrededor de un 2%.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los grandes valores. Santander cayó un 3,96%; BBVA, un 3,01%; Repsol, un 2,25%; Inditex, un 1,44%; Telefónica, un 1,35%, e Iberdrola, un 0,57%.",
+          "El día. Abrió en positivo, pero fue empeorando a medida que avanzaba la jornada."
+        ],
+        "claves": [
+          "18.635,8 puntos",
+          "Mínimo desde junio",
+          "+7,67% en el año"
+        ],
+        "glosario": [
+          {
+            "termino": "Selectivo",
+            "definicion": "Otra forma de llamar a un índice bursátil como el Ibex 35."
+          }
+        ],
+        "ahora": "Hoy no hay Wall Street, así que Europa cotiza sin esa referencia."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el cierre",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/la-bolsa-espanola-baja-el-2-y-vuelve-a-niveles-de-junio-ante-nuevos-aranceles-de-trump/"
+        },
+        {
+          "nombre": "EFE (vía ABC Color): valores",
+          "url": "https://www.abc.com.py/internacionales/2026/11/25/la-bolsa-espanola-baja-el-2-y-vuelve-a-niveles-de-junio-ante-nuevos-aranceles-de-trump/"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "Montaña rusa en Wall Street: el Nasdaq llega a caer casi un 5% y cierra con −0,62%",
+      "cifra": {
+        "valor": "−3,91%",
+        "texto": "caída de Nvidia, que llegó a perder más de un 9%"
+      },
+      "resumen": "El Nasdaq se desplomó casi un 5% por la mañana por las ventas en empresas de IA, pero recuperó y cerró con −0,62%. El S&P 500 bajó un 0,25% y el Dow Jones subió un 0,33%, hasta 50.182,95. Nvidia cerró en 149,30 dólares.",
+      "porque": "las dudas sobre si la IA dará beneficios siguen moviendo el mercado más que cualquier otro factor.",
+      "teAfecta": "Días así muestran por qué concentrar tus ahorros en una sola empresa o sector es arriesgado.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Otras caídas. Oracle y Anthropic estuvieron entre las tecnológicas más castigadas.",
+          "La recuperación. Las compras de oportunidad antes del festivo frenaron la caída."
+        ],
+        "claves": [
+          "Nasdaq −0,62%",
+          "Dow +0,33%",
+          "Nvidia −3,91%"
+        ],
+        "glosario": [
+          {
+            "termino": "Compras de oportunidad",
+            "definicion": "Comprar acciones tras una caída fuerte porque se consideran baratas."
+          }
+        ],
+        "ahora": "Hoy Wall Street cierra por Acción de Gracias, y mañana abre media sesión."
+      },
+      "fuentes": [
+        {
+          "nombre": "Mi Bolsillo: el cierre",
+          "url": "https://www.mibolsillo.com/noticias/wall-street-frena-caida-hoy-25-de-noviembre-dow-jones-sube-0.33-antes-de-accion-de-gracias-20261125-0043.html"
+        },
+        {
+          "nombre": "iProUP: los factores",
+          "url": "https://www.iproup.com/finanzas/73462-wall-street-cierra-con-tendencia-mixta-este-miercoles-25-de-noviembre"
+        },
+        {
+          "nombre": "Yahoo Finanzas: Nvidia",
+          "url": "https://es-us.finanzas.yahoo.com/quote/NVDA/"
+        }
+      ]
+    },
+    {
+      "tema": "Inflación",
+      "titulo": "La inflación que vigila la Fed sube al 3,3% en EE. UU.",
+      "cifra": {
+        "valor": "3,3%",
+        "texto": "PCE subyacente en EE. UU."
+      },
+      "resumen": "El índice PCE subyacente, el dato de inflación preferido por la Reserva Federal, subió al 3,3%. Es un nivel alto frente al objetivo del 2% y alimenta el temor a que la Fed no baje los tipos de interés.",
+      "porque": "los tipos de interés de EE. UU. influyen en los mercados de todo el mundo, también en Europa.",
+      "teAfecta": "Si los tipos se mantienen altos más tiempo, el crédito sigue caro y las bolsas tienden a sufrir.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Qué mide. El PCE mide cuánto suben los precios de lo que consumen los hogares. La versión «subyacente» excluye la energía y los alimentos, que son más volátiles."
+        ],
+        "claves": [
+          "PCE subyacente: 3,3%",
+          "Objetivo de la Fed: 2%"
+        ],
+        "glosario": [
+          {
+            "termino": "Reserva Federal (Fed)",
+            "definicion": "El banco central de EE. UU., que decide los tipos de interés del dólar."
+          }
+        ],
+        "ahora": "La próxima reunión de la Fed es en diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "TradingKey: PCE",
+          "url": "https://www.tradingkey.com/es/analysis/stocks/us-stocks/262322968-market-recap-sp-nasdaq-nvidia-pce-gold-breaks-3500-tradingkey"
+        },
+        {
+          "nombre": "iProUP: Fed más dura",
+          "url": "https://www.iproup.com/finanzas/73462-wall-street-cierra-con-tendencia-mixta-este-miercoles-25-de-noviembre"
+        }
+      ]
+    },
+    {
+      "tema": "Tu bolsillo",
+      "titulo": "El Congreso vota hoy la subida a funcionarios, el IRPF del salario mínimo y el fin del secreto salarial",
+      "cifra": {
+        "valor": "1.033,58 €",
+        "texto": "deducción anual en el IRPF para quien cobra el salario mínimo"
+      },
+      "resumen": "La Diputación Permanente vota hoy cinco decretos. Entre ellos, la subida de hasta el 4,5% en 2027 para los empleados públicos y una deducción para que quien cobra el salario mínimo no pague IRPF.",
+      "porque": "cambia lo que llega a la nómina de millones de personas.",
+      "teAfecta": "Si cobras el salario mínimo, no pagarás IRPF. La deducción se reduce poco a poco hasta desaparecer a partir de 23.172 euros al año.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Transparencia salarial. Otro decreto adapta la normativa europea para acabar con el secreto salarial: las empresas tendrán que ser más claras sobre lo que pagan.",
+          "Más. Hay también incentivos fiscales a la I+D+i y cambios en el mercado de derechos de emisión de CO2."
+        ],
+        "claves": [
+          "Funcionarios: hasta +4,5%",
+          "Salario mínimo sin IRPF",
+          "Fin del secreto salarial"
+        ],
+        "glosario": [
+          {
+            "termino": "Convalidar",
+            "definicion": "Que el Congreso confirme un real decreto-ley del Gobierno para que siga en vigor."
+          },
+          {
+            "termino": "Secreto salarial",
+            "definicion": "Que las empresas no informen de cuánto pagan por cada puesto, lo que dificulta detectar brechas salariales."
+          }
+        ],
+        "ahora": "El resultado se conocerá hoy."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Debate: la deducción",
+          "url": "https://www.eldebate.com/economia/20261126/diputacion-permanente-vota-hoy-decretos-alza-salarial-funcionarios-exencion-fiscal-smi_485302.html"
+        },
+        {
+          "nombre": "Economía 3: nóminas",
+          "url": "https://economia3.com/congreso-vota-decretos-laborales-cambian-las-nominas-secreto-salarial/"
+        }
+      ]
+    },
+    {
+      "tema": "Europa",
+      "titulo": "Hernández de Cos aspira a presidir el BCE",
+      "cifra": {
+        "valor": "BCE",
+        "texto": "la cumbre de la UE trata su renovación"
+      },
+      "resumen": "Los líderes de la UE abordan en su cumbre de hoy la renovación de la cúpula del Banco Central Europeo. El español Pablo Hernández de Cos, exgobernador del Banco de España, aspira a presidirlo.",
+      "porque": "el BCE decide los tipos de interés de la zona euro, que marcan lo que se paga por hipotecas y préstamos.",
+      "teAfecta": "Quién presida el BCE influye en las decisiones sobre los tipos de interés de los próximos años.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La cumbre. Se centra en el presupuesto europeo y la financiación de Ucrania en 2027."
+        ],
+        "claves": [
+          "Relevo en el BCE",
+          "Candidato español"
+        ],
+        "glosario": [
+          {
+            "termino": "BCE",
+            "definicion": "El banco central de los países que usan el euro."
+          }
+        ],
+        "ahora": "No hay fecha para la decisión."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la cumbre",
+          "url": "https://www.infobae.com/america/agencias/2026/11/26/jueves-26-de-noviembre-de-2026-0800-gmt/"
+        }
+      ]
+    },
+    {
+      "tema": "Agenda",
+      "titulo": "Lo que queda de semana",
+      "cifra": {
+        "valor": "3",
+        "texto": "días hasta las elecciones"
+      },
+      "resumen": "Hoy: termina a las 14:00 el plazo del voto por correo, Wall Street cierra por Acción de Gracias y a las 22:00 hay debate a cuatro. Mañana: Black Friday y fin de campaña. Domingo: elecciones generales.",
+      "porque": "saber qué viene ayuda a entender por qué se mueven los mercados.",
+      "teAfecta": "Si compras en el Black Friday, compara con el precio de semanas anteriores para comprobar que el descuento es real.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Wall Street. Vuelve mañana con media sesión."
+        ],
+        "claves": [
+          "Hoy: voto por correo y debate",
+          "Mañana: Black Friday",
+          "Domingo: 29N"
+        ],
+        "glosario": [
+          {
+            "termino": "Media sesión",
+            "definicion": "Una jornada de bolsa más corta de lo habitual."
+          }
+        ],
+        "ahora": "Mañana, más."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): hoy será noticia",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/hoy-sera-noticia-jueves-26-de-noviembre/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "fecha": "2026-11-26",
+  "numero": 15,
+  "minutos": 6,
+  "titular": "Puigdemont pone fecha a su vuelta, hoy acaba el voto por correo y esta noche llega el debate a cuatro; EE. UU. propone un arancel del 15% a la UE.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Pulsa «Abrir» en cualquiera y la tarjeta se da la vuelta con la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "14:00",
+    "frase": "es la hora límite de hoy para entregar el voto por correo en Correos. Casi 1,1 millones de personas aún pueden hacerlo.",
+    "detalle": "Quien pidió el voto por correo ya no puede votar en la mesa el domingo. Fuente: EFE."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "Puigdemont anuncia que volverá a Cataluña el 12 de diciembre",
+      "partidos": [
+        "junts"
+      ],
+      "resumen": "Carles Puigdemont anunció ayer en Bruselas que volverá a Cataluña el sábado 12 de diciembre, después de que el Supremo le aplicara la amnistía. Viajará en avión hasta El Prat e irá directamente al Parlament.",
+      "porque": "pone fin a nueve años fuera de España del expresidente catalán y líder de Junts, y coloca su regreso después de las elecciones.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué esa fecha. Puigdemont explicó que eligió volver después del 29N para que su regreso no quedara «al servicio de una campaña electoral» ni de un solo partido.",
+          "El plan. Prevé llegar a mediodía y asistir a un acto institucional en el Parlament. Dijo que volverá «sin pedir permiso ni perdón».",
+          "Después. Según varios medios, expondrá su estrategia política el 17 de diciembre.",
+          "El contexto. El Supremo le aplicó la semana pasada la amnistía por malversación y retiró la orden de detención en España."
+        ],
+        "claves": [
+          "Sábado 12 de diciembre",
+          "Directo al Parlament",
+          "Tras nueve años en Bélgica"
+        ],
+        "ahora": "Hasta entonces seguirá en Bruselas."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: el anuncio",
+          "url": "https://es.euronews.com/2026/11/25/puigdemont-regresara-espana-12-diciembre-sin-pedir-perdon-ni-permiso"
+        },
+        {
+          "nombre": "EFE (vía Infobae): por qué después del 29N",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/puigdemont-no-queria-poner-mi-vuelta-al-servicio-de-una-campana-electoral/"
+        },
+        {
+          "nombre": "Diario Primicia: el 17 de diciembre",
+          "url": "https://primicia.com.ve/mundo/carles-puigdemont-regreso-cataluna-12-diciembre/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-maleta.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Último día para el voto por correo y, esta noche, el debate a cuatro",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "fa"
+      ],
+      "resumen": "Hoy a las 14:00 termina el plazo para entregar el voto por correo. A las 22:00, Pedro Sánchez (PSOE), Alberto Núñez Feijóo (PP), Santiago Abascal (Vox) y Ada Colau (Frente Amplio) se enfrentan en el último debate de la campaña.",
+      "porque": "es la última gran cita televisiva antes de las elecciones del domingo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El debate. Lo organiza la Academia de Televisión y lo modera su presidenta, María Casado. Se emite a las 22:00 (21:00 en Canarias) en varias cadenas, entre ellas RTVE y Telemadrid.",
+          "Voto por correo. Casi 1,1 millones de personas que lo pidieron pueden entregarlo hoy en Correos, como tarde a las 14:00. Si lo pediste, ya no puedes votar en la mesa el domingo.",
+          "En el extranjero. Hoy es también el último día para que los españoles residentes en varios países europeos voten en persona en los consulados.",
+          "Y mañana. El viernes a medianoche termina la campaña; el sábado es jornada de reflexión."
+        ],
+        "claves": [
+          "Voto por correo: hasta las 14:00",
+          "Debate: 22:00",
+          "Moderadora: María Casado"
+        ],
+        "ahora": "Mañana, último día de campaña."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): hoy será noticia",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/hoy-sera-noticia-jueves-26-de-noviembre/"
+        },
+        {
+          "nombre": "Artículo 14: horario del debate",
+          "url": "https://www.articulo14.es/politica/debate-a-cuatro-del-29n-cuando-es-a-que-hora-empieza-y-donde-ver-a-sanchez-feijoo-abascal-y-colau-20261123.html"
+        },
+        {
+          "nombre": "Fuentes Informadas: moderadora",
+          "url": "https://fuentesinformadas.com/debate-a-cuatro-sanchez-feijoo-abascal-colau-jueves"
+        },
+        {
+          "nombre": "EFE (vía Infobae): voto en consulados",
+          "url": "https://www.infobae.com/america/agencias/2026/11/26/jueves-26-de-noviembre-de-2026-0800-gmt/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-camara.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El Congreso vota hoy la subida del 4,5% a funcionarios y que el salario mínimo no pague IRPF",
+      "partidos": [
+        "pp"
+      ],
+      "resumen": "La Diputación Permanente del Congreso vota hoy cinco decretos del Gobierno. Entre ellos están la subida de hasta el 4,5% para los empleados públicos en 2027, la deducción para que quien cobra el salario mínimo no pague IRPF y el fin del secreto salarial en las empresas.",
+      "porque": "afecta directamente a las nóminas de millones de personas.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Por qué la Diputación Permanente. Las Cortes están disueltas por las elecciones, y este órgano sustituye al Pleno para convalidar o tumbar los decretos.",
+          "Salario mínimo. La deducción es de 1.033,58 euros al año y se va reduciendo hasta desaparecer a partir de 23.172 euros anuales. El mismo decreto refuerza la ayuda económica a Ceuta y El Hierro por la crisis migratoria.",
+          "Los otros. Uno transpone la normativa europea de transparencia salarial, otro regula incentivos fiscales a la I+D+i y otro, el mercado de derechos de emisión de CO2.",
+          "Los antecedentes. Desde el adelanto electoral del 5 de octubre, la Diputación ha convalidado ocho de los nueve decretos que ha votado. La semana pasada, el PP apoyó los siete que se debatían."
+        ],
+        "claves": [
+          "Funcionarios: hasta +4,5%",
+          "SMI sin IRPF",
+          "Fin del secreto salarial"
+        ],
+        "ahora": "La sesión empezó a las 9:00; el resultado se conocerá a lo largo del día."
+      },
+      "fuentes": [
+        {
+          "nombre": "El Debate: la deducción del SMI",
+          "url": "https://www.eldebate.com/economia/20261126/diputacion-permanente-vota-hoy-decretos-alza-salarial-funcionarios-exencion-fiscal-smi_485302.html"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae): los cinco decretos",
+          "url": "https://www.infobae.com/america/agencias/2026/11/26/la-diputacion-permanente-vota-hoy-los-decretos-del-alza-salarial-para-funcionarios-y-exencion-fiscal-del-smi/"
+        },
+        {
+          "nombre": "Newtral: qué se vota",
+          "url": "https://www.newtral.es/normas-diputacion-permanente/20261126/"
+        },
+        {
+          "nombre": "Público: Ceuta y El Hierro",
+          "url": "https://www.publico.es/politica/congreso/diputacion-permanente-convalida-decreto-evita-salario-minimo-tribute-irpf.html"
+        },
+        {
+          "nombre": "El Boletín: horario",
+          "url": "https://www.elboletin.com/el-congreso-vota-la-subida-salarial-de-los-funcionarios-y-la-deduccion-del-smi/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-nomina.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Miles de personas marchan en el 25N, a cuatro días de las elecciones",
+      "partidos": [],
+      "resumen": "Miles de personas se manifestaron ayer en Madrid, Barcelona, Sevilla, Valencia y otras ciudades contra la violencia machista. En Madrid hubo unas 8.000 personas según la Delegación del Gobierno y hasta 20.000 según las organizadoras, repartidas en dos marchas separadas.",
+      "porque": "es la gran movilización anual contra la violencia machista, y este año coincide con la recta final de la campaña.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Dos marchas. La del Foro de Madrid y el Movimiento Feminista recorrió la Gran Vía con el lema «Paremos la barbarie». La Comisión 8M unió la lucha feminista con la vivienda y la educación.",
+          "Las cifras. Según la Delegación del Gobierno, fueron unas 3.000 personas más que el año pasado en Madrid.",
+          "Las víctimas. Las marchas recordaron a las 47 mujeres asesinadas por violencia de género en 2026. Ayer se investigaba la muerte de una mujer en Murcia como posible caso de violencia machista."
+        ],
+        "claves": [
+          "8.000 según la Delegación",
+          "Hasta 20.000 según las organizadoras",
+          "Dos marchas separadas"
+        ],
+        "ahora": "El 016 atiende las 24 horas y no deja rastro en la factura."
+      },
+      "fuentes": [
+        {
+          "nombre": "Europa Press (vía Siglo XXI): las cifras",
+          "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261125224157/miles-mujeres-vuelven-marchar-separadas-madrid-25n-marcado-elecciones-proximo-domingo"
+        },
+        {
+          "nombre": "El Diario de Madrid: las dos marchas",
+          "url": "https://www.eldiariodemadrid.es/sociedad/manifestaciones-25n-madrid-gran-via-comision-8m-violencia-machista/20261126085831148004.html"
+        },
+        {
+          "nombre": "Demócrata: otras ciudades",
+          "url": "https://www.democrata.es/actualidad/actualidad-manifestaciones-25n-2026-ultima-hora-madrid-barcelona-espana/"
+        },
+        {
+          "nombre": "Teleprensa: comparación con 2025",
+          "url": "https://www.teleprensa.com/nacional-3/miles-mujeres-marchan-vuelven-marchar-separadas-madrid-25n-marcado-elecciones-proximo-domingo/202611252132252567854.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-pancartas.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "EE. UU. propone un arancel del 15% a productos de la UE",
+      "partidos": [],
+      "resumen": "El Gobierno de Trump propuso ayer nuevos aranceles a algunos productos de 14 socios comerciales, entre ellos la Unión Europea, con un 15% para los productos europeos. China sería el país más afectado, con un 20% más sobre lo que ya paga.",
+      "porque": "puede encarecer en EE. UU. productos españoles como el aceite de oliva, el vino o el azulejo.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El motivo. Washington dice que las subvenciones de estos países provocan un exceso de producción industrial que perjudica a sus fabricantes. Se basa en una investigación de ocho meses bajo la Sección 301 de la Ley de Comercio de 1974.",
+          "La lista. China, Bangladés, Camboya, la UE, India, Indonesia, Japón, Corea del Sur, Malasia, Singapur, Suiza, Taiwán, Tailandia y Vietnam. México y Noruega también fueron investigados, pero por ahora quedan fuera.",
+          "Lo que no suma. Los nuevos aranceles no se acumularían con los que ya pesan sobre coches, acero o aluminio.",
+          "Por qué ahora. Ayudan a compensar los aranceles que el Tribunal Supremo de EE. UU. tumbó en febrero. China responde que las guerras comerciales «no benefician a nadie»."
+        ],
+        "claves": [
+          "UE: 15%",
+          "China: +20%",
+          "Podría aplicarse en enero"
+        ],
+        "ahora": "Habrá un periodo de comentarios y una audiencia pública; según Reuters, podrían retrasarlo hasta enero."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: la propuesta",
+          "url": "https://es.euronews.com/2026/11/25/eeuu-propone-nuevos-aranceles-a-14-grandes-socios-comerciales-incluida-la-ue"
+        },
+        {
+          "nombre": "La Región: el 15% para la UE",
+          "url": "https://www.laregion.es/mundo/trump-prepara-nuevos-aranceles-union_1_20261125-4508164.html"
+        },
+        {
+          "nombre": "Moncloa.com: sectores españoles",
+          "url": "https://www.moncloa.com/2026/11/25/aranceles-trump-ue-exportaciones-espanolas-3474673/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-aduana.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El Ibex se hunde un 2% y Nvidia llega a caer un 9% antes de recuperarse",
+      "partidos": [],
+      "resumen": "El Ibex 35 cayó ayer un 2%, hasta 18.635,8 puntos: su mayor caída en más de un mes y su nivel más bajo desde junio. En Wall Street, el Nasdaq llegó a perder casi un 5% por la mañana, pero cerró con un −0,62%. Nvidia cayó un 3,91%.",
+      "porque": "se juntaron los nuevos aranceles, un dato de inflación más alto en EE. UU. y las dudas sobre si la IA será rentable.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "España. Los bancos fueron los que más bajaron: Santander, un 3,96%, y BBVA, un 3,01%. En lo que va de año, el Ibex gana un 7,67%.",
+          "Wall Street. El S&P 500 bajó un 0,25% y el Dow Jones subió un 0,33%, hasta 50.182,95 puntos. Nvidia cerró en 149,30 dólares; entre las tecnológicas más castigadas estuvieron también Oracle y Anthropic.",
+          "La inflación. El índice PCE subyacente, el que más vigila la Reserva Federal, subió al 3,3%, lo que aleja las bajadas de tipos de interés."
+        ],
+        "claves": [
+          "Ibex −2%",
+          "Nvidia −3,91%",
+          "PCE subyacente: 3,3%"
+        ],
+        "ahora": "Hoy Wall Street está cerrado por Acción de Gracias."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el Ibex",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/la-bolsa-espanola-baja-el-2-y-vuelve-a-niveles-de-junio-ante-nuevos-aranceles-de-trump/"
+        },
+        {
+          "nombre": "EFE (vía ABC Color): los bancos",
+          "url": "https://www.abc.com.py/internacionales/2026/11/25/la-bolsa-espanola-baja-el-2-y-vuelve-a-niveles-de-junio-ante-nuevos-aranceles-de-trump/"
+        },
+        {
+          "nombre": "Mi Bolsillo: Wall Street",
+          "url": "https://www.mibolsillo.com/noticias/wall-street-frena-caida-hoy-25-de-noviembre-dow-jones-sube-0.33-antes-de-accion-de-gracias-20261125-0043.html"
+        },
+        {
+          "nombre": "iProUP: las causas",
+          "url": "https://www.iproup.com/finanzas/73462-wall-street-cierra-con-tendencia-mixta-este-miercoles-25-de-noviembre"
+        },
+        {
+          "nombre": "TradingKey: PCE",
+          "url": "https://www.tradingkey.com/es/analysis/stocks/us-stocks/262322968-market-recap-sp-nasdaq-nvidia-pce-gold-breaks-3500-tradingkey"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-montana.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "Cumbre de la UE sobre el presupuesto y la presidencia del BCE, a la que aspira De Cos",
+      "partidos": [],
+      "resumen": "Los líderes de la Unión Europea empiezan hoy en Bruselas una cumbre especial sobre el presupuesto, con el objetivo de avanzar hacia un acuerdo antes de fin de año. También hablarán de la renovación de la cúpula del Banco Central Europeo, que aspira a presidir el español Pablo Hernández de Cos.",
+      "porque": "el presupuesto europeo decide fondos como los agrícolas o los de cohesión, y el BCE fija los tipos de interés que afectan a hipotecas y préstamos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Ucrania. La cumbre abordará también las necesidades de financiación de Ucrania para 2027.",
+          "Quién es De Cos. Fue gobernador del Banco de España. Si lo eligen, sería el primer español al frente del BCE.",
+          "La guerra. Mientras tanto, un dron ruso mató a dos personas al impactar en un edificio de viviendas de Járkov, en el noreste de Ucrania."
+        ],
+        "claves": [
+          "Presupuesto de la UE",
+          "Relevo en el BCE",
+          "Financiación para Ucrania"
+        ],
+        "ahora": "Los acuerdos sobre el presupuesto suelen necesitar varias cumbres."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la cumbre",
+          "url": "https://www.infobae.com/america/agencias/2026/11/26/jueves-26-de-noviembre-de-2026-0800-gmt/"
+        },
+        {
+          "nombre": "EFE (vía Unitel): Járkov",
+          "url": "https://unitel.bo/noticias/agencias/jueves-26-de-noviembre-de-2026-0800-gmt-BO25093938"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-estrellas.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "La UME llega a El Hierro para ayudar con las llegadas de cayucos",
+      "partidos": [],
+      "resumen": "Efectivos de la Unidad Militar de Emergencias (UME) viajan hoy a Canarias para apoyar a El Hierro ante la llegada masiva de cayucos. En la primera quincena de noviembre llegaron a las islas más de 11.000 personas.",
+      "porque": "El Hierro, de unos 11.000 habitantes, recibe la mayoría de las llegadas.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las cifras. Según Interior, llegaron 11.037 personas en 106 embarcaciones entre el 1 y el 15 de noviembre, frente a 6.194 en todo octubre.",
+          "El récord. El 14 de noviembre llegaron 1.488 personas a Canarias en un solo día, 1.235 de ellas a El Hierro.",
+          "Más dinero. El decreto que vota hoy la Diputación Permanente incluye un refuerzo económico para Ceuta y El Hierro."
+        ],
+        "claves": [
+          "La UME, en El Hierro",
+          "11.037 llegadas en 15 días",
+          "Récord: 1.488 en un día"
+        ],
+        "ahora": "El Gobierno y Canarias se han reunido las tres últimas semanas en la Comisión Interministerial de Inmigración."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): la UME",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/hoy-sera-noticia-jueves-26-de-noviembre/"
+        },
+        {
+          "nombre": "RTVC: datos de Interior",
+          "url": "https://rtvc.es/llegada-de-cayucos-a-canarias-lunes-16-noviembre-2026/"
+        },
+        {
+          "nombre": "Euronews: el récord",
+          "url": "https://es.euronews.com/2026/11/15/12-cayucos-en-un-dia-en-el-hierro-asi-fue-la-jornada-que-deja-1488-llegadas-a-canarias"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-isla.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "La Tierra empezó a entrar en una era glacial hace 2.000 años, según un estudio",
+      "partidos": [],
+      "resumen": "Un estudio publicado en Science sostiene que hace unos 2.000 años el hielo empezó a crecer de nuevo en el Ártico canadiense, lo que para los autores marca el inicio de una nueva era glacial. El calentamiento del siglo XX la habría frenado.",
+      "porque": "cambia la idea de cuándo empezaba la próxima glaciación: los modelos la situaban miles de años en el futuro.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Dónde. Nicolás Young y Joerg Schaefer, del Observatorio Lamont-Doherty (Universidad de Columbia), estudiaron el casquete Barnes, en la isla de Baffin. Es el último resto de la gran capa de hielo que cubría Norteamérica.",
+          "Cómo. Este hielo está pegado a la roca, así que conservó plantas que quedaron enterradas cuando avanzó. Al retirarse desde 1960, los investigadores las fecharon con carbono 14.",
+          "Qué encontraron. El hielo llegó a su mínimo hace unos 3.000 años y volvió a crecer hace unos 2.000. Para formar de nuevo una capa continental habría necesitado unos 30.000 años, pero desde los años sesenta pierde más hielo en verano del que gana con la nieve.",
+          "Con cautela. El estudio se basa en un solo casquete y en la definición de los autores sobre cuándo empieza una era glacial."
+        ],
+        "claves": [
+          "Revista Science",
+          "Hace 2.000 años",
+          "Frenada por el calentamiento"
+        ],
+        "ahora": "Los modelos indican que el casquete Barnes podría desaparecer en pocos siglos."
+      },
+      "fuentes": [
+        {
+          "nombre": "Infobae: el estudio",
+          "url": "https://www.infobae.com/america/medio-ambiente/2026/11/25/un-estudio-sugiere-que-el-planeta-estuvo-a-punto-de-entrar-en-una-nueva-era-glacial-hace-apenas-2000-anos/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-glaciar.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "Pleno español en la Champions: ganan Barça, Atlético y Villarreal",
+      "partidos": [],
+      "resumen": "Los cinco equipos españoles ganaron en la quinta jornada de la Champions. Ayer, el Barça goleó 1-4 al Sabah en Bakú, el Villarreal ganó 0-1 en Praga y el Atlético venció 2-0 al Viking. El martes habían ganado el Madrid (5-1) y el Betis (0-2).",
+      "porque": "todos suman en la carrera por los ocho primeros puestos, que dan el pase directo a octavos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los resultados. Sabah 1-4 Barcelona, Slavia de Praga 0-1 Villarreal y Atlético de Madrid 2-0 Viking. El Villarreal acabó con diez por la expulsión de Renato Veiga.",
+          "La sorpresa. El Lille ganó 2-1 al Bayern de Múnich.",
+          "Hoy. España juega contra Austria los cuartos de final de la Copa Davis en Bolonia, no antes de las 16:00."
+        ],
+        "claves": [
+          "Barça 4-1",
+          "Atlético 2-0",
+          "Villarreal 1-0"
+        ],
+        "ahora": "La fase liga termina en enero."
+      },
+      "fuentes": [
+        {
+          "nombre": "Excélsior: resultados",
+          "url": "https://www.excelsior.com.mx/deportes/uefa-champions-league-quedaron-partidos-miercoles-25-noviembre"
+        },
+        {
+          "nombre": "Flashscore: directo",
+          "url": "https://www.flashscore.es/noticias/futbol-liga-campeones-jornada-5-champions-en-directo-real-madrid-barcelona-atletico-villarreal-betis/vJkCzHY2/"
+        },
+        {
+          "nombre": "EFE (vía Unitel): Copa Davis",
+          "url": "https://unitel.bo/noticias/agencias/jueves-26-de-noviembre-de-2026-LP25084096"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-26-porteria.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, si pediste el voto por correo no puedes ir también a la mesa a «asegurar tu voto»",
+    "texto": "Circulan mensajes que animan a ir a votar el domingo a la mesa aunque se haya pedido el voto por correo, para «asegurar el voto». Es falso. Newtral y Maldita.es explican que, una vez que se recibe el certificado del voto por correo, ya no se puede votar en persona, lo envíes o no (artículo 73 de la LOREG).",
+    "verificador": "Newtral",
+    "url": "https://www.newtral.es/bulos-elecciones-29n/20261121/",
+    "nota": "Si lo pediste, hoy hasta las 14:00 puedes entregarlo en Correos"
+  }
+}

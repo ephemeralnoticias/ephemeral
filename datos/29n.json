@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,32 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-26",
+      "titulo": "Debate a cuatro y fin del voto por correo",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "fa",
+        "junts"
+      ],
+      "texto": "Hoy a las 14:00 termina el plazo para entregar el voto por correo. A las 22:00, Sánchez, Feijóo, Abascal y Colau protagonizan el último debate, moderado por María Casado. Puigdemont anunció ayer que volverá a Cataluña el 12 de diciembre, después de las elecciones. La Diputación Permanente vota hoy cinco decretos, entre ellos la subida a funcionarios y la exención del IRPF para el salario mínimo.",
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): hoy será noticia",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/25/hoy-sera-noticia-jueves-26-de-noviembre/"
+        },
+        {
+          "nombre": "Euronews: Puigdemont",
+          "url": "https://es.euronews.com/2026/11/25/puigdemont-regresara-espana-12-diciembre-sin-pedir-perdon-ni-permiso"
+        },
+        {
+          "nombre": "Newtral: Diputación Permanente",
+          "url": "https://www.newtral.es/normas-diputacion-permanente/20261126/"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-25",
       "titulo": "El 25N en campaña y el último Consejo de Ministros",

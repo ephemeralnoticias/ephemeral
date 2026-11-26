@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-26",
+      "numero": 15,
+      "resumen": "Puigdemont vuelve el 12-D, debate a cuatro, aranceles del 15% a la UE y pleno español en la Champions",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-25",
       "numero": 14,
       "resumen": "Permisos de 20 semanas, el 25N, Colau contra Albiol y el Madrid golea al PSV",
