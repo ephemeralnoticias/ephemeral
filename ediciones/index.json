@@ -1,6 +1,19 @@
 {
   "ediciones": [
     {
+      "fecha": "2026-11-27",
+      "numero": 16,
+      "resumen": "El debate a cuatro a fondo y verificado, fin de campaña, IPC al 4,1% y De Cos al BCE",
+      "secciones": [
+        "espana",
+        "economia",
+        "internacional",
+        "sociedad",
+        "ciencia",
+        "deportes"
+      ]
+    },
+    {
       "fecha": "2026-11-26",
       "numero": 15,
       "resumen": "Puigdemont vuelve el 12-D, debate a cuatro, aranceles del 15% a la UE y pleno español en la Champions",

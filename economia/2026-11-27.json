@@ -1,0 +1,252 @@
+{
+  "fecha": "2026-11-27",
+  "numero": 10,
+  "minutos": 10,
+  "titular": "La inflación baja al 4,1%, el Ibex recupera los 19.000 puntos y De Cos presidirá el BCE. Hoy es Black Friday.",
+  "entradilla": "Las noticias económicas del día, explicadas desde cero. Pulsa «Abrir» en cada una para la versión larga, con un glosario y lo que significa para tu bolsillo.",
+  "dato": {
+    "cifra": "4,1%",
+    "frase": "es la inflación de noviembre en España según el dato adelantado del INE: ocho décimas menos que en octubre.",
+    "detalle": "Es el nivel más bajo desde julio. La subyacente baja al 2,6%. Fuente: INE, vía Europa Press y The Objective."
+  },
+  "noticias": [
+    {
+      "tema": "Inflación",
+      "titulo": "El IPC baja al 4,1% en noviembre",
+      "cifra": {
+        "valor": "4,1%",
+        "texto": "inflación interanual de noviembre"
+      },
+      "resumen": "Los precios subieron en noviembre un 4,1% respecto al mismo mes de 2025, frente al 4,9% de octubre. La caída se debe sobre todo a los combustibles, que se abarataron, y a que la ropa y el calzado subieron menos que hace un año.",
+      "porque": "marca cuánto poder de compra pierden los sueldos y los ahorros.",
+      "teAfecta": "Si tu sueldo no ha subido al menos un 4,1% en el último año, puedes comprar menos cosas con él que hace doce meses.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "La subyacente. La inflación sin energía ni alimentos frescos baja cinco décimas, hasta el 2,6%. Es la que mejor indica la tendencia de fondo.",
+          "Los descuentos. El descuento de 20 céntimos por litro al diésel se mantuvo y el de la gasolina pasó de 5 a 20 céntimos."
+        ],
+        "claves": [
+          "IPC: 4,1%",
+          "Subyacente: 2,6%",
+          "Mínimo desde julio"
+        ],
+        "glosario": [
+          {
+            "termino": "Dato adelantado",
+            "definicion": "Una primera estimación del INE, que se confirma o corrige unas semanas después."
+          },
+          {
+            "termino": "Inflación subyacente",
+            "definicion": "La subida de precios sin contar energía ni alimentos frescos, que son los que más varían."
+          }
+        ],
+        "ahora": "El dato definitivo se publica el 15 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "The Objective: el dato",
+          "url": "https://theobjective.com/economia/2026-11-27/ipc-ocho-decimas-noviembre-bajada-combustibles/"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/27/el-ipc-se-modera-ocho-decimas-en-noviembre-hasta-el-41-por-el-abaratamiento-de-las-gasolinas/"
+        },
+        {
+          "nombre": "INE: dato de octubre",
+          "url": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607"
+        }
+      ]
+    },
+    {
+      "tema": "Mercados",
+      "titulo": "El Ibex sube un 2,26% y recupera los 19.000 puntos",
+      "cifra": {
+        "valor": "19.057,9",
+        "texto": "puntos al cierre del jueves"
+      },
+      "resumen": "El Ibex 35 ganó ayer 422,1 puntos, un 2,26%, y cerró en 19.057,9, con las 35 empresas en positivo. Recupera así casi todo lo perdido el miércoles por los aranceles de Trump.",
+      "porque": "sin Wall Street abierto, los inversores europeos aprovecharon para comprar tras dos días de caídas.",
+      "teAfecta": "Si tienes un fondo indexado al Ibex, ayer recuperaste lo que perdiste el miércoles.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Destacados. Solaria subió un 7,85%. La banca también tiró del índice.",
+          "En el año. El Ibex gana un 10,11%."
+        ],
+        "claves": [
+          "+2,26%",
+          "35 de 35 en verde",
+          "+10,11% en el año"
+        ],
+        "glosario": [
+          {
+            "termino": "Rebote",
+            "definicion": "Una subida que llega después de varias caídas."
+          }
+        ],
+        "ahora": "Hoy Wall Street abre solo media sesión."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el cierre",
+          "url": "https://www.infobae.com/america/agencias/2026/11/26/la-bolsa-espanola-sube-un-226-y-recupera-los-19000-puntos-con-wall-street-cerrado/"
+        }
+      ]
+    },
+    {
+      "tema": "Europa",
+      "titulo": "Pablo Hernández de Cos presidirá el BCE desde febrero",
+      "cifra": {
+        "valor": "8 feb. 2027",
+        "texto": "fecha en que asumirá el cargo"
+      },
+      "resumen": "Los líderes de la UE eligieron ayer a Pablo Hernández de Cos como próximo presidente del Banco Central Europeo. Será el primer español en el cargo y empezará el 8 de febrero de 2027.",
+      "porque": "el BCE fija los tipos de interés de la zona euro.",
+      "teAfecta": "De las decisiones del BCE depende lo que pagas por una hipoteca variable o un préstamo, y lo que te dan por tus ahorros.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Quién es. Fue gobernador del Banco de España y ahora dirige el Banco de Pagos Internacionales. Competía con el neerlandés Klaas Knot.",
+          "Lo que no salió. La cumbre terminó sin acuerdo sobre el presupuesto europeo de 2028 a 2034 ni sobre el préstamo de 45.000 millones para Ucrania."
+        ],
+        "claves": [
+          "Primer español al frente del BCE",
+          "Desde el 8 de febrero",
+          "Presupuesto UE, sin acuerdo"
+        ],
+        "glosario": [
+          {
+            "termino": "Tipos de interés",
+            "definicion": "El precio del dinero: lo que cuesta pedir prestado y lo que se gana por ahorrar."
+          }
+        ],
+        "ahora": "Nueva cumbre el 17 y 18 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: De Cos",
+          "url": "https://es.euronews.com/2026/11/26/euronews-hoy-noticias-jueves-26-noviembre-2026-hernandez-de-cos-presidira-bce"
+        },
+        {
+          "nombre": "Euronews: la cumbre sin acuerdo",
+          "url": "https://es.euronews.com/2026/11/27/cumbre-extraordinaria-de-la-ue-acaba-en-caos-y-sin-acuerdo-presupuestario"
+        }
+      ]
+    },
+    {
+      "tema": "Tu bolsillo",
+      "titulo": "Confirmado: 4,5% más para funcionarios y salario mínimo sin IRPF",
+      "cifra": {
+        "valor": "2,7 M",
+        "texto": "personas que se benefician de la deducción del salario mínimo"
+      },
+      "resumen": "La Diputación Permanente convalidó ayer, con 63 votos a favor, los decretos de la subida del 4,5% para los empleados públicos en enero y de la deducción que deja el salario mínimo sin IRPF. Vox no votó.",
+      "porque": "afecta a las nóminas de millones de personas a partir de enero.",
+      "teAfecta": "Si eres empleado público, en enero cobrarás un 4,5% más. Si cobras el salario mínimo, no pagarás IRPF.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Además. Se convalidó el fin del secreto salarial, incentivos fiscales a la I+D+i y cambios en los derechos de emisión de CO2."
+        ],
+        "claves": [
+          "+4,5% en enero",
+          "SMI sin IRPF",
+          "63 votos a favor"
+        ],
+        "glosario": [
+          {
+            "termino": "Diputación Permanente",
+            "definicion": "Órgano del Congreso que sustituye al Pleno cuando las Cortes están disueltas."
+          }
+        ],
+        "ahora": "Los decretos quedan confirmados."
+      },
+      "fuentes": [
+        {
+          "nombre": "Público: la votación",
+          "url": "https://www.publico.es/politica/congreso/diputacion-permanente-convalida-decreto-evita-salario-minimo-tribute-irpf.html"
+        },
+        {
+          "nombre": "Hoy Aragón: 2,7 millones",
+          "url": "https://www.hoyaragon.es/bolsillo/congreso-convalida-45-funcionarios-smi-irpf/20261127103114154040.html"
+        }
+      ]
+    },
+    {
+      "tema": "Consumo",
+      "titulo": "Black Friday: 196 euros de gasto medio previsto",
+      "cifra": {
+        "valor": "196 €",
+        "texto": "gasto medio previsto por persona, según la OCU"
+      },
+      "resumen": "El 76% de los españoles prevé comprar en el Black Friday, dos puntos menos que en 2025, según la OCU. El gasto medio previsto baja de 219 a 196 euros, aunque un 16% calcula que superará los 500.",
+      "porque": "es una de las fechas de más consumo del año y anticipa las compras de Navidad.",
+      "teAfecta": "Compara con el precio de semanas anteriores: muchos consumidores creen que algunas tiendas suben precios antes para simular descuentos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Menos impulsivos. El porcentaje que reconoce comprar de más baja del 42% al 36%.",
+          "Estafas. Maldita.es alerta de webs falsas, como una de «Calzados Pitillos» con supuestas zapatillas rebajadas."
+        ],
+        "claves": [
+          "76% comprará",
+          "196 € de media",
+          "Ojo con webs falsas"
+        ],
+        "glosario": [
+          {
+            "termino": "Derecho de desistimiento",
+            "definicion": "Los 14 días que tienes para devolver una compra por internet sin dar explicaciones."
+          }
+        ],
+        "ahora": "El lunes llega el Cyber Monday."
+      },
+      "fuentes": [
+        {
+          "nombre": "OCU: encuesta",
+          "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/encuestabfriday131126"
+        },
+        {
+          "nombre": "Maldita.es: la web falsa",
+          "url": "https://maldita.es/desinfo/20261126/black-friday-zapatos-zapatillas-oferta/"
+        }
+      ]
+    },
+    {
+      "tema": "Agenda",
+      "titulo": "El fin de semana",
+      "cifra": {
+        "valor": "2",
+        "texto": "días hasta las elecciones"
+      },
+      "resumen": "Hoy: Black Friday y media sesión en Wall Street. Sábado: jornada de reflexión. Domingo: elecciones generales; los colegios abren de 9:00 a 20:00.",
+      "porque": "el resultado del domingo puede mover la bolsa española el lunes.",
+      "teAfecta": "Si quieres seguir la noche electoral, los primeros datos oficiales llegan poco después de las 20:00.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "El lunes. Los mercados reaccionarán al resultado de las elecciones."
+        ],
+        "claves": [
+          "Hoy: Black Friday",
+          "Sábado: reflexión",
+          "Domingo: 29N"
+        ],
+        "glosario": [
+          {
+            "termino": "Jornada de reflexión",
+            "definicion": "El día antes de votar, en el que los partidos no pueden hacer campaña."
+          }
+        ],
+        "ahora": "El lunes, los resultados y cómo reaccionan los mercados."
+      },
+      "fuentes": [
+        {
+          "nombre": "Estrella Digital: horario de votación",
+          "url": "https://www.estrelladigital.es/espana/como-votar-29n-horario-documentos-dni-caducado-midni-senado-voto-correo/20261127064500453952.html"
+        }
+      ]
+    }
+  ]
+}

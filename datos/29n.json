@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "votacion": "2026-11-29T09:00:00+01:00",
   "porque": {
     "titulo": "Por qué votamos ahora",
@@ -862,6 +862,31 @@
     }
   },
   "diario": [
+    {
+      "fecha": "2026-11-27",
+      "titulo": "El debate a cuatro y el último día de campaña",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "fa"
+      ],
+      "texto": "Sánchez, Feijóo, Abascal y Colau se enfrentaron anoche en el último debate, que vieron 10,2 millones de personas (un 70,6% de la audiencia). Los verificadores encontraron datos falsos o fuera de contexto en los cuatro. Hoy termina la campaña: Sánchez y Colau cierran en Madrid, Feijóo en Sevilla y Abascal en Valencia. Mañana es jornada de reflexión.",
+      "fuentes": [
+        {
+          "nombre": "elDiario.es: el debate",
+          "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+        },
+        {
+          "nombre": "Artículo 14: verificaciones",
+          "url": "https://www.articulo14.es/politica/elecciones-generales/las-afirmaciones-de-sanchez-feijoo-abascal-y-colau-bajo-la-lupa-que-es-cierto-y-que-no-en-el-debate-a-cuatro-20261127.html"
+        },
+        {
+          "nombre": "Noticias de Navarra: los cierres",
+          "url": "https://www.noticiasdenavarra.com/politica/2026/11/27/sanchez-colau-cierran-campana-madrid-11801372.html"
+        }
+      ]
+    },
     {
       "fecha": "2026-11-26",
       "titulo": "Debate a cuatro y fin del voto por correo",

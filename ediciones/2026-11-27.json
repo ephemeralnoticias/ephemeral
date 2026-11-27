@@ -1,0 +1,441 @@
+{
+  "fecha": "2026-11-27",
+  "numero": 16,
+  "minutos": 7,
+  "titular": "El debate a cuatro, a fondo: qué pasó, qué datos fallaron y quién lo vio. Hoy termina la campaña y la inflación baja al 4,1%.",
+  "entradilla": "Diez noticias verificadas y sin opinión. Hoy, el debate de anoche en dos tarjetas: lo que pasó y lo que dijeron los verificadores de cada candidato. Pulsa «Abrir» para la versión larga.",
+  "dato": {
+    "seccion": "espana",
+    "cifra": "10,2 millones",
+    "frase": "de personas vieron anoche el debate a cuatro: un 70,6% de la audiencia, casi lo mismo que el cara a cara de la semana pasada.",
+    "detalle": "El momento más visto fue a las 22:25, con más de 11 millones de espectadores. Fuente: Barlovento Comunicación, vía elDiario.es y The Objective."
+  },
+  "noticias": [
+    {
+      "seccion": "espana",
+      "titulo": "El debate a cuatro: dos bloques enfrentados, un «calladita» y cuatro llamadas al voto",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "fa"
+      ],
+      "resumen": "Pedro Sánchez (PSOE), Alberto Núñez Feijóo (PP), Santiago Abascal (Vox) y Ada Colau (Frente Amplio) se enfrentaron anoche durante dos horas en el último debate de la campaña. Sánchez y Colau alertaron de lo que supondría un Gobierno de PP y Vox. Feijóo y Abascal cuestionaron el balance de ocho años de Gobierno socialista.",
+      "porque": "fue el último gran debate antes de las elecciones del domingo y lo vio el 70% de la audiencia de televisión.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "El formato. Lo organizó la Academia de Televisión en Tres Cantos (Madrid) y lo moderó María Casado. Duró de las 22:00 a medianoche, en cinco bloques: vivienda; economía y fiscalidad; políticas sociales y servicios públicos; corrupción y regeneración democrática; e inmigración y política exterior.",
+          "Vivienda y economía. Colau prometió «poner el cuerpo» por la gente movilizada por la vivienda. Sánchez defendió que las cuentas públicas ya están auditadas y llamó «cuento» a la auditoría que propone Feijóo. Colau y Feijóo chocaron por el salario mínimo.",
+          "Corrupción. Feijóo acusó a Sánchez de convocar elecciones para «parar los sumarios judiciales» y al PSOE de pedir a los votantes que «traguen sus corrupciones». Feijóo y Colau discutieron sobre Zapatero y el aforamiento de Carlos Mazón. Abascal llamó «buitre» a Sánchez, y Colau le contestó que su estilo político le parecía «lamentable».",
+          "Inmigración y exterior. Abascal habló de «invasión migratoria» y culpó a Marruecos de lo ocurrido en Ceuta. Feijóo y Abascal relacionaron inmigración y delincuencia. Sánchez defendió la aportación de los migrantes a la economía y Colau acusó a PP y Vox de querer migrantes «en régimen de explotación». Colau llamó a Abascal «portavoz del Gobierno israelí en España».",
+          "El «calladita». Feijóo se dirigió a Colau como «calladita». Ella respondió que él «interrumpe mucho» y «encima» la mandaba callar. Feijóo dijo después que lo retiraba si había molestado. Tras el debate, Colau aseguró que las mujeres «no nos vamos a callar».",
+          "Los cierres. Abascal pidió el voto «para que España reconquiste su futuro». Feijóo dijo: «No garantizo milagros, pero sí decencia y gestión», y prometió dimitir si no gobierna. Colau dijo que cada voto «puede cambiarlo todo». Sánchez afirmó que el domingo cada votante tendrá «más poder que Abascal y Feijóo juntos».",
+          "Lo que no se trató. Según elDiario.es, apenas se habló de cultura, salud mental, soledad no deseada, infancia y juventud."
+        ],
+        "claves": [
+          "Dos horas, cinco bloques",
+          "10,2 millones de espectadores",
+          "Último debate antes del 29N"
+        ],
+        "ahora": "En la siguiente tarjeta, qué datos de cada candidato no cuadraban según los verificadores."
+      },
+      "fuentes": [
+        {
+          "nombre": "elDiario.es: el debate minuto a minuto",
+          "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+        },
+        {
+          "nombre": "COPE: los momentos más tensos",
+          "url": "https://www.cope.es/programas/la-linterna/al-minuto/contamos-debate-cuatro-sanchez-feijoo-abascal-colau-elecciones-generales-29n-20261126_3483264.html"
+        },
+        {
+          "nombre": "The Objective: el debate en directo",
+          "url": "https://theobjective.com/espana/politica/2026-11-26/debate-electoral-sanchez-feijoo-abascal-colau/directo/"
+        },
+        {
+          "nombre": "elEconomista: formato y bloques",
+          "url": "https://www.eleconomista.es/actualidad/noticias/14031459/11/26/horario-del-debate-a-cuatro-feijoo-sanchez-abascal-colau-hoy-jueves-26-de-noviembre-2026-donde-ver-canales-y-bloques-tematicos.html"
+        },
+        {
+          "nombre": "elDiario.es: audiencias",
+          "url": "https://www.eldiario.es/vertele/audiencias-tv/jueves-26-noviembre-2026-debate-cuatro-10-millones-siguen-la-1-rtve-lider-antena-3-cuatro-consolidada-telecinco-sanchez-feijoo-colau-abascal_1_13697826.html"
+        },
+        {
+          "nombre": "The Objective: el minuto de oro",
+          "url": "https://theobjective.com/medios/2026-11-27/debate-cuatro-102-millones-espectadores-cuota/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-cuatro.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El debate a cuatro, verificado: los datos que no cuadraban de cada candidato",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "fa"
+      ],
+      "resumen": "VerificaRTVE, Maldita.es, Verificat, Newtral y varios medios comprobaron en directo lo que dijeron los cuatro candidatos. Todos dieron algún dato falso, exagerado o fuera de contexto. Te resumimos los principales de cada uno, por orden alfabético.",
+      "porque": "muchas de estas cifras circularán en redes durante el fin de semana, y conviene saber cuáles son correctas antes de votar.",
+      "minutosMas": 3,
+      "detalle": {
+        "parrafos": [
+          "Abascal (Vox). Dijo que el Gobierno ha «traído seis millones de inmigrantes». Según el INE, entraron unos seis millones entre 2021 y 2025, pero salieron 3,2 millones: el saldo neto es de unos 2,8 millones, y la población extranjera creció en unos 2,1 millones. También dijo que las agresiones sexuales se han triplicado: las denuncias registradas subieron un 74% entre 2018 y 2025. VerificaRTVE califica de falso que la mitad de los extracomunitarios en edad de trabajar no tenga empleo. Y, según elDiario.es, el CNI no encontró «evidencias» de que Marruecos promoviera la entrada de personas en Ceuta, como afirmó.",
+          "Colau (Frente Amplio). Dijo que el PP votó «hasta cuatro veces» contra el salario mínimo. Es falso: el salario mínimo se fija por real decreto y no se vota en el Congreso; Colau matizó después que se refería a que no lo apoya. Dijo también que el PP fue condenado como organización criminal: en el caso Gürtel fue condenado como partícipe a título lucrativo, no por organización criminal. Y que Feijóo solo construyó 16 viviendas protegidas en Galicia, cuando constan 197 calificaciones entre 2020 y 2022.",
+          "Feijóo (PP). Dijo que se han retirado 400.000 viviendas del alquiler. Idealista cuenta unos 393.000 anuncios menos entre 2018 y 2025, pero los datos de Hacienda muestran casi medio millón más de contratos de alquiler entre 2021 y 2025. Atribuyó a «esta legislatura» subidas del 76% en la compra y del 45% en el alquiler, que en realidad van de 2018 a 2026; desde noviembre de 2023 son del 39,8% y el 24,8%. Sí es cierto que en Galicia sacó más escaños al final de cada legislatura, aunque no más votos.",
+          "Sánchez (PSOE). Dijo que España es la economía que más crece de Europa. Según la Comisión Europea, crece un 2,6%, frente al 1,4% de la UE, pero ocho países crecen más; sí es la que más crece de las cuatro grandes de la zona euro. Dijo que los migrantes aportan el 25% del crecimiento: elDiario.es lo da por respaldado solo en parte, a partir de los datos del Banco de España. Acertó al decir que la inversión ferroviaria se ha triplicado: de 1.747 millones en 2017 a 5.619 en 2025.",
+          "Cómo leer esto. Una cifra «fuera de contexto» puede ser correcta pero referirse a otro periodo u otro indicador. Las fuentes de cada verificación están enlazadas abajo."
+        ],
+        "claves": [
+          "Los cuatro dieron datos erróneos",
+          "Inmigración y vivienda, lo más verificado",
+          "Fuentes oficiales: INE, Comisión Europea, Banco de España"
+        ],
+        "ahora": "Maldita.es y Newtral siguen verificando lo que circula en redes hasta el domingo."
+      },
+      "fuentes": [
+        {
+          "nombre": "Artículo 14: VerificaRTVE, Maldita.es y Verificat",
+          "url": "https://www.articulo14.es/politica/elecciones-generales/las-afirmaciones-de-sanchez-feijoo-abascal-y-colau-bajo-la-lupa-que-es-cierto-y-que-no-en-el-debate-a-cuatro-20261127.html"
+        },
+        {
+          "nombre": "Maldita.es y Verificat: verificaciones del debate",
+          "url": "https://maldita.es/desinfo/20261126/verificaciones-del-debate-a-cuatro-para-las-elecciones-del-29n/"
+        },
+        {
+          "nombre": "Newtral: verificación en directo",
+          "url": "https://www.newtral.es/verificacion-directo-debate-a-cuatro-elecciones-29n/20261126/"
+        },
+        {
+          "nombre": "El Folio: datos de los cuatro candidatos",
+          "url": "https://elfolio.es/bulos-debate-a-cuatro-sanchez-feijoo-abascal-colau/"
+        },
+        {
+          "nombre": "elDiario.es: verificaciones en directo",
+          "url": "https://www.eldiario.es/politica/ultima-hora-ultimo-debate-electoral-sanchez-feijoo-colau-abascal_6_13696999.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-verifica.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "Último día de campaña: cierres en Madrid, Sevilla y Valencia, y cómo votar el domingo",
+      "partidos": [
+        "psoe",
+        "pp",
+        "vox",
+        "fa",
+        "podemos"
+      ],
+      "resumen": "La campaña termina esta medianoche. Sánchez cierra a las 18:00 en la Caja Mágica de Madrid, Feijóo a las 19:00 en Sevilla, Abascal a las 20:00 en la plaza de toros de Valencia y Colau también en Madrid. Mañana es jornada de reflexión y el domingo se vota de 9:00 a 20:00.",
+      "porque": "son los últimos actos antes de que los partidos dejen de pedir el voto.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "Los cierres. Feijóo pasa antes por Barcelona y estará en Sevilla con Juanma Moreno. Podemos también cierra en Madrid, con Pablo Iglesias.",
+          "Qué llevar el domingo. El DNI, el pasaporte o el carné de conducir, siempre el original y con foto, aunque esté caducado. También sirve la aplicación MiDNI, que genera un código QR que la mesa lee. No valen fotocopias ni fotos del documento en el móvil.",
+          "Si votaste por correo. Ya no puedes votar en la mesa."
+        ],
+        "claves": [
+          "Campaña: hasta medianoche",
+          "Sábado: reflexión",
+          "Domingo: de 9:00 a 20:00"
+        ],
+        "ahora": "Mañana no se puede pedir el voto."
+      },
+      "fuentes": [
+        {
+          "nombre": "Noticias de Navarra: los cierres",
+          "url": "https://www.noticiasdenavarra.com/politica/2026/11/27/sanchez-colau-cierran-campana-madrid-11801372.html"
+        },
+        {
+          "nombre": "El Folio: horarios",
+          "url": "https://elfolio.es/campana-electoral-del-27-de-noviembre-de-2026/"
+        },
+        {
+          "nombre": "Infobae: Moreno y Albiol",
+          "url": "https://www.infobae.com/espana/2026/11/27/el-psoe-cierra-en-la-caja-magica-con-cartel-sorpresa-y-feijoo-se-rodea-de-juanma-moreno-y-garcia-albiol-antes-del-29-n-asi-es-el-final-de-campana-de-cada-partido/"
+        },
+        {
+          "nombre": "El Independiente: documentos para votar",
+          "url": "https://www.elindependiente.com/espana/2026/11/24/guia-votar-29n-documentacion-horario-colegios-electorales/"
+        },
+        {
+          "nombre": "Estrella Digital: horario y MiDNI",
+          "url": "https://www.estrelladigital.es/espana/como-votar-29n-horario-documentos-dni-caducado-midni-senado-voto-correo/20261127064500453952.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-urna.svg"
+    },
+    {
+      "seccion": "espana",
+      "titulo": "El Congreso aprueba la subida del 4,5% a funcionarios y el salario mínimo sin IRPF",
+      "partidos": [
+        "vox"
+      ],
+      "resumen": "La Diputación Permanente del Congreso convalidó ayer cinco decretos del Gobierno, entre ellos la subida del 4,5% para los tres millones de empleados públicos, la exención del IRPF para el salario mínimo y el fin del secreto salarial. Se aprobaron con los 63 votos de los diputados presentes.",
+      "porque": "la subida llegará en la nómina de enero, y unos 2,7 millones de personas que cobran el salario mínimo dejarán de pagar IRPF.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Vox, ausente. Vox no participó en la votación y la calificó de «fraude electoralista».",
+          "Los otros decretos. Incluyen incentivos fiscales a la I+D+i y cambios en el mercado de derechos de emisión de CO2."
+        ],
+        "claves": [
+          "63 votos a favor",
+          "Funcionarios: +4,5% en enero",
+          "SMI sin IRPF"
+        ],
+        "ahora": "Con la convalidación, los decretos quedan confirmados."
+      },
+      "fuentes": [
+        {
+          "nombre": "Público: unanimidad",
+          "url": "https://www.publico.es/politica/congreso/diputacion-permanente-convalida-decreto-evita-salario-minimo-tribute-irpf.html"
+        },
+        {
+          "nombre": "Hoy Aragón: 2,7 millones",
+          "url": "https://www.hoyaragon.es/bolsillo/congreso-convalida-45-funcionarios-smi-irpf/20261127103114154040.html"
+        },
+        {
+          "nombre": "Europa Press (vía Press Digital): Vox",
+          "url": "https://www.pressdigital.es/articulo/economia/2026-11-26/6110194-congreso-convalida-otros-cinco-decretos-sociales-aprobados-gobierno-ausencia-vox"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-sello.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "La inflación baja al 4,1% en noviembre por el abaratamiento de la gasolina",
+      "partidos": [],
+      "resumen": "Los precios subieron en noviembre un 4,1% respecto a hace un año, ocho décimas menos que en octubre, según el dato adelantado del INE. Es el nivel más bajo desde julio. La inflación subyacente, que excluye energía y alimentos frescos, baja al 2,6%.",
+      "porque": "la inflación decide cuánto pierden de valor tu sueldo y tus ahorros.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Por qué baja. Los combustibles se abarataron, frente a la subida que tuvieron en noviembre de 2025, y la ropa y el calzado subieron menos que el año pasado.",
+          "Los descuentos. En noviembre se mantuvo el descuento de 20 céntimos por litro al diésel, y el de la gasolina pasó de 5 a 20 céntimos.",
+          "Sigue alta. Un 4,1% está todavía por encima del objetivo del 2% del Banco Central Europeo."
+        ],
+        "claves": [
+          "IPC: 4,1%",
+          "Subyacente: 2,6%",
+          "Mínimo desde julio"
+        ],
+        "ahora": "El INE publicará el dato definitivo el 15 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "The Objective: el dato del INE",
+          "url": "https://theobjective.com/economia/2026-11-27/ipc-ocho-decimas-noviembre-bajada-combustibles/"
+        },
+        {
+          "nombre": "Europa Press (vía Infobae): mínimo desde julio",
+          "url": "https://www.infobae.com/america/agencias/2026/11/27/el-ipc-se-modera-ocho-decimas-en-noviembre-hasta-el-41-por-el-abaratamiento-de-las-gasolinas/"
+        },
+        {
+          "nombre": "Orain: descuentos a los carburantes",
+          "url": "https://orain.eus/es/actualidad/economia/2026/11/27/el-ipc-baja-al-41-en-noviembre-segun-el-dato-adelantado/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-termometro.svg"
+    },
+    {
+      "seccion": "economia",
+      "titulo": "El Ibex rebota un 2,26% y recupera los 19.000 puntos",
+      "partidos": [],
+      "resumen": "El Ibex 35 subió ayer un 2,26%, hasta 19.057,9 puntos, y recuperó los 19.000 después de dos días de caídas. Subieron las 35 empresas del índice. Wall Street estaba cerrado por Acción de Gracias.",
+      "porque": "recupera casi todo lo que perdió el miércoles con los aranceles de Trump.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los que más subieron. Solaria ganó un 7,85%, tras conocerse que Uruguay apuesta por atraer inversiones en centros de datos con energía renovable. La banca también tiró del índice.",
+          "En el año. El Ibex gana un 10,11%.",
+          "Hoy. Wall Street abre media sesión por el Black Friday."
+        ],
+        "claves": [
+          "Ibex +2,26%",
+          "19.057,9 puntos",
+          "Las 35 empresas en verde"
+        ],
+        "ahora": "La sesión de hoy cierra a las 17:30."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Infobae): el cierre",
+          "url": "https://www.infobae.com/america/agencias/2026/11/26/la-bolsa-espanola-sube-un-226-y-recupera-los-19000-puntos-con-wall-street-cerrado/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-subida.svg"
+    },
+    {
+      "seccion": "internacional",
+      "titulo": "La UE no logra acordar su presupuesto, pero elige a un español para presidir el BCE",
+      "partidos": [],
+      "resumen": "La cumbre extraordinaria de la UE terminó ayer sin acuerdo sobre el presupuesto de 2028 a 2034 ni sobre el préstamo de 45.000 millones de euros para Ucrania. Sí salió un acuerdo: Pablo Hernández de Cos presidirá el Banco Central Europeo desde el 8 de febrero de 2027.",
+      "porque": "el BCE decide los tipos de interés que marcan lo que se paga por hipotecas y préstamos, y es la primera vez que lo presidirá un español.",
+      "minutosMas": 2,
+      "detalle": {
+        "parrafos": [
+          "El presupuesto. El presidente del Consejo Europeo, António Costa, propuso 1,58 billones de euros, 204.000 millones menos de lo que planteó la Comisión. Los países que quieren gastar menos chocaron con los que defienden los fondos de cohesión.",
+          "Ucrania. El préstamo de 45.000 millones, que se financiaría con deuda en los mercados, quedó bloqueado. Kiev afronta un agujero de 70.000 millones el año que viene.",
+          "De Cos. Fue gobernador del Banco de España y ahora dirige el Banco de Pagos Internacionales. Competía con el neerlandés Klaas Knot."
+        ],
+        "claves": [
+          "Sin acuerdo sobre el presupuesto",
+          "Ucrania, en espera",
+          "De Cos, al BCE"
+        ],
+        "ahora": "Los líderes volverán a reunirse el 17 y 18 de diciembre."
+      },
+      "fuentes": [
+        {
+          "nombre": "Euronews: la cumbre",
+          "url": "https://es.euronews.com/2026/11/27/cumbre-extraordinaria-de-la-ue-acaba-en-caos-y-sin-acuerdo-presupuestario"
+        },
+        {
+          "nombre": "Euronews: De Cos",
+          "url": "https://es.euronews.com/2026/11/26/euronews-hoy-noticias-jueves-26-noviembre-2026-hernandez-de-cos-presidira-bce"
+        },
+        {
+          "nombre": "Euronews: recortes y Ucrania",
+          "url": "https://es.euronews.com/2026/11/26/cumbre-en-bruselas-la-ue-se-divide-por-el-presupuesto-y-la-guerra-en-ucrania"
+        },
+        {
+          "nombre": "El Folio: nueva cita en diciembre",
+          "url": "https://elfolio.es/presupuesto-de-la-union-europea-2028-2034/"
+        },
+        {
+          "nombre": "KCH: Klaas Knot",
+          "url": "https://kchcomunicacion.com/2026/11/26/cumbre-ue-tension-por-presupuesto-record-y-ultimatum-a-ucrania/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-torre.svg"
+    },
+    {
+      "seccion": "sociedad",
+      "titulo": "Black Friday: tres de cada cuatro comprarán, y cuidado con las webs falsas",
+      "partidos": [],
+      "resumen": "Hoy es Black Friday. Según la OCU, el 76% de los españoles prevé comprar algo, con un gasto medio de 196 euros, menos que los 219 euros del año pasado. Maldita.es alerta de webs falsas que copian a tiendas conocidas para estafar.",
+      "porque": "es uno de los días con más compras del año, y también con más timos.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Menos impulsivos. Baja del 42% al 36% el porcentaje de consumidores que reconoce gastar más de lo previsto o comprar cosas que no necesita.",
+          "Un timo concreto. Maldita.es ha detectado una web falsa de «Calzados Pitillos» que ofrece zapatillas ortopédicas rebajadas.",
+          "Consejos. Comprueba la dirección web antes de pagar, desconfía de los descuentos exagerados y compara con el precio de semanas anteriores. Si compras por internet, tienes 14 días para devolverlo sin dar explicaciones."
+        ],
+        "claves": [
+          "76% comprará",
+          "196 € de media",
+          "Ojo con las webs falsas"
+        ],
+        "ahora": "El lunes llega el Cyber Monday, centrado en tecnología."
+      },
+      "fuentes": [
+        {
+          "nombre": "OCU: encuesta del Black Friday",
+          "url": "https://www.ocu.org/organizacion/prensa/notas-de-prensa/2026/encuestabfriday131126"
+        },
+        {
+          "nombre": "Maldita.es: la web falsa",
+          "url": "https://maldita.es/desinfo/20261126/black-friday-zapatos-zapatillas-oferta/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-bolsas.svg"
+    },
+    {
+      "seccion": "ciencia",
+      "titulo": "El sarampión vuelve: la OMS publica hoy nuevos datos tras perder EE. UU. y México su estatus",
+      "partidos": [],
+      "resumen": "La Organización Mundial de la Salud publica hoy nuevos datos sobre el sarampión en el mundo. Hace diez días, la Organización Panamericana de la Salud retiró a Estados Unidos, México y Bolivia el estatus de países libres de la enfermedad, porque el virus llevaba al menos un año circulando sin interrupción.",
+      "porque": "el sarampión es una de las enfermedades más contagiosas y se puede prevenir con la vacuna.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Las cifras en América. Este año hay más de 58.000 casos en el continente, un 355% más que en 2025. Guatemala, México y Estados Unidos concentran casi todos.",
+          "Estados Unidos. Había eliminado la transmisión del sarampión en el año 2000. Este año lleva más de 5.400 casos, más del doble que en todo 2025.",
+          "Por qué. La OPS lo atribuye a que ha bajado la vacunación. Para frenar los brotes hace falta que al menos el 95% de la población tenga las dos dosis."
+        ],
+        "claves": [
+          "58.213 casos en América",
+          "EE. UU., México y Bolivia",
+          "Vacunación: 95% necesario"
+        ],
+        "ahora": "Los tres países tendrán que demostrar que cortan la transmisión para recuperar el estatus."
+      },
+      "fuentes": [
+        {
+          "nombre": "EFE (vía Unitel): agenda de la OMS",
+          "url": "https://unitel.bo/noticias/agencias/viernes-27-de-noviembre-de-2026-0200-gmt-LH25119255"
+        },
+        {
+          "nombre": "CNN en Español: casos en América",
+          "url": "https://cnnespanol.cnn.com/2026/11/17/latinoamerica/sarampion-america-casos-informe-2026-ops-orix"
+        },
+        {
+          "nombre": "OPS: preguntas y respuestas",
+          "url": "https://www.paho.org/es/noticias/17-11-2026-sarampion-americas-preguntas-respuestas-referencia-tecnica-para-periodistas"
+        },
+        {
+          "nombre": "Medscape: EE. UU. desde el año 2000",
+          "url": "https://espanol.medscape.com/viewarticle/organizaci%C3%B3n-panamericana-salud-bolivia-m%C3%A9xico-y-2026a10018u2"
+        },
+        {
+          "nombre": "CDC: cobertura del 95%",
+          "url": "https://cdc.gov/media/es/releases/2024/p1114-casos-sarampion.html"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-vacuna.svg"
+    },
+    {
+      "seccion": "deportes",
+      "titulo": "España, a semifinales de la Copa Davis sin necesitar a Alcaraz",
+      "partidos": [],
+      "resumen": "España ganó 2-0 a Austria en los cuartos de final de la Copa Davis en Bolonia. Daniel Mérida y Rafa Jódar ganaron sus partidos y Carlos Alcaraz no tuvo que jugar. Mañana, España se enfrenta a Gran Bretaña en semifinales.",
+      "porque": "España, seis veces campeona, está a dos victorias de su séptima Copa Davis.",
+      "minutosMas": 1,
+      "detalle": {
+        "parrafos": [
+          "Los partidos. Mérida ganó 6-4 y 6-4 a Joel Schwärzler. Jódar remontó a Jurij Rodionov: 2-6, 6-0 y 6-1.",
+          "El calendario. La semifinal contra Gran Bretaña es mañana a las 12:00. La final, el domingo a las 15:00.",
+          "Más deporte. Este fin de semana se celebra en Cheste el último gran premio de MotoGP del año, con el título de Moto2 aún en juego."
+        ],
+        "claves": [
+          "España 2-0 Austria",
+          "Semifinal: sábado, 12:00",
+          "Final: domingo, 15:00"
+        ],
+        "ahora": "Alcaraz está disponible para el dobles."
+      },
+      "fuentes": [
+        {
+          "nombre": "France 24: sin Alcaraz",
+          "url": "https://www.france24.com/es/minuto-a-minuto/20261126-espa%C3%B1a-elimina-a-austria-sin-alcaraz-y-pasa-a-semifinales-de-copa-davis"
+        },
+        {
+          "nombre": "Newsy Today: los resultados",
+          "url": "https://www.newsy-today.com/spain-beats-austria-2-0-sets-up-davis-cup-semi-vs-britain/"
+        },
+        {
+          "nombre": "Flashscore: horarios",
+          "url": "https://www.flashscore.es/noticias/tenis-copa-davis-finales-2026-espana-jugara-contra-austria-ronda-de-cuartos/xtW0k7zP/"
+        },
+        {
+          "nombre": "EFE (vía Infobae): MotoGP",
+          "url": "https://www.infobae.com/espana/agencias/2026/11/26/viernes-27-de-noviembre-de-2026/"
+        }
+      ],
+      "ilustracion": "assets/ilustraciones/2026-11-27-raqueta.svg"
+    }
+  ],
+  "bulo": {
+    "titulo": "No, no hace falta dejar el móvil en casa ni ponerlo en modo avión para «evitar el fraude» el domingo",
+    "texto": "Circulan mensajes que piden activar el modo avión o dejar el móvil en casa para que «el Estado no sepa» que has ido a votar y así evitar un supuesto fraude. Es falso. Maldita.es explica que el Estado no puede acceder a tu ubicación sin una orden judicial y que, para votar, tienes que identificarte igualmente ante la mesa.",
+    "verificador": "Maldita.es",
+    "url": "https://maldita.es/desinfo/20261126/hay-que-activar-el-modo-avion-o-dejar-el-movil-en-casa-para-evitar-que-el-estado-sepa-que-has-ido-al-centro-de-votacion-y-asi-dificultar-el-fraude-electoral/",
+    "nota": "Si usas MiDNI para identificarte, sí necesitarás llevar el móvil"
+  }
+}
